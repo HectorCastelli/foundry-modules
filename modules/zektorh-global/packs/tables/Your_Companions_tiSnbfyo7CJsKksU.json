@@ -1,0 +1,686 @@
+{
+  "name": "Your Companions",
+  "img": "modules/game-icons-net/whitetransparent/meeple-group.svg",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "name": "",
+      "description": "What is something small one of your companions did to make your life better recently? Why did it stick out to you?",
+      "_id": "0OHeXqZi91XNBKK2",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.0OHeXqZi91XNBKK2"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "name": "",
+      "description": "What do you imagine your companions are doing in... One year? Five years? Ten years? Where would they be?",
+      "_id": "WU0CBPmEzHUnbgdD",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.WU0CBPmEzHUnbgdD"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "name": "",
+      "description": "Among your companions, who would you prefer to... Marry? Share a bed with for one night? Betray?",
+      "_id": "nRx5sbWx4ONsTZzR",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.nRx5sbWx4ONsTZzR"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "name": "",
+      "description": "Who among your companions would you... Most like to give a makeover? Trust to give you a makeover? Why?",
+      "_id": "gJs6Kp5vFSbBhMhh",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.gJs6Kp5vFSbBhMhh"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "name": "",
+      "description": "What is something that you feel has become your responsibility within your group? Do you appreciate or resent that responsibility? How has it impacted you?",
+      "_id": "vOcPRoduJzpyVVAY",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.vOcPRoduJzpyVVAY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "name": "",
+      "description": "Who among your companions do you worry most about losing? What do you think you would lose them to?",
+      "_id": "N8ZKY6weBAl0ClW6",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.N8ZKY6weBAl0ClW6"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "name": "",
+      "description": "Who among your companions do you wish would teach you a skill? What skill? Why?",
+      "_id": "OaTeUEPAkTb6mEzP",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.OaTeUEPAkTb6mEzP"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "name": "",
+      "description": "What assumption did you make about one of your companions when you first met them? What were you surprised to learn?",
+      "_id": "JIdLk7PjmcRALWKv",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.JIdLk7PjmcRALWKv"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "name": "",
+      "description": "Choose one of your companions and say how you would introduce them at a... Grand ball? Gladiatorial arena?",
+      "_id": "yySMKUWfh3i9sr25",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.yySMKUWfh3i9sr25"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "name": "",
+      "description": "Which one of your companions do you think has... Changed you the most? Given you the most to think about? How?",
+      "_id": "g5c1Y4rpD7DWe3t4",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.g5c1Y4rpD7DWe3t4"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "name": "",
+      "description": "Who do you trust the most among your companions? What have they done to inspire this trust?",
+      "_id": "HYk0MKH6eSKsJtQC",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.HYk0MKH6eSKsJtQC"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "name": "",
+      "description": "Which companion have you been the angriest at? Why?",
+      "_id": "6oWmiMHOQTvFblwF",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.6oWmiMHOQTvFblwF"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "name": "",
+      "description": "Name something you have been holding back from the group, hoping for an opportunity to tell them. Why have you waited?",
+      "_id": "G7w0EESoYnyigPgn",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.G7w0EESoYnyigPgn"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "name": "",
+      "description": "What would you want to do if you were to share a \"perfect day\" with your companions? Who would be the most excited about your plans?",
+      "_id": "mQ28lqqcaRxgCE31",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.mQ28lqqcaRxgCE31"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "name": "",
+      "description": "If you had the time/wealth/power what would you most like to do for one of your companions?",
+      "_id": "KcVLiYR8UJbmNxlw",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.KcVLiYR8UJbmNxlw"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "name": "",
+      "description": "Who in this group do you feel is the most... Optimistic/Pessimistic?",
+      "_id": "O3BCQuBNDNmrsIxr",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.O3BCQuBNDNmrsIxr"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "name": "",
+      "description": "Who in your life do you hope to one day introduce to your companions? Do you think they would get along?",
+      "_id": "CptBUdftXlIDagIM",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.CptBUdftXlIDagIM"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "name": "",
+      "description": "Which of your companions would you turn to if you were faced with an embarrassing personal crisis? Why would you choose them?",
+      "_id": "4Yj69YnufVJMrN97",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.4Yj69YnufVJMrN97"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "name": "",
+      "description": "Who in your group do you think will... Live the longest/Likely die the soonest? Why?",
+      "_id": "Ev8P2EXdT1zknlf2",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.Ev8P2EXdT1zknlf2"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "name": "",
+      "description": "If you were in a disaster with one of your companions and had to spend a long time waiting for rescue, who would you prefer being stuck with? Why?",
+      "_id": "ULCyDtgfFQZAF9AU",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.ULCyDtgfFQZAF9AU"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "name": "",
+      "description": "What is a line your companions must never cross in order to maintain a relationship with you? Who is most likely to test this boundary?",
+      "_id": "J6rIZ3bgxtx75yvt",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.J6rIZ3bgxtx75yvt"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "name": "",
+      "description": "What makes this party unique? How does it compare to other groups that you've been a part of?",
+      "_id": "Bw2htYbWQIsYEBi6",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.Bw2htYbWQIsYEBi6"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "name": "",
+      "description": "Could you imagine travelling with another group after this one? What would you miss the most?",
+      "_id": "IeZpmYzxDnQcLl9y",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.IeZpmYzxDnQcLl9y"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "name": "",
+      "description": "What is something one of your companions has done that makes you proud of or impressed by them? Have you ever told them? Why or why not?",
+      "_id": "rB5cMFxhMO9yb4Dd",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.rB5cMFxhMO9yb4Dd"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "name": "",
+      "description": "Who among your companions do you think knows you the least? What would need to happen in order to open up to them?",
+      "_id": "C0i23WiKwBTWGuQ0",
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789534385548,
+        "modifiedTime": 1789534385548,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!tiSnbfyo7CJsKksU.C0i23WiKwBTWGuQ0"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "MH7Pbqr3Np9sE9t3",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "1Njz0vDEn4hXH4fV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.367",
+    "systemId": "morkborg",
+    "systemVersion": "6.0.1",
+    "createdTime": 1789534385548,
+    "modifiedTime": 1789534385548,
+    "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+    "compendiumSource": "Compendium.zektors-mork-borg.tables.RollTable.0vLcjM6p8xCTSBKy",
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "mb-map-maker",
+      "uuid": "RollTable.h7ketUddtpoIFFMN",
+      "coreVersion": "14.367",
+      "systemId": "morkborg",
+      "systemVersion": "6.0.1"
+    }
+  },
+  "formula": "1d25",
+  "_id": "tiSnbfyo7CJsKksU",
+  "_key": "!tables!tiSnbfyo7CJsKksU"
+}
