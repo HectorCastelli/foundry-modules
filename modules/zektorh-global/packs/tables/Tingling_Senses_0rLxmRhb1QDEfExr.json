@@ -1,0 +1,192 @@
+{
+  "name": "Tingling Senses",
+  "_id": "0rLxmRhb1QDEfExr",
+  "img": "modules/game-icons-net/whitetransparent/aerial-signal.svg",
+  "description": "<p>Something stands out to you. Your senses activate:</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "JJxl0nMrziSY24XW",
+      "name": "Smell",
+      "img": "modules/game-icons-net/whitetransparent/nose-side.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489219240,
+        "modifiedTime": 1789489234385,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.JJxl0nMrziSY24XW"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "RcYXdSpYkqCxYqDS",
+      "name": "Sight",
+      "img": "modules/game-icons-net/whitetransparent/eye-target.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489244494,
+        "modifiedTime": 1789489275441,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.RcYXdSpYkqCxYqDS"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "hR8lLpVeP3mZXWXo",
+      "name": "Hearing",
+      "img": "modules/game-icons-net/whitetransparent/elf-ear.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489244794,
+        "modifiedTime": 1789489322696,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.hR8lLpVeP3mZXWXo"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "bJhGqDZYikKjEvgX",
+      "name": "Taste",
+      "img": "modules/game-icons-net/whitetransparent/tongue.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489244967,
+        "modifiedTime": 1789489336765,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.bJhGqDZYikKjEvgX"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6xzGjJOiTsuLjaoQ",
+      "name": "Touch",
+      "img": "modules/game-icons-net/whitetransparent/hand_1.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489245139,
+        "modifiedTime": 1789489348015,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.6xzGjJOiTsuLjaoQ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "BmTgc4Ax3LVcaspf",
+      "name": "Vibes",
+      "img": "modules/game-icons-net/whitetransparent/soul.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": "morkborg",
+        "systemVersion": "6.0.1",
+        "createdTime": 1789489245548,
+        "modifiedTime": 1789489364676,
+        "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!0rLxmRhb1QDEfExr.BmTgc4Ax3LVcaspf"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1Njz0vDEn4hXH4fV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.367",
+    "systemId": "morkborg",
+    "systemVersion": "6.0.1",
+    "createdTime": 1789489191494,
+    "modifiedTime": 1789489547667,
+    "lastModifiedBy": "1Njz0vDEn4hXH4fV",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d6",
+  "_key": "!tables!0rLxmRhb1QDEfExr"
+}
