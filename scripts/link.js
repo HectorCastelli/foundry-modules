@@ -33,7 +33,11 @@ import { resolve } from "node:path";
 for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 	console.debug(`Linking ${module}`);
 
-	const linkedDestination = resolve(FOUNDRY_DATA_PATH, "./Data/modules", module);
+	const linkedDestination = resolve(
+		FOUNDRY_DATA_PATH,
+		"./Data/modules",
+		module,
+	);
 	const linkedOrigin = resolve(import.meta.dirname, "../modules", module);
 
 	if (existsSync(linkedDestination)) {
