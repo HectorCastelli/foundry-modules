@@ -1,28 +1,28 @@
 {
-  "name": "zektorh-foundry-modules",
-  "author": "Hector Castelli Zacharias <hector.zacharias@gmail.com>",
-  "version": "1.0.0",
-  "description": "A collection of FoundryVTT modules",
-  "private": true,
-  "keywords": [
-    "foundryvtt"
-  ],
-  "homepage": "https://github.com/HectorCastelli/foundry-modules#readme",
-  "bugs": {
-    "url": "https://github.com/HectorCastelli/foundry-modules/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HectorCastelli/foundry-modules.git"
-  },
-  "type": "module",
-  "scripts": {
-    "fvtt": "fvtt",
-    "unpack": "node ./scripts/unpack.js",
-    "build": "node ./scripts/build.js",
-    "refresh": "node ./scripts/refresh.js"
-  },
-  "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^3.0.4"
-  }
+	"name": "zektorh-foundry-modules",
+	"author": "Hector Castelli Zacharias <hector.zacharias@gmail.com>",
+	"version": "1.0.0",
+	"description": "A collection of FoundryVTT modules",
+	"private": true,
+	"keywords": [
+		"foundryvtt"
+	],
+	"homepage": "https://github.com/HectorCastelli/foundry-modules#readme",
+	"bugs": {
+		"url": "https://github.com/HectorCastelli/foundry-modules/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HectorCastelli/foundry-modules.git"
+	},
+	"type": "module",
+	"scripts": {
+		"lint": "biome check --write",
+		"link": "node ./scripts/link.js"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.5.14",
+		"@foundryvtt/foundryvtt-cli": "^3.0.4",
+		"dotenv": "^18.0.1"
+	}
 }
