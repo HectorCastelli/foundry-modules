@@ -1,0 +1,57 @@
+name: Shuffle Players
+type: script
+_id: ipCCCjL3FuH6CeuT
+author: 1Njz0vDEn4hXH4fV
+img: modules/game-icons-net/whitetransparent/cycle.svg
+scope: global
+command: >-
+  // Get names of active non-GM users
+
+  const activePlayers = game.users.filter(u => u.active && u.isGM).map(u =>
+  u.name);
+
+
+  if (activePlayers.length === 0) {
+      return ui.notifications.warn("No players are currently connected!");
+  }
+
+
+  // Shuffle the array (Fisher-Yates algorithm)
+
+  for (let i = activePlayers.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [activePlayers[i], activePlayers[j]] = [activePlayers[j], activePlayers[i]];
+  }
+
+
+  // Post to chat
+
+  ChatMessage.create({
+      content: `
+      <h4>Random Player Order:</h4>
+      <ol>
+        ${
+          activePlayers.
+            map(player => `<li>${player}</li>`)
+            .join('\n')
+        }
+      </ol>
+      `
+  });
+folder: null
+sort: 0
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789488501772
+  modifiedTime: 1789488665147
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!ipCCCjL3FuH6CeuT'

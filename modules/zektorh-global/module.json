@@ -1,189 +1,189 @@
 {
-  "id": "zektorh-global",
-  "title": "Zektor's Global Module",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14.367"
-  },
-  "description": "<p>A series of global configurations and content that are system agnostic and can be used in any game.</p><p></p><p>This module requires a series of other modules as a quick way to \"install everything\" in a new instance.</p>",
-  "authors": [
-    {
-      "name": "Hector Castelli Zacharias",
-      "email": "hector.zacharias+foundry@gmail.com",
-      "discord": "zektorh",
-      "flags": {}
-    }
-  ],
-  "flags": {
-    "canUpload": true
-  },
-  "packs": [
-    {
-      "name": "adventures",
-      "label": "Adventures",
-      "path": "packs/adventures",
-      "type": "Adventure",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "cards",
-      "label": "Cards",
-      "path": "packs/cards",
-      "type": "Cards",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "macros",
-      "label": "Macros",
-      "path": "packs/macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "playlists",
-      "label": "Playlists",
-      "path": "packs/playlists",
-      "type": "Playlist",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "tables",
-      "label": "Tables",
-      "path": "packs/tables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "Zektorh",
-      "sorting": "a",
-      "color": "#3344ff",
-      "packs": [],
-      "folders": [
-        {
-          "name": "Global",
-          "sorting": "a",
-          "packs": [
-            "adventures",
-            "cards",
-            "macros",
-            "playlists",
-            "tables",
-            "scenes"
-          ],
-          "color": null,
-          "folders": []
-        }
-      ]
-    }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "permission_viewer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "cascade-folder-permissions",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundry-spellcheck",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "preload-tracker",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "fvtt-perf-optim",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dice-so-nice",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "gm-vision",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "keep-windows-open",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "monks-wall-enhancement",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "wgtngm-mini-edit",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "default-detach",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "game-icons-net",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "recommends": [
-      {
-        "id": "preload-tracker",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "breaktime",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
-  }
+	"id": "zektorh-global",
+	"title": "Zektor's Global Modules",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14.367"
+	},
+	"description": "<p>A series of global configurations and content that are system agnostic and can be used in any game.</p><p></p><p>This module requires a series of other modules as a quick way to \"install everything\" in a new instance.</p>",
+	"authors": [
+		{
+			"name": "Hector Castelli Zacharias",
+			"email": "hector.zacharias+foundry@gmail.com",
+			"discord": "zektorh",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"packs": [
+		{
+			"name": "adventures",
+			"label": "Adventures",
+			"path": "packs/adventures",
+			"type": "Adventure",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "cards",
+			"label": "Cards",
+			"path": "packs/cards",
+			"type": "Cards",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "macros",
+			"label": "Macros",
+			"path": "packs/macros",
+			"type": "Macro",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "playlists",
+			"label": "Playlists",
+			"path": "packs/playlists",
+			"type": "Playlist",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "tables",
+			"label": "Tables",
+			"path": "packs/tables",
+			"type": "RollTable",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes",
+			"type": "Scene",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Zektorh",
+			"sorting": "a",
+			"color": "#3344ff",
+			"packs": [],
+			"folders": [
+				{
+					"name": "Global",
+					"sorting": "a",
+					"packs": [
+						"adventures",
+						"cards",
+						"macros",
+						"playlists",
+						"tables",
+						"scenes"
+					],
+					"color": null,
+					"folders": []
+				}
+			]
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"id": "permission_viewer",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "cascade-folder-permissions",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "foundry-spellcheck",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "preload-tracker",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "fvtt-perf-optim",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "dice-so-nice",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "gm-vision",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "keep-windows-open",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "monks-wall-enhancement",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "wgtngm-mini-edit",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "default-detach",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "game-icons-net",
+				"type": "module",
+				"compatibility": {}
+			}
+		],
+		"recommends": [
+			{
+				"id": "preload-tracker",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "breaktime",
+				"type": "module",
+				"compatibility": {}
+			}
+		]
+	}
 }

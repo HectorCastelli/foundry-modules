@@ -1,0 +1,631 @@
+name: Hypotheticals
+img: modules/game-icons-net/whitetransparent/dreadnought.svg
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      What would be the first thing you would change about your life if you
+      suddenly became wealthy? Why?
+    _id: WNiykh7AEirMIc28
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.WNiykh7AEirMIc28'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      If you became an evil overlord, what would your villainous plan be? How
+      would you dress? What would your stronghold be like?
+    _id: v8ydUQCjdpU4o4WB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.v8ydUQCjdpU4o4WB'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      If you died tomorrow and became a ghost, who would you haunt? How would
+      you go about haunting them?
+    _id: vdZmEjbZx3PXEq6I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.vdZmEjbZx3PXEq6I'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      What is something that you would hate to do for real but find fun to
+      imagine yourself doing? Why do you feel this way?
+    _id: MChbu9Ti3oUarOz9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.MChbu9Ti3oUarOz9'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      What advice or warning would you give a younger version of yourself? How
+      do you imagine it impacting your present-day life?
+    _id: ivaAY3cWXedc6YAp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.ivaAY3cWXedc6YAp'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      If you lost one of your most essential abilities, how would you want to
+      replace it? Who would you trust to teach you this new skill?
+    _id: HPAI4xsbxZMJqibV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.HPAI4xsbxZMJqibV'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      If you could receive a prophecy to learn about one future event, what
+      would it be? Why?
+    _id: 2cTev80DQL3fRM9k
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.2cTev80DQL3fRM9k'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      If you could change something about society with the snap of your fingers,
+      what would it be?
+    _id: C7eKoyPCDC6vi8nb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.C7eKoyPCDC6vi8nb'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Which three people, living or dead, would you like to share a conversation
+      with over dinner?
+    _id: rouh7ESBkUHxRL17
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.rouh7ESBkUHxRL17'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      If you couldn't be an adventurer, what would you want to do with your life
+      instead? Do you think you would be fulfilled?
+    _id: tnKBAziO3zxdsLjc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.tnKBAziO3zxdsLjc'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      If you could remove the risk from any dangerous activity in order to try
+      it once, which one would you choose? Why?
+    _id: mEKR8uwG8GjiUifs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.mEKR8uwG8GjiUifs'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Which of your ancestors would you most like to meet? What would you talk
+      with them about?
+    _id: BIincmcosuXo6hfN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.BIincmcosuXo6hfN'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Woudl you rather... Win an important battle; Make a great discovery;
+      Create an artistic masterpiece; Innovate a piece of technology; Ease a
+      type of suffering? Why?
+    _id: nVsb8jtxp9zUto6P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.nVsb8jtxp9zUto6P'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      If you could travel to a different... Planets/Planes/Dimensions ...but it
+      meant you could never return to your home world, would you go?
+    _id: 0juVaklFyya60ECk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.0juVaklFyya60ECk'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Would you rather be trapped in the... Past/Future? If you could choose,
+      how far would you want to stay?
+    _id: 3mY3hP2mQJLjoqIk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.3mY3hP2mQJLjoqIk'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      If you were less committed to your ideals, what do you think would be
+      different about your life?
+    _id: RWsCY9rIpItPYlBQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.RWsCY9rIpItPYlBQ'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      If you were suddenly transformed into a mythical being or monster, what
+      would you want to be turned into? What would be the first thing you did
+      with your power?
+    _id: 5vB8OVvrRk7qWrzS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.5vB8OVvrRk7qWrzS'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Would you rather have the ability to... Easily lie to people/Truly trust
+      people? How would it impact your relationships?
+    _id: 4k5ZFDQEQBztMSLc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.4k5ZFDQEQBztMSLc'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: If you had to remove one color from the world, which one would it be? Why?
+    _id: eCDB2uDV8YKwdUJd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.eCDB2uDV8YKwdUJd'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Would you be willing to spend five years as an emperor with absolute
+      authority if you had to spend the following five years as a pauper or
+      prisoner? Would the power be worth the challenges later on?
+    _id: 7mQnrE0WpIji8kXz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.7mQnrE0WpIji8kXz'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      If the challenges in your life felt out of control and you couldn't look
+      to your companions, who would you turn to? How would they react?
+    _id: bYfyjLDEh4rhIA1D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.bYfyjLDEh4rhIA1D'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      If you could commit any one crime and get away with it, what would you do?
+      Who would you want to come with you?
+    _id: 5jlVE4moW4r7yVPX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.5jlVE4moW4r7yVPX'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      If you were suddenly in the news tomorrow, what do you think the story
+      would be about?
+    _id: t4OPvPFftlfcQRio
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.t4OPvPFftlfcQRio'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      If you adopted an alternate identity or pen name, what would it be? What
+      would you do with it?
+    _id: 1e7nHGDcprxvBhTD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.1e7nHGDcprxvBhTD'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      If you had to spend a massive fortune in one week, but only on temporary
+      experiences and consumable goods, how would you spend it?
+    _id: e1XtdWQg61DTcqK1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385546
+      modifiedTime: 1789534385546
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IvghSEbrvCp4Sjcn.e1XtdWQg61DTcqK1'
+replacement: true
+displayRoll: true
+folder: MH7Pbqr3Np9sE9t3
+sort: 600000
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789534385546
+  modifiedTime: 1789534385546
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: Compendium.zektors-mork-borg.tables.RollTable.I2HdmEKoTvrAVynx
+  duplicateSource: null
+  exportSource:
+    worldId: mb-map-maker
+    uuid: RollTable.2roZUJPjYw56bqqR
+    coreVersion: '14.367'
+    systemId: morkborg
+    systemVersion: 6.0.1
+formula: 1d25
+_id: IvghSEbrvCp4Sjcn
+_key: '!tables!IvghSEbrvCp4Sjcn'

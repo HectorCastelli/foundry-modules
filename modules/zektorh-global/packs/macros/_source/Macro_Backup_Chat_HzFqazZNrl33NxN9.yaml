@@ -1,0 +1,85 @@
+name: Backup Chat
+type: script
+_id: HzFqazZNrl33NxN9
+author: 1Njz0vDEn4hXH4fV
+img: modules/game-icons-net/whitetransparent/chat-bubble.svg
+scope: global
+command: >-
+  // Saves all the chat content into a file, then clean it.
+
+
+  const messages = game.messages.contents;
+
+  if (messages.length === 0) {
+    return ui.notifications.warn("The chat is empty. Nothing to do!");
+  }
+
+  const [date, fullTime] = new Date().toISOString().split('T');
+
+  // Clean up the time string to remove milliseconds and the 'Z' timezone
+  indicator
+
+  const time = fullTime.split('.')[0]; 
+
+
+  // Create new journal folder named "Chat exports" if it does not exist
+
+  let folder = game.folders.find(f => f.name === "Chat exports" && f.type ===
+  "JournalEntry");
+
+  if (!folder) {
+      folder = await Folder.create({ name: "Chat exports", type: "JournalEntry" });
+  }
+
+
+  // Create new journal based on `date` if it does not exist
+
+  let journal = game.journal.find(j => j.name === date && j.folder?.id ===
+  folder.id);
+
+  if (!journal) {
+      journal = await JournalEntry.create({ name: date, folder: folder.id });
+  }
+
+
+  // Format the messages
+
+  const chatLog = messages.map(m => {
+      const mTime = new Date(m.timestamp).toLocaleTimeString();
+      const author = m.alias || (m.user ? m.user.name : "Unknown");
+      return `<p><b>[${mTime}] ${author}:</b> ${m.content}</p>`;
+  }).join("");
+
+
+  // Create new journal page (on journal named `date`), title is `time`. Set
+  contents to the messages, formatted.
+
+  await JournalEntryPage.create({
+      name: time,
+      type: "text",
+      text: { format: 1, content: chatLog } // format: 1 specifies HTML content
+  }, { parent: journal });
+
+
+  // Delete everything
+
+  await ChatMessage.deleteDocuments(messages.map(m => m.id));
+
+  ui.notifications.info("Chat exported to Journals and cleared.");
+folder: null
+sort: 0
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789487486702
+  modifiedTime: 1789488303121
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!HzFqazZNrl33NxN9'

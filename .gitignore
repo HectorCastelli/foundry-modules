@@ -11,7 +11,7 @@ node_modules/
 **/packs/**/LOG
 **/packs/**/LOG.old
 **/packs/**/MANIFEST-*
-**/packs/**/_source/
+!**/packs/**/_source/
 
 # Build output
 dist/

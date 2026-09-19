@@ -1,0 +1,140 @@
+name: Broken Weapons
+_id: CNIQET00ztrpAstB
+img: modules/game-icons-net/whitetransparent/sword-break.svg
+description: ''
+results:
+  - type: text
+    weight: 10
+    range:
+      - 1
+      - 10
+    _id: UHKCOxcECcy6VAfL
+    name: Snapped in half
+    img: modules/game-icons-net/whitetransparent/sword-break.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789489707181
+      modifiedTime: 1789489929418
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!CNIQET00ztrpAstB.UHKCOxcECcy6VAfL'
+  - type: text
+    weight: 10
+    range:
+      - 11
+      - 20
+    _id: OINyzb0Afqbi47tB
+    name: Stuck in something
+    img: modules/game-icons-net/whitetransparent/sword-in-stone.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789489727303
+      modifiedTime: 1789489929419
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!CNIQET00ztrpAstB.OINyzb0Afqbi47tB'
+  - type: text
+    weight: 5
+    range:
+      - 21
+      - 25
+    _id: TKqcCBKrR3wOAhRp
+    name: A million shards
+    img: modules/game-icons-net/whitetransparent/spiky-explosion.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789489814536
+      modifiedTime: 1789489929419
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!CNIQET00ztrpAstB.TKqcCBKrR3wOAhRp'
+  - type: text
+    weight: 20
+    range:
+      - 26
+      - 45
+    _id: 7LusepJ0nQKGOl6i
+    name: Bent out of shape
+    img: modules/game-icons-net/whitetransparent/thrust-bend.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789489838040
+      modifiedTime: 1789489929419
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!CNIQET00ztrpAstB.7LusepJ0nQKGOl6i'
+  - type: text
+    weight: 1
+    range:
+      - 46
+      - 46
+    _id: 2v04He7N7YYKXUzu
+    name: Disintegrated
+    img: modules/game-icons-net/whitetransparent/powder.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789489856210
+      modifiedTime: 1789489929419
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!CNIQET00ztrpAstB.2v04He7N7YYKXUzu'
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789489696019
+  modifiedTime: 1789489929418
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d46
+_key: '!tables!CNIQET00ztrpAstB'

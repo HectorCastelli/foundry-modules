@@ -30,11 +30,11 @@ import {
 } from "node:fs";
 import { resolve } from "node:path";
 
-for (const path of readdirSync(resolve(import.meta.dirname, "../modules"))) {
-	console.debug(`Linking ${path}`);
+for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
+	console.debug(`Linking ${module}`);
 
-	const linkedDestination = resolve(FOUNDRY_DATA_PATH, "./Data/modules", path);
-	const linkedOrigin = resolve(import.meta.dirname, "../modules", path);
+	const linkedDestination = resolve(FOUNDRY_DATA_PATH, "./Data/modules", module);
+	const linkedOrigin = resolve(import.meta.dirname, "../modules", module);
 
 	if (existsSync(linkedDestination)) {
 		console.warn(`Destination ${linkedDestination} already exists.`);

@@ -18,7 +18,8 @@
 	"type": "module",
 	"scripts": {
 		"lint": "biome check --write",
-		"link": "node ./scripts/link.js"
+		"link": "node ./scripts/link.js",
+		"unpack": "node ./scripts/unpack.js"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.5.14",

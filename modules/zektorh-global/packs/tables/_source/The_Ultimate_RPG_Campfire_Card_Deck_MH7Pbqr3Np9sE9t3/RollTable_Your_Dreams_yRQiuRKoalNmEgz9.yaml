@@ -1,0 +1,628 @@
+name: Your Dreams
+img: modules/game-icons-net/whitetransparent/sleeping-bag.svg
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      If you could move into your dream home today, what would it be like? Would
+      you share your home with anyone?
+    _id: YO69itZhiVUpObPD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.YO69itZhiVUpObPD'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      If you could master any skill, what would it be? What would you use it
+      for?
+    _id: ZE4DNRmIWrUAljFp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.ZE4DNRmIWrUAljFp'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Do you have an end point or destination in mind for your journey? What
+      would you do after you reached it?
+    _id: dg8J5R5Ev1FPFodA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.dg8J5R5Ev1FPFodA'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Could you ever see yourself as a parent? What would need to change about
+      your life to make you consider starting a family? Or why would you never
+      want a family?
+    _id: qrWtnC99miVd9bVE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.qrWtnC99miVd9bVE'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      What is a dream you once had and what made you give up on it? Why did you
+      want it in the first place?
+    _id: hIINQfmiJTfbSufB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.hIINQfmiJTfbSufB'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      What is an honor you would like to receive one day? Do you think you are
+      on the path to attaining it?
+    _id: u0RzWqczvGVwPGe8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.u0RzWqczvGVwPGe8'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      If you were granted a scholarship to any school in the world, what would
+      you want to study? Why?
+    _id: VzoVHasWHB2gal0H
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.VzoVHasWHB2gal0H'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      If you took on a student or apprentice, what would you teach them? Would
+      you enjoy it? What would you worry about doing wrong?
+    _id: uKZH35YWUiibOLvL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.uKZH35YWUiibOLvL'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      In ten years, what do you think you will miss the most about your life
+      right now? What will you be glad to leave behind?
+    _id: zXMnnhBDWgL6hq3A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.zXMnnhBDWgL6hq3A'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Is there an event you have always wanted to attend? Would you rather be an
+      observer, or a participant? Why?
+    _id: 5Dll875Pp06ltwJC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.5Dll875Pp06ltwJC'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Who would you like to see humiliated? Would you want to be responsible for
+      that humiliation? How would you prefer they be humiliated?
+    _id: eKZvt26AcsnRILMQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.eKZvt26AcsnRILMQ'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: What object would you like to own someday? What makes it appeal to you?
+    _id: 5LGB0gkrcsLeJjFc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.5LGB0gkrcsLeJjFc'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      What would it mean to share your life with someone? Is there anyone you
+      feel that way about?
+    _id: OlczuqJdrvxfNOyj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.OlczuqJdrvxfNOyj'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      What is the most frivolous achievment you hope to accomplish? Why do you
+      consider it frivolous? Why is it appealing anyway?
+    _id: oJatKvvitQBJj6DH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.oJatKvvitQBJj6DH'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      If a supernatural force offered to hand you your greatest ambition, would
+      you accept? Why or why not?
+    _id: YxuCpWWjyPbVnEYS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.YxuCpWWjyPbVnEYS'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Who would you love to take out on a date? What would you want to do
+      together?
+    _id: n34D3r1atb9OyaRX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.n34D3r1atb9OyaRX'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      If you could choose anyone in the world to recognize one of your skills,
+      who would it be? Would you still want their recognition if they were
+      critical?
+    _id: upCXhNn4AgRpJULL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.upCXhNn4AgRpJULL'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Whose respect would you most like to earn? What do you imagine you will
+      need to do in order to earn it?
+    _id: eSFb7SUmrMfEeO4d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.eSFb7SUmrMfEeO4d'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      If you could be remembered long after your death, what would you like to
+      be remembered for?
+    _id: GumZyOokziQ7upk0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.GumZyOokziQ7upk0'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      What discovery or innovation do you hope to see in your lifetime? How
+      would it change the world you live in?
+    _id: aD6Gd5GiAefjPsqa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.aD6Gd5GiAefjPsqa'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      What luxury would you like to experience? Do you think you ever will? How
+      important is it to you?
+    _id: EITOofoDSYOP5WQW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.EITOofoDSYOP5WQW'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      What goal do you hope your companions would carry on for you if you could
+      no longer pursue it yourself?
+    _id: N4fR7QaQqIgHTCKk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.N4fR7QaQqIgHTCKk'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      Do you want to be the best in the world at anything? How would you know if
+      you achieved that goal?
+    _id: thNwtRdOsjgT8nfL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.thNwtRdOsjgT8nfL'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: Whose trust would you like to gain? Why would that be important to you?
+    _id: vMMibh5jEFUOYRJg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.vMMibh5jEFUOYRJg'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      If you had to open a business, what would you want it to be? Why? What
+      strengths do you have that would ensure your success?
+    _id: wg9GONXQ79QzjNJB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385552
+      modifiedTime: 1789534385552
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!yRQiuRKoalNmEgz9.wg9GONXQ79QzjNJB'
+replacement: true
+displayRoll: true
+folder: MH7Pbqr3Np9sE9t3
+sort: 400000
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789534385552
+  modifiedTime: 1789534385552
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: Compendium.zektors-mork-borg.tables.RollTable.HUOcvZOakIPwm8gy
+  duplicateSource: null
+  exportSource:
+    worldId: mb-map-maker
+    uuid: RollTable.pwXS1J4vXoGQeiG9
+    coreVersion: '14.367'
+    systemId: morkborg
+    systemVersion: 6.0.1
+formula: 1d25
+_id: yRQiuRKoalNmEgz9
+_key: '!tables!yRQiuRKoalNmEgz9'

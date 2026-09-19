@@ -1,0 +1,629 @@
+name: Your Past
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      How did you learn your most valuable skill? Who taught it to you? Why is
+      this skill so important?
+    _id: DfTxHoK9oP6ThmLO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.DfTxHoK9oP6ThmLO'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Who is the most challenging opponent you have ever faced? What did you
+      learn from your encounter(s) with them?
+    _id: NHCEb2ahNIzLDaU0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.NHCEb2ahNIzLDaU0'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      What is the worst mistake you have made in your time adventuring? Does it
+      impact you today?
+    _id: zGXEmZQA18UFkPEB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.zGXEmZQA18UFkPEB'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      What is the best meal you have ever had? Who did you share it with? What
+      made it unforgettable?
+    _id: datmILziHtbguzuv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.datmILziHtbguzuv'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Which of your skills have you struggled the most to master? How and why
+      did you doubt yourself in the learning process? What finally made it
+      click?
+    _id: rZW72ZpStopk9p0R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.rZW72ZpStopk9p0R'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Which of your scars do you think looks the coolest? What's the story
+      behind it?
+    _id: Bc3kd8QTMJ2sjtC6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.Bc3kd8QTMJ2sjtC6'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Where have you lived the longest? What kept you there so long? Would you
+      want to go back?
+    _id: I7G7el65bzpWQRLY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.I7G7el65bzpWQRLY'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      What is the most critical lesson you have learned from a close
+      friend/family member? Did you learn this lesson in one event or over time?
+    _id: El1pc9jpuSDHuUA7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.El1pc9jpuSDHuUA7'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Are there any memories from your past that you would like to let go of?
+      Why do you struggle to do that?
+    _id: w9oNl0JsuYRmtEgJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.w9oNl0JsuYRmtEgJ'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: What is the best compliment you have ever received? Who gave it to you?
+    _id: msyQhfjzau19UIjl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.msyQhfjzau19UIjl'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      What is the worst insult you have ever suffered? What did you do in
+      response to it?
+    _id: K3w8xexBEv34Qwgs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.K3w8xexBEv34Qwgs'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      What was the worst job you ever had? What made it so awful? What did it
+      teach you?
+    _id: aEtTN6UI6J4gCGa6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.aEtTN6UI6J4gCGa6'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      What mistake have you made that ended up benefiting you? Has this mistake
+      changed the way you handle issues today?
+    _id: ZRcilNfeYolFGYkd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.ZRcilNfeYolFGYkd'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      Who outside of your immediate family and companions has had the biggest
+      positive impact on your life? Do they know they impacted you?
+    _id: WWBmq1YoRcXSjDyP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.WWBmq1YoRcXSjDyP'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      In your family, who was the odd one out? What was your relationship with
+      them? If it was you, who in your family was closest to you?
+    _id: sCJfv459I49zIlSQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.sCJfv459I49zIlSQ'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Where do you think of when you hear the word "home"? Do you believe you
+      will ever return to or reach that place? Why?
+    _id: 10E537v42ywnMpiN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.10E537v42ywnMpiN'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      When was the last time you cried in front of someone? What made you cry?
+      How did they react?
+    _id: itGhGGea51YaCUuz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.itGhGGea51YaCUuz'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      What was the last thing you tried that you unexpectedly loved? Did that
+      open you up to other experiences?
+    _id: tTymowi5wUjXKD0u
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.tTymowi5wUjXKD0u'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      What secret do you have that you've considered too embarrassing to share
+      until now? Does it still embarrass you?
+    _id: 3jvuRZGhd8BihOL3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.3jvuRZGhd8BihOL3'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      What change have you made in your life that brings you pride? How does it
+      impact you on a day-to-day basis?
+    _id: FjYxoMo6hNyxbBN1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.FjYxoMo6hNyxbBN1'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      What was your first heartbreak like? Who was it with? Have you ever broken
+      someone else's heart?
+    _id: c5pCdYmJFqdCacZz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.c5pCdYmJFqdCacZz'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      When was the last time you were deceived or betrayed? What resulted from
+      this negative experience?
+    _id: CKXObPgkVUcHzrUn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.CKXObPgkVUcHzrUn'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      What act of generosity had the deepest impact on your life? Have you paid
+      it forward, and if not, will you?
+    _id: SZnrasop8V3i1UAw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.SZnrasop8V3i1UAw'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      What crime have you committed, and did you experience any consequences for
+      it?
+    _id: fh1nPEnnoN3lYHEl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.fh1nPEnnoN3lYHEl'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Outside the tools of your trade, what is a personal effect that you carry
+      that means something to you? Where did you get it?
+    _id: 5uYwKXYy5de0brno
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.367'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1789534385541
+      modifiedTime: 1789534385541
+      lastModifiedBy: 1Njz0vDEn4hXH4fV
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!AtGg5ArTBZWmI1Xw.5uYwKXYy5de0brno'
+replacement: true
+displayRoll: true
+folder: MH7Pbqr3Np9sE9t3
+sort: 300000
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789534385541
+  modifiedTime: 1789534385541
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: Compendium.zektors-mork-borg.tables.RollTable.uiInOHaMxgzAwrwk
+  duplicateSource: null
+  exportSource:
+    worldId: mb-map-maker
+    uuid: RollTable.7H66jG2cACkL5hLY
+    coreVersion: '14.367'
+    systemId: morkborg
+    systemVersion: 6.0.1
+formula: 1d25
+_id: AtGg5ArTBZWmI1Xw
+_key: '!tables!AtGg5ArTBZWmI1Xw'

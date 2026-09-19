@@ -1,150 +1,150 @@
 {
-  "id": "zektorh-morkborg",
-  "title": "Zektor's Mork Borg",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14.367"
-  },
-  "description": "<p>Shared configuration and items for the \"morkborg\" system.</p>",
-  "authors": [
-    {
-      "name": "Hector Castelli Zacharias",
-      "email": "hector.zacharias+foundry@gmail.com",
-      "discord": "zektorh",
-      "flags": {}
-    }
-  ],
-  "flags": {
-    "canUpload": true
-  },
-  "packs": [
-    {
-      "name": "adventures",
-      "label": "Adventures",
-      "path": "packs/adventures",
-      "type": "Adventure",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    },
-    {
-      "name": "cards",
-      "label": "Cards",
-      "path": "packs/cards",
-      "type": "Cards",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    },
-    {
-      "name": "macros",
-      "label": "Macros",
-      "path": "packs/macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    },
-    {
-      "name": "playlists",
-      "label": "Playlists",
-      "path": "packs/playlists",
-      "type": "Playlist",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    },
-    {
-      "name": "tables",
-      "label": "Tables",
-      "path": "packs/tables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    },
-    {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/Scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "morkborg",
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "Zektorh",
-      "sorting": "a",
-      "color": "#3344ff",
-      "packs": [],
-      "folders": [
-        {
-          "name": "Mork Borg",
-          "sorting": "a",
-          "color": "#ffffaa",
-          "packs": [
-            "adventures",
-            "cards",
-            "macros",
-            "playlists",
-            "tables",
-            "scenes"
-          ],
-          "folders": []
-        }
-      ]
-    }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "zektorh-global",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "morkborg-core",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "morkborg-3p",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "morkborg-cult-feretory",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "systems": [
-      {
-        "id": "morkborg",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
-  }
+	"id": "zektorh-morkborg",
+	"title": "Zektor's Mork Borg",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14.367"
+	},
+	"description": "<p>Shared configuration and items for the \"morkborg\" system.</p>",
+	"authors": [
+		{
+			"name": "Hector Castelli Zacharias",
+			"email": "hector.zacharias+foundry@gmail.com",
+			"discord": "zektorh",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"packs": [
+		{
+			"name": "adventures",
+			"label": "Adventures",
+			"path": "packs/adventures",
+			"type": "Adventure",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "cards",
+			"label": "Cards",
+			"path": "packs/cards",
+			"type": "Cards",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "macros",
+			"label": "Macros",
+			"path": "packs/macros",
+			"type": "Macro",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "playlists",
+			"label": "Playlists",
+			"path": "packs/playlists",
+			"type": "Playlist",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "tables",
+			"label": "Tables",
+			"path": "packs/tables",
+			"type": "RollTable",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes",
+			"type": "Scene",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Zektorh",
+			"sorting": "a",
+			"color": "#3344ff",
+			"packs": [],
+			"folders": [
+				{
+					"name": "Mork Borg",
+					"sorting": "a",
+					"color": "#ffffaa",
+					"packs": [
+						"adventures",
+						"cards",
+						"macros",
+						"playlists",
+						"tables",
+						"scenes"
+					],
+					"folders": []
+				}
+			]
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"id": "zektorh-global",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "morkborg-core",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "morkborg-3p",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "morkborg-cult-feretory",
+				"type": "module",
+				"compatibility": {}
+			}
+		],
+		"systems": [
+			{
+				"id": "morkborg",
+				"type": "system",
+				"compatibility": {}
+			}
+		]
+	}
 }
