@@ -11,15 +11,7 @@ configDotenv({
 	quiet: true,
 });
 
-import FoundryVttConfig from "@foundryvtt/foundryvtt-cli/config.mjs";
-
-const config = FoundryVttConfig.instance;
-
-const { FOUNDRY_DATA_PATH, FOUNDRY_INSTALLATION_PATH } = process.env;
-
-// Configure data paths
-config.set("dataPath", FOUNDRY_DATA_PATH);
-config.set("installPath", FOUNDRY_INSTALLATION_PATH);
+const { FOUNDRY_DATA_PATH } = process.env;
 
 import {
 	existsSync,

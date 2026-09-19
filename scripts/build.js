@@ -12,15 +12,8 @@ configDotenv({
 });
 
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
-import FoundryVttConfig from "@foundryvtt/foundryvtt-cli/config.mjs";
 
-const config = FoundryVttConfig.instance;
-
-const { FOUNDRY_DATA_PATH, FOUNDRY_INSTALLATION_PATH } = process.env;
-
-// Configure data paths
-config.set("dataPath", FOUNDRY_DATA_PATH);
-config.set("installPath", FOUNDRY_INSTALLATION_PATH);
+const { FOUNDRY_DATA_PATH } = process.env;
 
 import { cpSync, existsSync, mkdirSync, readdirSync, rmSync } from "node:fs";
 import { resolve } from "node:path";
@@ -34,9 +27,6 @@ mkdirSync(distFolder, { recursive: true });
 
 for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 	console.debug(`Re-packing ${module}`);
-
-	config.set("currentPackageId", module);
-	config.set("currentPackageType", "Module");
 
 	for (const pack of readdirSync(
 		resolve(import.meta.dirname, "../modules", module, "packs"),
