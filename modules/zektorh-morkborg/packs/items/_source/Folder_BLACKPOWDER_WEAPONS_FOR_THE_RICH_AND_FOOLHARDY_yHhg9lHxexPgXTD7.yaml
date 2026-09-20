@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: BLACKPOWDER WEAPONS FOR THE RICH AND FOOLHARDY
+color: null
+sorting: a
+_id: yHhg9lHxexPgXTD7
+description: ''
+sort: 200000
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773453
+  modifiedTime: 1789927773470
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!yHhg9lHxexPgXTD7'

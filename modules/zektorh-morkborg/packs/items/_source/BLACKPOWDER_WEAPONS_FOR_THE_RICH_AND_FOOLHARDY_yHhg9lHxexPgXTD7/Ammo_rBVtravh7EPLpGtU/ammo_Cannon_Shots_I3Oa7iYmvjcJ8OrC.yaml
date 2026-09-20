@@ -1,0 +1,31 @@
+folder: rBVtravh7EPLpGtU
+name: Cannon Shots
+type: ammo
+_id: I3Oa7iYmvjcJ8OrC
+img: modules/game-icons-net/whitetransparent/spiked-ball.svg
+system:
+  containerSpace: 1
+  description: ''
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 250
+  quantity: 4
+effects: []
+sort: 200000
+ownership:
+  default: 0
+  4iEGnAoPbhfPCE3B: 3
+  HrUSV0rWuRFOBf2H: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773463
+  modifiedTime: 1789927773465
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!I3Oa7iYmvjcJ8OrC'

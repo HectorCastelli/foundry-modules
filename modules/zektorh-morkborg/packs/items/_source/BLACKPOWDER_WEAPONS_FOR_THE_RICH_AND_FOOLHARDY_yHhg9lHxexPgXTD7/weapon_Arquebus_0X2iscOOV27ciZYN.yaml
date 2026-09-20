@@ -1,0 +1,42 @@
+folder: yHhg9lHxexPgXTD7
+name: Arquebus
+type: weapon
+img: modules/game-icons-net/whitetransparent/gunshot.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>PRESENCE DR14 to hit.</p><p>Ignores armor.</p><p>Once fired, needs to be
+    reloaded for [[/r d6+2]] rounds. You cannot reload with an enemy within
+    melee range.</p><p><strong>LOUD</strong>. Lesser creatures might roll Morale
+    when a shot is fired. Anything more intelligent will notice and
+    investigate.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 180
+  quantity: 1
+  critOn: 20
+  damageDie: 1d10
+  handed: '2'
+  fumbleOn: 1
+  usesAmmo: true
+  weaponType: ranged
+effects: []
+sort: 0
+ownership:
+  default: 0
+  4iEGnAoPbhfPCE3B: 3
+  HrUSV0rWuRFOBf2H: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773463
+  modifiedTime: 1789927773465
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: Item.CPOEVx0e9siwROSo
+  exportSource: null
+_id: 0X2iscOOV27ciZYN
+_key: '!items!0X2iscOOV27ciZYN'

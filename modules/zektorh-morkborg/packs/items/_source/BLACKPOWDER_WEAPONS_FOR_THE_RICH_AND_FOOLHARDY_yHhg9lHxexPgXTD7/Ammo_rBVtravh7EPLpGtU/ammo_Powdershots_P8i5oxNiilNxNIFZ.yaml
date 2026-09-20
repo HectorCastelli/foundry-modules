@@ -1,0 +1,31 @@
+folder: rBVtravh7EPLpGtU
+name: Powdershots
+type: ammo
+_id: P8i5oxNiilNxNIFZ
+img: modules/game-icons-net/whitetransparent/powder.svg
+system:
+  containerSpace: 1
+  description: ''
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 50
+  quantity: 10
+effects: []
+sort: 150000
+ownership:
+  default: 0
+  4iEGnAoPbhfPCE3B: 3
+  HrUSV0rWuRFOBf2H: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773464
+  modifiedTime: 1789927773465
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!P8i5oxNiilNxNIFZ'

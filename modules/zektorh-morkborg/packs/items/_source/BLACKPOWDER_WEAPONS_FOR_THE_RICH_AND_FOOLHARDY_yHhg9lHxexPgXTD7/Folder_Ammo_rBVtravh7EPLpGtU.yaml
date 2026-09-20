@@ -1,0 +1,20 @@
+type: Item
+folder: yHhg9lHxexPgXTD7
+name: Ammo
+color: null
+sorting: a
+_id: rBVtravh7EPLpGtU
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773453
+  modifiedTime: 1789927773453
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!rBVtravh7EPLpGtU'

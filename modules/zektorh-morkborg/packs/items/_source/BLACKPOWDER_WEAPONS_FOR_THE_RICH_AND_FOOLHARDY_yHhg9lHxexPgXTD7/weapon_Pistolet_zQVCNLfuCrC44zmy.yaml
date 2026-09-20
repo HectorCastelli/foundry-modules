@@ -1,0 +1,42 @@
+folder: yHhg9lHxexPgXTD7
+name: Pistolet
+type: weapon
+_id: zQVCNLfuCrC44zmy
+img: modules/game-icons-net/whitetransparent/crossed-pistols.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>PRESENCE DR14 to hit.</p><p>Ignores armor.</p><p>Once fired, needs to be
+    reloaded for [[/r d6+2]] rounds. You cannot reload with an enemy within
+    melee range.</p><p><strong>LOUD</strong>. Lesser creatures might roll Morale
+    when a shot is fired. Anything more intelligent will notice and
+    investigate.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 80
+  quantity: 1
+  critOn: 20
+  damageDie: 1d6
+  handed: '1'
+  fumbleOn: 1
+  usesAmmo: true
+  weaponType: ranged
+effects: []
+sort: 0
+ownership:
+  default: 0
+  4iEGnAoPbhfPCE3B: 3
+  HrUSV0rWuRFOBf2H: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773465
+  modifiedTime: 1789927773466
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!zQVCNLfuCrC44zmy'

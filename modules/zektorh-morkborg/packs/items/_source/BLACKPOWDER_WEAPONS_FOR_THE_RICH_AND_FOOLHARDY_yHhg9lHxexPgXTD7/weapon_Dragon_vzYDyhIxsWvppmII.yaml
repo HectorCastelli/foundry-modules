@@ -1,0 +1,43 @@
+folder: yHhg9lHxexPgXTD7
+name: Dragon
+type: weapon
+img: modules/game-icons-net/whitetransparent/sawed-off-shotgun.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>PRESENCE DR14 to hit.</p><p>Ignores armor.</p><p>Once fired, needs to be
+    reloaded for [[/r d6+2]] rounds. You cannot reload with an enemy within
+    melee range.</p><p><strong>LOUD</strong>. Lesser creatures might roll Morale
+    when a shot is fired. Anything more intelligent will notice and
+    investigate.</p><p>Uses 2 shots per load. Deals full damage in melee range,
+    or 1 damage die to each of two adjacent targets at range.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 200
+  quantity: 1
+  critOn: 20
+  damageDie: 2d4
+  handed: '1'
+  fumbleOn: 1
+  usesAmmo: true
+  weaponType: ranged
+effects: []
+sort: 0
+ownership:
+  default: 0
+  4iEGnAoPbhfPCE3B: 3
+  HrUSV0rWuRFOBf2H: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789927773464
+  modifiedTime: 1789927773466
+  lastModifiedBy: HrUSV0rWuRFOBf2H
+  compendiumSource: null
+  duplicateSource: Item.0X2iscOOV27ciZYN
+  exportSource: null
+_id: vzYDyhIxsWvppmII
+_key: '!items!vzYDyhIxsWvppmII'
