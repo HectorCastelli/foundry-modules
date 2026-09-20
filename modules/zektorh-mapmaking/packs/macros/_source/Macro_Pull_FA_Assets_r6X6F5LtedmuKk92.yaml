@@ -1,0 +1,24 @@
+name: Pull FA Assets
+type: script
+_id: r6X6F5LtedmuKk92
+author: 1Njz0vDEn4hXH4fV
+img: icons/svg/dice-target.svg
+scope: global
+command: window.faNexus.openSceneAssetImportHelper()
+folder: null
+sort: 0
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789928072309
+  modifiedTime: 1789928098852
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!r6X6F5LtedmuKk92'
