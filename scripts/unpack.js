@@ -44,7 +44,7 @@ for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 					folders: true, // Organize things neatly
 					yaml: true,
 					omitVolatile: true,
-					expandAdventures: true,
+					expandAdventures: false, // TODO: This seems to be bugged for now
 					clean: true, // Clean destination before exporting
 					transformName(doc, context) {
 						// Preface document names with their types
