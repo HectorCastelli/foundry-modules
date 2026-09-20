@@ -153,16 +153,6 @@
 				"compatibility": {}
 			},
 			{
-				"id": "monks-wall-enhancement",
-				"type": "module",
-				"compatibility": {}
-			},
-			{
-				"id": "wgtngm-mini-edit",
-				"type": "module",
-				"compatibility": {}
-			},
-			{
 				"id": "default-detach",
 				"type": "module",
 				"compatibility": {}
