@@ -1,7 +1,7 @@
 name: Temple of the Basilisks
 _id: jBdYA7yQ431uWZ5w
 navigation: false
-thumb: null
+thumb: worlds/mb-mapper/assets/scenes/thumb-p2nvejpSzkRXG_T43No3ZQ.webp
 width: 3000
 height: 3000
 padding: 0.25
@@ -38018,8 +38018,8 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789925604668
-  modifiedTime: 1789925604668
-  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  modifiedTime: 1789929741574
+  lastModifiedBy: cxNGgyZizuE0wwOp
   compendiumSource: null
   duplicateSource: null
   exportSource: null

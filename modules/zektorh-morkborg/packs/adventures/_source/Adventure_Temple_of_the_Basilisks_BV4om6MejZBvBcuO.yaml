@@ -1,6 +1,6 @@
 name: Temple of the Basilisks
 img: null
-caption: ''
+caption: An incursion into the seat of power in Galgenbeck.
 description: ''
 sort: 0
 actors:
@@ -15,7 +15,7 @@ actors:
       height: 1
       depth: 1
       texture:
-        src: icons/svg/mystery-man.svg
+        src: modules/game-icons-net/whitetransparent/curly-mask.svg
         anchorX: 0.5
         anchorY: 0.5
         fit: contain
@@ -86,7 +86,7 @@ actors:
       appendNumber: false
       prependAdjective: false
     _id: 5b3UZv795nFsUFyI
-    img: icons/svg/mystery-man.svg
+    img: modules/game-icons-net/whitetransparent/curly-mask.svg
     system:
       abilities:
         agility:
@@ -166,9 +166,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -206,9 +206,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -259,9 +259,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -305,9 +305,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -347,9 +347,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -387,9 +387,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -433,9 +433,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -473,9 +473,9 @@ journal:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789926397318
-          modifiedTime: 1789926397318
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -500,7 +500,7 @@ scenes:
   - name: Temple of the Basilisks
     navigation: false
     navOrder: 0
-    thumb: worlds/morkborg-prep/assets/scenes/thumb-pod-HVtXicLD7iNI6_Zhow.webp
+    thumb: worlds/mb-mapper/assets/scenes/thumb-pod-HVtXicLD7iNI6_Zhow.webp
     width: 3000
     height: 3000
     padding: 0.25
@@ -854,9 +854,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -870,9 +870,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1001,9 +1001,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1096,9 +1096,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1112,9 +1112,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1130,9 +1130,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1343,9 +1343,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1359,9 +1359,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1438,9 +1438,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1501,9 +1501,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1517,9 +1517,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1658,9 +1658,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1674,9 +1674,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -1692,9 +1692,9 @@ scenes:
               coreVersion: '14.368'
               systemId: morkborg
               systemVersion: 6.0.1
-              createdTime: 1789926397318
-              modifiedTime: 1789926397318
-              lastModifiedBy: 1Njz0vDEn4hXH4fV
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
               compendiumSource: null
               duplicateSource: null
               exportSource: null
@@ -10705,8 +10705,8 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789926397318
-  modifiedTime: 1789926397318
-  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  modifiedTime: 1789929824253
+  lastModifiedBy: cxNGgyZizuE0wwOp
   compendiumSource: null
   duplicateSource: null
   exportSource: null
