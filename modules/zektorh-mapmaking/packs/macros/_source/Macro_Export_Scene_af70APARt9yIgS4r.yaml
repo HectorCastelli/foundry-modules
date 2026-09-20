@@ -1,0 +1,100 @@
+name: Export Scene
+type: script
+_id: af70APARt9yIgS4r
+author: 1Njz0vDEn4hXH4fV
+img: icons/svg/dice-target.svg
+scope: global
+command: >-
+  // 1. Grab the current active (editable) scene
+
+  const sourceScene = canvas.scene;
+
+  if (!sourceScene) return ui.notifications.error("No active scene to
+  duplicate.");
+
+
+  ui.notifications.info("Duplicating scene...");
+
+
+  // 2. Duplicate the scene, appending "(Cleaned)" to the name
+
+  const cleanScene = await sourceScene.clone({ 
+    name: `${sourceScene.name} (Cleaned)` 
+  }, { save: true });
+
+
+  // 3. Activate the newly duplicated scene
+
+  await cleanScene.activate();
+
+
+  ui.notifications.info("Stripping FA Nexus dependencies...");
+
+
+  // 4. Prepare updates to remove the flags from walls and lights
+
+  const wallUpdates = cleanScene.walls.map(w => ({ 
+    _id: w.id, 
+    "flags.-=fa-nexus": null,
+    "flags.-=fa2": null 
+  }));
+
+
+  const lightUpdates = cleanScene.lights.map(l => ({ 
+    _id: l.id, 
+    "flags.-=fa-nexus": null,
+    "flags.-=fa2": null 
+  }));
+
+
+  await cleanScene.updateEmbeddedDocuments("Wall", wallUpdates);
+
+  await cleanScene.updateEmbeddedDocuments("AmbientLight", lightUpdates);
+
+
+  // 5. Identify FA Nexus tiles, strip their flags, THEN delete them
+
+  const faTiles = cleanScene.tiles.filter(t => 
+    t.flags["fa-nexus"] || t.flags["fa2"] || t.flags["fa2-asset"]
+  );
+
+
+  if (faTiles.length > 0) {
+    // Step A: Strip flags to bypass the preDeleteTile hook
+    const tileUpdates = faTiles.map(t => ({
+      _id: t.id,
+      "flags.-=fa-nexus": null,
+      "flags.-=fa2": null,
+      "flags.-=fa2-asset": null
+    }));
+    await cleanScene.updateEmbeddedDocuments("Tile", tileUpdates);
+    
+    // Step B: Now safely delete the scrubbed tiles
+    const tileIdsToDelete = faTiles.map(t => t.id);
+    await cleanScene.deleteEmbeddedDocuments("Tile", tileIdsToDelete);
+  }
+
+
+  ui.notifications.info("Cleanup complete! Exporting JSON...");
+
+
+  // 6. Trigger the standard Foundry JSON export download
+
+  cleanScene.exportToJSON();
+folder: null
+sort: 0
+ownership:
+  default: 0
+  1Njz0vDEn4hXH4fV: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789925646737
+  modifiedTime: 1789925762589
+  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!af70APARt9yIgS4r'
