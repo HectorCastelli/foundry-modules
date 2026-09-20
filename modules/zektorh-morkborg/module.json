@@ -32,10 +32,22 @@
 			"flags": {}
 		},
 		{
-			"name": "cards",
-			"label": "Cards",
-			"path": "packs/cards",
-			"type": "Cards",
+			"name": "actors",
+			"label": "Actors",
+			"path": "packs/actors",
+			"type": "Actor",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
+			"name": "items",
+			"label": "Items",
+			"path": "packs/items",
+			"type": "Item",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -48,18 +60,6 @@
 			"label": "Macros",
 			"path": "packs/macros",
 			"type": "Macro",
-			"ownership": {
-				"PLAYER": "OBSERVER",
-				"ASSISTANT": "OWNER"
-			},
-			"system": "morkborg",
-			"flags": {}
-		},
-		{
-			"name": "playlists",
-			"label": "Playlists",
-			"path": "packs/playlists",
-			"type": "Playlist",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -105,7 +105,8 @@
 					"color": "#ffffaa",
 					"packs": [
 						"adventures",
-						"cards",
+						"actors",
+						"items",
 						"macros",
 						"playlists",
 						"tables",

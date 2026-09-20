@@ -1,89 +1,86 @@
 {
-  "id": "zektorh-mapmaking",
-  "title": "Zektor's Map Making",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14.367"
-  },
-  "description": "<p>A series of configurations and helpers for map making efforts.</p>",
-  "authors": [
-    {
-      "name": "Hector Castelli Zacharias",
-      "email": "hector.zacharias+foundry@gmail.com",
-      "discord": "zektorh",
-      "flags": {}
-    }
-  ],
-  "flags": {
-    "canUpload": true
-  },
-  "packs": [
-    {
-      "name": "macros",
-      "label": "Macros",
-      "path": "packs/macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "Zektorh",
-      "sorting": "a",
-      "color": "#3344ff",
-      "packs": [],
-      "folders": [
-        {
-          "name": "Map Making",
-          "sorting": "a",
-          "packs": [
-            "macros",
-            "scenes"
-          ],
-          "color": null,
-          "folders": []
-        }
-      ]
-    }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "zektorh-global",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "monks-wall-enhancement",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "wgtngm-mini-edit",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "fa-nexus",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
-  }
+	"id": "zektorh-mapmaking",
+	"title": "Zektor's Map Making",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14.367"
+	},
+	"description": "<p>A series of configurations and helpers for map making efforts.</p>",
+	"authors": [
+		{
+			"name": "Hector Castelli Zacharias",
+			"email": "hector.zacharias+foundry@gmail.com",
+			"discord": "zektorh",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"packs": [
+		{
+			"name": "macros",
+			"label": "Macros",
+			"path": "packs/macros",
+			"type": "Macro",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes",
+			"type": "Scene",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Zektorh",
+			"sorting": "a",
+			"color": "#3344ff",
+			"packs": [],
+			"folders": [
+				{
+					"name": "Map Making",
+					"sorting": "a",
+					"packs": ["macros", "scenes"],
+					"color": null,
+					"folders": []
+				}
+			]
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"id": "zektorh-global",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "monks-wall-enhancement",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "wgtngm-mini-edit",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "fa-nexus",
+				"type": "module",
+				"compatibility": {}
+			}
+		]
+	}
 }
