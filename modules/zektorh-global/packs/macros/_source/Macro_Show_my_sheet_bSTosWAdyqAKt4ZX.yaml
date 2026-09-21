@@ -1,0 +1,36 @@
+name: Show my sheet
+type: script
+_id: bSTosWAdyqAKt4ZX
+author: oEmfV0SRkLPI8d0g
+img: modules/game-icons-net/whitetransparent/cement-shoes.svg
+scope: global
+command: |-
+  const myCharacter = game.user.character;
+
+  if (myCharacter) {
+      // Toggle the sheet: close if open, open if closed
+      if (myCharacter.sheet.rendered) {
+          myCharacter.sheet.close();
+      } else {
+          myCharacter.sheet.render(true);
+      }
+  } else {
+      ui.notifications.warn("You do not have a character assigned to your user!");
+  }
+folder: null
+ownership:
+  default: 0
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1790006602238
+  modifiedTime: 1790006602246
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 200000
+_key: '!macros!bSTosWAdyqAKt4ZX'
