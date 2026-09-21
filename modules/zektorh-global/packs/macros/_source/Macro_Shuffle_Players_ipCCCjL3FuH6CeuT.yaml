@@ -7,7 +7,7 @@ scope: global
 command: >-
   // Get names of active non-GM users
 
-  const activePlayers = game.users.filter(u => u.active && u.isGM).map(u =>
+  const activePlayers = game.users.filter(u => u.active && !u.isGM).map(u =>
   u.name);
 
 
@@ -39,18 +39,18 @@ command: >-
       `
   });
 folder: null
-sort: 0
+sort: 400000
 ownership:
   default: 0
   1Njz0vDEn4hXH4fV: 3
 flags: {}
 _stats:
-  coreVersion: '14.367'
+  coreVersion: '14.368'
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789488501772
-  modifiedTime: 1789488665147
-  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  modifiedTime: 1790006602246
+  lastModifiedBy: oEmfV0SRkLPI8d0g
   compendiumSource: null
   duplicateSource: null
   exportSource: null
