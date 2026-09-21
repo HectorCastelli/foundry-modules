@@ -23,8 +23,8 @@
 		"build": "node ./scripts/build.js"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.5.14",
-		"@foundryvtt/foundryvtt-cli": "^3.0.4",
-		"dotenv": "^18.0.1"
+		"@biomejs/biome": "^2",
+		"@foundryvtt/foundryvtt-cli": "^3",
+		"dotenv": "^18"
 	}
 }
