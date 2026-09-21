@@ -1,0 +1,125 @@
+name: Noble
+type: creature
+prototypeToken:
+  actorLink: false
+  disposition: -1
+  name: Noble
+  displayName: 0
+  width: 1
+  height: 1
+  depth: 1
+  texture:
+    src: modules/game-icons-net/whitetransparent/wisdom.svg
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  displayBars: 0
+  bar1:
+    attribute: hp
+  bar2:
+    attribute: null
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: {}
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+_id: LY2nRWmPYLjXlpYh
+img: modules/game-icons-net/whitetransparent/wisdom.svg
+system:
+  abilities:
+    agility:
+      value: 0
+    presence:
+      value: 0
+    strength:
+      value: 0
+    toughness:
+      value: 0
+  description: ''
+  hp:
+    max: 4
+    value: 4
+  alternateName: ''
+  armor:
+    name: Fancy Robes, None
+  attack:
+    name: Soft Hands d2, Decorative Weapon d4
+  morale: 7
+  special: >-
+    Special: If attacked, will yell for guards or try to bribe the attacker for
+    1d100 silver.
+items: []
+effects: []
+folder: null
+ownership:
+  default: 0
+  cxNGgyZizuE0wwOp: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1789980904298
+  modifiedTime: 1789980905942
+  lastModifiedBy: cxNGgyZizuE0wwOp
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 300000
+_key: '!actors!LY2nRWmPYLjXlpYh'

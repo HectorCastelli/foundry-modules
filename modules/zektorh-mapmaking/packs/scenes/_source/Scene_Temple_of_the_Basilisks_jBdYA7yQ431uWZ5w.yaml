@@ -1,7 +1,7 @@
 name: Temple of the Basilisks
 _id: jBdYA7yQ431uWZ5w
 navigation: false
-thumb: worlds/mb-mapper/assets/scenes/thumb-p2nvejpSzkRXG_T43No3ZQ.webp
+thumb: null
 width: 3000
 height: 3000
 padding: 0.25
@@ -13,7 +13,7 @@ initial:
   scale: null
 initialLevel: defaultLevel0000
 grid:
-  type: 1
+  type: 0
   size: 100
   style: solidLines
   thickness: 1
@@ -61,7 +61,5416 @@ transition:
   duration: 1500
   activeOnly: false
 drawings: []
-tokens: []
+tokens:
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 0
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: DWU0yWrloX5NsK8d
+    delta: null
+    x: 3141
+    'y': 1721
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.DWU0yWrloX5NsK8d'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 1
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: RKNZXFemW4JoBP10
+    delta: null
+    x: 3224
+    'y': 1926
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.RKNZXFemW4JoBP10'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 2
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: anYhckq0dohNCk6y
+    delta: null
+    x: 3098
+    'y': 2057
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.anYhckq0dohNCk6y'
+  - actorLink: false
+    disposition: -1
+    name: Prisioner
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/imprisoned.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: e0J4skTFqBKmaaIi
+    hidden: false
+    sort: 3
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: k561Hg63oLhqYJrz
+    delta: null
+    x: 1716
+    'y': 2024
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+      - zekYuRYwFaMSLyJS
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.k561Hg63oLhqYJrz'
+  - actorLink: false
+    disposition: -1
+    name: Prisioner
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/imprisoned.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: e0J4skTFqBKmaaIi
+    hidden: false
+    sort: 4
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: 9JX6OZYIb6k50A3t
+    delta: null
+    x: 1712
+    'y': 2712
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+      - zekYuRYwFaMSLyJS
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.9JX6OZYIb6k50A3t'
+  - actorLink: false
+    disposition: -1
+    name: Prisioner
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/imprisoned.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: e0J4skTFqBKmaaIi
+    hidden: false
+    sort: 5
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: CwXhmyUuaumabjOw
+    delta: null
+    x: 2748
+    'y': 3075
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.CwXhmyUuaumabjOw'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 6
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: 5YJvMgEzEUrin6hA
+    delta: null
+    x: 2436
+    'y': 2505
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.5YJvMgEzEUrin6hA'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 7
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: g6x2n3wDIf3HuLq2
+    delta: null
+    x: 2551
+    'y': 2479
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.g6x2n3wDIf3HuLq2'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 8
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: FaDOHCFbOyCsDl7x
+    delta: null
+    x: 1448
+    'y': 3116
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.FaDOHCFbOyCsDl7x'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 9
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: RaCnLTg2eP9oSQOv
+    delta: null
+    x: 1797
+    'y': 3264
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.RaCnLTg2eP9oSQOv'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 10
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: KcUzwTcvXggfTUhc
+    delta: null
+    x: 2037
+    'y': 3072
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.KcUzwTcvXggfTUhc'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 11
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: sbnSJzEIJWBhzXXv
+    delta: null
+    x: 2413
+    'y': 1476
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.sbnSJzEIJWBhzXXv'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 12
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: bDngwZ7Y0ZpZh0Vk
+    delta: null
+    x: 2253
+    'y': 1305
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.bDngwZ7Y0ZpZh0Vk'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 13
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: M4byxVcZfjNH6rhz
+    delta: null
+    x: 1113
+    'y': 1217
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.M4byxVcZfjNH6rhz'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 14
+    shape: 4
+    level: qhHqiTVE6HCV54zh
+    _id: qVljE7XL8l28ljaC
+    delta: null
+    x: 1201
+    'y': 1217
+    elevation: -20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - awNapsTgo26z5SEU
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.qVljE7XL8l28ljaC'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 15
+    shape: 4
+    level: defaultLevel0000
+    _id: OpGz9y4ADArZJ0mX
+    delta: null
+    x: 2985
+    'y': 1458
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.OpGz9y4ADArZJ0mX'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 16
+    shape: 4
+    level: defaultLevel0000
+    _id: 2pPc2X3swaYZEnCa
+    delta: null
+    x: 2940
+    'y': 3295
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.2pPc2X3swaYZEnCa'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 17
+    shape: 4
+    level: defaultLevel0000
+    _id: GPSV5ahD3JHj3uvY
+    delta: null
+    x: 3317
+    'y': 2855
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.GPSV5ahD3JHj3uvY'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 18
+    shape: 4
+    level: defaultLevel0000
+    _id: teZl1Spf6vRK5uNt
+    delta: null
+    x: 1597
+    'y': 3377
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.teZl1Spf6vRK5uNt'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 19
+    shape: 4
+    level: defaultLevel0000
+    _id: mqxC5E6N6ZuJ1ieK
+    delta: null
+    x: 959
+    'y': 3101
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.mqxC5E6N6ZuJ1ieK'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 20
+    shape: 4
+    level: defaultLevel0000
+    _id: g9ZU1XVL2nZJeGui
+    delta: null
+    x: 1161
+    'y': 1752
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.g9ZU1XVL2nZJeGui'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 21
+    shape: 4
+    level: defaultLevel0000
+    _id: QoOr1p6v0rGC8eVs
+    delta: null
+    x: 976
+    'y': 1615
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.QoOr1p6v0rGC8eVs'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 22
+    shape: 4
+    level: defaultLevel0000
+    _id: GMD33PPxMiorOHXk
+    delta: null
+    x: 927
+    'y': 1510
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.GMD33PPxMiorOHXk'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 23
+    shape: 4
+    level: defaultLevel0000
+    _id: hJGJCqlUPirPWhpI
+    delta: null
+    x: 1706
+    'y': 913
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.hJGJCqlUPirPWhpI'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 24
+    shape: 4
+    level: defaultLevel0000
+    _id: a8OHZviNpn5YIA3Y
+    delta: null
+    x: 1502
+    'y': 1041
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.a8OHZviNpn5YIA3Y'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 25
+    shape: 4
+    level: defaultLevel0000
+    _id: zmiEiBznOQKjjRNO
+    delta: null
+    x: 2439
+    'y': 838
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.zmiEiBznOQKjjRNO'
+  - flags: {}
+    name: Zombie
+    displayName: 0
+    width: 1
+    height: 1
+    lockRotation: false
+    rotation: 0
+    actorLink: false
+    disposition: -1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      dim: 0
+      bright: 0
+      angle: 360
+      alpha: 1
+      animation:
+        speed: 5
+        intensity: 5
+        type: null
+        reverse: false
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      darkness:
+        min: 0
+        max: 1
+      negative: false
+      priority: 0
+      color: null
+    texture:
+      src: systems/morkborg/tokens/creatures/zombie.png
+      tint: '#ffffff'
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      alphaThreshold: 0.75
+    sight:
+      angle: 360
+      enabled: false
+      range: 0
+      brightness: 1
+      visionMode: basic
+      attenuation: 0.1
+      saturation: 0
+      contrast: 0
+      color: null
+    alpha: 1
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    depth: 1
+    actorId: EPsRB69MjrMUpQgs
+    hidden: false
+    sort: 26
+    shape: 4
+    level: defaultLevel0000
+    _id: 4z65BkrEZQZMSaWX
+    delta: null
+    x: 2950
+    'y': 930
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions: []
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.4z65BkrEZQZMSaWX'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 27
+    shape: 4
+    level: defaultLevel0000
+    _id: 9LszQdzPRXLmag4H
+    delta: null
+    x: 2492
+    'y': 2100
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.9LszQdzPRXLmag4H'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 28
+    shape: 4
+    level: defaultLevel0000
+    _id: 1ls7ISqPVf0AW6UB
+    delta: null
+    x: 2002
+    'y': 1995
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.1ls7ISqPVf0AW6UB'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 29
+    shape: 4
+    level: defaultLevel0000
+    _id: hEGhoUzK4NK2nzF8
+    delta: null
+    x: 2027
+    'y': 2165
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.hEGhoUzK4NK2nzF8'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 30
+    shape: 4
+    level: defaultLevel0000
+    _id: JRVb8hRSYBKxEK3V
+    delta: null
+    x: 1931
+    'y': 2349
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.JRVb8hRSYBKxEK3V'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 31
+    shape: 4
+    level: defaultLevel0000
+    _id: qwKt9SUx4EUqc8nU
+    delta: null
+    x: 2549
+    'y': 2341
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.qwKt9SUx4EUqc8nU'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 32
+    shape: 4
+    level: defaultLevel0000
+    _id: N3MXTmdfbG2m783S
+    delta: null
+    x: 2844
+    'y': 1930
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.N3MXTmdfbG2m783S'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 33
+    shape: 4
+    level: defaultLevel0000
+    _id: QyIMAhngNJjZDapX
+    delta: null
+    x: 1602
+    'y': 1798
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.QyIMAhngNJjZDapX'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 34
+    shape: 4
+    level: defaultLevel0000
+    _id: OCGXqkQlm0IDQMuM
+    delta: null
+    x: 1509
+    'y': 2061
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.OCGXqkQlm0IDQMuM'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 35
+    shape: 4
+    level: defaultLevel0000
+    _id: CUv0EiqqY7GcYj1C
+    delta: null
+    x: 2055
+    'y': 2543
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.CUv0EiqqY7GcYj1C'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 36
+    shape: 4
+    level: defaultLevel0000
+    _id: pZh0zUUb1Kv5TcoA
+    delta: null
+    x: 2438
+    'y': 2540
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.pZh0zUUb1Kv5TcoA'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 37
+    shape: 4
+    level: defaultLevel0000
+    _id: b1IACt4Oe0fatCAs
+    delta: null
+    x: 2328
+    'y': 2864
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.b1IACt4Oe0fatCAs'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 38
+    shape: 4
+    level: defaultLevel0000
+    _id: BGre0JCgkPw3B6CP
+    delta: null
+    x: 2980
+    'y': 2826
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.BGre0JCgkPw3B6CP'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 39
+    shape: 4
+    level: defaultLevel0000
+    _id: 7HAXhd1ffDK3S7ry
+    delta: null
+    x: 2185
+    'y': 2150
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.7HAXhd1ffDK3S7ry'
+  - actorLink: false
+    disposition: -1
+    name: Mercenary
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/barbute.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: uoSEdLCFjAuQblxo
+    hidden: false
+    sort: 40
+    shape: 4
+    level: defaultLevel0000
+    _id: SIcHy5LJ28qMupi0
+    delta: null
+    x: 2980
+    'y': 2318
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.SIcHy5LJ28qMupi0'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 41
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: sGuDxqEz1bUIEJeX
+    delta: null
+    x: 2553
+    'y': 2297
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.sGuDxqEz1bUIEJeX'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 43
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: mLL13ul8T55iBtoU
+    delta: null
+    x: 2700
+    'y': 2175
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.mLL13ul8T55iBtoU'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 44
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: 1d9VBpdQkB9J8Rrj
+    delta: null
+    x: 2077
+    'y': 1832
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.1d9VBpdQkB9J8Rrj'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 46
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: cXzFDXd1DdBlmXDi
+    delta: null
+    x: 1906
+    'y': 1210
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.cXzFDXd1DdBlmXDi'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 47
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: wF2Ey5yQqD0kH09k
+    delta: null
+    x: 2075
+    'y': 1047
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.wF2Ey5yQqD0kH09k'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 48
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: HolJYbWlQH9Y9g9p
+    delta: null
+    x: 1965
+    'y': 991
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.HolJYbWlQH9Y9g9p'
+  - actorLink: false
+    disposition: -1
+    name: Noble
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/wisdom.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: LY2nRWmPYLjXlpYh
+    hidden: false
+    sort: 49
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: NtYhkjIwVM7EqZxM
+    delta: null
+    x: 2428
+    'y': 2046
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.NtYhkjIwVM7EqZxM'
+  - actorLink: false
+    disposition: -1
+    name: Blink Monk
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/blindfold.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: ETI6pO8gr1UvoYY7
+    hidden: false
+    sort: 50
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: adQodZ1zzQ3rXfSK
+    delta: null
+    x: 2607
+    'y': 2578
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.adQodZ1zzQ3rXfSK'
+  - actorLink: false
+    disposition: -1
+    name: Blink Monk
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/blindfold.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: ETI6pO8gr1UvoYY7
+    hidden: false
+    sort: 51
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: 87OQhFzUDxNLSlWR
+    delta: null
+    x: 2617
+    'y': 2721
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.87OQhFzUDxNLSlWR'
+  - actorLink: false
+    disposition: -1
+    name: High Inquisitor
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/sun-priest.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: 7dXrqlO0WauXvfPC
+    hidden: false
+    sort: 52
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: C02aSle6YUIiGDjb
+    delta: null
+    x: 1860
+    'y': 2784
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.C02aSle6YUIiGDjb'
+  - actorLink: false
+    disposition: -1
+    name: High Inquisitor
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/sun-priest.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: 7dXrqlO0WauXvfPC
+    hidden: false
+    sort: 53
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: Mp9bdHLUdl4chii1
+    delta: null
+    x: 1835
+    'y': 2227
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.Mp9bdHLUdl4chii1'
+  - actorLink: false
+    disposition: -1
+    name: High Inquisitor
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/sun-priest.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 0
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags:
+      fa-nexus:
+        eyeLevelHeightFt: null
+    actorId: 7dXrqlO0WauXvfPC
+    hidden: false
+    sort: 54
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: 1s3LCE4wOnsMUCSF
+    delta: null
+    x: 1358
+    'y': 1693
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.1s3LCE4wOnsMUCSF'
+  - actorLink: false
+    disposition: -1
+    name: Inquisition Guard
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/cloak-dagger.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: HJp4Z8AYFESYG6ag
+    hidden: false
+    sort: 55
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: TAHsyXUUe10Fme6q
+    delta: null
+    x: 2601
+    'y': 1550
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.TAHsyXUUe10Fme6q'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 56
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: HwkCRbLmXJgE9F0Y
+    delta: null
+    x: 1966
+    'y': 1692
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.HwkCRbLmXJgE9F0Y'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 57
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: 7QqjvUlnmff0xfTE
+    delta: null
+    x: 2330
+    'y': 1102
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.7QqjvUlnmff0xfTE'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 58
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: LxVYA3zmcnXeaO5I
+    delta: null
+    x: 2071
+    'y': 1956
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.LxVYA3zmcnXeaO5I'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 59
+    shape: 4
+    level: defaultLevel0000
+    _id: M3ZgaXOBaRCvtWhj
+    delta: null
+    x: 1367
+    'y': 1688
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.M3ZgaXOBaRCvtWhj'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 60
+    shape: 4
+    level: defaultLevel0000
+    _id: eNmCGc5ZiJF5VbIN
+    delta: null
+    x: 2471
+    'y': 1974
+    elevation: 0
+    locked: false
+    _movementHistory: []
+    _regions:
+      - q7c0RJj6ThYkzdIz
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.eNmCGc5ZiJF5VbIN'
+  - actorLink: false
+    disposition: -1
+    name: Temple Staff
+    displayName: 0
+    width: 1
+    height: 1
+    depth: 1
+    texture:
+      src: modules/game-icons-net/whitetransparent/person.svg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: contain
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    lockRotation: false
+    rotation: 0
+    alpha: 1
+    displayBars: 0
+    bar1:
+      attribute: hp
+    bar2:
+      attribute: null
+    light:
+      negative: false
+      priority: 0
+      alpha: 0.5
+      angle: 360
+      bright: 0
+      color: null
+      coloration: 1
+      dim: 0
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: null
+        speed: 5
+        intensity: 5
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+    sight:
+      enabled: false
+      range: 0
+      angle: 360
+      visionMode: basic
+      color: null
+      attenuation: 0.1
+      brightness: 0
+      saturation: 0
+      contrast: 0
+    detectionModes: {}
+    occludable:
+      radius: 0
+    ring:
+      enabled: false
+      colors:
+        ring: null
+        background: null
+      effects: 1
+      subject:
+        scale: 1
+        texture: null
+    turnMarker:
+      mode: 1
+      animation: null
+      src: null
+      disposition: false
+    movementAction: null
+    flags: {}
+    actorId: y88ihTX5QXNR0av5
+    hidden: false
+    sort: 61
+    shape: 4
+    level: 5vWRMrLdZVTR02A7
+    _id: 6wbnB76pVkW1b2lt
+    delta: null
+    x: 2453
+    'y': 1332
+    elevation: 20
+    locked: false
+    _movementHistory: []
+    _regions:
+      - eXLXDe3IAKMLNvhi
+    _key: '!scenes.tokens!jBdYA7yQ431uWZ5w.6wbnB76pVkW1b2lt'
 levels:
   - _id: defaultLevel0000
     name: Outside
@@ -292,6 +5701,654 @@ lights:
     flags: {}
     _id: NC4m39zoqsDWE7ZN
     _key: '!scenes.lights!jBdYA7yQ431uWZ5w.NC4m39zoqsDWE7ZN'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    _id: YsyogX2J1eb0knHp
+    x: 2527
+    'y': 1499
+    rotation: 0
+    locked: false
+    flags: {}
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.YsyogX2J1eb0knHp'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2525
+    'y': 1275
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: HWhEpMjEXJNFz7W9
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.HWhEpMjEXJNFz7W9'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2400
+    'y': 1575
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: b26fDD4Ina3Ln0bu
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.b26fDD4Ina3Ln0bu'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2200
+    'y': 1575
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: e40u8nUSii9jwxqr
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.e40u8nUSii9jwxqr'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 1725
+    'y': 1700
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: PsgWsaMVFvKPrMJS
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.PsgWsaMVFvKPrMJS'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 1525
+    'y': 1700
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: rVIXSMYLM6wpb8vG
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.rVIXSMYLM6wpb8vG'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 1475
+    'y': 1550
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: DvPsGmmMgLJv06RT
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.DvPsGmmMgLJv06RT'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 1475
+    'y': 2000
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: GWLYbdTAo6yddgTz
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.GWLYbdTAo6yddgTz'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2875
+    'y': 2025
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: 4hBhFpVfEujlH8Yh
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.4hBhFpVfEujlH8Yh'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2550
+    'y': 2275
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: PXRehYbOEtNEtG4a
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.PXRehYbOEtNEtG4a'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2925
+    'y': 2025
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: IPqm3dB4UOfpsTSy
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.IPqm3dB4UOfpsTSy'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 3025
+    'y': 2275
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: uQDe6GDNwipcbuMI
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.uQDe6GDNwipcbuMI'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2375
+    'y': 2400
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: vFgM8s0hFpm6MRxi
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.vFgM8s0hFpm6MRxi'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2425
+    'y': 2550
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: JITC60H6hBKazDzg
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.JITC60H6hBKazDzg'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2875
+    'y': 2750
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: f4KIO3qou8A4Mmp3
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.f4KIO3qou8A4Mmp3'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2425
+    'y': 2950
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: kXmb9gduBav3cgjN
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.kXmb9gduBav3cgjN'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 2375
+    'y': 2950
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: 2rA3BO37dKsCzq7r
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.2rA3BO37dKsCzq7r'
+  - elevation: -20
+    levels:
+      - qhHqiTVE6HCV54zh
+    walls: true
+    vision: false
+    hidden: false
+    config:
+      negative: false
+      priority: 0
+      alpha: 0.1
+      angle: 360
+      color: '#e66100'
+      coloration: 1
+      attenuation: 0.5
+      luminosity: 0.5
+      saturation: 0
+      contrast: 0
+      shadows: 0
+      animation:
+        type: pulse
+        speed: 1
+        intensity: 3
+        reverse: false
+      darkness:
+        min: 0
+        max: 1
+      bright: 15
+      dim: 30
+    name: Ambient Light (2)
+    x: 1425
+    'y': 3200
+    rotation: 0
+    locked: false
+    flags: {}
+    _id: at8ekUJPd0o2biAF
+    _key: '!scenes.lights!jBdYA7yQ431uWZ5w.at8ekUJPd0o2biAF'
 notes: []
 sounds: []
 regions:
@@ -362,9 +6419,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936615
+          modifiedTime: 1789980936615
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -379,9 +6436,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936615
+          modifiedTime: 1789980936615
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -512,9 +6569,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936616
+          modifiedTime: 1789980936616
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -609,9 +6666,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936616
+          modifiedTime: 1789980936616
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -626,9 +6683,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936616
+          modifiedTime: 1789980936616
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -645,9 +6702,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936616
+          modifiedTime: 1789980936616
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -863,9 +6920,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936617
+          modifiedTime: 1789980936617
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -880,9 +6937,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936617
+          modifiedTime: 1789980936617
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -961,9 +7018,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936617
+          modifiedTime: 1789980936617
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1026,9 +7083,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936618
+          modifiedTime: 1789980936618
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1043,9 +7100,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936618
+          modifiedTime: 1789980936618
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1187,9 +7244,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936618
+          modifiedTime: 1789980936618
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1204,9 +7261,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936618
+          modifiedTime: 1789980936618
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1223,9 +7280,9 @@ regions:
           coreVersion: '14.368'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1789925604668
-          modifiedTime: 1789925604668
-          lastModifiedBy: 1Njz0vDEn4hXH4fV
+          createdTime: 1789980936618
+          modifiedTime: 1789980936618
+          lastModifiedBy: cxNGgyZizuE0wwOp
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -1286,7 +7343,7 @@ tiles:
     height: 3000
     rotation: 0
     alpha: 1
-    elevation: -0.01
+    elevation: 0
     sort: 2
     hidden: false
     locked: false
@@ -5443,7 +11500,7 @@ tiles:
     height: 2450
     rotation: 0
     alpha: 1
-    elevation: -0.01
+    elevation: 0
     sort: 4
     hidden: false
     locked: false
@@ -5598,7 +11655,7 @@ tiles:
     rotation: 180
     hidden: false
     locked: false
-    elevation: -0.01
+    elevation: 0
     sort: 8
     occlusion:
       modes:
@@ -5643,7 +11700,7 @@ tiles:
     height: 1948
     rotation: 0
     alpha: 1
-    elevation: -0.01
+    elevation: 0
     sort: 6
     hidden: false
     locked: false
@@ -5725,7 +11782,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 20
+    sort: 10
     occlusion:
       modes:
         - 2
@@ -5771,7 +11828,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 22
+    sort: 12
     occlusion:
       modes:
         - 2
@@ -5817,7 +11874,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 24
+    sort: 14
     occlusion:
       modes:
         - 2
@@ -5863,7 +11920,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 26
+    sort: 16
     occlusion:
       modes:
         - 2
@@ -5909,7 +11966,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 28
+    sort: 18
     occlusion:
       modes:
         - 2
@@ -5955,7 +12012,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 30
+    sort: 20
     occlusion:
       modes:
         - 2
@@ -6001,7 +12058,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 32
+    sort: 22
     occlusion:
       modes:
         - 2
@@ -6047,7 +12104,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 34
+    sort: 24
     occlusion:
       modes:
         - 2
@@ -6093,7 +12150,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 36
+    sort: 26
     occlusion:
       modes:
         - 2
@@ -6139,7 +12196,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 38
+    sort: 28
     occlusion:
       modes:
         - 2
@@ -6185,7 +12242,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 40
+    sort: 30
     occlusion:
       modes:
         - 2
@@ -6231,7 +12288,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 42
+    sort: 32
     occlusion:
       modes:
         - 2
@@ -6277,7 +12334,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 44
+    sort: 34
     occlusion:
       modes:
         - 2
@@ -6323,7 +12380,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 46
+    sort: 36
     occlusion:
       modes:
         - 2
@@ -10877,7 +16934,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 48
+    sort: 38
     occlusion:
       modes:
         - 2
@@ -11122,7 +17179,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 50
+    sort: 40
     occlusion:
       modes:
         - 2
@@ -11444,7 +17501,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 52
+    sort: 42
     occlusion:
       modes:
         - 2
@@ -11491,7 +17548,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 54
+    sort: 44
     occlusion:
       modes:
         - 2
@@ -11584,7 +17641,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 0
-    sort: 56
+    sort: 46
     occlusion:
       modes:
         - 2
@@ -12181,7 +18238,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: 0
-    sort: 2
+    sort: 40
     hidden: false
     locked: false
     occlusion:
@@ -14283,7 +20340,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: 0
-    sort: 18
+    sort: 42
     hidden: false
     locked: false
     occlusion:
@@ -14786,7 +20843,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: -20
-    sort: 4
+    sort: 10
     hidden: false
     locked: false
     occlusion:
@@ -14866,7 +20923,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 2
+    sort: 4
     occlusion:
       modes:
         - 2
@@ -14912,7 +20969,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 4
+    sort: 6
     occlusion:
       modes:
         - 2
@@ -14958,7 +21015,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 6
+    sort: 8
     occlusion:
       modes:
         - 2
@@ -15004,7 +21061,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 8
+    sort: 10
     occlusion:
       modes:
         - 2
@@ -15050,7 +21107,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 10
+    sort: 12
     occlusion:
       modes:
         - 2
@@ -15096,7 +21153,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 12
+    sort: 14
     occlusion:
       modes:
         - 2
@@ -15142,7 +21199,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 14
+    sort: 16
     occlusion:
       modes:
         - 2
@@ -15188,7 +21245,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 16
+    sort: 18
     occlusion:
       modes:
         - 2
@@ -15234,7 +21291,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 92
+    sort: 94
     occlusion:
       modes:
         - 2
@@ -15280,7 +21337,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 18
+    sort: 20
     occlusion:
       modes:
         - 2
@@ -15326,7 +21383,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 86
+    sort: 88
     occlusion:
       modes:
         - 2
@@ -15372,7 +21429,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 88
+    sort: 90
     occlusion:
       modes:
         - 2
@@ -15418,7 +21475,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 90
+    sort: 92
     occlusion:
       modes:
         - 2
@@ -15464,7 +21521,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 94
+    sort: 96
     occlusion:
       modes:
         - 2
@@ -15510,7 +21567,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 96
+    sort: 98
     occlusion:
       modes:
         - 2
@@ -15556,7 +21613,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 98
+    sort: 100
     occlusion:
       modes:
         - 2
@@ -15602,7 +21659,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 100
+    sort: 102
     occlusion:
       modes:
         - 2
@@ -15648,7 +21705,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 102
+    sort: 104
     occlusion:
       modes:
         - 2
@@ -15694,7 +21751,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 104
+    sort: 106
     occlusion:
       modes:
         - 2
@@ -15740,7 +21797,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 106
+    sort: 108
     occlusion:
       modes:
         - 2
@@ -15786,7 +21843,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 108
+    sort: 110
     occlusion:
       modes:
         - 2
@@ -15832,7 +21889,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 110
+    sort: 112
     occlusion:
       modes:
         - 2
@@ -15878,7 +21935,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 112
+    sort: 114
     occlusion:
       modes:
         - 2
@@ -15924,7 +21981,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 38
+    sort: 40
     occlusion:
       modes:
         - 2
@@ -15970,7 +22027,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 40
+    sort: 42
     occlusion:
       modes:
         - 2
@@ -16016,7 +22073,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 42
+    sort: 44
     occlusion:
       modes:
         - 2
@@ -16062,7 +22119,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 44
+    sort: 46
     occlusion:
       modes:
         - 2
@@ -16108,7 +22165,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 46
+    sort: 48
     occlusion:
       modes:
         - 2
@@ -16154,7 +22211,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 48
+    sort: 50
     occlusion:
       modes:
         - 2
@@ -16200,7 +22257,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 50
+    sort: 52
     occlusion:
       modes:
         - 2
@@ -16246,7 +22303,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 52
+    sort: 54
     occlusion:
       modes:
         - 2
@@ -16292,7 +22349,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 54
+    sort: 56
     occlusion:
       modes:
         - 2
@@ -16338,7 +22395,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 56
+    sort: 58
     occlusion:
       modes:
         - 2
@@ -16384,7 +22441,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 58
+    sort: 60
     occlusion:
       modes:
         - 2
@@ -16430,7 +22487,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 60
+    sort: 62
     occlusion:
       modes:
         - 2
@@ -16476,7 +22533,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 62
+    sort: 64
     occlusion:
       modes:
         - 2
@@ -16522,7 +22579,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 64
+    sort: 66
     occlusion:
       modes:
         - 2
@@ -16568,7 +22625,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 66
+    sort: 68
     occlusion:
       modes:
         - 2
@@ -16614,7 +22671,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 68
+    sort: 70
     occlusion:
       modes:
         - 2
@@ -16660,7 +22717,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 70
+    sort: 72
     occlusion:
       modes:
         - 2
@@ -16706,7 +22763,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 72
+    sort: 74
     occlusion:
       modes:
         - 2
@@ -16752,7 +22809,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 74
+    sort: 76
     occlusion:
       modes:
         - 2
@@ -16798,7 +22855,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 76
+    sort: 78
     occlusion:
       modes:
         - 2
@@ -16844,7 +22901,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 78
+    sort: 80
     occlusion:
       modes:
         - 2
@@ -16890,7 +22947,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 80
+    sort: 82
     occlusion:
       modes:
         - 2
@@ -16936,7 +22993,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 82
+    sort: 84
     occlusion:
       modes:
         - 2
@@ -16982,7 +23039,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 84
+    sort: 86
     occlusion:
       modes:
         - 2
@@ -17028,7 +23085,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 20
+    sort: 22
     occlusion:
       modes:
         - 2
@@ -17074,7 +23131,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 22
+    sort: 24
     occlusion:
       modes:
         - 2
@@ -17120,7 +23177,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 24
+    sort: 26
     occlusion:
       modes:
         - 2
@@ -17166,7 +23223,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 26
+    sort: 28
     occlusion:
       modes:
         - 2
@@ -17212,7 +23269,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 28
+    sort: 30
     occlusion:
       modes:
         - 2
@@ -17258,7 +23315,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 30
+    sort: 32
     occlusion:
       modes:
         - 2
@@ -17304,7 +23361,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 32
+    sort: 34
     occlusion:
       modes:
         - 2
@@ -17350,7 +23407,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 34
+    sort: 36
     occlusion:
       modes:
         - 2
@@ -17396,7 +23453,7 @@ tiles:
     hidden: false
     locked: false
     elevation: -19.99
-    sort: 36
+    sort: 38
     occlusion:
       modes:
         - 2
@@ -19788,7 +25845,7 @@ tiles:
     height: 2075
     rotation: 0
     alpha: 1
-    elevation: 0
+    elevation: 20
     sort: 2
     hidden: false
     locked: false
@@ -23582,7 +29639,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 40
-    sort: 6
+    sort: 14
     occlusion:
       modes:
         - 2
@@ -23633,7 +29690,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: 60
-    sort: 12
+    sort: 8
     hidden: false
     locked: false
     occlusion:
@@ -24403,7 +30460,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: 60
-    sort: 2
+    sort: 6
     hidden: false
     locked: false
     occlusion:
@@ -24562,8 +30619,8 @@ tiles:
     rotation: 180
     hidden: false
     locked: false
-    elevation: 60
-    sort: 4
+    elevation: 40
+    sort: 6
     occlusion:
       modes:
         - 2
@@ -24613,8 +30670,8 @@ tiles:
     rotation: 180
     hidden: false
     locked: false
-    elevation: 60
-    sort: 6
+    elevation: 40
+    sort: 8
     occlusion:
       modes:
         - 2
@@ -24664,8 +30721,8 @@ tiles:
     rotation: 180
     hidden: false
     locked: false
-    elevation: 60
-    sort: 8
+    elevation: 40
+    sort: 10
     occlusion:
       modes:
         - 2
@@ -24715,8 +30772,8 @@ tiles:
     rotation: 180
     hidden: false
     locked: false
-    elevation: 60
-    sort: 10
+    elevation: 40
+    sort: 12
     occlusion:
       modes:
         - 2
@@ -24767,7 +30824,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 60
-    sort: 14
+    sort: 2
     occlusion:
       modes:
         - 2
@@ -24813,7 +30870,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 60
-    sort: 16
+    sort: 4
     occlusion:
       modes:
         - 2
@@ -25135,7 +31192,7 @@ tiles:
     hidden: false
     locked: false
     elevation: 40
-    sort: 14
+    sort: 18
     occlusion:
       modes:
         - 2
@@ -25180,7 +31237,7 @@ tiles:
     rotation: 0
     alpha: 1
     elevation: 40
-    sort: 8
+    sort: 16
     hidden: false
     locked: false
     occlusion:
@@ -25243,6 +31300,1287 @@ tiles:
       autoplay: true
       volume: 0
     _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.aYLK939hkT40uToX'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2925
+    'y': 2025
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 2
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: yINmPciZsgcvacyh
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.yINmPciZsgcvacyh'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 1525
+    'y': 1700
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 4
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: XdLfQYKDYfdtlNxn
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.XdLfQYKDYfdtlNxn'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 1725
+    'y': 1700
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 6
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: feQb04EPTProlMWI
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.feQb04EPTProlMWI'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2625
+    'y': 1525
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 8
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: cV3xb23EYp7Idg4y
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.cV3xb23EYp7Idg4y'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2425
+    'y': 2550
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 10
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: 8jEi2WYXEhcdCvcK
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.8jEi2WYXEhcdCvcK'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2425
+    'y': 2950
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 12
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: ExmSrKvz1Zf7wpTN
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.ExmSrKvz1Zf7wpTN'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 1425
+    'y': 3200
+    rotation: 270
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 14
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: f108fRVOoIvTk3aM
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.f108fRVOoIvTk3aM'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2375
+    'y': 2400
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 16
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: 6CUFx1n2noJhPT9n
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.6CUFx1n2noJhPT9n'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2375
+    'y': 2950
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 18
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: ZtfnEUY2LXJi2W7w
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.ZtfnEUY2LXJi2W7w'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2875
+    'y': 2750
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 20
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: WVBAuCBlbL9UfBhq
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.WVBAuCBlbL9UfBhq'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2875
+    'y': 2025
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 22
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: fjwTFeJbL70ftYrQ
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.fjwTFeJbL70ftYrQ'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2525
+    'y': 1500
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 24
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: fXpq2mulLY2B927v
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.fXpq2mulLY2B927v'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2525
+    'y': 1275
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 26
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: Ybq9cwhjjZqJmYo8
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.Ybq9cwhjjZqJmYo8'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 1475
+    'y': 2000
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 28
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: VJAc2qV9TWi1c3Pk
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.VJAc2qV9TWi1c3Pk'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 1475
+    'y': 1550
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 30
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: AZLPqxc2AlqATDrj
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.AZLPqxc2AlqATDrj'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2550
+    'y': 2275
+    rotation: 180
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 32
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: qNiTxaDNc5ZjZDIL
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.qNiTxaDNc5ZjZDIL'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 3025
+    'y': 2275
+    rotation: 180
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 34
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: V8mJhSNNRhtRHOkx
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.V8mJhSNNRhtRHOkx'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2200
+    'y': 1575
+    rotation: 180
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 36
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: EjYGfRn4hfaDYV50
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.EjYGfRn4hfaDYV50'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Lightsources/Lanterns/Wall_Lantern_Metal_Brass_D_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2400
+    'y': 1575
+    rotation: 180
+    hidden: false
+    locked: false
+    elevation: 0
+    sort: 38
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.6
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: TbEB7CYAVHH1zY6I
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.TbEB7CYAVHH1zY6I'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Structures/Building/Stairs_and_Ladders/Stairs_Metal/Stairs_Metal_Rusty_B_1x2.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 200
+    x: 2750
+    'y': 1511
+    rotation: 0
+    hidden: false
+    locked: false
+    elevation: -20
+    sort: 6
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: '0'
+        shadowOffsetAngle: '0'
+        shadowOffsetX: '0'
+        shadowOffsetY: '0'
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+        hsbc:
+          hue: 0
+          saturation: 0.7
+          brightness: 0.5
+          contrast: 1
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _id: ETIXvGaE9nAxUtta
+    name: ''
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.ETIXvGaE9nAxUtta'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Decor/Clothing_Rails_and_Hangers/Filled/Clothing_Rail_Wood_Ashen_Filled_A2_2x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 200
+    height: 100
+    x: 2650
+    'y': 1475
+    rotation: 90
+    hidden: false
+    locked: false
+    elevation: -20
+    sort: 4
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: ELlgdoiXdp7ZnxsX
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.ELlgdoiXdp7ZnxsX'
+  - texture:
+      src: fa-nexus-assets/!Core_Settlements/Decor/Storage/Chests/Chest_Wood_Ashen_C_Rusty_1x1.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 100
+    x: 2650
+    'y': 1575
+    rotation: 180
+    hidden: false
+    locked: false
+    elevation: -19.99
+    sort: 2
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: Fewrqg3MS5rdcdLo
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.Fewrqg3MS5rdcdLo'
+  - texture:
+      src: fa-nexus-assets/Horror/!Wilderness/Textures/Gore/Blood_A_01.jpg
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      scaleX: 1
+      scaleY: 1
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    x: 3200
+    'y': 1980
+    width: 409
+    height: 364
+    rotation: 0
+    alpha: 1
+    elevation: -20
+    sort: 8
+    hidden: false
+    locked: false
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    flags:
+      fa-nexus:
+        maskedTiling:
+          baseSrc: fa-nexus-assets/Horror/!Wilderness/Textures/Gore/Blood_A_01.jpg
+          baseColor: null
+          maskSrc: fa-nexus-assets/__generated/masks/mb-mapper/jBdYA7yQ431uWZ5w/masked-Blood_A_01-mask-20260921082218-145882.webp
+          maskType: file
+          maskShapes: null
+          maskShapeKey: null
+          maskOriginalSize:
+            width: 6000
+            height: 6000
+          maskCrop:
+            x: 4391
+            'y': 1997
+            width: 817
+            height: 727
+          maskWorld:
+            origin:
+              x: 800
+              'y': 800
+            scale:
+              x: 0.5
+              'y': 0.5
+            offset:
+              x: 2195.5
+              'y': 998.5
+            tile:
+              x: 3199.75
+              'y': 1980.25
+              width: 408.5
+              height: 363.5
+              anchorX: 0.5
+              anchorY: 0.5
+          texturePhase:
+            x: 0
+            'y': 0
+          textureOffset:
+            x: 0
+            'y': 0
+          textureRotation: 0
+          textureScale: 1
+          blendMode: normal
+          maskVersion: 3
+        placementLevelId: qhHqiTVE6HCV54zh
+    restrictions:
+      light: true
+      weather: false
+    _id: nwudyGFzXbcLNZh9
+    levels:
+      - qhHqiTVE6HCV54zh
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.nwudyGFzXbcLNZh9'
+  - texture:
+      src: fa-nexus-assets/Horror/!Wilderness/Gore/Corpses/Humanoid/Guards/Guard_Corpse_Yellow_B_Bloody_1x2.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 200
+    x: 3350
+    'y': 1850
+    rotation: 60
+    hidden: false
+    locked: false
+    elevation: -19.99
+    sort: 116
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: zmCvtUXTrpI5f3Y3
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.zmCvtUXTrpI5f3Y3'
+  - texture:
+      src: fa-nexus-assets/Horror/!Wilderness/Gore/Corpses/Humanoid/Guards/Guard_Corpse_Yellow_A_Bloody_1x2.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 200
+    x: 3150
+    'y': 2200
+    rotation: 60
+    hidden: false
+    locked: false
+    elevation: -19.99
+    sort: 118
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: DkznV5SaOfdpidox
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.DkznV5SaOfdpidox'
+  - texture:
+      src: fa-nexus-assets/Horror/!Wilderness/Gore/Corpses/Humanoid/Guards/Guard_Corpse_Yellow_B_Bloody_1x2.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 200
+    x: 3125
+    'y': 1725
+    rotation: 30
+    hidden: false
+    locked: false
+    elevation: -19.99
+    sort: 120
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: Uip35z8rg7IL9T9Y
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.Uip35z8rg7IL9T9Y'
+  - texture:
+      src: fa-nexus-assets/Horror/!Wilderness/Gore/Corpses/Humanoid/Guards/Guard_Corpse_Red_B_Bloody_1x2.webp
+      scaleX: 1
+      scaleY: 1
+      anchorX: 0.5
+      anchorY: 0.5
+      fit: fill
+      tint: '#ffffff'
+      alphaThreshold: 0.75
+    width: 100
+    height: 200
+    x: 3225
+    'y': 1975
+    rotation: 30
+    hidden: false
+    locked: false
+    elevation: -19.99
+    sort: 122
+    occlusion:
+      modes:
+        - 2
+      alpha: 0
+    restrictions:
+      light: true
+      weather: false
+    flags:
+      fa-nexus:
+        shadow: true
+        shadowAlpha: 0.65
+        shadowDilation: 1.6
+        shadowBlur: 12
+        shadowOffsetDistance: 0
+        shadowOffsetAngle: 135
+        shadowOffsetX: 0
+        shadowOffsetY: 0
+        shadowOnly: false
+        placementLevelId: qhHqiTVE6HCV54zh
+    _id: M027uWKODSsQZrJn
+    levels:
+      - qhHqiTVE6HCV54zh
+    alpha: 1
+    video:
+      loop: true
+      autoplay: true
+      volume: 0
+    _key: '!scenes.tiles!jBdYA7yQ431uWZ5w.M027uWKODSsQZrJn'
 walls:
   - c:
       - 3300
@@ -33235,9 +40573,9 @@ walls:
     levels:
       - qhHqiTVE6HCV54zh
     move: 20
-    sight: 20
-    sound: 20
-    light: 20
+    sight: 30
+    sound: 0
+    light: 30
     dir: 0
     door: 0
     ds: 0
@@ -33263,10 +40601,10 @@ walls:
         elevation: 0
     _id: ib0t3RoqjxyTvjXA
     threshold:
-      light: null
-      sight: null
+      light: 20
+      sight: 15
       sound: null
-      attenuation: false
+      attenuation: true
     animation: null
     _key: '!scenes.walls!jBdYA7yQ431uWZ5w.ib0t3RoqjxyTvjXA'
   - c:
@@ -33277,9 +40615,9 @@ walls:
     levels:
       - qhHqiTVE6HCV54zh
     move: 20
-    sight: 20
-    sound: 20
-    light: 20
+    sight: 30
+    sound: 0
+    light: 30
     dir: 0
     door: 0
     ds: 0
@@ -33305,10 +40643,10 @@ walls:
         elevation: 0
     _id: Lu2bHvF1G1zLqroj
     threshold:
-      light: null
-      sight: null
+      light: 20
+      sight: 15
       sound: null
-      attenuation: false
+      attenuation: true
     animation: null
     _key: '!scenes.walls!jBdYA7yQ431uWZ5w.Lu2bHvF1G1zLqroj'
   - c:
@@ -33319,9 +40657,9 @@ walls:
     levels:
       - qhHqiTVE6HCV54zh
     move: 20
-    sight: 20
-    sound: 20
-    light: 20
+    sight: 30
+    sound: 0
+    light: 30
     dir: 0
     door: 0
     ds: 0
@@ -33347,10 +40685,10 @@ walls:
         elevation: 0
     _id: zECoN9f3Za1VBSL7
     threshold:
-      light: null
-      sight: null
+      light: 20
+      sight: 15
       sound: null
-      attenuation: false
+      attenuation: true
     animation: null
     _key: '!scenes.walls!jBdYA7yQ431uWZ5w.zECoN9f3Za1VBSL7'
   - c:
@@ -33403,9 +40741,9 @@ walls:
     levels:
       - qhHqiTVE6HCV54zh
     move: 20
-    sight: 20
-    sound: 20
-    light: 20
+    sight: 30
+    sound: 0
+    light: 30
     dir: 0
     door: 0
     ds: 0
@@ -33431,10 +40769,10 @@ walls:
         elevation: 0
     _id: wRqVTms32rnKTvNm
     threshold:
-      light: null
-      sight: null
+      light: 20
+      sight: 15
       sound: null
-      attenuation: false
+      attenuation: true
     animation: null
     _key: '!scenes.walls!jBdYA7yQ431uWZ5w.wRqVTms32rnKTvNm'
   - c:
@@ -33445,9 +40783,9 @@ walls:
     levels:
       - qhHqiTVE6HCV54zh
     move: 20
-    sight: 20
-    sound: 20
-    light: 20
+    sight: 30
+    sound: 0
+    light: 30
     dir: 0
     door: 0
     ds: 0
@@ -33473,10 +40811,10 @@ walls:
         elevation: 0
     _id: mwQf0tmHcrSSEGaL
     threshold:
-      light: null
-      sight: null
+      light: 20
+      sight: 15
       sound: null
-      attenuation: false
+      attenuation: true
     animation: null
     _key: '!scenes.walls!jBdYA7yQ431uWZ5w.mwQf0tmHcrSSEGaL'
   - c:
@@ -38010,15 +45348,15 @@ weather: ''
 folder: null
 ownership:
   default: 0
-  1Njz0vDEn4hXH4fV: 3
+  cxNGgyZizuE0wwOp: 3
 flags:
   fa-nexus: {}
 _stats:
   coreVersion: '14.368'
   systemId: morkborg
   systemVersion: 6.0.1
-  createdTime: 1789925604668
-  modifiedTime: 1789929741574
+  createdTime: 1789980936599
+  modifiedTime: 1789980936599
   lastModifiedBy: cxNGgyZizuE0wwOp
   compendiumSource: null
   duplicateSource: null
