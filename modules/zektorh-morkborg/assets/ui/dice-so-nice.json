@@ -1,66 +1,62 @@
 {
-  "appearance": {
-    "global": {
-      "labelColor": "#FFE900",
-      "diceColor": "#000",
-      "outlineColor": "#FFE900",
-      "edgeColor": "#FFE900",
-      "texture": "stone",
-      "material": "stone",
-      "font": "Old Englished Boots",
-      "colorset": "custom",
-      "system": "standard"
-    }
-  },
-  "sfxList": [
-    {
-      "diceType": "d20",
-      "onResult": [
-        "1"
-      ],
-      "specialEffect": "PlayAnimationImpact",
-      "options": {
-        "isGlobal": false,
-        "muteSound": false
-      }
-    },
-    {
-      "diceType": "d20",
-      "onResult": [
-        "20"
-      ],
-      "specialEffect": "PlayAnimationParticleSpiral",
-      "options": {
-        "isGlobal": false,
-        "muteSound": false
-      }
-    }
-  ],
-  "settings": {
-    "enabled": true,
-    "showExtraDice": false,
-    "onlyShowOwnDice": false,
-    "hideAfterRoll": true,
-    "timeBeforeHide": "2000",
-    "hideFX": "fadeOut",
-    "autoscale": true,
-    "scale": 75,
-    "speed": "1",
-    "imageQuality": "high",
-    "shadowQuality": "high",
-    "bumpMapping": true,
-    "sounds": true,
-    "soundsSurface": "felt",
-    "soundsVolume": 0.5,
-    "canvasZIndex": "over",
-    "throwingForce": "medium",
-    "useHighDPI": true,
-    "antialiasing": "msaa",
-    "glow": true,
-    "showOthersSFX": true,
-    "immersiveDarkness": true,
-    "muteSoundSecretRolls": false,
-    "enableFlavorColorset": true,
-    "rollingArea": false
-  }
+	"appearance": {
+		"global": {
+			"labelColor": "#FFE900",
+			"diceColor": "#000",
+			"outlineColor": "#FFE900",
+			"edgeColor": "#FFE900",
+			"texture": "stone",
+			"material": "stone",
+			"font": "Old Englished Boots",
+			"colorset": "custom",
+			"system": "standard"
+		}
+	},
+	"sfxList": [
+		{
+			"diceType": "d20",
+			"onResult": ["1"],
+			"specialEffect": "PlayAnimationImpact",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"diceType": "d20",
+			"onResult": ["20"],
+			"specialEffect": "PlayAnimationParticleSpiral",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		}
+	],
+	"settings": {
+		"enabled": true,
+		"showExtraDice": false,
+		"onlyShowOwnDice": false,
+		"hideAfterRoll": true,
+		"timeBeforeHide": "2000",
+		"hideFX": "fadeOut",
+		"autoscale": true,
+		"scale": 75,
+		"speed": "1",
+		"imageQuality": "high",
+		"shadowQuality": "high",
+		"bumpMapping": true,
+		"sounds": true,
+		"soundsSurface": "felt",
+		"soundsVolume": 0.5,
+		"canvasZIndex": "over",
+		"throwingForce": "medium",
+		"useHighDPI": true,
+		"antialiasing": "msaa",
+		"glow": true,
+		"showOthersSFX": true,
+		"immersiveDarkness": true,
+		"muteSoundSecretRolls": false,
+		"enableFlavorColorset": true,
+		"rollingArea": false
+	}
 }
