@@ -20,10 +20,10 @@
 	},
 	"packs": [
 		{
-			"name": "adventures",
-			"label": "Adventures",
-			"path": "packs/adventures",
-			"type": "Adventure",
+			"name": "actors",
+			"label": "Actors",
+			"path": "packs/actors",
+			"type": "Actor",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -32,10 +32,10 @@
 			"flags": {}
 		},
 		{
-			"name": "actors",
-			"label": "Actors",
-			"path": "packs/actors",
-			"type": "Actor",
+			"name": "adventures",
+			"label": "Adventures",
+			"path": "packs/adventures",
+			"type": "Adventure",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -56,6 +56,18 @@
 			"flags": {}
 		},
 		{
+			"name": "journals",
+			"label": "Journals",
+			"path": "packs/journals",
+			"type": "JournalEntry",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
 			"name": "macros",
 			"label": "Macros",
 			"path": "packs/macros",
@@ -68,10 +80,10 @@
 			"flags": {}
 		},
 		{
-			"name": "tables",
-			"label": "Tables",
-			"path": "packs/tables",
-			"type": "RollTable",
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes",
+			"type": "Scene",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -80,10 +92,10 @@
 			"flags": {}
 		},
 		{
-			"name": "scenes",
-			"label": "Scenes",
-			"path": "packs/scenes",
-			"type": "Scene",
+			"name": "tables",
+			"label": "Tables",
+			"path": "packs/tables",
+			"type": "RollTable",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -104,13 +116,13 @@
 					"sorting": "a",
 					"color": "#ffffaa",
 					"packs": [
-						"adventures",
 						"actors",
+						"adventures",
 						"items",
+						"journals",
 						"macros",
-						"playlists",
-						"tables",
-						"scenes"
+						"scenes",
+						"tables"
 					],
 					"folders": []
 				}

@@ -31,6 +31,18 @@
 			"flags": {}
 		},
 		{
+			"name": "journals",
+			"label": "Journals",
+			"path": "packs/journals",
+			"type": "JournalEntry",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "morkborg",
+			"flags": {}
+		},
+		{
 			"name": "macros",
 			"label": "Macros",
 			"path": "packs/macros",
@@ -53,10 +65,10 @@
 			"flags": {}
 		},
 		{
-			"name": "tables",
-			"label": "Tables",
-			"path": "packs/tables",
-			"type": "RollTable",
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes",
+			"type": "Scene",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -64,10 +76,10 @@
 			"flags": {}
 		},
 		{
-			"name": "scenes",
-			"label": "Scenes",
-			"path": "packs/scenes",
-			"type": "Scene",
+			"name": "tables",
+			"label": "Tables",
+			"path": "packs/tables",
+			"type": "RollTable",
 			"ownership": {
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
@@ -87,11 +99,11 @@
 					"sorting": "a",
 					"packs": [
 						"adventures",
-						"cards",
+						"journals",
 						"macros",
 						"playlists",
-						"tables",
-						"scenes"
+						"scenes",
+						"tables"
 					],
 					"color": null,
 					"folders": []
