@@ -1,0 +1,102 @@
+name: House Rules
+_id: pH8KjAygWw9ujnfv
+pages:
+  - sort: 100000
+    name: Introduction
+    type: text
+    _id: WfdEFmVvD1xHe9ul
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>These are house rules for Mork Borg meant to tweak the core and make
+        it more interesting.</p><p></p><p>Since it's homebrew, there is a high
+        chance it doesn't work as intended. Don't hesitate to share feedback,
+        suggest changes, new rules, or to even ask for a rule to be completely
+        removed.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1791809335157
+      modifiedTime: 1791809335157
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.WfdEFmVvD1xHe9ul'
+  - sort: 200000
+    name: Combat
+    type: text
+    _id: gPdCvyeARnBdSHAT
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Flanking</h1><p>When fighting in close quarters, the number of
+        combatants affects how hard it is to dodge, move, and attack.</p><p>If
+        two characters of the same disposition (Neutral, Friendly, Hostile) are
+        nearby (melee range) and surrounding a target, it is considered
+        flanked.</p><blockquote><p>To determine if the character is surrounded,
+        draw a line between them, and if any line crosses the target, then it is
+        considered flanked.</p><p>If multiple characters are surrounding a
+        target, as long as one pair is flanking, the target is flanked for all
+        of them.</p></blockquote><p>When attacking someone in melee range that
+        is flanked, reduce the DR to hit by 2.</p><p>If hostile characters are
+        surrounding a player, and one of them attacks the player, increase the
+        DR to defend by 2.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1791809335157
+      modifiedTime: 1791809335157
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.gPdCvyeARnBdSHAT'
+folder: zuNI5rrSukBbrXJI
+categories: []
+sort: 250000
+ownership:
+  default: 2
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1791809335157
+  modifiedTime: 1791809335157
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!journal!pH8KjAygWw9ujnfv'

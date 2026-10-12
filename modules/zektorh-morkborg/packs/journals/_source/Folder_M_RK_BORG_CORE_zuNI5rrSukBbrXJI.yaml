@@ -1,0 +1,20 @@
+name: MÖRK BORG CORE
+sorting: a
+folder: null
+type: JournalEntry
+description: ''
+sort: 100000
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1791809335045
+  modifiedTime: 1791809335186
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  exportSource: null
+_id: zuNI5rrSukBbrXJI
+_key: '!folders!zuNI5rrSukBbrXJI'
