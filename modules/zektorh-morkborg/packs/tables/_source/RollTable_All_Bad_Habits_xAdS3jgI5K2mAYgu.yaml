@@ -1,0 +1,71 @@
+name: All Bad Habits
+_id: xAdS3jgI5K2mAYgu
+img: modules/game-icons-net/whitetransparent/drinking.svg
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    name: Bad Habits
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg-core.core-tables.RollTable.s05SJmFuSMHqfWA3
+    _id: 83gxSlAHd8EW9DE9
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792396397996
+      modifiedTime: 1792396397996
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!xAdS3jgI5K2mAYgu.83gxSlAHd8EW9DE9'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    name: Badder Habits
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg.mork-borg-tables.RollTable.PA5ttbXKQwPmO52P
+    _id: Oqk10Hj0l8FNtoHT
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792396397996
+      modifiedTime: 1792396397996
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!xAdS3jgI5K2mAYgu.Oqk10Hj0l8FNtoHT'
+replacement: true
+displayRoll: true
+folder: null
+ownership:
+  default: 0
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792396397996
+  modifiedTime: 1792396397996
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+sort: 0
+_key: '!tables!xAdS3jgI5K2mAYgu'

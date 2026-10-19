@@ -1,0 +1,35 @@
+name: Fear
+type: feat
+_id: tBL1rtINQZ5w5Hbl
+img: modules/game-icons-net/whitetransparent/evil-eyes.svg
+system:
+  description: >-
+    <p>You are terribly afraid of something, and it shows as &lt;DESCRIBE YOUR
+    HABIT HERE&gt;</p><p>Whenever you come face-to-face with the subject of your
+    fear, your actions are extreme and unmeasured: You run away, get into
+    fights, even turn on your companions, just to avoid dealing with
+    it.</p><hr><p><strong>Edit this description to list the subject of your
+    fear, and your
+    </strong>@UUID[Compendium.zektorh-morkborg.tables.RollTable.xAdS3jgI5K2mAYgu]{All
+    Bad Habits}<strong>.</strong></p>
+  rollFormula: ''
+  rollMacro: ''
+  rollLabel: ''
+effects: []
+folder: SPVH7Lu7NfVk7vcV
+ownership:
+  default: 0
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792396180743
+  modifiedTime: 1792396420592
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 200000
+_key: '!items!tBL1rtINQZ5w5Hbl'

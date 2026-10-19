@@ -31,8 +31,8 @@ pages:
       coreVersion: '14.368'
       systemId: morkborg
       systemVersion: 6.0.1
-      createdTime: 1791809335157
-      modifiedTime: 1791809335157
+      createdTime: 1792396162920
+      modifiedTime: 1792396162920
       lastModifiedBy: oEmfV0SRkLPI8d0g
       compendiumSource: null
       duplicateSource: null
@@ -75,13 +75,58 @@ pages:
       coreVersion: '14.368'
       systemId: morkborg
       systemVersion: 6.0.1
-      createdTime: 1791809335157
-      modifiedTime: 1791809335157
+      createdTime: 1792396162920
+      modifiedTime: 1792396162920
       lastModifiedBy: oEmfV0SRkLPI8d0g
       compendiumSource: null
       duplicateSource: null
       exportSource: null
     _key: '!journal.pages!pH8KjAygWw9ujnfv.gPdCvyeARnBdSHAT'
+  - sort: 300000
+    name: Sanity
+    type: text
+    _id: 1KTXG23BQacuzswX
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>All characters have a SANITY attribute that can range from 2 to
+        -6.</p><p>Whenever something horrific, disturbing (for the character),
+        or incomprehensive happens to a character, they must roll a SANITY tests
+        with DR 12. On a failure, decrease SANITY by 1.</p><p></p><p>Whenever
+        your SANITY is lowered:</p><ul><li><p>If your new SANITY score is at or
+        above 0, you are afraid and/or uncomfortable with something. Act
+        accordingly.</p></li><li><p>If it drops below 0, you gain a new feat
+        representing it. Add a
+        @UUID[Compendium.zektorh-morkborg.items.Item.tBL1rtINQZ5w5Hbl]{Fear} to
+        your character.</p></li><li><p>It it is at or below a -4, you gain a
+        @UUID[Compendium.zektorh-morkborg.items.Item.wotUJ4TjRi4l4TnP]{Extreme
+        Fear} instead.</p></li></ul><p></p><p>If you face the subject of your
+        fears and win (or at least come out whole), gain 1 SANITY.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792396162920
+      modifiedTime: 1792396212152
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.1KTXG23BQacuzswX'
 folder: zuNI5rrSukBbrXJI
 categories: []
 sort: 250000
@@ -93,8 +138,8 @@ _stats:
   coreVersion: '14.368'
   systemId: morkborg
   systemVersion: 6.0.1
-  createdTime: 1791809335157
-  modifiedTime: 1791809335157
+  createdTime: 1792396162920
+  modifiedTime: 1792396162920
   lastModifiedBy: oEmfV0SRkLPI8d0g
   compendiumSource: null
   duplicateSource: null

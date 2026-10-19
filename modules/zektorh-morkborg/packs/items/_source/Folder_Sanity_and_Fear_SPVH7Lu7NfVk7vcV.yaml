@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Sanity and Fear
+color: null
+sorting: a
+_id: SPVH7Lu7NfVk7vcV
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792396185794
+  modifiedTime: 1792396185794
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!SPVH7Lu7NfVk7vcV'
