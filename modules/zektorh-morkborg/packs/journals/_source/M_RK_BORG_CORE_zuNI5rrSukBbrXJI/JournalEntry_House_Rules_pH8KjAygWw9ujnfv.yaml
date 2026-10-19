@@ -30,9 +30,9 @@ pages:
     _stats:
       coreVersion: '14.368'
       systemId: morkborg
-      systemVersion: 6.0.1
-      createdTime: 1792396162920
-      modifiedTime: 1792396162920
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
       lastModifiedBy: oEmfV0SRkLPI8d0g
       compendiumSource: null
       duplicateSource: null
@@ -50,7 +50,7 @@ pages:
     text:
       format: 1
       content: >-
-        <h1>Flanking</h1><p>When fighting in close quarters, the number of
+        <h2>Flanking</h2><p>When fighting in close quarters, the number of
         combatants affects how hard it is to dodge, move, and attack.</p><p>If
         two characters of the same disposition (Neutral, Friendly, Hostile) are
         nearby (melee range) and surrounding a target, it is considered
@@ -74,9 +74,9 @@ pages:
     _stats:
       coreVersion: '14.368'
       systemId: morkborg
-      systemVersion: 6.0.1
-      createdTime: 1792396162920
-      modifiedTime: 1792396162920
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
       lastModifiedBy: oEmfV0SRkLPI8d0g
       compendiumSource: null
       duplicateSource: null
@@ -119,14 +119,136 @@ pages:
     _stats:
       coreVersion: '14.368'
       systemId: morkborg
-      systemVersion: 6.0.1
-      createdTime: 1792396162920
-      modifiedTime: 1792396212152
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
       lastModifiedBy: oEmfV0SRkLPI8d0g
       compendiumSource: null
       duplicateSource: null
       exportSource: null
     _key: '!journal.pages!pH8KjAygWw9ujnfv.1KTXG23BQacuzswX'
+  - sort: 400000
+    name: Powers
+    type: text
+    _id: i8Z3Uvr2BbhHNSe2
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h2>Sacrifice</h2><p>If casting a power fails (but not fumbles), you can
+        push thru and manifest it anyways, at a cost.</p><p>By taking doubling
+        the consequences of the failure, you may cast the spell despite
+        failing.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.i8Z3Uvr2BbhHNSe2'
+  - sort: 500000
+    name: Omens
+    type: text
+    _id: Ii28TUBHiz8hx8Up
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h2>Desperation</h2><p>If the players are desperate and in need of an
+        Omen, but none of them have it, they can bargain with the GM.</p><p>In
+        exchange for an Omen that must be used immediately, the GM rolls a
+        Misery with "The end is night! (d2)" as the frequency.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.Ii28TUBHiz8hx8Up'
+  - sort: 600000
+    name: Ideas
+    type: text
+    _id: 5GcJWq6cOI50qKpH
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>These are incomplete ideas for new rules I have in
+        mind:</p><ul><li><p>Cursed items: When looting graves/corpses, roll
+        1d20. On a 1, the item is cursed. When it gets used for the first time,
+        it fails spectacularly. It then works as intended from that point
+        forwards.</p></li><li><p>Exploding damage: Rolling maximum damage on a
+        attack dice allow you to roll the dice once more.</p></li><li><p>Cleave:
+        If you deal more than 2x the remaining HP of a target, the remaining
+        damage can be transferred to another nearby/adjacent
+        target.</p></li><li><p>Rot: every in-world day, roll 1d6. On a 2 or
+        below, the rations spoil/rot/get infested.</p></li><li><p>Inheritance:
+        When a character dies, the player can roll a new character. If they wish
+        to keep a specific item, they can do so… but must gain an extra Bad
+        Habit or curse.</p></li><li><p>Desperate strike: Reduces DR by 2 when
+        attacking, but all defense rolls until the next turn have their DR
+        increased by 2.</p></li><li><p>Last breath: when a character dies, they
+        get one final attack roll on whoever deal the final strike; or, they
+        frail wildly and everyone nearby must pass a DR12 AGILITY test or get
+        hit with a d4.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      oEmfV0SRkLPI8d0g: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.368'
+      systemId: morkborg
+      systemVersion: 6.0.0
+      createdTime: 1792399720543
+      modifiedTime: 1792399720543
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!pH8KjAygWw9ujnfv.5GcJWq6cOI50qKpH'
 folder: zuNI5rrSukBbrXJI
 categories: []
 sort: 250000
@@ -137,9 +259,9 @@ flags: {}
 _stats:
   coreVersion: '14.368'
   systemId: morkborg
-  systemVersion: 6.0.1
-  createdTime: 1792396162920
-  modifiedTime: 1792396162920
+  systemVersion: 6.0.0
+  createdTime: 1792399720543
+  modifiedTime: 1792399720543
   lastModifiedBy: oEmfV0SRkLPI8d0g
   compendiumSource: null
   duplicateSource: null
