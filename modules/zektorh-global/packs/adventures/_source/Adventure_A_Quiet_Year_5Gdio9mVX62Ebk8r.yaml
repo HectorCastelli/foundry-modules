@@ -1,0 +1,1130 @@
+name: A Quiet Year
+img: null
+caption: A quick collection of tools to setup and run "A Quiet Year" on Foundry VTT.
+description: >-
+  <p>A quick collection of tools to setup and run "A Quiet Year" on Foundry
+  VTT.</p><p></p><p>It uses the built-in cards system, and offers a reference
+  journal with the rules.</p>
+sort: 0
+actors: []
+combats: []
+items: []
+journal:
+  - name: A Quiet Year
+    _id: aCtzgYqgzP5e0f7I
+    pages:
+      - sort: 100000
+        name: Rules
+        type: text
+        _id: sncSlxe4Md40N04X
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>A game by Joe Mcdaldno</p><p>Special thanks to the Patrons of the
+            Seasons:</p><ul><li><p>Cheryl Trooskin-Zoller</p></li><li><p>Dylan
+            Nix</p></li><li><p>Andy Moore</p></li><li><p>Stephen
+            Scapicchio</p></li></ul><h2>What This Is</h2><p>This is a
+            map-drawing game. You collectively explore the struggles of a
+            community, trying to rebuild after the collapse of civilization.
+            It's a game about community, difficult choices, and landscapes. When
+            you play, you make decisions about the community, decisions that get
+            recorded on a map that is constantly evolving. Parts of the map are
+            literal cartography, while other parts are symbolic. Players work
+            together to create and steer this community, but they also play
+            devil's advocate and introduce problems and tensions into the
+            game.</p><h3>Supplies</h3><p>The Quiet Year requires 2-4 players and
+            2-4 hours. In addition, it requires:</p><ul><li><p>A blank piece of
+            letter-sized paper</p></li><li><p>Pencils, erasers, and an index
+            card</p></li><li><p>Six dice (smaller is better)</p></li><li><p>20
+            Contempt Tokens (possibly stones or glass beads)</p></li><li><p>A
+            deck of The Quiet Year cards</p></li><li><p>At least one copy of the
+            summary card</p></li></ul><p>If you don't have a deck of The Quiet
+            Year cards, instead use a deck of regular cards with The Oracle,
+            available at buriedwithoutceremony.com/thequietyear</p><h2>Chapter
+            One: Gather</h2><p><em>As the facilitator, read this entire book and
+            complete the tasks outlined in this chapter prior to inviting others
+            to join you at the table.</em></p><h3>Preparing Your
+            Space</h3><p>Some preparation is required before you are ready to
+            teach The Quiet Year to others. Begin by clearing your table or play
+            space of any unnecessary objects. Aim for a minimal
+            environment.</p><p>Separate the deck into the four suits
+            (representing four seasons). Place each in a separate stack. Place
+            the blank piece of paper in the centre of the table - it will become
+            the map of your area. Around it, array the remaining supplies: the
+            pencils, dice, Contempt tokens, summary cards, and index
+            card.</p><p>Write the following column headings on the long edge of
+            the index card, leaving plenty of space for each: Abundances,
+            Scarcities, and Names.</p><h3>A Fleeting Year</h3><p>A full-length
+            game of The Quiet Year tends to run 3-4 hours including teaching
+            time. If you'd prefer to play a shorter game, you can do so with
+            this adjustment: before play, remove 4 cards from each of the suits
+            (which represent seasons). Make sure to remove the King of Diamonds
+            (Summer), and make sure to keep the King of Spades (Winter) in the
+            cards you play with.</p><h2>Chapter Two: Survey</h2><p><em>As the
+            facilitator, you will read the regular text of this chapter aloud to
+            the group, following the instructions written in
+            italics.</em></p><h3>The Opening Story</h3><p>Read aloud.</p><p>For
+            a long time, we were at war with The Jackals. Now, finally, we've
+            driven them off, and we're left with this: a year of relative peace.
+            One quiet year, with which to build our community up and learn again
+            how to work together. Come Winter, the Frost Shepherds will arrive
+            and we might not survive the encounter. This is when the game will
+            end. But we don't know about that yet. What we know is that right
+            now, in this moment, there is an opportunity to build
+            something.</p><h3>Explaining the Tools</h3><p>Let's start by
+            familiarizing ourselves with our tools.</p><p><em>Point to the blank
+            page.</em> This is our map. Before playing, we'll establish some of
+            the landscape. As we play, we'll update the map to reflect new
+            discoveries, conflicts, and opportunities. Parts of the map will be
+            literal cartography and other parts will be symbolic. We'll try to
+            avoid writing words on it, though common symbols are
+            fine.</p><p>Throughout the game, we'll all be responsible for
+            drawing on this map. It's fine to draw poorly or crudely, but all of
+            us are going to draw.</p><p><em>Point to the dice.</em> These are
+            project dice. When our community starts a project, we'll place one
+            on the map to note how many weeks it will take to finish. Each week,
+            they tick down by one. When a die reaches zero, the project is
+            complete.</p><p><em>Point to the Contempt Tokens.</em> These are
+            Contempt Tokens. They represent any tension and frustration that
+            might arise in the community.</p><p><em>Point to the summary
+            card.</em> This is a summary card. It'll remind us what to do each
+            week of The Quiet Year, and in what order.</p><h3>Explaining the
+            Deck</h3><p>Spring | Summer | Autumn | Winter</p><p><em>Point to the
+            four suits in turn, and explain that they correspond to the four
+            seasons. Taking the stack of spades, show everyone the King of
+            Spades.</em></p><p>When this card is drawn, the game will be over.
+            It could come at any time during Winter.</p><p><em>Shuffle the
+            spades, and place them face-down on the table. Shuffle the clubs,
+            and place them on top. Repeat with diamonds, and finally with
+            hearts. As you shuffle each suit, remind the group of its
+            season.</em></p><h3>Who We Are</h3><p>We all have two roles to play
+            in this game. The first is to represent the community at a bird's
+            eye level, and to care about its fate. The second is to
+            dispassionately introduce dilemmas, as scientists conducting an
+            experiment. The Quiet Year asks us to move in and out of these two
+            roles.</p><p>We don't embody specific characters nor act out scenes.
+            Instead, we represent currents of thought within the community. When
+            we speak or take action, we might be representing a single person or
+            a great many. If we allow ourselves to care about the fate of these
+            people, The Quiet Year becomes a richer experience and serves as a
+            lens for understanding communities in conflict.</p><p>We'll also be
+            presented with opportunities to introduce new issues for the
+            community to deal with. This will often happen when we draw cards or
+            use the Discover Something New action. By dispassionately
+            introducing dilemmas, and then returning to our other role as
+            representatives of the community, we create tension and make the
+            community's successes feel real. If there's an issue you struggle
+            with in real life (like whether violence is ever justified),
+            introduce situations that call it into question.</p><h3>Sketching
+            Terrain</h3><p>Before the game begins, we must establish some facts
+            about the community and what its surroundings are like. We begin
+            with a brief discussion (taking two minutes at most) of the general
+            terrain and habitat of the area. This can be as simple as someone
+            saying, "how about a community in a rocky desert?" and everyone else
+            nodding in agreement. At this point, each of us should introduce one
+            detail about the local terrain. When we introduce our detail, we
+            then sketch our contribution onto the map. These sketches should be
+            rough and simple, leaving lots of blank space for additions during
+            play. The community itself should be fairly large on the map,
+            perhaps occupying a third of the sheet. Unless otherwise stated,
+            assume that our community has 60-80 members.</p><p>As an example, a
+            group might decide to set their game in a forest. The first player
+            introduces the detail: "Alright, the forest is full of young,
+            spindly trees." The next player adds, "And it's nestled within a
+            steep mountain range." The third player adds, "We've taken up
+            residence in an old mining camp." The final player says, "And the
+            trees in this area have all been clearcut." As details are added,
+            the players draw them on the map.</p><p><em>Everyone should
+            introduce a detail and draw it on the map before
+            proceeding.</em></p><h3>Starting Resources</h3><p>Next, we each
+            declare an important resource for the community, something which we
+            might have in either abundance or scarcity.</p><p>Some examples
+            are:</p><ul><li><p>clean drinking water</p></li><li><p>a source of
+            energy</p></li><li><p>protection from
+            predators</p></li><li><p>adequate
+            shelter</p></li><li><p>food</p></li></ul><p>Choosing a resource
+            makes it important, if it wasn't already. If you pick 'gasoline,' it
+            becomes something that your community wants and needs.</p><p>As a
+            group, we now choose one of those resources to be in Abundance. It
+            gets listed on the index card under Abundances, and whoever called
+            it now draws an abundance of this resource on the map. The other
+            resources get listed as Scarcities, and the players who called them
+            draw their absence or scarcity on the map somehow. Remember that
+            symbols and symbolic representations are fine, but words should be
+            avoided.</p><p><em>Have everyone declare a resource and decide which
+            one is in Abundance. Update the map to reflect before
+            proceeding.</em></p><h3>The Week</h3><p>The basic unit of play in
+            The Quiet Year is the week. Each week is a turn taken by one player,
+            with play proceeding clockwise around the table. Weeks should take
+            an average of 2-3 minutes to complete.</p><p>During each week, the
+            following things happen:</p><ul><li><p>The active player draws a
+            card, reads the relevant text aloud, and resolves it. They follow
+            all bold text.</p></li><li><p>Project dice are reduced by 1, and any
+            finished projects are updated.</p></li><li><p>The active player
+            chooses and takes an action (Discover Something New, Hold a
+            Discussion, or Start a Project).</p></li></ul><h2>Chapter Three:
+            Rules</h2><p><em>Pass the book around the table, letting everyone
+            take turns reading these sections aloud to the group. Once you have
+            finished this chapter, begin play.</em></p><h3>Drawing
+            Cards</h3><p>As there are 52 cards, there are 52 weeks. We won't
+            necessarily get to play all of them - the Frost Shepherds could
+            arrive any time during Winter.</p><p>Most cards have two options to
+            choose from, separated by an 'or...' divider. Pick the option that
+            you find the most interesting and fitting, and read the text aloud.
+            The card might ask you a question, bring bad news, or create new
+            opportunities. Many cards have specific rules attached to them,
+            which are written in bold text. If you drew the card, it's up to you
+            to make the decisions that the card requires.</p><p>If a card asks
+            you a question, think about whether your answer could be represented
+            on the map somehow. If it fits, update the map to reflect this new
+            information. For example, if the card asks you about the sleeping
+            quarters for the community, you might end up drawing a row of tents
+            near the edge of the forest.</p><h3>Working on
+            Projects</h3><p>Unless your card specifically told you otherwise (in
+            bold text), the next step is to reduce each project die on the map
+            by 1. If a project reaches 0, the die gets removed and the project
+            is completed. Whoever started the project gets to tell everyone how
+            it turns out, and update the map to reflect its completion.</p><p>If
+            a project finishes early (because a card says that "a project
+            finishes early" in bold text), it is instead the responsibility of
+            the active player to tell everyone how it turns out and to update
+            the map.</p><p>If your card's bold text had you place a project die
+            on the map just a moment ago, that die doesn't reduce during this
+            week. It's just now getting under way.</p><p>When a project gets
+            completed, it is assumed that it went successfully and is beneficial
+            to the community. In some cases, it might make sense to have an
+            investigative project end with a hope dispelled. Even in these
+            cases, the completion of a project should always feel like a step
+            forward, not backward. This doesn't always mean that the whole
+            community is happy with the results, though.</p><h3>Discover
+            Something New</h3><p>One of the action types is Discover Something
+            New. Introduce a new situation. It might be a problem, an
+            opportunity, or a bit of both. Draw that situation onto the map.
+            Drawings should be small and simple: smaller than an inch, finished
+            within thirty seconds.</p><p>Whenever things seem too controlled or
+            easy, we can use this action to introduce new issues and dilemmas.
+            When individual characters get introduced, we'll give them names,
+            and record those names on our index card.</p><p>Some example
+            situations:</p><ul><li><p>There's a dried-up well located at the
+            edge of town.</p></li><li><p>Mangy wolves have been slinking around
+            the woods.</p></li><li><p>There's a broken-down waterwheel a mile
+            upstream.</p></li><li><p>Strange wailing noises come from the forest
+            at night.</p></li><li><p>A self-declared prophet
+            arrives.</p></li></ul><h3>Hold a Discussion</h3><p>Another of the
+            action types is Hold a Discussion. You can choose to open with a
+            question or a declaration. Starting with you and going clockwise,
+            everyone gets to weigh in once, sharing a single argument comprised
+            of 1-2 sentences. If you opened with a question, you get to weigh in
+            last. If you opened with a declaration, that's it for you.</p><p>A
+            discussion never results in a decision or summation process.
+            Everyone weighs in, and then it's over. This is how conversations
+            work in communities: they are untidy and inconclusive
+            affairs.</p><p>Each discussion should be tied to a situation on the
+            map. When a discussion ends, mark the situation it is attached to
+            with a small dot.</p><p>Some example conversations
+            include:</p><ul><li><p>Should we retaliate against the bikers? (Or,
+            if leading with a declaration: We should abstain from retaliation or
+            violence.)</p></li><li><p>Could we use the school-bus as a sleeping
+            area for the village children?</p></li></ul><p>It's important that
+            we stay concise. If any of us feel like we have more to say on a
+            topic, we can always hold another discussion about it at a later
+            point.</p><h3>Start a Project</h3><p>The final action type is Start
+            a Project. You choose a situation and declare what the community
+            will do to resolve it. There is no consultation about this idea -
+            the community simply begins work.</p><p>Some example
+            projects:</p><ul><li><p>We're converting the mineshaft into a cold
+            food storage.</p></li><li><p>We're killing those
+            wolves.</p></li><li><p>We're going to sacrifice a newborn on the
+            night of the full moon, to appease the
+            Windwalkers.</p></li></ul><p>As a group, quickly decide how many
+            weeks the project would reasonably take to complete (minimum 1 and
+            maximum 6). Remember that you are a small community. It isn't easy
+            or quick to build a house or repair a waterwheel. Do you have the
+            necessary tools and expertise to do this? Be generous with your
+            assumptions, but do remember that scarcity and difficulty are the
+            norm. If a project would reasonably take longer than six weeks to
+            complete, it will need to be completed in stages.</p><p>Place a die
+            on the map wherever the project is taking place, with the die face
+            matching the number of weeks it will take to
+            complete.</p><h3>Updating Resources</h3><p>At the start of the game,
+            we'll have one resource in Abundance and at least that many in
+            Scarcity. These lists serve as guides for interpreting the health of
+            the community. Throughout play, we'll update these lists to reflect
+            changes in our circumstances, whenever we feel that it is
+            appropriate to do so. Maybe the completion of a project alleviates a
+            Scarcity or creates an Abundance. Some weekly cards will alter these
+            lists as well.</p><h3>Balancing the Actions</h3><p>Discover
+            Something New lets us introduce new situations and dilemmas into the
+            game. Hold a Discussion lets us all talk about the state of the map
+            and the community. Start a project lets us solve our problems and
+            grow. By respecting this division of purpose, we make sure each week
+            involves making important decisions.</p><p>It's important that we
+            respect the purpose and balance of the three types of action. We
+            shouldn't use Discover Something New to skirt our problems by
+            conveniently encountering the very supplies we lacked. We shouldn't
+            Hold a Discussion about situations we haven't even mentioned or
+            introduced yet.</p><h3>Contempt</h3><p>If ever you feel like you
+            weren't consulted or honoured in a decision-making process, you can
+            take a piece of Contempt and place it in front of you. This is your
+            outlet for expressing disagreement or tension. If someone starts a
+            project that you don't agree with, you don't get to voice your
+            objections or speak out of turn. You are instead invited to take a
+            piece of Contempt.</p><p>Contempt will generally remain in front of
+            players until the end of the game. It will act as a reminder of past
+            contentions. Its primary role is as a social signifier. In addition,
+            you can discard it back into the centre of the table in two ways: by
+            acting selfishly and by diffusing tensions.</p><p>If you ever want
+            to act selfishly, to the known detriment of the community, you can
+            discard a Contempt token to justify your behaviour. You decide
+            whether your behaviour requires justification. This will often
+            trigger others taking Contempt tokens in response.</p><p>If someone
+            else does something that you greatly support, that would mend
+            relationships and rebuild trust, you can discard a Contempt token to
+            demonstrate how they have diffused past
+            tensions.</p><h3>Restraint</h3><p>In playing The Quiet Year, we must
+            refrain from free-wheeling discussion about what to do next. There
+            are specific mechanics in the game for discussing community issues
+            and demonstrating our displeasure. When we play, we won't speak out
+            of turn or attempt to circumnavigate these mechanics. These rules
+            work to demonstrate how difficult it is to engage the entire
+            community in conversation, and how tensions and disagreements tend
+            to linger across weeks or even months.</p><p>We'll also be careful
+            to avoid character narratives. In The Quiet Year, characters will
+            likely emerge who we identify with. They'll have names. They'll be
+            tied into interesting situations on the map. The game will falter,
+            however, if we try to use these mechanics to tell a story about any
+            one of these individuals. As much as possible, we should keep the
+            focus of the game on the community's wants and needs, and the ways
+            that decisions get made about them. We should use named characters
+            to support that larger, bird's eye view and not the other way
+            around.</p><h3>Pacing</h3><p>At the beginning of the game, we'll
+            only have a basic sketch of the landscape. From this humble place, a
+            rich tapestry will emerge. How, and at what pace?</p><p>The cards of
+            Spring will ask us a lot of questions, which will establish more
+            about the landscape and the inner workings of our community. We
+            should use Spring to become familiar with the mechanics and
+            structure of the game. There won't necessarily be a lot of tension
+            or conflict during Spring, and this is fine.</p><p>In Summer, larger
+            threats and greater progress will both emerge. We'll begin to define
+            our community through our actions, and some seeds of discontent will
+            likely be sown. In Autumn, danger and failure become more visible
+            and serious. This will be the most trying season. In Winter, the
+            community will continue its work and preparations, and as players we
+            will contend with the dramatic irony of knowing that the Frost
+            Shepherds could arrive at any moment.</p><p>If ever the map feels
+            lacking or the community seems to have domesticated the world around
+            it, we can introduce new dilemmas. What happens when a child murders
+            his mother? What happens when someone screws up and it costs us a
+            food supply?</p><p>You're ready to start, now. Play to find out what
+            happens.</p><h2>Chapter Four: More</h2><p><em>As the facilitator, be
+            familiar with these sections. During play, you may reference and
+            read sections from it whenever they seem relevant or
+            important.</em></p><h3>Parsing</h3><p>Should you feel that someone
+            has misinterpreted the rules, pause them. Find the relevant section
+            of the text and read it aloud. As much as possible, call attention
+            to how the rules function, rather than why you think a specific
+            player has misused them. Allow players to be the ultimate arbiters
+            of their own contributions.</p><h3>Dividing the
+            Community</h3><p>Sometimes, factions arise within the community and
+            clash in such a way that no resolution seems possible. Circumstances
+            might lead the community to divide itself into two camps, perhaps as
+            a large project. The rules function exactly the same, but player
+            voices might now represent members of neighbouring communities.
+            Contempt can arise both within and between the two communities.
+            Discussions can be held about mutual issues and also the issues
+            specific to each camp.</p><h3>Indoors</h3><p>If your game is set in
+            an underground or indoor environment, some creative interpretations
+            may be necessary for certain cards. For example, 'weather' might
+            refer to air circulation and ground tremors.</p><h3>Weird
+            Artifacts</h3><p>The Quiet Year takes place after the collapse of
+            civilization, which likely means that the landscape is apocalyptic
+            and strange. Players may differ in their preferences concerning how
+            much 'strange' they want introduced into the game. This is
+            especially true for advanced technologies, post-apocalyptic
+            mutations, and supernatural elements. It's a good idea to keep the
+            'strange dial' fixed once the community is midway through Summer.
+            Use the game setup and Spring to establish whether strange elements
+            exist in the game, and then the rest of the year to build on those
+            answers.</p><h3>The Shepherds Arrive</h3><p>During play, it's best
+            to leave the Frost Shepherds an elusive mystery - perhaps hinting at
+            what they might be, but never directly answering. The game ends
+            abruptly when the King of Spades is drawn. The card is read aloud,
+            and the game immediately concludes.</p><p>Once the game is over, it
+            is fine to talk about what the Frost Shepherds might have been, what
+            their arrival might have meant for the community, or any of the
+            other situations that were faced throughout their year. With the
+            game over, the limits placed on communication and discussion are
+            suddenly lifted.</p><h2>Chapter Five: Examples</h2><p><em>These two
+            examples are designed to illustrate how the game works and the
+            mechanics interact with one another. It should be referenced to
+            clear up any confusion that might arise.</em></p><h3>Setting Up: An
+            Example</h3><p>Lisa, Raj, and Kate sit down to play The Quiet Year
+            together. Lisa is facilitating the game, and has already prepared
+            the supplies as instructed in Chapter 1. She invites Raj and Kate to
+            sit down with her.</p><p><strong>Lisa:</strong> Alright. Thanks for
+            agreeing to play this game with me. I'm excited! I'm going to start
+            with reading some text to you, and then we'll collaborate on a few
+            setup activities.</p><p>Lisa reads The Opening Story aloud, and then
+            pauses for a moment to let it sink in. She then moves through the
+            Explaining the Tools section, following the italicized instructions
+            and reading the regular text aloud. She reads aloud Who We Are, and
+            then Sketching Terrain (including the examples). Lisa simply reads
+            this verbatim.</p><p><strong>Lisa:</strong> Alright, so where are we
+            situated? What ideas do you two have?</p><p><strong>Raj:</strong> My
+            first thought is that it'd be interesting to put ourselves next to
+            the coast. Somewhere wet and windy.</p><p><strong>Lisa:</strong> I
+            think that's great. I'd also be into setting it in a thick wooded
+            area, like a mountain forest. Kate?</p><p><strong>Kate:</strong> I'm
+            into the coast. Let's go with that. For details: maybe our community
+            is built right next to a wide inlet.</p><p>Kate quickly sketches an
+            inlet, and draws some crude waves to indicate which part is
+            water.</p><p><strong>Raj:</strong> I'd like it if there was a
+            lighthouse, and maybe a small storehouse attached to it.</p><p>Raj
+            sketches a three-quarter view of a lighthouse, and puts a small
+            rectangle next to it, depicting the
+            storehouse.</p><p><strong>Lisa:</strong> Alright, that leaves me. I
+            want the area just inland of the lighthouse to be swampy and full of
+            tall grasses. That's where the inlet leads.</p><p>Lisa draws some
+            wavy lines and light shading to indicate bog, and draws a couple
+            grass clumps. Having finished sketching the initial landscape, she
+            moves on to read the Starting Resources
+            section.</p><p><strong>Lisa:</strong> Remember that these resources
+            we name might be in Scarcity or in
+            Abundance.</p><p><strong>Raj:</strong> I choose
+            fish.</p><p><strong>Lisa:</strong> I'm going with drinkable water as
+            mine.</p><p><strong>Kate:</strong> And I'll go with textiles, if
+            that's good with both of you.</p><p><strong>Lisa:</strong> That's
+            great. Fish, drinkable water, and textiles. Of those three, which
+            one do we have in Abundance?</p><p>The players all agree that it'd
+            be most interesting to have an Abundance of textiles, and a Scarcity
+            of both fish and drinkable water. What a peculiar situation for a
+            coastal community! The three choices get recorded on the index card.
+            Kate draws a little cross-hatched blanket next to the storehouse, to
+            indicate an Abundance of textiles. The blanket and the storehouse
+            are almost the same size, which is totally fine. Lisa draws an empty
+            water glass next to the inlet, to represent a Scarcity of drinkable
+            water. Raj draws a fish skeleton in the water, to indicate a
+            Scarcity of fish.</p><p><strong>Lisa:</strong> Alright! We've got
+            our community established at this point. We're around 60-80 people,
+            living on the coast, rich in textiles, but without fish or drinkable
+            water. There's some intriguing stuff here. Now we turn to chapter
+            three in the book, where we take turns reading sections of the rules
+            aloud. A few pages of that, and then we'll be set to play. Who wants
+            to read first?</p><p>Kate takes the book, and begins reading the
+            section titled The Week. She then passes the book around the
+            table.</p><h3>Three Weeks of Play</h3><p>It's mid-Summer, and Raj is
+            now the active player. He begins by drawing a card from the top of
+            the deck. It's the 7 of Diamonds (Summer). There are two options
+            written on it. He doesn't choose: "An unattended situation becomes
+            problematic and scary. What is it? How does it go
+            awry?"</p><p><strong>Raj:</strong> "Introduce a mystery at the edge
+            of the map." Alright, a young boy is out searching around in the
+            bog, and discovers a weird skeleton. He pulls it out of the mud with
+            the help of his friends. It's sort of like an alligator, except its
+            limbs are articulated in too many places and it's got too many eye
+            sockets. A mutant, maybe?</p><p>Raj spends about 25 seconds drawing
+            a weird animal spine over by the bogs. His picture is less than half
+            an inch wide. He glances at The Summary card momentarily. The next
+            step is to reduce project dice. There are two dice sitting on the
+            map, set to 3 and 2. Each of those dice is linked to a project that
+            the community is working on. Raj knocks them both down by
+            1.</p><p><strong>Raj:</strong> For my action, I'm going to Hold a
+            Discussion. I'll lead with a question: "When we've finished the boat
+            repair project, will we resume our scouting endeavors? Or is that
+            too dangerous now?"</p><p>Everyone gets to weigh in once, with a
+            single response.</p><p><strong>Lisa:</strong> I think that recon
+            will keep us safe in the long run, so it's worth a bit of short-term
+            risk.</p><p><strong>Kate:</strong> No. If we incite the wrath of
+            another pirate fleet, it could spell ruin for our
+            community.</p><p><strong>Raj:</strong> I think we should focus
+            energy on establishing coastal sentries, but keep our boats in safer
+            waters.</p><p>Raj marks the docks with a dot, to indicate the
+            discussion. That concludes the week. It's Lisa's week next, and she
+            draws the 9. She chooses one of the two options to read
+            aloud.</p><p><strong>Lisa:</strong> Uh oh, guys. "A project fails.
+            Which one? Why?" The boat is more important in the long run, I
+            think. So the 'sun shrine' project gets nixed. Several people decide
+            that we can't spare the heavy canvas or the wood that we were using
+            to build it, so they disassemble whats been done.</p><p>Lisa removes
+            one of the dice from the map. Raj and Kate don't get to talk about
+            Lisa's decision, because it isn't their turn and this isn't a
+            discussion. They do have the option of taking Contempt, though,
+            which Kate does. She doesn't feel honoured by the actions of those
+            community members. Lisa knocks the remaining die from 2 to 1. The
+            boat repair will be finished next week.</p><p><strong>Lisa:</strong>
+            Okay. For my weekly action, I'm going to Start a project. We've been
+            afraid of these marauding pirates for a while now, and some defences
+            would be good. So we'll train some sentries and arm them with
+            whatever we found in that army jeep. How long will this
+            take?</p><p>The players quickly agree that this seems like it'd
+            logically be a 2 week project. Lisa places a die marked "2" next to
+            the jeep icon, because that seems like a fitting place to anchor the
+            project. Once again, there is no room to protest the launch of this
+            project, though Raj and Kate both have the opportunity to take
+            Contempt. Neither do so.</p><p>Finally, it's Kate's turn. She draws
+            the 2 of Diamonds (Summer), and chooses one of the two
+            options.</p><p><strong>Kate:</strong> Alright: "Someone new arrives.
+            Who? Why are they in distress?" I think a lone man washes up on the
+            shore, starving and delirious. He'd been held captive on one of the
+            pirate ships, and managed to escape only by diving overboard and
+            swimming toward the shore. We greet him with what little food we can
+            spare.</p><p>Kate draws a little stick figure man. The next step is
+            to reduce the project dice on the board. The boat repair project
+            finishes and the sentries project has 1 week
+            remaining.</p><p><strong>Lisa:</strong> Alright, I started that boat
+            project, a month ago now. How does it turn out? Well, we managed to
+            patch the crack in its hull, and furthermore seal the whole
+            underside. It's seaworthy again.</p><p>Lisa updates the map by
+            drawing a pristine boat picture, next to the previously-crossed-out
+            boat picture.</p><p><strong>Kate:</strong> And now my action. I'm
+            going to Discover Something New. Once we get the boat out into the
+            water again, we discover that a strange sea plant is in bloom,
+            submerged just below the water's surface. It is spiny and fuchsia.
+            Nobody's sure what to do with it yet.</p><p>She draws a few
+            squiggles in the water to represent this mysterious new plant. This
+            concludes her turn. Each of these turns took 2-3 minutes to
+            complete. This entire example spans 7-8 minutes of play.</p><p>For
+            more on The Quiet Year, including a small collection of quickstart
+            Charted Areas maps, visit <a
+            href="http://www.buriedwithoutceremony.com/thequietyear">www.buriedwithoutceremony.com/thequietyear</a></p><h2>Spring</h2><table><tbody><tr><th><p>Card</p></th><th><p>Option
+            A</p></th><th><p>Option
+            B</p></th></tr><tr><td><p>A</p></td><td><p>What group has the
+            highest status in the community? What must people do to gain
+            inclusion in this group?</p></td><td><p>Are there distinct family
+            units in the community? If so, what family structures are
+            common?</p></td></tr><tr><td><p>2</p></td><td><p>There's a large
+            body of water on the map. Where is it? What does it look
+            like?</p></td><td><p>There's a giant, man-made structure on the map.
+            Where is it? Why is it
+            abandoned?</p></td></tr><tr><td><p>3</p></td><td><p>Someone new
+            arrives. Who?</p></td><td><p>Two of the community's younger members
+            get into a fight. What provoked
+            them?</p></td></tr><tr><td><p>4</p></td><td><p>What important and
+            basic tools does the community lack?</p></td><td><p>Where are you
+            storing your food? Why is this a risky place to store
+            things?</p></td></tr><tr><td><p>5</p></td><td><p>There is a
+            disquieting legend about this place. What is
+            it?</p></td><td><p>Alarming weather patterns destroy something. How
+            and what?</p></td></tr><tr><td><p>6</p></td><td><p>Are there
+            children in your community? If there are, what is their role in the
+            community?</p></td><td><p>How old are the eldest members of the
+            community? What special needs do they
+            have?</p></td></tr><tr><td><p>7</p></td><td><p>Where does everyone
+            sleep? Who is unhappy with this arrangement, and
+            why?</p></td><td><p>What natural predators roam this area? Are you
+            safe?</p></td></tr><tr><td><p>8</p></td><td><p>An old piece of
+            machinery is discovered, broken but perhaps repairable. What is it?
+            What would it be useful for?</p></td><td><p>An old piece of
+            machinery is discovered, cursed and dangerous. How does the
+            community destroy it?</p></td></tr><tr><td><p>9</p></td><td><p>A
+            charismatic young girl convinces many to help her with an elaborate
+            scheme. What is it? Who joins her endeavors? Start a project to
+            reflect.</p></td><td><p>A charismatic young girl tries to tempt many
+            into sinful or dangerous activity. Why does she do this? How does
+            the community
+            respond?</p></td></tr><tr><td><p>10</p></td><td><p>There's another
+            community somewhere on the map. Where are they? What sets them apart
+            from you?</p></td><td><p>What belief or practice helps to unify your
+            community?</p></td></tr><tr><td><p>J</p></td><td><p>You see a good
+            omen. What is it?</p></td><td><p>You see a bad omen. What is
+            it?</p></td></tr><tr><td><p>Q</p></td><td><p>What's the most
+            beautiful thing in this area?</p></td><td><p>What's the most hideous
+            thing in this area?</p></td></tr><tr><td><p>K</p></td><td><p>A young
+            boy starts digging in the ground, and discovers something
+            unexpected. What is it?</p></td><td><p>An old man confesses to past
+            crimes and atrocities. What has he
+            done?</p></td></tr></tbody></table><h2>Summer</h2><table><tbody><tr><th><p>Card</p></th><th><p>Option
+            A</p></th><th><p>Option B</p></th></tr><tr><td><p>A</p></td><td><p>A
+            contingent within the community demand to be heard. Who are they?
+            What are they asking for?</p></td><td><p>A contingent within the
+            community have acted on their frustrations. What have they damaged,
+            and why did they damage it? Is it
+            permanent?</p></td></tr><tr><td><p>2</p></td><td><p>Someone new
+            arrives. Who? Why are they in distress?</p></td><td><p>Someone
+            leaves the community. Who? What are they looking
+            for?</p></td></tr><tr><td><p>3</p></td><td><p>Summer is a time for
+            production and tending to the earth. Start a project related to food
+            production.</p></td><td><p>Summer is a time for conquest and the
+            gathering of might. Start a project related to military readiness
+            and conquest.</p></td></tr><tr><td><p>4</p></td><td><p>The eldest
+            among you dies. What caused the death?</p></td><td><p>The eldest
+            among you is very sick. Caring for them and searching for a cure
+            requires the help of the entire community. <strong>Do not reduce
+            project dice this
+            week.</strong></p></td></tr><tr><td><p>5</p></td><td><p>A project
+            finishes early. What led to its early completion?</p></td><td><p>The
+            weather is nice and people can feel the potential all around them.
+            Start a new
+            project.</p></td></tr><tr><td><p>6</p></td><td><p>Outsiders arrive
+            in the area. Why are they a threat? How are they
+            vulnerable?</p></td><td><p>Outsiders arrive in the area. How many?
+            How are they
+            greeted?</p></td></tr><tr><td><p>7</p></td><td><p>Introduce a
+            mystery at the edge of the map.</p></td><td><p>An unattended
+            situation becomes problematic and scary. What is it? How does it go
+            awry?</p></td></tr><tr><td><p>8</p></td><td><p>Someone tries to take
+            control of the community by force. Do they succeed? Why do they do
+            this?</p></td><td><p>A headstrong community member decides to put
+            one of their ideas in motion. Start a foolish
+            project.</p></td></tr><tr><td><p>9</p></td><td><p>A project fails.
+            Which one? Why?</p></td><td><p>Something goes foul and supplies are
+            ruined. Add a new
+            Scarcity.</p></td></tr><tr><td><p>10</p></td><td><p>You discover a
+            cache of supplies or resources. Add a new
+            Abundance.</p></td><td><p>A Scarcity has gone unaddressed for too
+            long! Start a project that will alleviate that
+            Scarcity.</p></td></tr><tr><td><p>J</p></td><td><p>Predators and bad
+            omens are afoot. You are careless, and someone goes missing under
+            ominous circumstances. Who?</p></td><td><p>Predators and bad omens
+            are afoot. What measures do you take to keep everyone safe and under
+            surveillance? <strong>Do not reduce project dice this
+            week.</strong></p></td></tr><tr><td><p>Q</p></td><td><p>A project
+            finishes early. Which one? Why?</p></td><td><p>If there are no
+            projects underway, boredom leads to quarrel. A fight breaks out
+            between two people. What is it
+            about?</p></td></tr><tr><td><p>K</p></td><td colspan="2"><p>Summer
+            is fleeting. Discard the top two cards off the top of the deck and
+            take two actions this
+            week.</p></td></tr></tbody></table><h2>Autumn</h2><table><tbody><tr><th><p>Card</p></th><th><p>Option
+            A</p></th><th><p>Option
+            B</p></th></tr><tr><td><p>A</p></td><td><p>The community becomes
+            obsessed with a single project. Which one? Why? Choose
+            one:</p><ul><li><p>They decide to take more time to ensure that it
+            is perfect. Add 3 weeks to the project die.</p></li><li><p>They drop
+            everything else to work on it. All other projects
+            fail.</p></li></ul></td><td><p>If there are no projects underway,
+            the community becomes obsessed with a grandiose vision. Hold a
+            discussion about this vision, in addition to your regular action for
+            the week.</p></td></tr><tr><td><p>2</p></td><td><p>Someone returns
+            to the community. Who? Where were they?</p></td><td><p>You find a
+            body. Do people recognize who it is? What
+            happened?</p></td></tr><tr><td><p>3</p></td><td><p>Someone leaves
+            the community after issuing a dire warning. Who? What is the
+            warning?</p></td><td><p>Someone issues a dire warning, and the
+            community leaps into action to avoid disaster. What is the warning?
+            Start a contentious project that relates to
+            it.</p></td></tr><tr><td><p>4</p></td><td><p>The strongest among you
+            dies. What caused the death?</p></td><td><p>The weakest among you
+            dies. Who's to blame for their
+            death?</p></td></tr><tr><td><p>5</p></td><td><p>The Parish arrives.
+            Who are they? Why have they chosen your community, and for
+            what?</p></td><td><p>A small gang of marauders is making its way
+            through local terrain. How many are there? What weapons do they
+            carry?</p></td></tr><tr><td><p>6</p></td><td><p>Introduce a dark
+            mystery among the members of the community.</p></td><td><p>Conflict
+            flares up among community members, and as a result, a project
+            fails.</p></td></tr><tr><td><p>7</p></td><td><p>A project just isn't
+            working out as expected. Radically change the nature of this project
+            (don't modify the project die). When it resolves, you'll be
+            responsible for telling the community how it
+            went.</p></td><td><p>Something goes foul and supplies are ruined.
+            Add a new Scarcity.</p></td></tr><tr><td><p>8</p></td><td><p>Someone
+            sabotages a project, and the project fails as a result. Who did
+            this? Why?</p></td><td><p>Someone is caught trying to sabotage the
+            efforts of the community. How does the community
+            respond?</p></td></tr><tr><td><p>9</p></td><td><p>The community
+            works constantly and as a result a project finishes
+            early.</p></td><td><p>A group goes out to explore the map more
+            thoroughly, and finds something that had been previously
+            overlooked.</p></td></tr><tr><td><p>10</p></td><td><p>Harvest is
+            here and plentiful. Add an Abundance.</p></td><td><p>Cold autumn
+            winds drive out your enemies. Remove a threatening force from the
+            map and the area.</p></td></tr><tr><td><p>J</p></td><td><p>A project
+            finishes early. Which one? Why?</p></td><td><p>If there are no
+            projects underway, restlessness creates animosity, and animosity
+            leads to violence. Who gets
+            hurt?</p></td></tr><tr><td><p>Q</p></td><td colspan="2"><p>Disease
+            spreads through the community. Choose one:</p><ul><li><p>You spend
+            the week quarantining and treating the disease. <strong>Project dice
+            are not reduced this week.</strong></p></li><li><p>Nobody knows what
+            to do about it. Add "Health and Fertility" as a
+            Scarcity.</p></li></ul></td></tr><tr><td><p>K</p></td><td
+            colspan="2"><p>A natural disaster strikes the area. What is it?
+            Choose one:</p><ul><li><p>You focus on getting everyone to safety.
+            Remove an Abundance and a project fails.</p></li><li><p>You focus on
+            protecting your supplies and hard work at any cost. Several people
+            die as a
+            result.</p></li></ul></td></tr></tbody></table><h2>Winter</h2><table><tbody><tr><th><p>Card</p></th><th><p>Option
+            A</p></th><th><p>Option
+            B</p></th></tr><tr><td><p>A</p></td><td><p>Now is the time to
+            conserve energy and resources. A project fails, but gain an
+            Abundance.</p></td><td><p>Now is the time for hurried labour and
+            final efforts. A project finishes early, but gain a
+            Scarcity.</p></td></tr><tr><td><p>2</p></td><td><p>A headstrong
+            community member takes charge of the community's work efforts. A
+            project fails, and then a different project finishes
+            early.</p></td><td><p>A headstrong community member tries to take
+            control of the community. How are they prevented from doing this?
+            Due to the conflict, <strong>project dice are not reduced this
+            week.</strong></p></td></tr><tr><td><p>3</p></td><td><p>Someone
+            comes up with a plan to ensure safety and comfort during the coldest
+            months. Start a project related to this.</p></td><td><p>Someone
+            comes up with an ingenious solution to a big problem and as a result
+            a project finishes early. What was their
+            idea?</p></td></tr><tr><td><p>4</p></td><td><p>All the animals and
+            young children are crying and won't stop. Hold a discussion about
+            this, in addition to your regular action for the
+            week.</p></td><td><p>Winter elements leave everyone cold, tired, and
+            miserable. <strong>Project dice are not reduced this
+            week.</strong></p></td></tr><tr><td><p>5</p></td><td><p>Winter
+            elements destroy a food source. If this was your only food source,
+            add a Scarcity.</p></td><td><p>A great atrocity is revealed. What is
+            it? Who uncovers it?</p></td></tr><tr><td><p>6</p></td><td><p>The
+            time has come to consolidate your efforts and your borders. Projects
+            located outside the settlement fail, and all remaining projects are
+            reduced by 2 this week.</p></td><td><p>Someone finds a curious
+            opportunity on the edge of the map. Start a project related to this
+            discovery.</p></td></tr><tr><td><p>7</p></td><td colspan="2"><p>What
+            is winter like in this area? How do community members react to the
+            weather?</p></td></tr><tr><td><p>8</p></td><td colspan="2"><p>Winter
+            is harsh, and desperation gives rise to fear mongering. Choose
+            one:</p><ul><li><p>Spend the week calming the masses and dispelling
+            their violent sentiments. The week ends
+            immediately.</p></li><li><p>Declare war on someone or something.
+            This counts as starting a
+            project.</p></li></ul></td></tr><tr><td><p>9</p></td><td
+            colspan="2"><p>Someone goes missing. They're alone in the winter
+            elements. Choose one:</p><ul><li><p>The community organizes constant
+            search parties and eventually the person is found. <strong>Project
+            dice are not reduced this week.</strong></p></li><li><p>No one ever
+            hears from that person
+            again.</p></li></ul></td></tr><tr><td><p>10</p></td><td
+            colspan="2"><p>In preparation for the coming year, the community
+            begins a huge undertaking. Start a project that will take at least 5
+            weeks to complete.</p></td></tr><tr><td><p>J</p></td><td
+            colspan="2"><p>An infected outsider arrives, seeking amnesty. They
+            have some much-needed resources with them. Choose
+            one:</p><ul><li><p>Welcome them into the community. Remove a
+            Scarcity, but also introduce an infection into the
+            community.</p></li><li><p>Bar them from entry. What Scarcity could
+            they have addressed? How does its need become more dire this
+            week?</p></li></ul></td></tr><tr><td><p>Q</p></td><td
+            colspan="2"><p>You see a good omen. What is
+            it?</p></td></tr><tr><td><p>K</p></td><td colspan="2"><p>The Frost
+            Shepherds arrive. The game is
+            over.</p></td></tr></tbody></table><h2>Reference
+            Cards</h2><h3>Before Playing...</h3><p><strong>Prepare the
+            Deck</strong><br>Separate and shuffle each suit. Place the seasons
+            on top of one another, in order.</p><p><strong>Sketching
+            Terrain</strong><br>Briefly discuss the area where your game will be
+            set. Then, each player introduces one detail about the area, and
+            draws it on the map.</p><p><strong>Starting
+            Resources</strong><br>Each player declares an important resource for
+            the community. Collectively decide which one is in Abundance. The
+            rest are in Scarcity. Record Abundances and Scarcities on an index
+            card, as well as drawing them onto the map.</p><h3>Each
+            Week</h3><ul><li><p>The active player draws a card and interprets
+            it. Follow all bold instructions.</p></li><li><p>All project dice
+            are reduced by one. Finished projects are updated on the
+            map.</p></li><li><p>The active player takes an action (see
+            right).</p></li></ul><h3>Actions</h3><p><strong>Discover Something
+            New</strong><br>Introduce a new situation, and draw it onto the
+            map.</p><p><strong>Hold a Discussion</strong><br>Choose a topic.
+            Everyone gets to weigh in once.</p><p><strong>Start a
+            Project</strong><br>State a project that the community is starting.
+            As a group, decide its duration.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: 1792610009443
+          modifiedTime: 1792610009443
+          lastModifiedBy: fxKESTgEBpcOTrSl
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+    folder: null
+    categories: []
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+scenes: []
+tables: []
+macros:
+  - name: Setup Deck and Table
+    type: script
+    _id: zxjLHyOtQWTMMGNA
+    img: modules/game-icons-net/whitetransparent/tabletop-players.svg
+    scope: global
+    command: |-
+      (async () => {
+        const folderName = "The Quiet Year";
+        
+        // 1. Get or create "The Quiet Year" folder for Cards
+        let folder = game.folders.find(f => f.name === folderName && f.type === "Cards");
+        if (!folder) {
+          folder = await Folder.create({
+            name: folderName,
+            type: "Cards"
+          });
+          ui.notifications.info(`Created Folder: "${folderName}"`);
+        }
+
+        const quietYearData = [
+          {
+            season: "Spring",
+            suit: "Hearts",
+            cards: [
+              { rank: 1, name: "Ace of Hearts", options: ["What group has the highest status in the community? What must people do to gain inclusion in this group?", "Are there distinct family units in the community? If so, what family structures are common?"] },
+              { rank: 2, name: "2 of Hearts", options: ["There's a large body of water on the map. Where is it? What does it look like?", "There's a giant, man-made structure on the map. Where is it? Why is it abandoned?"] },
+              { rank: 3, name: "3 of Hearts", options: ["Someone new arrives. Who?", "Two of the community's younger members get into a fight. What provoked them?"] },
+              { rank: 4, name: "4 of Hearts", options: ["What important and basic tools does the community lack?", "Where are you storing your food? Why is this a risky place to store things?"] },
+              { rank: 5, name: "5 of Hearts", options: ["There is a disquieting legend about this place. What is it?", "Alarming weather patterns destroy something. How and what?"] },
+              { rank: 6, name: "6 of Hearts", options: ["Are there children in your community? If there are, what is their role in the community?", "How old are the eldest members of the community? What special needs do they have?"] },
+              { rank: 7, name: "7 of Hearts", options: ["Where does everyone sleep? Who is unhappy with this arrangement, and why?", "What natural predators roam this area? Are you safe?"] },
+              { rank: 8, name: "8 of Hearts", options: ["An old piece of machinery is discovered, broken but perhaps repairable. What is it? What would it be useful for?", "An old piece of machinery is discovered, cursed and dangerous. How does the community destroy it?"] },
+              { rank: 9, name: "9 of Hearts", options: ["A charismatic young girl convinces many to help her with an elaborate scheme. What is it? Who joins her endeavors? Start a project to reflect.", "A charismatic young girl tries to tempt many into sinful or dangerous activity. Why does she do this? How does the community respond?"] },
+              { rank: 10, name: "10 of Hearts", options: ["There's another community somewhere on the map. Where are they? What sets them apart from you?", "What belief or practice helps to unify your community?"] },
+              { rank: 11, name: "Jack of Hearts", options: ["You see a bad omen. What is it?"] },
+              { rank: 12, name: "Queen of Hearts", options: ["You see a good omen. What is it?", "What's the most beautiful thing in this area?"] },
+              { rank: 13, name: "King of Hearts", options: ["What's the most hideous thing in this area?", "A young boy starts digging in the ground, and discovers something unexpected. What is it?", "An old man confesses to past crimes and atrocities. What has he done?"] }
+            ]
+          },
+          {
+            season: "Summer",
+            suit: "Diamonds",
+            cards: [
+              { rank: 1, name: "Ace of Diamonds", options: ["A contingent within the community demand to be heard. Who are they? What are they asking for?", "A contingent within the community have acted on their frustrations. What have they damaged, and why did they damage it? Is it permanent?"] },
+              { rank: 2, name: "2 of Diamonds", options: ["Someone new arrives. Who? Why are they in distress?", "Someone leaves the community. Who? What are they looking for?"] },
+              { rank: 3, name: "3 of Diamonds", options: ["Summer is a time for production and tending to the earth. Start a project related to food production.", "Summer is a time for conquest and the gathering of might. Start a project related to military readiness and conquest."] },
+              { rank: 4, name: "4 of Diamonds", options: ["The eldest among you dies. What caused the death?", "The eldest among you is very sick. Caring for them and searching for a cure requires the help of the entire community. Do not reduce project dice this week."] },
+              { rank: 5, name: "5 of Diamonds", options: ["A project finishes early. What led to its early completion?", "The weather is nice and people can feel the potential all around them. Start a new project."] },
+              { rank: 6, name: "6 of Diamonds", options: ["Outsiders arrive in the area. Why are they a threat? How are they vulnerable?", "Outsiders arrive in the area. How many? How are they greeted?"] },
+              { rank: 7, name: "7 of Diamonds", options: ["Introduce a mystery at the edge of the map.", "An unattended situation becomes problematic and scary. What is it? How does it go awry?"] },
+              { rank: 8, name: "8 of Diamonds", options: ["Someone tries to take control of the community by force. Do they succeed? Why do they do this?", "A headstrong community member decides to put one of their ideas in motion. Start a foolish project."] },
+              { rank: 9, name: "9 of Diamonds", options: ["A project fails. Which one? Why?", "Something goes foul and supplies are ruined. Add a new Scarcity."] },
+              { rank: 10, name: "10 of Diamonds", options: ["You discover a cache of supplies or resources. Add a new Abundance.", "A Scarcity has gone unaddressed for too long! Start a project that will alleviate that Scarcity."] },
+              { rank: 11, name: "Jack of Diamonds", options: ["Predators and bad omens are afoot. You are careless, and someone goes missing under ominous circumstances. Who?", "Predators and bad omens are afoot. What measures do you take to keep everyone safe and under surveillance? Do not reduce project dice this week."] },
+              { rank: 12, name: "Queen of Diamonds", options: ["A project finishes early. Which one? Why?", "If there are no projects underway, boredom leads to quarrel. A fight breaks out between two people. What is it about?"] },
+              { rank: 13, name: "King of Diamonds", options: ["Summer is fleeting. Discard the top two cards off the top of the deck and take two actions this week."] }
+            ]
+          },
+          {
+            season: "Autumn",
+            suit: "Clubs",
+            cards: [
+              { rank: 1, name: "Ace of Clubs", options: ["The community becomes obsessed with a single project. Which one? Why? Choose one:\n• They decide to take more time to ensure that it is perfect. Add 3 weeks to the project die.\n• They drop everything else to work on it. All other projects fail.\nIf there are no projects underway, the community becomes obsessed with a grandiose vision. Hold a discussion about this vision, in addition to your regular action for the week."] },
+              { rank: 2, name: "2 of Clubs", options: ["Someone returns to the community. Who? Where were they?", "You find a body. Do people recognize who it is? What happened?"] },
+              { rank: 3, name: "3 of Clubs", options: ["Someone leaves the community after issuing a dire warning. Who? What is the warning?", "Someone issues a dire warning, and the community leaps into action to avoid disaster. What is the warning? Start a contentious project that relates to it."] },
+              { rank: 4, name: "4 of Clubs", options: ["The strongest among you dies. What caused the death?", "The weakest among you dies. Who's to blame for their death?"] },
+              { rank: 5, name: "5 of Clubs", options: ["The Parish arrives. Who are they? Why have they chosen your community, and for what?", "A small gang of marauders is making its way through local terrain. How many are there? What weapons do they carry?"] },
+              { rank: 6, name: "6 of Clubs", options: ["Introduce a dark mystery among the members of the community.", "Conflict flares up among community members, and as a result, a project fails."] },
+              { rank: 7, name: "7 of Clubs", options: ["A project just isn't working out as expected. Radically change the nature of this project (don't modify the project die). When it resolves, you'll be responsible for telling the community how it went.", "Something goes foul and supplies are ruined. Add a new Scarcity."] },
+              { rank: 8, name: "8 of Clubs", options: ["Someone sabotages a project, and the project fails as a result. Who did this? Why?", "Someone is caught trying to sabotage the efforts of the community. How does the community respond?"] },
+              { rank: 9, name: "9 of Clubs", options: ["The community works constantly and as a result a project finishes early.", "A group goes out to explore the map more thoroughly, and finds something that had been previously overlooked."] },
+              { rank: 10, name: "10 of Clubs", options: ["Harvest is here and plentiful. Add an Abundance.", "Cold autumn winds drive out your enemies. Remove a threatening force from the map and the area."] },
+              { rank: 11, name: "Jack of Clubs", options: ["A project finishes early. Which one? Why?", "If there are no projects underway, restlessness creates animosity, and animosity leads to violence. Who gets hurt?"] },
+              { rank: 12, name: "Queen of Clubs", options: ["Disease spreads through the community. Choose one:\n• You spend the week quarantining and treating the disease. Project dice are not reduced this week.\n• Nobody knows what to do about it. Add \"Health and Fertility\" as a Scarcity."] },
+              { rank: 13, name: "King of Clubs", options: ["A natural disaster strikes the area. What is it? Choose one:\n• You focus on getting everyone to safety. Remove an Abundance and a project fails.\n• You focus on protecting your supplies and hard work at any cost. Several people die as a result."] }
+            ]
+          },
+          {
+            season: "Winter",
+            suit: "Spades",
+            cards: [
+              { rank: 1, name: "Ace of Spades", options: ["Now is the time to conserve energy and resources. A project fails, but gain an Abundance.", "Now is the time for hurried labour and final efforts. A project finishes early, but gain a Scarcity."] },
+              { rank: 2, name: "2 of Spades", options: ["A headstrong community member takes charge of the community's work efforts. A project fails, and then a different project finishes early.", "A headstrong community member tries to take control of the community. How are they prevented from doing this? Due to the conflict, project dice are not reduced this week."] },
+              { rank: 3, name: "3 of Spades", options: ["Someone comes up with a plan to ensure safety and comfort during the coldest months. Start a project related to this.", "Someone comes up with an ingenious solution to a big problem and as a result a project finishes early. What was their idea?"] },
+              { rank: 4, name: "4 of Spades", options: ["All the animals and young children are crying and won't stop. Hold a discussion about this, in addition to your regular action for the week.", "Winter elements leave everyone cold, tired, and miserable. Project dice are not reduced this week."] },
+              { rank: 5, name: "5 of Spades", options: ["Winter elements destroy a food source. If this was your only food source, add a Scarcity.", "A great atrocity is revealed. What is it? Who uncovers it?"] },
+              { rank: 6, name: "6 of Spades", options: ["The time has come to consolidate your efforts and your borders. Projects located outside the settlement fail, and all remaining projects are reduced by 2 this week.", "Someone finds a curious opportunity on the edge of the map. Start a project related to this discovery."] },
+              { rank: 7, name: "7 of Spades", options: ["What is winter like in this area? How do community members react to the weather?"] },
+              { rank: 8, name: "8 of Spades", options: ["Winter is harsh, and desperation gives rise to fear mongering. Choose one:\n• Spend the week calming the masses and dispelling their violent sentiments. The week ends immediately.\n• Declare war on someone or something. This counts as starting a project."] },
+              { rank: 9, name: "9 of Spades", options: ["Someone goes missing. They're alone in the winter elements. Choose one:\n• The community organizes constant search parties and eventually the person is found. Project dice are not reduced this week.\n• No one ever hears from that person again."] },
+              { rank: 10, name: "10 of Spades", options: ["In preparation for the coming year, the community begins a huge undertaking. Start a project that will take at least 5 weeks to complete."] },
+              { rank: 11, name: "Jack of Spades", options: ["An infected outsider arrives, seeking amnesty. They have some much-needed resources with them. Choose one:\n• Welcome them into the community. Remove a Scarcity, but also introduce an infection into the community.\n• Bar them from entry. What Scarcity could they have addressed? How does its need become more dire this week?"] },
+              { rank: 12, name: "Queen of Spades", options: ["You see a good omen. What is it?"] },
+              { rank: 13, name: "King of Spades", options: ["The Frost Shepherds arrive. The game is over."] }
+            ]
+          }
+        ];
+
+        // Flexbox separator with centered "or..." between options
+        const flexDivider = `
+          <div class="flexrow align-center">
+            <hr class="flex1"/>
+            <span class="flex0">or...</span>
+            <hr class="flex1"/>
+          </div>
+        `;
+
+        function buildCardHtml(card, fullName) {
+          const formattedOptions = card.options.map(opt => `<p>${opt.replace(/\n/g, '<br/>')}</p>`);
+          return `
+            <div>
+              <h3>${fullName}</h3>
+              ${formattedOptions.join(flexDivider)}
+            </div>
+          `.trim();
+        }
+
+        // 2. Setup Drawn Pile inside Folder
+        const pileName = "Drawn pile";
+        let pile = game.cards.find(c => c.name === pileName && c.type === "pile");
+        if (!pile) {
+          await Cards.create({
+            name: pileName,
+            type: "pile",
+            folder: folder.id,
+            description: "Drawn pile for cards in The Quiet Year.",
+            system: {}
+          });
+        } else {
+          await pile.update({ folder: folder.id });
+        }
+
+        // 3. Setup Decks inside Folder
+        for (const [index, seasonData] of quietYearData.entries()) {
+          const dynamicDeckName = `${index + 1}. ${seasonData.season}`;
+          let deck = game.cards.find(c => c.name === dynamicDeckName && c.type === "deck");
+
+          if (!deck) {
+            deck = await Cards.create({
+              name: dynamicDeckName,
+              type: "deck",
+              folder: folder.id,
+              description: `${seasonData.season} Deck for The Quiet Year`,
+              system: {}
+            });
+          } else {
+            await deck.update({ folder: folder.id });
+          }
+
+          const existingCardIds = deck.cards.map(c => c.id);
+          if (existingCardIds.length > 0) {
+            await deck.deleteEmbeddedDocuments("Card", existingCardIds);
+          }
+
+          const cardsToCreate = seasonData.cards.map(card => {
+            const fullCardName = `${card.name} (${seasonData.season})`;
+            return {
+              name: fullCardName,
+              type: "base",
+              description: card.options.join("\n--- OR ---\n"),
+              faces: [{ name: fullCardName, text: buildCardHtml(card, fullCardName), img: "icons/svg/card-hand.svg" }],
+              face: 0,
+              suit: seasonData.suit,
+              value: card.rank
+            };
+          });
+
+          await deck.createEmbeddedDocuments("Card", cardsToCreate);
+        }
+
+        ui.notifications.info("The Quiet Year folder, decks, and Drawn pile created successfully!");
+      })();
+    folder: NeuPNmkuk5bzjCLR
+    sort: -300000
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - folder: NeuPNmkuk5bzjCLR
+    name: Next Card
+    type: script
+    _id: exUxZLA0sEPytEb7
+    img: modules/game-icons-net/whitetransparent/card-draw.svg
+    scope: global
+    command: |-
+      (async () => {
+        const pileName = "Drawn pile";
+        const seasonalDecks = [
+          "1. Spring",
+          "2. Summer",
+          "3. Autumn",
+          "4. Winter"
+        ];
+
+        // 1. Get Drawn pile
+        const drawnPile = game.cards.find(c => c.name === pileName && c.type === "pile");
+        if (!drawnPile) {
+          ui.notifications.error(`Pile "${pileName}" not found! Run the Setup macro first.`);
+          return;
+        }
+
+        // 2. Find active season deck
+        let activeDeck = null;
+        for (const name of seasonalDecks) {
+          const deck = game.cards.find(c => c.name === name && c.type === "deck");
+          if (deck && deck.cards.size > 0) {
+            activeDeck = deck;
+            break;
+          }
+        }
+
+        if (!activeDeck) {
+          ui.notifications.warn("All seasonal decks are empty! The Quiet Year has ended.");
+          return;
+        }
+
+        // 3. Draw top card into the Drawn pile
+        const drawnCards = await drawnPile.draw(activeDeck, 1);
+        if (!drawnCards || drawnCards.length === 0) return;
+
+        const drawnCard = drawnCards[0];
+        await drawnCard.update({ face: 0 });
+
+        // 4. Handle King of Diamonds Rule (Summer)
+        if (drawnCard.suit === "Diamonds" && drawnCard.value === 13) {
+          const remainingCards = activeDeck.cards.size;
+          const discardCount = Math.min(2, remainingCards);
+
+          if (discardCount > 0) {
+            await activeDeck.deal([drawnPile], discardCount);
+            ui.notifications.info(`King of Diamonds Rule: Discarded top ${discardCount} card(s) from Summer!`);
+          }
+        }
+
+        // 5. Output Card Details to Chat
+        const cardFace = drawnCard.faces[0];
+        ChatMessage.create({
+          content: `<div>${cardFace.text}</div>`,
+          speaker: ChatMessage.getSpeaker({ alias: "The Oracle" })
+        });
+
+        // 6. Handle King of Spades Rule (Winter)
+        if (drawnCard.suit === "Spades" && drawnCard.value === 13) {
+          ui.notifications.warn("The Frost Shepherds have arrived. The game is over!");
+        }
+      })();
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - folder: NeuPNmkuk5bzjCLR
+    name: Shuffle Decks
+    type: script
+    _id: okWO1RZhr1LTOmaq
+    img: modules/game-icons-net/whitetransparent/card-exchange.svg
+    scope: global
+    command: |-
+      (async () => {
+        const seasonalDecks = [
+          "1. Spring",
+          "2. Summer",
+          "3. Autumn",
+          "4. Winter"
+        ];
+
+        for (const deckName of seasonalDecks) {
+          const deck = game.cards.find(c => c.name === deckName && c.type === "deck");
+          if (!deck) {
+            ui.notifications.warn(`Deck "${deckName}" not found. Run Setup Macro first.`);
+            continue;
+          }
+
+          // Shuffle the deck natively
+          await deck.shuffle();
+
+          // Place King of Spades (Frost Shepherds) at the bottom of the Winter deck
+          if (deckName.includes("Winter")) {
+            const kingOfSpades = deck.cards.find(c => c.value === 13);
+            if (kingOfSpades) {
+              const maxSort = Math.max(...deck.cards.map(c => c.sort || 0));
+              await deck.updateEmbeddedDocuments("Card", [{
+                _id: kingOfSpades.id,
+                sort: maxSort + 100000
+              }]);
+            }
+          }
+        }
+
+        ui.notifications.info("All seasonal decks shuffled! Frost Shepherds moved to the bottom of 4. Winter.");
+      })();
+    sort: -150000
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+cards: []
+playlists: []
+folders:
+  - type: Macro
+    folder: null
+    name: A Quiet Year
+    color: null
+    sorting: m
+    _id: NeuPNmkuk5bzjCLR
+    description: ''
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+_id: 5Gdio9mVX62Ebk8r
+folder: null
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792610009443
+  modifiedTime: 1792610009443
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!adventures!5Gdio9mVX62Ebk8r'
