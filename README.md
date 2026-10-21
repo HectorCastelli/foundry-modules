@@ -18,6 +18,9 @@ To "retrieve" the changes and reflect them in this repository, stop the foundry 
 
 ## Publishing
 
+Run `npm run version` before publishing to update each module's versions based on the conventional commits. Commits without a scope are treated as a
+repository tooling change and does not bump any versions.
+
 Once the modules are ready to be published and shared, their contents need to be re-packed. This can be done with the `npm run build` command.
 
 The outputs, ready to be published and shared, are moved to the `dist/` directory.

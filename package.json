@@ -21,6 +21,7 @@
 		"link": "node ./scripts/link.js",
 		"unpack": "node ./scripts/unpack.js",
 		"build": "node ./scripts/build.js",
+		"version": "node ./scripts/version.js",
 		"publish": "node ./scripts/publish.js"
 	},
 	"devDependencies": {
