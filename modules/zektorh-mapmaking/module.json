@@ -80,6 +80,11 @@
 				"id": "fa-nexus",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "light-presets",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
