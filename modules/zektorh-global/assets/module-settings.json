@@ -49,8 +49,6 @@
 		"automaticIndexing": -1,
 		"searchButton": true,
 		"enableGlobalContext": true,
-		"embeddedIndexing": true,
-		"tocIndexing": true,
 		"defaultActionScene": "show",
 		"defaultActionRollTable": "show",
 		"defaultActionMacro": "show",
@@ -60,7 +58,9 @@
 		"quickFilterEdit": false,
 		"rememberBrowseInput": true,
 		"showFoldersInIndexingtab": false,
-		"includeLabelInJournalLinks": true
+		"includeLabelInJournalLinks": true,
+		"embeddedIndexing": true,
+		"tocIndexing": true
 	},
 	"snoot": {
 		"showCoreFlags": false,
@@ -69,17 +69,68 @@
 	"hide-npc-names": {
 		"tokenHiddenSuffix": "(Anonymized)"
 	},
-	"statuscounter": {
-		"rebindMouseButtons": true,
-		"rebindNumberKeys": true,
-		"multiSelect": true,
-		"defaultDurationUnit": "rounds",
-		"defaultModifyDuration": false,
-		"displayOne": "countdown",
-		"counterFontSize": 16,
-		"counterColor": "00ffff",
-		"countdownColor": "ffff00",
-		"counterDefaults": {}
+	"core": {
+		"fonts": {
+			"Isabella": {
+				"editor": true,
+				"fonts": [
+					{
+						"urls": ["modules/zektorh-global/assets/fonts/Isabella.ttf"],
+						"weight": 400,
+						"style": "normal"
+					}
+				]
+			},
+			"MisterBrush": {
+				"editor": true,
+				"fonts": [
+					{
+						"urls": ["modules/zektorh-global/assets/fonts/MisterBrush.ttf"],
+						"weight": 400,
+						"style": "normal"
+					}
+				]
+			},
+			"MoonlitFlow": {
+				"editor": true,
+				"fonts": [
+					{
+						"urls": [
+							"modules/zektorh-global/assets/fonts/MoonlitFlow-Regular.ttf"
+						],
+						"weight": 400,
+						"style": "normal"
+					}
+				]
+			}
+		},
+		"favoritePaths": {
+			"data-/": {
+				"source": "data",
+				"path": "/",
+				"label": "root"
+			},
+			"data-assets/": {
+				"source": "data",
+				"path": "assets/",
+				"label": "assets"
+			},
+			"data-modules/game-icons-net/blackbackground/": {
+				"source": "data",
+				"path": "modules/game-icons-net/blackbackground/",
+				"label": "blackbackground"
+			},
+			"data-modules/game-icons-net/whitetransparent/": {
+				"source": "data",
+				"path": "modules/game-icons-net/whitetransparent/",
+				"label": "whitetransparent"
+			},
+			"data-modules/zektorh-global/": {
+				"source": "data",
+				"path": "modules/zektorh-global/",
+				"label": "zektorh-global"
+			}
+		}
 	},
 	"dice-calculator": {
 		"enableDiceTray": true,

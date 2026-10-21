@@ -1,4 +1,58 @@
 {
+	"core": {
+		"universalKeybindings": false,
+		"combatTrackerConfig": {
+			"skipDefeated": true,
+			"turnMarker": {
+				"enabled": true,
+				"animation": "spin",
+				"src": "modules/zektorh-morkborg/assets/ui/token.webp",
+				"disposition": true
+			}
+		},
+		"fonts": {
+			"blackletter": {
+				"editor": true,
+				"fonts": [
+					{
+						"urls": ["modules/zektorh-morkborg/assets/fonts/blackletter.TTF"],
+						"weight": 400,
+						"style": "normal"
+					}
+				]
+			},
+			"OldEnglishedBoots": {
+				"editor": true,
+				"fonts": [
+					{
+						"urls": [
+							"modules/zektorh-morkborg/assets/fonts/OldEnglishedBoots.ttf"
+						],
+						"weight": 400,
+						"style": "normal"
+					}
+				]
+			}
+		},
+		"favoritePaths": {
+			"data-modules/zektorh-morkborg/": {
+				"source": "data",
+				"path": "modules/zektorh-morkborg/",
+				"label": "zektorh-morkborg"
+			}
+		}
+	},
+	"morkborg": {
+		"additionalAbilities": "",
+		"systemMigrationVersion": "",
+		"trackCarryingCapacity": true,
+		"colorScheme": "foundryDefault",
+		"deleteZeroQuantity": true,
+		"fontScheme": "blackletter",
+		"hitAutomation": true,
+		"miseryTrackerAnimations": true,
+		"trackAmmo": true
+	},
 	"statuscounter": {
 		"rebindMouseButtons": true,
 		"rebindNumberKeys": true,
