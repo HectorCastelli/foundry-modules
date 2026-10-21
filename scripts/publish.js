@@ -7,26 +7,65 @@ console.log("Publishing modules...");
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { Octokit } from "@octokit/rest";
 import { getGitHubRepository } from "./lib/github-repository.js";
 
 const distFolder = resolve(import.meta.dirname, "../dist");
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
 const { path: repositoryPath } = getGitHubRepository(repositoryFolder);
-const existingTags = new Set(
-	JSON.parse(
-		execFileSync(
-			"gh",
-			[
-				"api",
-				"--paginate",
-				"--slurp",
-				`repos/${repositoryPath}/git/matching-refs/tags/`,
-			],
-			{ cwd: repositoryFolder, encoding: "utf8" },
-		),
-	).flatMap((page) => page.map((tag) => tag.ref)),
-);
+const [owner, repo] = repositoryPath.split("/");
+if (!owner || !repo || repositoryPath.split("/").length !== 2) {
+	throw new Error(`Invalid GitHub repository path "${repositoryPath}".`);
+}
+
+const token = execFileSync("gh", ["auth", "token"], {
+	cwd: repositoryFolder,
+	encoding: "utf8",
+}).trim();
+if (!token) {
+	throw new Error("GitHub CLI did not return an authentication token.");
+}
+
+const octokit = new Octokit({ auth: token });
+const existingRefs = await octokit.paginate(octokit.rest.git.listMatchingRefs, {
+	owner,
+	repo,
+	ref: "tags/",
+});
+const existingTags = new Set(existingRefs.map((tag) => tag.ref));
+
+async function createRelease(tag, title, makeLatest, assets) {
+	const { data: release } = await octokit.rest.repos.createRelease({
+		owner,
+		repo,
+		tag_name: tag,
+		name: title,
+		generate_release_notes: true,
+		make_latest: makeLatest,
+	});
+
+	for (const { path, name, contentType } of assets) {
+		const data = readFileSync(path);
+		try {
+			await octokit.rest.repos.uploadReleaseAsset({
+				owner,
+				repo,
+				release_id: release.id,
+				name,
+				data,
+				headers: {
+					"content-type": contentType,
+					"content-length": String(data.length),
+				},
+			});
+		} catch (error) {
+			throw new Error(`Unable to upload "${name}" to release "${tag}".`, {
+				cause: error,
+			});
+		}
+	}
+}
 
 for (const module of readdirSync(modulesFolder)) {
 	console.debug(`Publishing ${module}`);
@@ -45,64 +84,62 @@ for (const module of readdirSync(modulesFolder)) {
 		continue;
 	}
 
-	execFileSync(
-		"gh",
-		[
-			"release",
-			"create",
-			releaseTag,
-			`${moduleZipPath}#${module}.zip`,
-			`${moduleJsonPath}#module.json`,
-			"--title",
-			`${module} v${moduleVersion}`,
-			"--generate-notes",
-			"--latest=false",
-		],
-		{ cwd: repositoryFolder, stdio: "inherit" },
-	);
+	await createRelease(releaseTag, `${module} v${moduleVersion}`, "false", [
+		{
+			path: moduleZipPath,
+			name: `${module}.zip`,
+			contentType: "application/zip",
+		},
+		{
+			path: moduleJsonPath,
+			name: "module.json",
+			contentType: "application/json",
+		},
+	]);
 }
 
 console.log("Publishing individual packages complete.");
 
 console.log("Refreshing latest...");
 const latestManifestFolder = resolve(distFolder, "latest");
+const latestReleaseTag = "latest";
+let latestRelease;
 
 try {
-	execFileSync(
-		"gh",
-		["release", "delete", "latest", "--yes", "--cleanup-tag"],
-		{ cwd: repositoryFolder, stdio: "inherit" },
-	);
-	execFileSync(
-		"gh",
-		[
-			"api",
-			"--method",
-			"DELETE",
-			`repos/${repositoryPath}/git/refs/tags/latest`,
-		],
-		{ cwd: repositoryFolder, stdio: "inherit" },
-	);
-} catch (_deleteError) {
-	console.warn("No existing 'latest' release to delete.");
+	({ data: latestRelease } = await octokit.rest.repos.getReleaseByTag({
+		owner,
+		repo,
+		tag: latestReleaseTag,
+	}));
+} catch (error) {
+	if (error.status !== 404) throw error;
 }
 
-execFileSync(
-	"gh",
-	[
-		"release",
-		"create",
-		"latest",
-		...readdirSync(latestManifestFolder).map(
-			(moduleFileName) =>
-				`${resolve(latestManifestFolder, moduleFileName)}#${moduleFileName}`,
-		),
-		"--title",
-		`Latest`,
-		"--generate-notes",
-		"--latest=true",
-	],
-	{ cwd: repositoryFolder, stdio: "inherit" },
+if (latestRelease) {
+	await octokit.rest.repos.deleteRelease({
+		owner,
+		repo,
+		release_id: latestRelease.id,
+	});
+}
+
+if (existingTags.has(`refs/tags/${latestReleaseTag}`)) {
+	await octokit.rest.git.deleteRef({
+		owner,
+		repo,
+		ref: `tags/${latestReleaseTag}`,
+	});
+}
+
+await createRelease(
+	latestReleaseTag,
+	"Latest",
+	"true",
+	readdirSync(latestManifestFolder).map((moduleFileName) => ({
+		path: resolve(latestManifestFolder, moduleFileName),
+		name: moduleFileName,
+		contentType: "application/json",
+	})),
 );
 
 console.log("Done.");
