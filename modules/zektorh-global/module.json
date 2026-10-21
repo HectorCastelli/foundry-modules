@@ -189,6 +189,51 @@
 				"id": "snoot",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "XCard",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "global-progress-clocks",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "hide-npc-names",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "healthEstimate",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "monks-active-tiles",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "Rideable",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "visual-active-effects",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "visage",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "statuscounter",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
