@@ -21,3 +21,7 @@ To "retrieve" the changes and reflect them in this repository, stop the foundry 
 Once the modules are ready to be published and shared, their contents need to be re-packed. This can be done with the `npm run build` command.
 
 The outputs, ready to be published and shared, are moved to the `dist/` directory.
+
+You can then run `npm run publish` to create one GitHub release per module version and upload its ZIP and `module.json`.
+
+Each release is tagged `<module-id>-v<version>`. If a release with that version already exists, it won't be overwritten.
