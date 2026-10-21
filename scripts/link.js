@@ -6,6 +6,7 @@ console.log("Linking repository to local foundry instance...");
 
 import {
 	existsSync,
+	lstatSync,
 	readdirSync,
 	readlinkSync,
 	rmSync,
@@ -28,14 +29,21 @@ for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 	);
 	const linkedOrigin = resolve(import.meta.dirname, "../modules", module);
 
-	if (existsSync(linkedDestination)) {
+	let destinationStats;
+	try {
+		destinationStats = lstatSync(linkedDestination);
+	} catch (error) {
+		if (error.code !== "ENOENT") throw error;
+	}
+
+	if (destinationStats) {
 		console.warn(`Destination ${linkedDestination} already exists.`);
-		try {
+		if (destinationStats.isSymbolicLink()) {
 			if (readlinkSync(linkedDestination) === linkedOrigin) {
 				console.warn(`It already is a symlink to the correct path. Skipping.`);
 				continue;
 			}
-		} catch (_readLinkError) {
+		} else {
 			console.log(
 				`This is not a symlink. The module must have been installed from a release.`,
 			);
