@@ -167,6 +167,21 @@
 				"id": "quick-insert",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "CautiousGamemastersPack",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "_chatcommands",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "dice-calculator",
+				"type": "module",
+				"compatibility": {}
 			}
 		],
 		"recommends": [
