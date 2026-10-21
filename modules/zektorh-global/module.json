@@ -264,6 +264,11 @@
 				"id": "yendors-user-passwords",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "sephrals-player-notes",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}

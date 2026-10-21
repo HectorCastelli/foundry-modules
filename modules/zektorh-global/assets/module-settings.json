@@ -153,5 +153,9 @@
 		"blindHiddenTokens": true,
 		"notifyTyping": true,
 		"allowPlayersToSeeTypingNotification": true
+	},
+	"yendors-user-passwords": {
+		"requestPasswordForNewUsers": true,
+		"allowEmptyPasswords": false
 	}
 }
