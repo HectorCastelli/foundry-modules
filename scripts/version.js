@@ -5,10 +5,15 @@
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { CommitParser } from "conventional-commits-parser";
 import semver from "semver";
 
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
+const commitParser = new CommitParser({
+	headerPattern: /^([a-z][\w-]*)(?:\(([^()\r\n]+)\))?(!)?:\s.+$/,
+	headerCorrespondence: ["type", "scope", "breaking", "subject"],
+});
 
 function runGit(args) {
 	return execFileSync("git", args, {
@@ -55,15 +60,12 @@ function latestModuleTag(moduleId) {
 	return tags[0];
 }
 
-function commitBump(subject, body) {
-	const match = /^([a-z][\w-]*)(?:\(([^()\r\n]+)\))?(!)?:\s.+$/.exec(subject);
-	if (!match?.[2]) return null;
-
-	const isBreaking =
-		Boolean(match[3]) || /^BREAKING CHANGE:|^BREAKING-CHANGE:/m.test(body);
+function commitBump(commit) {
+	if (!commit.scope) return null;
+	const isBreaking = Boolean(commit.breaking) || commit.notes.length > 0;
 	if (isBreaking) return "major";
-	if (match[1] === "feat") return "minor";
-	if (match[1] === "fix") return "patch";
+	if (commit.type === "feat") return "minor";
+	if (commit.type === "fix") return "patch";
 	return null;
 }
 
@@ -106,9 +108,9 @@ for (const module of modules) {
 
 	for (const commit of commits) {
 		const [subject, body = ""] = commit.split("\x1f");
-		const commitScope = /^\w[\w-]*\(([^()\r\n]+)\)/.exec(subject)?.[1];
+		const parsedCommit = commitParser.parse(`${subject}\n\n${body}`);
 		if (
-			!commitScope
+			!parsedCommit.scope
 				?.split(",")
 				.map((scope) => scope.trim())
 				.some((scope) => scopes.has(scope))
@@ -116,7 +118,7 @@ for (const module of modules) {
 			continue;
 		}
 
-		const commitChange = commitBump(subject, body);
+		const commitChange = commitBump(parsedCommit);
 		if (commitChange) bump = highestBump(bump, commitChange);
 	}
 
