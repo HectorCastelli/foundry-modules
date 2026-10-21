@@ -87,18 +87,13 @@ try {
 	console.warn("No existing 'latest' release to delete.");
 }
 
-const latestAssets = [];
-for (const module of readdirSync(latestManifestFolder)) {
-	latestAssets.push(module);
-}
-
 execFileSync(
 	"gh",
 	[
 		"release",
 		"create",
 		"latest",
-		...latestAssets.map(
+		...readdirSync(latestManifestFolder).map(
 			(moduleFileName) =>
 				`${resolve(latestManifestFolder, moduleFileName)}#${moduleFileName}`,
 		),
