@@ -4,15 +4,13 @@
 
 console.log("Unpacking modules from local foundry instance...");
 
-// Load .env for paths
-import { configDotenv } from "dotenv";
-
-configDotenv({
-	quiet: true,
-});
-
+import { existsSync, readdirSync } from "node:fs";
+import { join, resolve } from "node:path";
 import { extractPack } from "@foundryvtt/foundryvtt-cli";
 import FoundryVttConfig from "@foundryvtt/foundryvtt-cli/config.mjs";
+
+const envFile = resolve(import.meta.dirname, "../.env");
+if (existsSync(envFile)) process.loadEnvFile(envFile);
 
 const config = FoundryVttConfig.instance;
 
@@ -21,9 +19,6 @@ const { FOUNDRY_DATA_PATH, FOUNDRY_INSTALLATION_PATH } = process.env;
 // Configure data paths
 config.set("dataPath", FOUNDRY_DATA_PATH);
 config.set("installPath", FOUNDRY_INSTALLATION_PATH);
-
-import { readdirSync } from "node:fs";
-import { join, resolve } from "node:path";
 
 for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 	console.debug(`Unpacking ${module}`);

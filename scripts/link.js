@@ -4,15 +4,6 @@
 
 console.log("Linking repository to local foundry instance...");
 
-// Load .env for paths
-import { configDotenv } from "dotenv";
-
-configDotenv({
-	quiet: true,
-});
-
-const { FOUNDRY_DATA_PATH } = process.env;
-
 import {
 	existsSync,
 	readdirSync,
@@ -21,6 +12,11 @@ import {
 	symlinkSync,
 } from "node:fs";
 import { resolve } from "node:path";
+
+const envFile = resolve(import.meta.dirname, "../.env");
+if (existsSync(envFile)) process.loadEnvFile(envFile);
+
+const { FOUNDRY_DATA_PATH } = process.env;
 
 for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 	console.debug(`Linking ${module}`);

@@ -16,15 +16,11 @@ import {
 } from "node:fs";
 import { resolve } from "node:path";
 
-// Load .env for paths
-import { configDotenv } from "dotenv";
-
-configDotenv({
-	quiet: true,
-});
-
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import { getGitHubRepository } from "./lib/github-repository.js";
+
+const envFile = resolve(import.meta.dirname, "../.env");
+if (existsSync(envFile)) process.loadEnvFile(envFile);
 
 const { FOUNDRY_DATA_PATH } = process.env;
 
