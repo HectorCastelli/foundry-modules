@@ -1,0 +1,45 @@
+{
+	"id": "zektorh-content",
+	"title": "Zektor's Content Packs",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14.367"
+	},
+	"description": "<p>A series of content packs that are system agnostic and can be used in any game.</p>",
+	"authors": [
+		{
+			"name": "Hector Castelli Zacharias",
+			"email": "hector.zacharias+foundry@gmail.com",
+			"discord": "zektorh",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"relationships": {
+		"recommends": [
+			{
+				"id": "tabletop-rpg-music",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "game-icons-net",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "fxmaster",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "ivan-duch-music-packs",
+				"type": "module",
+				"compatibility": {}
+			}
+		]
+	}
+}
