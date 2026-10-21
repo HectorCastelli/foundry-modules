@@ -4,7 +4,6 @@
 
 console.log("Building modules...");
 
-import { execFileSync } from "node:child_process";
 import {
 	cpSync,
 	existsSync,
@@ -18,6 +17,7 @@ import { resolve } from "node:path";
 
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import { getGitHubRepository } from "./lib/github-repository.js";
+import { zipFolder } from "./lib/zip-folder.js";
 
 const envFile = resolve(import.meta.dirname, "../.env");
 if (existsSync(envFile)) process.loadEnvFile(envFile);
@@ -101,9 +101,6 @@ for (const module of readdirSync(modulesFolder)) {
 	);
 
 	const archivePath = resolve(distFolder, `${manifest.id}.zip`);
-	execFileSync("zip", ["-qr", archivePath, "."], {
-		cwd: moduleFolder,
-		stdio: "inherit",
-	});
+	await zipFolder(moduleFolder, archivePath);
 }
 console.log("Done.");
