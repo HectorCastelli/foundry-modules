@@ -1,0 +1,24 @@
+name: Debug Character
+type: script
+_id: 1coDw5TFdFI7f7hp
+author: oEmfV0SRkLPI8d0g
+img: modules/game-icons-net/whitetransparent/spotted-bug.svg
+scope: global
+command: console.log({token, actor});
+folder: null
+sort: 0
+ownership:
+  default: 0
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.368'
+  systemId: morkborg
+  systemVersion: 6.0.0
+  createdTime: 1792404836368
+  modifiedTime: 1792405283665
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!1coDw5TFdFI7f7hp'
