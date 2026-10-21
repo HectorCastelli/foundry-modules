@@ -34,9 +34,15 @@ for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 
 	if (existsSync(linkedDestination)) {
 		console.warn(`Destination ${linkedDestination} already exists.`);
-		if (readlinkSync(linkedDestination) === linkedOrigin) {
-			console.warn(`It already is a symlink to the correct path. Skipping.`);
-			continue;
+		try {
+			if (readlinkSync(linkedDestination) === linkedOrigin) {
+				console.warn(`It already is a symlink to the correct path. Skipping.`);
+				continue;
+			}
+		} catch (e) {
+			console.log(
+				`This is not a symlink. The module must have been installed from a release.`,
+			);
 		}
 		console.warn(`It will be replaced.`);
 		rmSync(linkedDestination, { force: true, recursive: true });
