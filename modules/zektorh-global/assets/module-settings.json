@@ -1,0 +1,59 @@
+{
+	"lib-wrapper": {
+		"notify-issues-gm": true,
+		"notify-issues-player": false,
+		"high-performance-mode": false,
+		"log-verbosity": 400,
+		"module-priorities": {}
+	},
+	"3ds-atlas": {
+		"loggingLevel": "2",
+		"updateNotices": false,
+		"changelogger": false
+	},
+	"default-detach": {
+		"autoDetach": [
+			{
+				"id": "fa-nexus-app",
+				"displayName": "fa-nexus-app"
+			},
+			{
+				"id": "settings-config",
+				"displayName": "Game Settings"
+			}
+		],
+		"autoDetachTypes": []
+	},
+	"keep-windows-open": {
+		"protect_detached_windows": true,
+		"close_one_at_a_time": true
+	},
+	"preload-tracker": {
+		"showToPlayers": false,
+		"skipAudioOnPreload": false,
+		"enableRaceMode": false,
+		"raceResultsScope": "players",
+		"debugLevel": "none"
+	},
+	"quick-insert": {
+		"gmOnly": false,
+		"automaticIndexing": -1,
+		"searchButton": true,
+		"enableGlobalContext": true,
+		"tocIndexing": true
+	},
+	"snoot": {
+		"showCoreFlags": false,
+		"showSystemFlags": false
+	},
+	"hide-npc-names": {
+		"hideHostileNames": true,
+		"hideNeutralNames": true,
+		"hideFriendlyNames": true,
+		"hideSecretNames": true,
+		"hideParts": true,
+		"showOnActorDirectory": true,
+		"showOnTokenHUD": true,
+		"tokenHiddenSuffix": "(Anonymized)"
+	}
+}

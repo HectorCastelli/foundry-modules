@@ -1,0 +1,57 @@
+name: Export All Settings
+type: script
+_id: b2MQHI7BbgTeqgFX
+author: imJDl7HGVWjwk7Ys
+img: modules/game-icons-net/whitetransparent/card-pickup.svg
+scope: global
+command: |-
+  (async () => {
+    // Extract all registered game settings
+    const allSettings = game.settings.settings;
+    const exportedData = {};
+
+    // Filter out core system & foundry settings, keeping only custom modules
+    for (const [key, setting] of allSettings.entries()) {
+      const { namespace, key: settingKey } = setting;
+
+      // Exclude core 'core' namespace and current active system namespace
+      if (namespace !== 'core' && namespace !== game.system.id) {
+        try {
+          const currentValue = game.settings.get(namespace, settingKey);
+          
+          if (!exportedData[namespace]) {
+            exportedData[namespace] = {};
+          }
+          exportedData[namespace][settingKey] = currentValue;
+        } catch (err) {
+          console.warn(`[Module Exporter] Could not read setting: ${namespace}.${settingKey}`, err);
+        }
+      }
+    }
+
+    // Format JSON payload
+    const jsonString = JSON.stringify(exportedData, null, 2);
+    const fileName = `module-settings-${game.world.id}-${new Date().toISOString().slice(0, 10)}.json`;
+
+    // Trigger file download in browser
+    saveDataToFile(jsonString, "application/json", fileName);
+
+    ui.notifications.info(`Exported settings for ${Object.keys(exportedData).length} modules to ${fileName}`);
+  })();
+folder: 2mvPUEJ51RzvAm1l
+ownership:
+  default: 0
+  imJDl7HGVWjwk7Ys: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792597279974
+  modifiedTime: 1792597313043
+  lastModifiedBy: imJDl7HGVWjwk7Ys
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!macros!b2MQHI7BbgTeqgFX'

@@ -1,0 +1,20 @@
+type: Macro
+folder: null
+name: Settings
+color: null
+sorting: a
+_id: 2mvPUEJ51RzvAm1l
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792597276953
+  modifiedTime: 1792597276953
+  lastModifiedBy: imJDl7HGVWjwk7Ys
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!2mvPUEJ51RzvAm1l'

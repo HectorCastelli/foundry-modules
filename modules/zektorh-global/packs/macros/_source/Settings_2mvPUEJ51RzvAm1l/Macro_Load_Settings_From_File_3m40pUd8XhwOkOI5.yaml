@@ -1,0 +1,83 @@
+name: Load Settings From File
+type: script
+_id: 3m40pUd8XhwOkOI5
+author: imJDl7HGVWjwk7Ys
+img: modules/game-icons-net/whitetransparent/files.svg
+scope: global
+command: |-
+  (async () => {
+    // Create an invisible file input element to trigger browser file picker
+    const input = document.createElement("input");
+    input.type = "file";
+    input.accept = ".json";
+
+    input.onchange = async (event) => {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      try {
+        const text = await file.text();
+        const settingsData = JSON.parse(text);
+
+        let updatedCount = 0;
+        let skippedCount = 0;
+
+        // Iterate through modules and setting keys
+        for (const [namespace, moduleSettings] of Object.entries(settingsData)) {
+          // Check if the module is active in the current world
+          if (!game.modules.get(namespace)?.active) {
+            console.warn(`[Module Importer] Skipping inactive/uninstalled module: ${namespace}`);
+            continue;
+          }
+
+          for (const [key, value] of Object.entries(moduleSettings)) {
+            // Verify setting exists before attempting to set it
+            if (game.settings.settings.has(`${namespace}.${key}`)) {
+              try {
+                await game.settings.set(namespace, key, value);
+                updatedCount++;
+              } catch (err) {
+                console.error(`[Module Importer] Failed to set ${namespace}.${key}:`, err);
+              }
+            } else {
+              skippedCount++;
+              console.warn(`[Module Importer] Setting key not registered: ${namespace}.${key}`);
+            }
+          }
+        }
+
+        ui.notifications.info(`Import complete! Updated ${updatedCount} settings.`);
+        
+        // Prompt user to reload for changes to take full effect
+        Dialog.confirm({
+          title: "Reload Required",
+          content: "<p>Settings imported successfully. Would you like to reload Foundry VTT now to apply all changes?</p>",
+          yes: () => location.reload(),
+          no: () => {}
+        });
+
+      } catch (err) {
+        ui.notifications.error("Failed to parse JSON file. Check browser console for details.");
+        console.error("[Module Importer] Error reading JSON file:", err);
+      }
+    };
+
+    input.click();
+  })();
+folder: 2mvPUEJ51RzvAm1l
+ownership:
+  default: 0
+  imJDl7HGVWjwk7Ys: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792597315264
+  modifiedTime: 1792597330662
+  lastModifiedBy: imJDl7HGVWjwk7Ys
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!macros!3m40pUd8XhwOkOI5'
