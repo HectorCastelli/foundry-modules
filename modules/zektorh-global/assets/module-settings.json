@@ -157,5 +157,56 @@
 	"yendors-user-passwords": {
 		"requestPasswordForNewUsers": true,
 		"allowEmptyPasswords": false
+	},
+	"statuscounter": {
+		"rebindMouseButtons": true,
+		"rebindNumberKeys": true,
+		"multiSelect": true,
+		"defaultDurationUnit": "rounds",
+		"defaultModifyDuration": false,
+		"displayOne": "countdown"
+	},
+	"visual-active-effects": {
+		"iconSize": 30,
+		"fontSize": 16,
+		"topOffset": 16,
+		"rightOffset": 50,
+		"hideDisabled": false,
+		"hidePassive": true,
+		"playerClicks": false
+	},
+	"sephrals-player-notes": {
+		"actorDirectoryButton": true,
+		"actorDirectoryIndicators": true,
+		"tokenIndicators": true,
+		"actorSheetButtons": true,
+		"defaultNoteStatus": "open",
+		"hideArchivedByDefault": true,
+		"debugMode": false,
+		"defaultDashboardView": "grouped",
+		"language": "follow-foundry",
+		"sessionReminderPopup": true
+	},
+	"visage": {
+		"gmOnlyMode": false,
+		"allowSystemOverrides": true,
+		"disableWelcome": false
+	},
+	"monks-player-settings": {
+		"sync-settings": true,
+		"ignore-modules": "fuzzy-foundry"
+	},
+	"global-progress-clocks": {
+		"location": "topRight",
+		"offset": 0,
+		"minimumEditorRole": 4,
+		"defaultColor": "#2f2928",
+		"defaultBackgroundColor": "#ffffff",
+		"clockColors": [],
+		"enabledTypes": {
+			"clocks": true,
+			"points": true,
+			"trackers": false
+		}
 	}
 }
