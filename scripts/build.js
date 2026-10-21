@@ -46,6 +46,11 @@ if (existsSync(distFolder)) {
 	rmSync(distFolder, { recursive: true, force: true });
 }
 mkdirSync(distFolder, { recursive: true });
+const latestManifestFolder = resolve(distFolder, "latest");
+if (existsSync(latestManifestFolder)) {
+	rmSync(latestManifestFolder, { recursive: true, force: true });
+}
+mkdirSync(latestManifestFolder, { recursive: true });
 
 for (const module of readdirSync(modulesFolder)) {
 	console.debug(`Re-packing ${module}`);
@@ -102,6 +107,10 @@ for (const module of readdirSync(modulesFolder)) {
 	manifest.manifest = `${repositoryUrl}/releases/latest/download/${manifest.id}-module.json`;
 	manifest.download = `${repositoryUrl}/releases/download/${encodeURIComponent(tag)}/${manifest.id}.zip`;
 	writeFileSync(manifestPath, `${JSON.stringify(manifest, null, "\t")}\n`);
+	writeFileSync(
+		resolve(latestManifestFolder, `${module}-module.json`),
+		`${JSON.stringify(manifest, null, "\t")}\n`,
+	);
 
 	const archivePath = resolve(distFolder, `${manifest.id}.zip`);
 	execFileSync("zip", ["-qr", archivePath, "."], {
