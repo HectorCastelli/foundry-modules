@@ -1,0 +1,94 @@
+name: All Scrolls
+_id: BW04d8Rr8kOWZdO6
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    name: Sacred Scrolls
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg.mork-borg-tables.RollTable.55cNRqtWTVNb7Trw
+    _id: CZS7apSgyQey2rVo
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792438504497
+      modifiedTime: 1792438504497
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!BW04d8Rr8kOWZdO6.CZS7apSgyQey2rVo'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    name: Unclean Scrolls
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg.mork-borg-tables.RollTable.Bpv8mPTS0jDIAJ6B
+    _id: 4zwtGUf8XsCnBCoA
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792438504497
+      modifiedTime: 1792438504497
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!BW04d8Rr8kOWZdO6.4zwtGUf8XsCnBCoA'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    name: Hallowed Scrolls
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.zektorh-morkborg.tables.RollTable.R29DuVB1FSrW2AKR
+    _id: u8IaTNwboDvX6EAC
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792438504497
+      modifiedTime: 1792438504497
+      lastModifiedBy: oEmfV0SRkLPI8d0g
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!BW04d8Rr8kOWZdO6.u8IaTNwboDvX6EAC'
+replacement: true
+displayRoll: true
+folder: null
+ownership:
+  default: 0
+  oEmfV0SRkLPI8d0g: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792438504497
+  modifiedTime: 1792438504497
+  lastModifiedBy: oEmfV0SRkLPI8d0g
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+sort: 0
+_key: '!tables!BW04d8Rr8kOWZdO6'
