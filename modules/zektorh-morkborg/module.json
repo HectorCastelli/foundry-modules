@@ -158,6 +158,13 @@
 				"type": "system",
 				"compatibility": {}
 			}
+		],
+		"recommends": [
+			{
+				"id": "principia-apochrypha",
+				"type": "module",
+				"compatibility": {}
+			}
 		]
 	}
 }
