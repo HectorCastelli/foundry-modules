@@ -1,0 +1,269 @@
+folder: zuNI5rrSukBbrXJI
+name: House Rules
+_id: CXU5T3GCmsbXrXco
+pages:
+  - sort: 100000
+    name: House Rules
+    type: text
+    _id: zenXCc8EZsiLqJYR
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>These are house rules for Mork Borg meant to tweak the core and make
+        it more interesting, and a better fit for the group.</p><p>As any
+        experimental change, there is a chance it doesn't work as intended.
+        Don't hesitate to share feedback, suggest changes, new rules, or to even
+        ask for a rule to be completely removed.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792620579309
+      modifiedTime: 1792620579309
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!CXU5T3GCmsbXrXco.zenXCc8EZsiLqJYR'
+  - sort: 200000
+    name: Future ideas
+    type: text
+    _id: mubqHF4qFDhGOdR0
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>These are incomplete ideas for new rules I have in
+        mind:</p><ul><li><p><s>Rot: every in-world day, roll 1d6. On a 2 or
+        below, the rations spoil/rot/get infested.</s></p><ul><li><p>Resource
+        management suxxxx</p></li></ul></li><li><p>Desperate strike: Reduces DR
+        by 2 when attacking, but all defense rolls until the next turn have
+        their DR increased by 2.</p></li><li><p>Last breath: when a character
+        dies, they get one final attack roll on whoever deal the final strike;
+        or, they frail wildly and everyone nearby must pass a DR12 AGILITY test
+        or get hit with a d4.</p></li><li><p>Share nightmare: While resting, a
+        player may decide to share a nightmare or disturbing vision with another
+        (or all the party). The player sharing gains 1 SANITY. The ones
+        listening must pass a DR12 test, or lose 1
+        sanity.</p></li><li><p><s>Meat shield: Players can use a nearby friendly
+        NPC as a meat shield. This transfers all attack damge onto them,
+        ignoring armor. This makes the friendly NPC very annoyed. The friendly
+        NPC may still finish the combat before turning on the offending
+        player.</s></p><ul><li><p>No more incentives. We will do this
+        anyways</p></li></ul></li><li><p>Salvage: When items break, they can
+        still be useful. Combining two broken items during rest can make a new
+        fragile tool. Fragile tools can be used once, then they break
+        forever.</p><ul><li><p>Probably okay, no need to write
+        down.</p></li></ul></li><li><p>Cowardice: When running from a combat,
+        roll 1d6. On a 3 or below, drop one random item. Roll PRESENCE DR12 to
+        notice it.</p><ul><li><p>Doesn't feel
+        good</p></li></ul></li><li><p><s>Memorize: Scrolls become burn-on-use
+        items. You can choose to spend a long rest memorizing it instead. This
+        allows you to cast it multiple times, until you fail to cast it. When
+        you memorize a scroll, you dont get the benefits of the long
+        rest.</s></p><ul><li><p>Keep RAW. Must hold + read the scroll to use it.
+        It doesnt burn out.</p></li></ul></li><li><p><s>Permanent initiative: At
+        the start of the session, roll initiative. Keep this number until a
+        change makes sense (ambush, etc). Ending a combat doesn't change
+        initiative</s></p><ul><li><p>RAW Initiative: reroll every round(?), use
+        group initiative</p></li></ul></li><li><p>Slower "get better": You can
+        only cash-in a get better when you long rest.</p></li><li><p>Potion
+        mixing: Consuming two different potions/elixirs within the same hour may
+        cause a nasty reaction. Roll a table to find out what
+        happens.</p><p></p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792620579309
+      modifiedTime: 1792620579309
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!CXU5T3GCmsbXrXco.mubqHF4qFDhGOdR0'
+  - sort: 150000
+    name: Combat
+    type: text
+    _id: 8eKSCr60WJHeKpLE
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h2>Hesitation</h2><p>Players have 10 seconds to start describing what
+        they want to do. If they fail to do so, their character will take a
+        defensive stance (+2 DR on DEFEND rolls), and stay
+        put.</p><h2>Crowds</h2><p>When multiple players or monsters gather in
+        melee combat, the crowded field makes combat more deadly.</p><p>If two
+        or more combatants engage a target in melee, all attacks against that
+        target gain +2 to hit. ATTACK lowers the DR by 2, while DEFEND increases
+        it by 2.</p><h2>Surge</h2><p>When a die is rolled to determine damage,
+        if it lands on the highest possible value, you may roll the dice once
+        more and add it to the final damage dealt. This can only happen once per
+        attack roll.</p><h2>Cleaving</h2><p>If an attack deals more than twice
+        the remaining HP of a target, you may transfer the remaining damage into
+        another target in melee range. This can only happen once per
+        attack.</p><h2>Cowardice</h2><p>When a side retreats from combat, they
+        trigger a reaction from every enemy in melee range.</p><p>This reaction
+        cannot contain movement, but may be an attack (with +2 DR to ATTACK, -2
+        DR to DEFEND), snatching something (DR12 AGILITY test), or tripping the
+        retreating party (DR14 AGILITY test).</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792620579309
+      modifiedTime: 1792620579309
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!CXU5T3GCmsbXrXco.8eKSCr60WJHeKpLE'
+  - sort: 175000
+    name: Items
+    type: text
+    _id: Ea8tB0QYYt8d1alC
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h2>Grave Malice</h2><p>When looting graves or corpses, there is a
+        1-in-6 chance of the item being cursed. Cursed items fail spectacularly
+        the first time they are used, but work as intended from that point
+        on.</p><h2>Inheritance</h2><p>When a player dies, their new character
+        may inherit one item from their previous character if they take on a
+        @UUID[Compendium.zektorh-morkborg.tables.xAdS3jgI5K2mAYgu]{Bad Habit} in
+        exchange.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792620579309
+      modifiedTime: 1792620579309
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!CXU5T3GCmsbXrXco.Ea8tB0QYYt8d1alC'
+  - sort: 187500
+    name: Sanity
+    type: text
+    _id: 071GhlHe69UL2kKc
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h2>Sanity Attribute</h2><p>All characters have a new SANITY attribute
+        that can range from 3 to -6. Characters start at PRESENCE+[[/r 1d2]]
+        SANITY.</p><h2>Restlessness</h2><p>When faced with danger, if you are
+        unable to take actions, you must pass DR12 SANITY test or lose 1
+        SANITY.</p><h2>Paranoia</h2><p>When resting in a dangerous or unsafe
+        location, you must pass a DR12 SANITY test or lose 1 SANITY. If you do,
+        also reduce the benefits of the rest by half.</p><h2>Descent into
+        Madness</h2><p>Whenever your SANITY falls below 0, you add a new feat
+        representing a
+        @UUID[Compendium.zektorh-morkborg.items.Item.KjVBlWfchNkwcbH2]{Fear}
+        associated with the situation.</p><p>If your SANITY falls below 4, you
+        also gain a new
+        @UUID[Compendium.zektorh-morkborg.tables.xAdS3jgI5K2mAYgu]{Bad
+        Habit}.</p><h2>Recovery</h2><p>SANITY is only recovered when pressing
+        forward. Triumphing or coming out unscathed from a horrific situation,
+        overcoming or defeating the object of your fear, or suppressing extreme
+        discomfort causes you to recover sanity.</p><p>You may only recover 1
+        SANITY between each long rest.</p><h2>Catatonia</h2><p>If a characters
+        SANITY reaches -6, they become Catatonic. Too afraid and useless to do
+        any basic functions. Consider them dead. Time to roll a new one.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792620579309
+      modifiedTime: 1792620579309
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!CXU5T3GCmsbXrXco.071GhlHe69UL2kKc'
+categories: []
+ownership:
+  default: 2
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792620579309
+  modifiedTime: 1792620581708
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 100000
+_key: '!journal!CXU5T3GCmsbXrXco'

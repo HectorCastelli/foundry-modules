@@ -1,0 +1,28 @@
+name: Fear
+type: feat
+_id: KjVBlWfchNkwcbH2
+img: modules/game-icons-net/whitetransparent/evil-eyes.svg
+system:
+  description: <p>When faced with your fear, DR 12 PRESENCE, or panic.</p>
+  rollFormula: 1d20>12
+  rollMacro: ''
+  rollLabel: PANIC
+  carried: true
+effects: []
+folder: null
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792620541590
+  modifiedTime: 1792620541590
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 0
+_key: '!items!KjVBlWfchNkwcbH2'
