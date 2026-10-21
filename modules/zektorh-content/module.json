@@ -39,6 +39,16 @@
 				"id": "ivan-duch-music-packs",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "dice-soup",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "nice-more-dice",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
