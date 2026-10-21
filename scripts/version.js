@@ -5,6 +5,7 @@
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import semver from "semver";
 
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
@@ -17,27 +18,24 @@ function runGit(args) {
 }
 
 function parseVersion(version, source) {
-	const match = /^(\d+)\.(\d+)\.(\d+)$/.exec(version);
-	if (!match) {
+	const parsed = semver.parse(version);
+	if (
+		!parsed ||
+		parsed.version !== version ||
+		parsed.prerelease.length > 0 ||
+		parsed.build.length > 0
+	) {
 		throw new Error(`Invalid semantic version "${version}" in ${source}.`);
 	}
-	return match.slice(1).map(Number);
-}
-
-function compareVersions(left, right) {
-	for (let index = 0; index < left.length; index += 1) {
-		if (left[index] !== right[index]) {
-			return left[index] - right[index];
-		}
-	}
-	return 0;
+	return version;
 }
 
 function bumpVersion(version, bump) {
-	const [major, minor, patch] = parseVersion(version, "module version");
-	if (bump === "major") return `${major + 1}.0.0`;
-	if (bump === "minor") return `${major}.${minor + 1}.0`;
-	return `${major}.${minor}.${patch + 1}`;
+	const nextVersion = semver.inc(parseVersion(version, "module version"), bump);
+	if (!nextVersion) {
+		throw new Error(`Unable to increment semantic version "${version}".`);
+	}
+	return nextVersion;
 }
 
 function latestModuleTag(moduleId) {
@@ -49,7 +47,7 @@ function latestModuleTag(moduleId) {
 			const version = tag.slice(prefix.length);
 			return { tag, version: parseVersion(version, `tag "${tag}"`) };
 		})
-		.sort((left, right) => compareVersions(right.version, left.version));
+		.sort((left, right) => semver.rcompare(left.version, right.version));
 
 	if (tags.length === 0) {
 		throw new Error(`No local version tag found for module "${moduleId}".`);
@@ -135,13 +133,12 @@ for (const module of modules) {
 		module.manifest.version,
 		`${module.id}/module.json`,
 	);
-	const finalVersion =
-		compareVersions(
-			currentVersion,
-			parseVersion(nextVersion, "calculated version"),
-		) > 0
-			? module.manifest.version
-			: nextVersion;
+	const finalVersion = semver.gt(
+		currentVersion,
+		parseVersion(nextVersion, "calculated version"),
+	)
+		? module.manifest.version
+		: nextVersion;
 
 	if (finalVersion === module.manifest.version) {
 		console.log(`${module.id}: already at ${finalVersion}`);
