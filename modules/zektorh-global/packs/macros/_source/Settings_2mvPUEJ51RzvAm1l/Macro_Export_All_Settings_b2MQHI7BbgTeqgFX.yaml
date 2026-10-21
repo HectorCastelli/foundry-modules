@@ -1,7 +1,7 @@
 name: Export All Settings
 type: script
 _id: b2MQHI7BbgTeqgFX
-author: imJDl7HGVWjwk7Ys
+author: fxKESTgEBpcOTrSl
 img: modules/game-icons-net/whitetransparent/card-pickup.svg
 scope: global
 command: |-
@@ -13,19 +13,15 @@ command: |-
     // Filter out core system & foundry settings, keeping only custom modules
     for (const [key, setting] of allSettings.entries()) {
       const { namespace, key: settingKey } = setting;
-
-      // Exclude core 'core' namespace and current active system namespace
-      if (namespace !== 'core' && namespace !== game.system.id) {
-        try {
-          const currentValue = game.settings.get(namespace, settingKey);
-          
-          if (!exportedData[namespace]) {
-            exportedData[namespace] = {};
-          }
-          exportedData[namespace][settingKey] = currentValue;
-        } catch (err) {
-          console.warn(`[Module Exporter] Could not read setting: ${namespace}.${settingKey}`, err);
+      try {
+        const currentValue = game.settings.get(namespace, settingKey);
+        
+        if (!exportedData[namespace]) {
+          exportedData[namespace] = {};
         }
+        exportedData[namespace][settingKey] = currentValue;
+      } catch (err) {
+        console.warn(`[Module Exporter] Could not read setting: ${namespace}.${settingKey}`, err);
       }
     }
 
@@ -41,15 +37,15 @@ command: |-
 folder: 2mvPUEJ51RzvAm1l
 ownership:
   default: 0
-  imJDl7HGVWjwk7Ys: 3
+  fxKESTgEBpcOTrSl: 3
 flags: {}
 _stats:
   coreVersion: '14.369'
   systemId: morkborg
   systemVersion: 6.0.1
-  createdTime: 1792597279974
-  modifiedTime: 1792597313043
-  lastModifiedBy: imJDl7HGVWjwk7Ys
+  createdTime: 1792602798306
+  modifiedTime: 1792602798306
+  lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
   exportSource: null
