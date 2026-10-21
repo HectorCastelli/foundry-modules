@@ -162,6 +162,11 @@
 				"id": "game-icons-net",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "quick-insert",
+				"type": "module",
+				"compatibility": {}
 			}
 		],
 		"recommends": [
@@ -172,11 +177,6 @@
 			},
 			{
 				"id": "breaktime",
-				"type": "module",
-				"compatibility": {}
-			},
-			{
-				"id": "tabletop-rpg-music",
 				"type": "module",
 				"compatibility": {}
 			},
