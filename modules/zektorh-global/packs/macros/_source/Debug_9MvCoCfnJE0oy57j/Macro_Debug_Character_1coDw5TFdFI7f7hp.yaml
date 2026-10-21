@@ -5,19 +5,19 @@ author: oEmfV0SRkLPI8d0g
 img: modules/game-icons-net/whitetransparent/spotted-bug.svg
 scope: global
 command: console.log({token, actor});
-folder: null
-sort: 0
+folder: 9MvCoCfnJE0oy57j
+sort: 100000
 ownership:
   default: 0
   oEmfV0SRkLPI8d0g: 3
 flags: {}
 _stats:
-  coreVersion: '14.368'
+  coreVersion: '14.369'
   systemId: morkborg
   systemVersion: 6.0.0
   createdTime: 1792404836368
-  modifiedTime: 1792405283665
-  lastModifiedBy: oEmfV0SRkLPI8d0g
+  modifiedTime: 1792597341411
+  lastModifiedBy: imJDl7HGVWjwk7Ys
   compendiumSource: null
   duplicateSource: null
   exportSource: null
