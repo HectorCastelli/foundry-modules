@@ -39,7 +39,7 @@ for (const module of readdirSync(resolve(import.meta.dirname, "../modules"))) {
 				console.warn(`It already is a symlink to the correct path. Skipping.`);
 				continue;
 			}
-		} catch (e) {
+		} catch (_readLinkError) {
 			console.log(
 				`This is not a symlink. The module must have been installed from a release.`,
 			);

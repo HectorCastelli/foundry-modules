@@ -5,15 +5,7 @@
 console.log("Publishing modules...");
 
 import { execFileSync } from "node:child_process";
-import {
-	cpSync,
-	existsSync,
-	mkdirSync,
-	readdirSync,
-	readFileSync,
-	rmSync,
-	writeFileSync,
-} from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { resolve } from "node:path";
 
 const distFolder = resolve(import.meta.dirname, "../dist");
@@ -102,7 +94,7 @@ try {
 		],
 		{ cwd: repositoryFolder, stdio: "inherit" },
 	);
-} catch (error) {
+} catch (_deleteError) {
 	console.warn("No existing 'latest' release to delete.");
 }
 
