@@ -7,23 +7,12 @@ console.log("Publishing modules...");
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { getGitHubRepository } from "./lib/github-repository.js";
 
 const distFolder = resolve(import.meta.dirname, "../dist");
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
-
-const packageJson = JSON.parse(
-	readFileSync(resolve(repositoryFolder, "package.json"), "utf8"),
-);
-const repositoryUrl = packageJson.repository?.url
-	?.replace(/^git\+/, "")
-	.replace(/\.git$/, "");
-
-if (!repositoryUrl?.startsWith("https://github.com/")) {
-	throw new Error("package.json must specify a GitHub repository URL.");
-}
-
-const repositoryPath = new URL(repositoryUrl).pathname.slice(1);
+const { path: repositoryPath } = getGitHubRepository(repositoryFolder);
 const existingTags = new Set(
 	JSON.parse(
 		execFileSync(

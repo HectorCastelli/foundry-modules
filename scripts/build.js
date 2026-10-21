@@ -24,6 +24,7 @@ configDotenv({
 });
 
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
+import { getGitHubRepository } from "./lib/github-repository.js";
 
 const { FOUNDRY_DATA_PATH } = process.env;
 
@@ -31,16 +32,7 @@ const { FOUNDRY_DATA_PATH } = process.env;
 const distFolder = resolve(import.meta.dirname, "../dist");
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
-const packageJson = JSON.parse(
-	readFileSync(resolve(repositoryFolder, "package.json"), "utf8"),
-);
-const repositoryUrl = packageJson.repository?.url
-	?.replace(/^git\+/, "")
-	.replace(/\.git$/, "");
-
-if (!repositoryUrl?.startsWith("https://github.com/")) {
-	throw new Error("package.json must specify a GitHub repository URL.");
-}
+const { url: repositoryUrl } = getGitHubRepository(repositoryFolder);
 
 if (existsSync(distFolder)) {
 	rmSync(distFolder, { recursive: true, force: true });
