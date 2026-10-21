@@ -11,18 +11,26 @@
 		"updateNotices": false,
 		"changelogger": false
 	},
+	"_chatcommands": {
+		"autocomplete": true,
+		"maxEntries": 15,
+		"includeCoreCommands": true
+	},
+	"gm-vision": {
+		"active": true
+	},
 	"default-detach": {
 		"autoDetach": [
 			{
 				"id": "fa-nexus-app",
 				"displayName": "fa-nexus-app"
-			},
-			{
-				"id": "settings-config",
-				"displayName": "Game Settings"
 			}
 		],
 		"autoDetachTypes": []
+	},
+	"dice-so-nice": {
+		"hideSidebarTab": false,
+		"resetWelcomeMessage": false
 	},
 	"keep-windows-open": {
 		"protect_detached_windows": true,
@@ -37,23 +45,62 @@
 	},
 	"quick-insert": {
 		"gmOnly": false,
+		"filtersSheetsEnabled": true,
 		"automaticIndexing": -1,
 		"searchButton": true,
 		"enableGlobalContext": true,
-		"tocIndexing": true
+		"embeddedIndexing": true,
+		"tocIndexing": true,
+		"defaultActionScene": "show",
+		"defaultActionRollTable": "show",
+		"defaultActionMacro": "show",
+		"searchTooltips": "full",
+		"enhancedTooltips": true,
+		"searchEngine": "fuzzysort",
+		"quickFilterEdit": false,
+		"rememberBrowseInput": true,
+		"showFoldersInIndexingtab": false,
+		"includeLabelInJournalLinks": true
 	},
 	"snoot": {
 		"showCoreFlags": false,
 		"showSystemFlags": false
 	},
 	"hide-npc-names": {
-		"hideHostileNames": true,
-		"hideNeutralNames": true,
-		"hideFriendlyNames": true,
-		"hideSecretNames": true,
-		"hideParts": true,
-		"showOnActorDirectory": true,
-		"showOnTokenHUD": true,
 		"tokenHiddenSuffix": "(Anonymized)"
+	},
+	"statuscounter": {
+		"rebindMouseButtons": true,
+		"rebindNumberKeys": true,
+		"multiSelect": true,
+		"defaultDurationUnit": "rounds",
+		"defaultModifyDuration": false,
+		"displayOne": "countdown",
+		"counterFontSize": 16,
+		"counterColor": "00ffff",
+		"countdownColor": "ffff00",
+		"counterDefaults": {}
+	},
+	"dice-calculator": {
+		"enableDiceTray": true,
+		"hideAdv": true,
+		"compactMode": true,
+		"hideNumberInput": true,
+		"hideNumberButtons": false,
+		"hideRollButton": false,
+		"popout": "none",
+		"autoOpenPopout": false,
+		"popoutPosition": {},
+		"rightClickCommand": "decrease"
+	},
+	"CautiousGamemastersPack": {
+		"disableGMAsPC": false,
+		"speakerMode": 0,
+		"gmSpeakerMode": 0,
+		"playerSpeakerMode": 0,
+		"allowPlayersToUseDesc": false,
+		"blindHiddenTokens": true,
+		"notifyTyping": true,
+		"allowPlayersToSeeTypingNotification": true
 	}
 }
