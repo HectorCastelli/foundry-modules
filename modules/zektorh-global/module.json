@@ -182,6 +182,16 @@
 				"id": "dice-calculator",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "pickyadventurer",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "monks-player-settings",
+				"type": "module",
+				"compatibility": {}
 			}
 		],
 		"recommends": [
@@ -247,6 +257,11 @@
 			},
 			{
 				"id": "statuscounter",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "yendors-user-passwords",
 				"type": "module",
 				"compatibility": {}
 			}
