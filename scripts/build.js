@@ -99,7 +99,7 @@ for (const module of readdirSync(modulesFolder)) {
 
 	const tag = `${manifest.id}-v${manifest.version}`;
 	manifest.url = repositoryUrl;
-	manifest.manifest = `${repositoryUrl}/releases/download/${encodeURIComponent(tag)}/module.json`;
+	manifest.manifest = `${repositoryUrl}/releases/latest/download/${manifest.id}-module.json`;
 	manifest.download = `${repositoryUrl}/releases/download/${encodeURIComponent(tag)}/${manifest.id}.zip`;
 	writeFileSync(manifestPath, `${JSON.stringify(manifest, null, "\t")}\n`);
 

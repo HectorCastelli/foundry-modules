@@ -25,3 +25,5 @@ The outputs, ready to be published and shared, are moved to the `dist/` director
 You can then run `npm run publish` to create one GitHub release per module version and upload its ZIP and `module.json`.
 
 Each release is tagged `<module-id>-v<version>`. If a release with that version already exists, it won't be overwritten.
+
+We also keep a stable `latest` release with the latest manifests for each module.
