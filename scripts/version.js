@@ -5,15 +5,15 @@
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
-import { CommitParser } from "conventional-commits-parser";
 import semver from "semver";
+import {
+	commitScopes,
+	moduleScopes,
+	parseCommit,
+} from "./lib/conventional-commits.js";
 
 const repositoryFolder = resolve(import.meta.dirname, "..");
 const modulesFolder = resolve(repositoryFolder, "modules");
-const commitParser = new CommitParser({
-	headerPattern: /^([a-z][\w-]*)(?:\(([^()\r\n]+)\))?(!)?:\s.+$/,
-	headerCorrespondence: ["type", "scope", "breaking", "subject"],
-});
 
 function runGit(args) {
 	return execFileSync("git", args, {
@@ -74,11 +74,6 @@ function highestBump(current, next) {
 	return !current || rank[next] > rank[current] ? next : current;
 }
 
-function moduleScopes(moduleId) {
-	const parts = moduleId.split("-");
-	return new Set([moduleId, parts.at(-1)]);
-}
-
 const modules = readdirSync(modulesFolder, { withFileTypes: true })
 	.filter((entry) => entry.isDirectory())
 	.map((entry) => {
@@ -108,13 +103,8 @@ for (const module of modules) {
 
 	for (const commit of commits) {
 		const [subject, body = ""] = commit.split("\x1f");
-		const parsedCommit = commitParser.parse(`${subject}\n\n${body}`);
-		if (
-			!parsedCommit.scope
-				?.split(",")
-				.map((scope) => scope.trim())
-				.some((scope) => scopes.has(scope))
-		) {
+		const parsedCommit = parseCommit(`${subject}\n\n${body}`);
+		if (!commitScopes(parsedCommit).some((scope) => scopes.has(scope))) {
 			continue;
 		}
 
