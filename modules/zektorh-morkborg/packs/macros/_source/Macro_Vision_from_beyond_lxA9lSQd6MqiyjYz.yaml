@@ -1,0 +1,46 @@
+name: Vision from beyond
+type: script
+_id: lxA9lSQd6MqiyjYz
+author: fxKESTgEBpcOTrSl
+img: modules/game-icons-net/whitetransparent/night-vision.svg
+scope: global
+command: |-
+  const compendium = game.packs.get("zektorh-morkborg.tables");
+  compendium.getIndex();
+
+  const tableNames = [
+    "Vision Style",
+    "Vision Theme",
+    "Vision Target",
+    "Vision Importance",
+  ];
+
+
+  for (let tableName of tableNames) {
+    const table = compendium.index.find(t => t.name === tableName);
+    const tableId = table._id;
+
+    const rollable = await compendium.getDocument(tableId);
+    if (tableName === "Vision Importance") {
+      await rollable.draw({rollMode: CONST.DICE_ROLL_MODES.BLIND});
+    } else { 
+      await rollable.draw();
+    }
+  }
+folder: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792679638943
+  modifiedTime: 1792680128796
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!macros!lxA9lSQd6MqiyjYz'

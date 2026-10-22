@@ -1,0 +1,71 @@
+folder: nMHXdEHCXH21Xosv
+name: Vision Importance
+_id: il4FscidXes3vr75
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: ZYeKOwxotb8Sc2tZ
+    name: Very important to you...
+    img: icons/svg/d20-black.svg
+    description: <p>But meaningless to what you are pursuing.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536070
+      modifiedTime: 1792680162317
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!il4FscidXes3vr75.ZYeKOwxotb8Sc2tZ'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: ic2TcccUZTUXilTk
+    name: Very important to you...
+    img: icons/svg/d20-black.svg
+    description: <p>And crucial to uncovering the truth of what you are pursuing.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536070
+      modifiedTime: 1792680162317
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!il4FscidXes3vr75.ic2TcccUZTUXilTk'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792679536070
+  modifiedTime: 1792680162317
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d2
+_key: '!tables!il4FscidXes3vr75'

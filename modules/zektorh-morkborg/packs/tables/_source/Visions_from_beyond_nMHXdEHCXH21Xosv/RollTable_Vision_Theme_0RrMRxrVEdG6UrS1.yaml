@@ -1,0 +1,301 @@
+folder: nMHXdEHCXH21Xosv
+name: Vision Theme
+_id: 0RrMRxrVEdG6UrS1
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: GjRCOKb3RtP1EX3G
+    name: Agony
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.GjRCOKb3RtP1EX3G'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: nRAcRd7M5G1m7S3i
+    name: Decay
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.nRAcRd7M5G1m7S3i'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: P12J65wpzK80cgSa
+    name: Pride
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.P12J65wpzK80cgSa'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: c5oQ3AzhqaHyGlUj
+    name: Sloth
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.c5oQ3AzhqaHyGlUj'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: y5Ttw7lhOZCPZY9d
+    name: Greed
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.y5Ttw7lhOZCPZY9d'
+  - type: text
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: HxEz8cYj90hUjZg8
+    name: End
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.HxEz8cYj90hUjZg8'
+  - type: text
+    weight: 1
+    range:
+      - 7
+      - 7
+    _id: n17QBTOHKhHyPUdw
+    name: Combat
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.n17QBTOHKhHyPUdw'
+  - type: text
+    weight: 1
+    range:
+      - 8
+      - 8
+    _id: IacIojL5HZhP5II5
+    name: Torture
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.IacIojL5HZhP5II5'
+  - type: text
+    weight: 1
+    range:
+      - 9
+      - 9
+    _id: K6e5z872g7afGeBy
+    name: Hedonism
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.K6e5z872g7afGeBy'
+  - type: text
+    weight: 1
+    range:
+      - 10
+      - 10
+    _id: HgHXz6d31AF12yZA
+    name: Tyranny
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.HgHXz6d31AF12yZA'
+  - type: text
+    weight: 1
+    range:
+      - 11
+      - 11
+    _id: r5GAmjdrWPHfRSMW
+    name: War
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.r5GAmjdrWPHfRSMW'
+  - type: text
+    weight: 1
+    range:
+      - 12
+      - 12
+    _id: MAh1P1Oo0kY1AtoF
+    name: Clouds
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792679536068
+      modifiedTime: 1792679536068
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!0RrMRxrVEdG6UrS1.MAh1P1Oo0kY1AtoF'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792679536068
+  modifiedTime: 1792680099658
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d12
+_key: '!tables!0RrMRxrVEdG6UrS1'

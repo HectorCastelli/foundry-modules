@@ -1,0 +1,20 @@
+type: RollTable
+folder: null
+name: Visions from beyond
+color: null
+sorting: a
+_id: nMHXdEHCXH21Xosv
+description: ''
+sort: 100000
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792679536058
+  modifiedTime: 1792679536077
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!nMHXdEHCXH21Xosv'
