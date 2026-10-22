@@ -208,5 +208,11 @@
 			"points": true,
 			"trackers": false
 		}
+	},
+	"niks-tiny-changelogs": {
+		"compactMessages": true,
+		"simpleOutput": false,
+		"messageVisibility": "gm-player",
+		"npcAudience": "gm-owners"
 	}
 }

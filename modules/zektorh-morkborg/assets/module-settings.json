@@ -88,5 +88,18 @@
 			"points": true,
 			"trackers": false
 		}
+	},
+	"niks-tiny-changelogs": {
+		"compactMessages": true,
+		"simpleOutput": true,
+		"trackCurrency": true,
+		"trackItemChanges": true,
+		"trackDeletedMessages": true,
+		"protectChangelogMessages": true,
+		"trackEquipUnequip": true,
+		"trackActiveEffects": true,
+		"trackMorkBorgAbilities": false,
+		"trackMorkBorgOmens": true,
+		"trackMorkBorgPowers": true
 	}
 }
