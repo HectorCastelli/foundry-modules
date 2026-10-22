@@ -71,6 +71,10 @@ for (const module of readdirSync(modulesFolder)) {
 			if (/packs\/.*\/_source/.test(source)) {
 				return false;
 			}
+			// Remove `*.xcf` image sources from copy
+			if (/.*.xcf/.test(source)) {
+				return false;
+			}
 			return true;
 		},
 	});
