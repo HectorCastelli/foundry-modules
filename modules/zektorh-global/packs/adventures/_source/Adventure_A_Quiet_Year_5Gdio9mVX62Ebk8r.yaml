@@ -1,5 +1,5 @@
 name: A Quiet Year
-img: null
+img: modules/zektorh-global/assets/illustrations/The-Quiet-Year.webp
 caption: A quick collection of tools to setup and run "A Quiet Year" on Foundry VTT.
 description: >-
   <p>A quick collection of tools to setup and run "A Quiet Year" on Foundry
@@ -763,7 +763,130 @@ journal:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-scenes: []
+scenes:
+  - name: Map
+    _id: JXAbXRKDFW1TsjLE
+    navigation: true
+    navOrder: 0
+    thumb: worlds/mb-blood-dawn/assets/scenes/thumb-y0A9PicvxK-mjOdm0WSE6w.webp
+    width: 7658
+    height: 5817
+    padding: 0.1
+    shiftX: 0
+    shiftY: 0
+    initial:
+      x: null
+      'y': null
+      scale: null
+    initialLevel: defaultLevel0000
+    grid:
+      type: 0
+      size: 100
+      style: solidLines
+      thickness: 1
+      color: '#000000'
+      alpha: 0.2
+      distance: 10
+      units: ft
+    tokenVision: true
+    fog:
+      mode: 1
+      colors:
+        explored: null
+        unexplored: null
+    environment:
+      darknessLevel: 0
+      darknessLock: false
+      globalLight:
+        enabled: false
+        alpha: 0.5
+        bright: false
+        color: null
+        coloration: 1
+        luminosity: 0
+        saturation: 0
+        contrast: 0
+        shadows: 0
+        darkness:
+          min: 0
+          max: 1
+      cycle: true
+      base:
+        hue: 0
+        intensity: 0
+        luminosity: 0
+        saturation: 0
+        shadows: 0
+      dark:
+        hue: 0.7138888888888889
+        intensity: 0
+        luminosity: -0.25
+        saturation: 0
+        shadows: 0
+    transition:
+      type: null
+      duration: 1500
+      activeOnly: false
+    drawings: []
+    tokens: []
+    levels:
+      - _id: defaultLevel0000
+        name: Level
+        elevation:
+          top: 40
+          bottom: 0
+        background:
+          color: '#999999'
+          src: modules/zektorh-global/assets/textures/blank/Album_de_photographies_-_Roma_-_btv1b531929117_(136_of_157).jpg
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        foreground:
+          src: null
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        fog:
+          src: null
+        textures:
+          anchorX: 0.5
+          anchorY: 0.5
+          offsetX: 0
+          offsetY: 0
+          fit: fill
+          scaleX: 1
+          scaleY: 1
+          rotation: 0
+        visibility:
+          levels: []
+        sort: 0
+        flags: {}
+    lights: []
+    notes: []
+    sounds: []
+    regions: []
+    tiles: []
+    walls: []
+    playlist: null
+    playlistSound: null
+    journal: null
+    journalEntryPage: null
+    weather: ''
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    navName: ''
+    active: false
 tables: []
 macros:
   - name: Setup Deck and Table
@@ -1122,7 +1245,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792610009443
-  modifiedTime: 1792610009443
+  modifiedTime: 1792659743119
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
