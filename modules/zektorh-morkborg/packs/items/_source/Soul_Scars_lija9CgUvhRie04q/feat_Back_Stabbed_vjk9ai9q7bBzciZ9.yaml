@@ -1,0 +1,30 @@
+folder: lija9CgUvhRie04q
+name: Back Stabbed
+type: feat
+_id: vjk9ai9q7bBzciZ9
+img: modules/game-icons-net/whitetransparent/backstab.svg
+system:
+  description: >-
+    <p>You remember being stabbed in the back by your companions.</p><p>You can
+    sense nearby items of value.</p><p>You are paranoid of your allies. When
+    fighting close together, increase the DR to DEFEND by 2.</p>
+  rollFormula: ''
+  rollMacro: ''
+  rollLabel: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792671341294
+  modifiedTime: 1792671341294
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!vjk9ai9q7bBzciZ9'

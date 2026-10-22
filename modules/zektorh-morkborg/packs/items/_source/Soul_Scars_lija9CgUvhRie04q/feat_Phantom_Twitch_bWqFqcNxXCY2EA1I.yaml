@@ -1,0 +1,31 @@
+folder: lija9CgUvhRie04q
+name: Phantom Twitch
+type: feat
+_id: bWqFqcNxXCY2EA1I
+img: modules/game-icons-net/whitetransparent/run.svg
+system:
+  description: >-
+    <p>You remember a time you died to a trap.</p><p>Any rolls related to
+    detecting or being affected by traps have their DR reduced by 2.</p><p>You
+    cannot walk in the front of the group or be the first to enter an unlit
+    room.</p>
+  rollFormula: ''
+  rollMacro: ''
+  rollLabel: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792671341293
+  modifiedTime: 1792671341293
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!bWqFqcNxXCY2EA1I'

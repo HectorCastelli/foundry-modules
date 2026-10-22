@@ -1,0 +1,30 @@
+folder: lija9CgUvhRie04q
+name: Undying Bargain
+type: feat
+_id: 598G5UtHZ4g1DkgF
+img: modules/game-icons-net/whitetransparent/tarot-15-the-devil.svg
+system:
+  description: >-
+    <p>You remember signing a pact with an unnatural force.</p><p>When
+    long-resting, gain an extra omen.</p><p>While in combat, inhuman creatures
+    focus on you.</p>
+  rollFormula: ''
+  rollMacro: ''
+  rollLabel: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792671341294
+  modifiedTime: 1792671341294
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!598G5UtHZ4g1DkgF'

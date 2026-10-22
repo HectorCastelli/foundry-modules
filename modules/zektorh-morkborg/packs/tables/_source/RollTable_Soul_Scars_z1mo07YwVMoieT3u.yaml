@@ -1,0 +1,324 @@
+name: Soul Scars
+_id: z1mo07YwVMoieT3u
+img: modules/game-icons-net/whitetransparent/scar-wound.svg
+description: <p>Your soul itches as something planted on it awakens.</p>
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    name: Ashen Tongue
+    img: modules/game-icons-net/whitetransparent/tongue.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.09PFrdNerv6e1ZBz
+    _id: uDMwb0Agaxe8ilGq
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671366853
+      modifiedTime: 1792671366853
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.uDMwb0Agaxe8ilGq'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    name: Back Stabbed
+    img: modules/game-icons-net/whitetransparent/backstab.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.vjk9ai9q7bBzciZ9
+    _id: JRovOCmygluP0JSZ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671367653
+      modifiedTime: 1792671367653
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.JRovOCmygluP0JSZ'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    name: Basilisk Bitten
+    img: modules/game-icons-net/whitetransparent/fangs.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.e8oxhMo2orLzyh6i
+    _id: 3965IWo1yQZt3Yps
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671369332
+      modifiedTime: 1792671369332
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.3965IWo1yQZt3Yps'
+  - type: document
+    weight: 1
+    range:
+      - 4
+      - 4
+    name: Bloodied Ledger
+    img: modules/game-icons-net/whitetransparent/gift-of-knowledge.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.3EEpQvO1I4GHF9YQ
+    _id: puadjEwQIb2smrAa
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671370306
+      modifiedTime: 1792671370306
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.puadjEwQIb2smrAa'
+  - type: document
+    weight: 1
+    range:
+      - 5
+      - 5
+    name: Grave Grasp
+    img: modules/game-icons-net/whitetransparent/raise-zombie.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.9L7Off2YRHZTLJxb
+    _id: cWpyvuYLtBXacevl
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671371695
+      modifiedTime: 1792671371695
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.cWpyvuYLtBXacevl'
+  - type: document
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Iron Gut
+    img: modules/game-icons-net/whitetransparent/opened-food-can.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.TvGYkUIzzTKnQgvv
+    _id: ButGf4acuHaeAW07
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671372425
+      modifiedTime: 1792671372425
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.ButGf4acuHaeAW07'
+  - type: document
+    weight: 1
+    range:
+      - 7
+      - 7
+    name: Leaking Shadow
+    img: modules/game-icons-net/whitetransparent/ghost-ally.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.8OxomEvPYnerpOlg
+    _id: Sx1EhaGWKHKB4hxw
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671374075
+      modifiedTime: 1792671374075
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.Sx1EhaGWKHKB4hxw'
+  - type: document
+    weight: 1
+    range:
+      - 8
+      - 8
+    name: Necrotic Cell
+    img: modules/game-icons-net/whitetransparent/infested-mass.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.HxCHfsnuF34wgk28
+    _id: f7BkjDte9BE2OnQz
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671375982
+      modifiedTime: 1792671375982
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.f7BkjDte9BE2OnQz'
+  - type: document
+    weight: 1
+    range:
+      - 9
+      - 9
+    name: Phantom Twitch
+    img: modules/game-icons-net/whitetransparent/run.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.bWqFqcNxXCY2EA1I
+    _id: dNBdduYcr6ZZ7cTh
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671377634
+      modifiedTime: 1792671377634
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.dNBdduYcr6ZZ7cTh'
+  - type: document
+    weight: 1
+    range:
+      - 10
+      - 10
+    name: Scorched Eye
+    img: modules/game-icons-net/whitetransparent/fire-iris.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.Py3eed9Vgw7P36hY
+    _id: ihRuAZdKB40ZvMcB
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671378501
+      modifiedTime: 1792671378501
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.ihRuAZdKB40ZvMcB'
+  - type: document
+    weight: 1
+    range:
+      - 11
+      - 11
+    name: Shattered Bones
+    img: modules/game-icons-net/whitetransparent/broken-bone.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.3xx4j9EVJMdKHaan
+    _id: h2YydQMXlbmXv2hZ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671379459
+      modifiedTime: 1792671379459
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.h2YydQMXlbmXv2hZ'
+  - type: document
+    weight: 1
+    range:
+      - 12
+      - 12
+    name: Tethered Fate
+    img: modules/game-icons-net/whitetransparent/sewing-string.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.zeaFUa6fL2KPVVob
+    _id: yNTMKP2jVdwaX0d5
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671380544
+      modifiedTime: 1792671380544
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.yNTMKP2jVdwaX0d5'
+  - type: document
+    weight: 1
+    range:
+      - 13
+      - 13
+    name: Undying Bargain
+    img: modules/game-icons-net/whitetransparent/tarot-15-the-devil.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.598G5UtHZ4g1DkgF
+    _id: QZ6gYhqSP9Yj3phq
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792671381707
+      modifiedTime: 1792671381707
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!z1mo07YwVMoieT3u.QZ6gYhqSP9Yj3phq'
+replacement: true
+displayRoll: true
+folder: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792671347368
+  modifiedTime: 1792671383630
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d13
+sort: 0
+_key: '!tables!z1mo07YwVMoieT3u'

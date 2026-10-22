@@ -1,0 +1,32 @@
+folder: lija9CgUvhRie04q
+name: Ashen Tongue
+type: feat
+_id: 09PFrdNerv6e1ZBz
+img: modules/game-icons-net/whitetransparent/tongue.svg
+system:
+  description: >-
+    <p>You remember the exact words of a forgotten blasphemy.</p><p>You can
+    understand and speak dead or ancient languages.</p><p>If you try to tell a
+    lie, you might choke on your tongue (DR12 AGILITY test) and take 1
+    damage.</p>
+  rollFormula: '@abilities.agility.value + 1d20'
+  rollMacro: ''
+  rollLabel: Tell a lie
+  carried: true
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792671341293
+  modifiedTime: 1792671341293
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 100000
+_key: '!items!09PFrdNerv6e1ZBz'
