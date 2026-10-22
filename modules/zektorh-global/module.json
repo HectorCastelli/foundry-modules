@@ -284,6 +284,11 @@
 				"id": "niks-tiny-changelogs",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "macro-grid",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
