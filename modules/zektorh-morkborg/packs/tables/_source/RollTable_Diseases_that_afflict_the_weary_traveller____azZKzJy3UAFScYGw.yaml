@@ -1,0 +1,289 @@
+name: Diseases that afflict the weary traveller...
+_id: azZKzJy3UAFScYGw
+img: modules/game-icons-net/whitetransparent/vomiting.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: 3R16WzSm6EhogFsz
+    name: Boiling blood
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your blood desperately wants to escape the inside of your veins, it
+      comes out of your skin bubbling.</p><p>Everytime you attack, your spilling
+      blood goes:</p><ul><li><p>1~2: in the eyes of your enemy (+1 to the attack
+      roll)</p></li><li><p>3~4: in your eyes (-2 on the attack
+      roll)</p></li><li><p>5~6: in nobody's eyes</p></li></ul>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.3R16WzSm6EhogFsz'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: iGJpJTS55WraZIoF
+    name: The flabby fingers
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>It is as if you no longer had bones inside your fingers, they feel as
+      hard as jelly.</p><p>DR for attacks and defense rolls have malus of -2, as
+      well as for grabbing, holding, etc.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.iGJpJTS55WraZIoF'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: QJ9tAnyeHrJEtQzJ
+    name: Arterial worm
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>You can feel it crawl through your veins!!!</p><p>You can no longer
+      rest peacefully, a long night of sleep feels like nothing to you. You only
+      get 1HP back when resting.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.QJ9tAnyeHrJEtQzJ'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: SoPAHTrGauIK8Odi
+    name: Brain fleas
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>They dug in search of sustenance and now found meager feed inside your
+      skull.</p><p>Everytime you try to use or are subjected to magic, the fleas
+      get agitated and you get -4 to every PRESENCE test for an hour.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.SoPAHTrGauIK8Odi'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: I6YTG5tozekDPpRk
+    name: Sand skin
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your epidermis became as coarse as sandpaper, and dry as
+      hell.</p><p>Wearing fabric is unbearable to you. If you are wearing any
+      clothing, you get -2 on every PRESENCE test.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.I6YTG5tozekDPpRk'
+  - type: text
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: D5IdHkoJcky5b3iB
+    name: The creaky bones
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Every time you move, your bones make the same sound an old iron door
+      would make.</p><p>You can no longer sneak silently, and people look at you
+      funny when they notice it.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.D5IdHkoJcky5b3iB'
+  - type: text
+    weight: 1
+    range:
+      - 7
+      - 7
+    _id: dqy73VXheqbQldak
+    name: The rusting mouth
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your teeth slowly become red-orange and a weird, iron-tasting deposit
+      accumulates on them.</p><p>YOu lose another tooth every [[/r 1d6]] days,
+      and your sense of taste is gone.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.dqy73VXheqbQldak'
+  - type: text
+    weight: 1
+    range:
+      - 8
+      - 8
+    _id: BUEixwaeQIz9Qy5O
+    name: The fleeing flesh
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your are weak, it looks like some muscles are collapsing under the
+      skin…</p><p>You lose 1 point of STRENGTH permanently, and you can no
+      longer wear medium or heavy armor. </p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.BUEixwaeQIz9Qy5O'
+  - type: text
+    weight: 1
+    range:
+      - 9
+      - 9
+    _id: 7bvEJcCRWsUMtDGH
+    name: The grey eyes
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your eyes' white is slowly turning grey, as well as your field of
+      vision.</p><p>Bright lights blinds you, and force you to squint. DR+2 for
+      defense if you are blinded.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.7bvEJcCRWsUMtDGH'
+  - type: text
+    weight: 1
+    range:
+      - 10
+      - 10
+    _id: 8Ro8saYtfjU1i7d5
+    name: The leg rot
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>Your legs appear permanently scarred with sores and buboes, pus always
+      flowing.</p><p>You smell awful, it is very noticeable, and you are not
+      permitted entry into civilized spaces, and people would prefer if you
+      stayed outside uncivilized ones. Wild predators have no problem tracking
+      you from far away.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792678405622
+      modifiedTime: 1792678405622
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!azZKzJy3UAFScYGw.8Ro8saYtfjU1i7d5'
+replacement: true
+displayRoll: true
+folder: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792678405622
+  modifiedTime: 1792678405622
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+sort: 0
+_key: '!tables!azZKzJy3UAFScYGw'
