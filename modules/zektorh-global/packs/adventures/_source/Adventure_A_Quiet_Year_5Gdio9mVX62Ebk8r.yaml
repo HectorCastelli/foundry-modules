@@ -741,9 +741,9 @@ journal:
           coreVersion: '14.369'
           systemId: morkborg
           systemVersion: 6.0.1
-          createdTime: 1792610009443
-          modifiedTime: 1792610009443
-          lastModifiedBy: fxKESTgEBpcOTrSl
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
           compendiumSource: null
           duplicateSource: null
           exportSource: null
@@ -991,7 +991,7 @@ macros:
         const flexDivider = `
           <div class="flexrow align-center">
             <hr class="flex1"/>
-            <span class="flex0">or...</span>
+            <span class="flex0" style="word-break: keep-all;">or</span>
             <hr class="flex1"/>
           </div>
         `;
@@ -1100,11 +1100,13 @@ macros:
           return;
         }
 
-        // 2. Find active season deck
+        // 2. Find active season deck that still has UNDRAWN cards
         let activeDeck = null;
         for (const name of seasonalDecks) {
           const deck = game.cards.find(c => c.name === name && c.type === "deck");
-          if (deck && deck.cards.size > 0) {
+          
+          // Check available undrawn cards instead of deck.cards.size
+          if (deck && deck.availableCards.length > 0) {
             activeDeck = deck;
             break;
           }
@@ -1124,8 +1126,8 @@ macros:
 
         // 4. Handle King of Diamonds Rule (Summer)
         if (drawnCard.suit === "Diamonds" && drawnCard.value === 13) {
-          const remainingCards = activeDeck.cards.size;
-          const discardCount = Math.min(2, remainingCards);
+          const remainingCardsCount = activeDeck.availableCards.length;
+          const discardCount = Math.min(2, remainingCardsCount);
 
           if (discardCount > 0) {
             await activeDeck.deal([drawnPile], discardCount);
@@ -1245,7 +1247,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792610009443
-  modifiedTime: 1792659743119
+  modifiedTime: 1792672831599
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
