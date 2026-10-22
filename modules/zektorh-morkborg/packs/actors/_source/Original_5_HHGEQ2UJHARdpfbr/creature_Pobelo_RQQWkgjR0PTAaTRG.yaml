@@ -1,0 +1,126 @@
+folder: HHGEQ2UJHARdpfbr
+name: Pobelo
+type: creature
+prototypeToken:
+  actorLink: false
+  disposition: -1
+  name: Pobelo
+  displayName: 0
+  width: 1
+  height: 1
+  depth: 1
+  texture:
+    src: modules/zektorh-morkborg/assets/tokens/Pobelo.webp
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  displayBars: 0
+  bar1:
+    attribute: hp
+  bar2:
+    attribute: null
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: {}
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+_id: RQQWkgjR0PTAaTRG
+img: modules/zektorh-morkborg/assets/tokens/Pobelo.webp
+system:
+  abilities:
+    agility:
+      value: 0
+    presence:
+      value: 0
+    strength:
+      value: 0
+    toughness:
+      value: 0
+  description: >-
+    <p>See
+    @UUID[JournalEntry.gZRszS08EFNaRp1G.JournalEntryPage.ZqOpOMK9gFLMSBoA#pobelo-decrepit-timekeeper]{Pobelo
+    - Decrepit Timekeeper}</p>
+  hp:
+    max: 60
+    value: 60
+  alternateName: ''
+  armor:
+    name: ''
+  attack:
+    name: ''
+  morale: 10
+  special: When attacked, roll a DR14 PRESENCE test, or the attack will not deal damage
+items: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792698673189
+  modifiedTime: 1792698673189
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!actors!RQQWkgjR0PTAaTRG'
