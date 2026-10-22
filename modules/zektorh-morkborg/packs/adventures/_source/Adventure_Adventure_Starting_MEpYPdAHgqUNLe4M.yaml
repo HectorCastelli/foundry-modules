@@ -165,9 +165,9 @@ journal:
         text:
           format: 1
           content: >-
-            <h2>NPC Name</h2><p>Copy and use this as a
-            template.</p><hr><h2>Sagsobuth</h2><p>Goddess of
-            fortune.</p><h2>Goroloth</h2><p>God of deals. Takes fingers in
+            <h2>NPC Template</h2><p>Copy and use this as a
+            template.</p><hr><h2>Sagsobuth</h2><p>Goddess of fortune. Happy to
+            make deals.</p><h2>Goroloth</h2><p>God of deals. Takes fingers in
             exchange for tasks.</p><h2>Guinevere</h2><p>Goddess of might. Once
             the undying queen of Galgenbeck.</p><h2>Soultorn</h2><p>God of life.
             Experiments with souls and bodies.</p><h2>Pobelo</h2><p>God of time.
@@ -205,6 +205,39 @@ journal:
           content: >-
             <p>Use @UUID[Actor.p6VwHlqZHQDAqKN7]{Party Stash} to preserve items
             in a safe location.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 150000
+        name: World
+        type: text
+        _id: mrzlAgPUf1G12MVq
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <h2>Location Template</h2><p>Copy and use this as a
+            template.</p><hr>
         video:
           controls: true
           volume: 0.5
@@ -9225,6 +9258,36 @@ scenes:
             hasBackground: false
         _id: vKME8MkOd3399ONH
         author: fxKESTgEBpcOTrSl
+      - entryId: n0jC4NXXNZajrWyb
+        pageId: mrzlAgPUf1G12MVq
+        global: true
+        levels:
+          - defaultLevel0000
+        x: 1057
+        'y': 1181
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 60
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/treasure-map.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        text: Wayfinder
+        fontFamily: OldEnglishedBoots
+        fontSize: 64
+        textColor: '#000000'
+        textAnchor: 1
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        _id: xNppf2SJZQSP2ofO
+        author: fxKESTgEBpcOTrSl
     sounds: []
     regions:
       - color: '#284acc'
@@ -11253,7 +11316,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671807096
-  modifiedTime: 1792689159679
+  modifiedTime: 1792698972635
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
