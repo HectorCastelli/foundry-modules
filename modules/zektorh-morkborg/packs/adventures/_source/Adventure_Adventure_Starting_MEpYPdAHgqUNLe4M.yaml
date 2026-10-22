@@ -8982,7 +8982,7 @@ scenes:
     _id: QyEsyBfPPZdUyISQ
     navigation: true
     navOrder: 0
-    thumb: worlds/mb-blood-dawn/assets/scenes/thumb-YDLsjqzctDv38XetV8Z7uw.webp
+    thumb: worlds/mb-blood-dawn/assets/scenes/thumb-IH2riIFepcw4j5rkzxsM1A.webp
     width: 1000
     height: 1000
     padding: 0.25
@@ -9051,7 +9051,7 @@ scenes:
           bottom: 0
         background:
           color: '#ffffff'
-          src: modules/morkborg-core/assets/the-dying-world/galgenbeck-skull.webp
+          src: modules/zektorh-morkborg/assets/ui/landing.webp
           tint: '#ffffff'
           alphaThreshold: 0.75
         foreground:
@@ -9080,11 +9080,11 @@ scenes:
         global: true
         levels:
           - defaultLevel0000
-        x: 1031
-        'y': 882
+        x: 573
+        'y': 546
         elevation: 0
         sort: 0
-        locked: true
+        locked: false
         iconSize: 100
         texture:
           tint: '#ffffff'
@@ -9101,22 +9101,24 @@ scenes:
         textColor: '#000000'
         textAnchor: 1
         _id: zJNFA4XNg8zF6LDz
-        flags: {}
+        flags:
+          backgroundless-pins:
+            hasBackground: false
         author: fxKESTgEBpcOTrSl
       - entryId: n0jC4NXXNZajrWyb
         pageId: 6XVZTw43XzeetBYu
         global: true
         levels:
           - defaultLevel0000
-        x: 403
-        'y': 920
+        x: 1165
+        'y': 1062
         elevation: 0
         sort: 0
-        locked: true
-        iconSize: 100
+        locked: false
+        iconSize: 50
         texture:
           tint: '#ffffff'
-          src: modules/game-icons-net/blacktransparent/backstab.svg
+          src: modules/game-icons-net/whitetransparent/william-tell-skull.svg
           anchorX: 0.5
           anchorY: 0.5
           fit: contain
@@ -9128,7 +9130,9 @@ scenes:
         fontSize: 64
         textColor: '#000000'
         textAnchor: 1
-        flags: {}
+        flags:
+          backgroundless-pins:
+            hasBackground: false
         _id: SEesenFgSJZLSy2T
         author: fxKESTgEBpcOTrSl
       - entryId: n0jC4NXXNZajrWyb
@@ -9136,15 +9140,15 @@ scenes:
         global: true
         levels:
           - defaultLevel0000
-        x: 1185
-        'y': 1262
+        x: 989
+        'y': 1154
         elevation: 0
         sort: 0
-        locked: true
+        locked: false
         iconSize: 100
         texture:
           tint: '#ffffff'
-          src: modules/game-icons-net/blacktransparent/open-treasure-chest.svg
+          src: modules/game-icons-net/whitetransparent/open-treasure-chest.svg
           anchorX: 0.5
           anchorY: 0.5
           fit: contain
@@ -9166,15 +9170,15 @@ scenes:
         global: true
         levels:
           - defaultLevel0000
-        x: 809
+        x: 1025
         'y': 628
         elevation: 0
         sort: 0
-        locked: true
-        iconSize: 100
+        locked: false
+        iconSize: 70
         texture:
           tint: '#ffffff'
-          src: modules/game-icons-net/blacktransparent/rule-book.svg
+          src: modules/game-icons-net/whitetransparent/injustice.svg
           anchorX: 0.5
           anchorY: 0.5
           fit: contain
@@ -9196,15 +9200,15 @@ scenes:
         global: true
         levels:
           - defaultLevel0000
-        x: 1218
-        'y': 466
+        x: 947
+        'y': 776
         elevation: 0
         sort: 0
-        locked: true
-        iconSize: 100
+        locked: false
+        iconSize: 80
         texture:
           tint: '#ffffff'
-          src: modules/game-icons-net/blacktransparent/potion-ball.svg
+          src: modules/game-icons-net/whitetransparent/barbed-sun.svg
           anchorX: 0.5
           anchorY: 0.5
           fit: contain
@@ -9222,7 +9226,608 @@ scenes:
         _id: vKME8MkOd3399ONH
         author: fxKESTgEBpcOTrSl
     sounds: []
-    regions: []
+    regions:
+      - color: '#284acc'
+        elevation:
+          bottom: 0
+          top: 40
+          topInclusive: false
+        levels:
+          - defaultLevel0000
+        restriction:
+          enabled: false
+          type: move
+          priority: 0
+        attachment:
+          token: null
+        visibility: 4
+        highlightMode: shapes
+        displayMeasurements: false
+        hidden: false
+        name: Region
+        _id: dxQ9xZztao84ezLd
+        shapes:
+          - type: polygon
+            points:
+              - 323
+              - 309
+              - 1373.3388216156927
+              - 302.551415798997
+              - 1369.8838582867784
+              - 668.7775286639326
+              - 1215.562162928598
+              - 635.3795498177592
+              - 1116.5198808330492
+              - 601.9815709715858
+              - 1073.908666443104
+              - 614.6497698442723
+              - 1024.3875253953297
+              - 595.0716443137569
+              - 996.7478187640137
+              - 517.9107966346667
+              - 979.4730021194413
+              - 515.6074877487237
+              - 948.3783321592108
+              - 576.6451732262129
+              - 896.5538822254936
+              - 591.6166809848423
+              - 886.1889922387501
+              - 608.8914976294147
+              - 835.5161967480043
+              - 637.6828587037022
+              - 798.6632545729165
+              - 704.478816396049
+              - 799.8149090158879
+              - 745.9383763430228
+              - 804.4215267877739
+              - 783.9429729610821
+              - 815.9380712174889
+              - 797.76282627674
+              - 810.4792788812942
+              - 881.259836923028
+              - 782.6222247527824
+              - 939.759650592903
+              - 785.4079301656334
+              - 1019.1522548591618
+              - 746.4080543857169
+              - 1087.402037474016
+              - 747.8009070921423
+              - 1138.9375876117629
+              - 736.6580854407378
+              - 1147.2947038503164
+              - 662.8368920001813
+              - 1157.0446727952956
+              - 566.7300552568154
+              - 1204.4016648137658
+              - 320.1951262194852
+              - 1205.7945175201914
+            hole: false
+            origin: null
+        behaviors:
+          - name: 'FXMaster: Particle Effects'
+            type: fxmaster.particleEffectsRegion
+            _id: Fz374yitEZDhgWdT
+            system:
+              events: []
+              _elev_gateMode: none
+              _elev_gmAlwaysVisible: false
+              _edgeFadePercent: 0.18
+              autumnleaves_enabled: false
+              autumnleaves_belowTokens: false
+              autumnleaves_belowTiles: false
+              autumnleaves_belowForeground: false
+              autumnleaves_tint_apply: false
+              autumnleaves_tint: '#ffffff'
+              autumnleaves_soundFxEnabled: false
+              autumnleaves_soundFxManualSoundIds: []
+              autumnleaves_topDown: false
+              autumnleaves_orbit: false
+              autumnleaves_orbitDistance: 0.5
+              autumnleaves_directionalMovement: false
+              autumnleaves_direction: 180
+              autumnleaves_synchronizedDirection: false
+              autumnleaves_spread: 0
+              autumnleaves_spawnMode: full
+              autumnleaves_scale: 0.3
+              autumnleaves_speed: 0.15
+              autumnleaves_lifetime: 0.65
+              autumnleaves_density: 0.5
+              autumnleaves_alpha: 1
+              autumnleaves_spin: 0.25
+              autumnleaves_turbulence: 0
+              autumnleaves_gustiness: 0
+              autumnleaves_depthVariation: 0
+              autumnleaves_liveliness: 0
+              autumnleaves_edgeDefinition: 0
+              autumnleaves_edgeWidth: 0
+              autumnleaves_backgroundEnabled: false
+              autumnleaves_backgroundMode: accumulate
+              autumnleaves_backgroundDuration: 180
+              autumnleaves_backgroundOpacity: 0.8
+              autumnleaves_backgroundCoverage: 0.4
+              autumnleaves_backgroundFillVariation: 0.7
+              autumnleaves_backgroundPileStrength: 0.6
+              autumnleaves_backgroundPileSize: 3.5
+              autumnleaves_backgroundLeafSize: 0.21
+              autumnleaves_backgroundInteractionEnabled: true
+              autumnleaves_backgroundInteractionRadius: 0.9
+              autumnleaves_backgroundInteractionStrength: 0.7
+              autumnleaves_backgroundInteractionSwirl: 0.55
+              autumnleaves_backgroundInteractionLiftChance: 0.25
+              autumnleaves_backgroundInteractionElevationThreshold: ''
+              autumnleaves_backgroundInteractionSettleTime: 0.2
+              autumnleaves_backgroundInteractionSettleImpact: 1
+              autumnleaves_darknessActivationEnabled: false
+              autumnleaves_darknessActivationRange_min: '0'
+              autumnleaves_darknessActivationRange_max: '1'
+              bats_enabled: false
+              bats_belowTokens: false
+              bats_belowTiles: false
+              bats_belowForeground: false
+              bats_tint_apply: false
+              bats_tint: '#ffffff'
+              bats_soundFxEnabled: false
+              bats_soundFxManualSoundIds: []
+              bats_orbit: false
+              bats_orbitDistance: 0.5
+              bats_dropShadow: false
+              bats_shadowOnly: false
+              bats_shadowRotation: 315
+              bats_shadowDistance: 70
+              bats_shadowBlur: 2
+              bats_shadowOpacity: 1
+              bats_lateralMovement: 0
+              bats_directionalMovement: false
+              bats_direction: 180
+              bats_spread: 0
+              bats_scale: 0.27
+              bats_speed: 0.27
+              bats_lifetime: 0.27
+              bats_density: 0.474
+              bats_alpha: 1
+              bats_regionBoundaryAvoidance: false
+              bats_darknessActivationEnabled: false
+              bats_darknessActivationRange_min: '0'
+              bats_darknessActivationRange_max: '1'
+              birds_enabled: false
+              birds_belowTokens: false
+              birds_belowTiles: false
+              birds_belowForeground: false
+              birds_tint_apply: false
+              birds_tint: '#ffffff'
+              birds_soundFxEnabled: false
+              birds_soundFxManualSoundIds: []
+              birds_orbit: false
+              birds_orbitDistance: 0.5
+              birds_dropShadow: false
+              birds_shadowOnly: false
+              birds_shadowRotation: 315
+              birds_shadowDistance: 70
+              birds_shadowBlur: 2
+              birds_shadowOpacity: 1
+              birds_lateralMovement: 0
+              birds_directionalMovement: false
+              birds_direction: 180
+              birds_spread: 0
+              birds_scale: 0.27
+              birds_speed: 0.27
+              birds_lifetime: 0.27
+              birds_density: 0.031
+              birds_alpha: 1
+              birds_animations:
+                - mixed
+              birds_regionBoundaryAvoidance: false
+              birds_darknessActivationEnabled: false
+              birds_darknessActivationRange_min: '0'
+              birds_darknessActivationRange_max: '1'
+              bubbles_enabled: false
+              bubbles_belowTokens: false
+              bubbles_belowTiles: false
+              bubbles_belowForeground: false
+              bubbles_tint_apply: false
+              bubbles_tint: '#ffffff'
+              bubbles_soundFxEnabled: false
+              bubbles_soundFxManualSoundIds: []
+              bubbles_topDown: false
+              bubbles_orbit: false
+              bubbles_orbitDistance: 0.5
+              bubbles_directionalMovement: false
+              bubbles_direction: 180
+              bubbles_synchronizedDirection: false
+              bubbles_spread: 0
+              bubbles_scale: 0.27
+              bubbles_speed: 0.27
+              bubbles_lifetime: 0.27
+              bubbles_density: 0.29
+              bubbles_alpha: 1
+              bubbles_tokenTrailsEnabled: true
+              bubbles_tokenTrailWidth: 1
+              bubbles_tokenTrailStrength: 0.85
+              bubbles_darknessActivationEnabled: false
+              bubbles_darknessActivationRange_min: '0'
+              bubbles_darknessActivationRange_max: '1'
+              clouds_enabled: false
+              clouds_belowTokens: false
+              clouds_belowTiles: false
+              clouds_belowForeground: false
+              clouds_tint_apply: false
+              clouds_tint: '#ffffff'
+              clouds_soundFxEnabled: false
+              clouds_soundFxManualSoundIds: []
+              clouds_orbit: false
+              clouds_orbitDistance: 0.5
+              clouds_direction: 270
+              clouds_synchronizedDirection: false
+              clouds_scale: 0.27
+              clouds_speed: 0.27
+              clouds_lifetime: 0.27
+              clouds_density: 0.147
+              clouds_alpha: 1
+              clouds_dropShadow: false
+              clouds_shadowOnly: false
+              clouds_shadowRotation: 315
+              clouds_shadowDistance: 70
+              clouds_shadowBlur: 2
+              clouds_shadowOpacity: 1
+              clouds_darknessActivationEnabled: false
+              clouds_darknessActivationRange_min: '0'
+              clouds_darknessActivationRange_max: '1'
+              crows_enabled: false
+              crows_belowTokens: false
+              crows_belowTiles: false
+              crows_belowForeground: false
+              crows_tint_apply: false
+              crows_tint: '#ffffff'
+              crows_soundFxEnabled: false
+              crows_soundFxManualSoundIds: []
+              crows_orbit: false
+              crows_orbitDistance: 0.5
+              crows_dropShadow: false
+              crows_shadowOnly: false
+              crows_shadowRotation: 315
+              crows_shadowDistance: 70
+              crows_shadowBlur: 2
+              crows_shadowOpacity: 1
+              crows_lateralMovement: 0
+              crows_directionalMovement: false
+              crows_direction: 180
+              crows_spread: 0
+              crows_scale: 0.27
+              crows_speed: 0.27
+              crows_lifetime: 0.27
+              crows_density: 0.103
+              crows_alpha: 1
+              crows_regionBoundaryAvoidance: false
+              crows_darknessActivationEnabled: false
+              crows_darknessActivationRange_min: '0'
+              crows_darknessActivationRange_max: '1'
+              eagles_enabled: false
+              eagles_belowTokens: false
+              eagles_belowTiles: false
+              eagles_belowForeground: false
+              eagles_tint_apply: false
+              eagles_tint: '#ffffff'
+              eagles_soundFxEnabled: false
+              eagles_soundFxManualSoundIds: []
+              eagles_orbit: false
+              eagles_orbitDistance: 0.5
+              eagles_dropShadow: false
+              eagles_shadowOnly: false
+              eagles_shadowRotation: 315
+              eagles_shadowDistance: 70
+              eagles_shadowBlur: 2
+              eagles_shadowOpacity: 1
+              eagles_lateralMovement: 0
+              eagles_directionalMovement: false
+              eagles_direction: 180
+              eagles_spread: 0
+              eagles_scale: 0.27
+              eagles_speed: 0.27
+              eagles_lifetime: 0.27
+              eagles_density: 0.031
+              eagles_alpha: 1
+              eagles_animations:
+                - glide
+              eagles_regionBoundaryAvoidance: false
+              eagles_darknessActivationEnabled: false
+              eagles_darknessActivationRange_min: '0'
+              eagles_darknessActivationRange_max: '1'
+              embers_enabled: false
+              embers_belowTokens: false
+              embers_belowTiles: false
+              embers_belowForeground: false
+              embers_tint_apply: false
+              embers_tint: '#f77300'
+              embers_soundFxEnabled: false
+              embers_soundFxManualSoundIds: []
+              embers_topDown: false
+              embers_orbit: false
+              embers_orbitDistance: 0.5
+              embers_directionalMovement: false
+              embers_direction: 180
+              embers_synchronizedDirection: false
+              embers_scale: 0.27
+              embers_speed: 0.27
+              embers_lifetime: 0.27
+              embers_density: 0.49
+              embers_alpha: 1
+              embers_darknessActivationEnabled: false
+              embers_darknessActivationRange_min: '0'
+              embers_darknessActivationRange_max: '1'
+              fog_enabled: false
+              fog_belowTokens: false
+              fog_belowTiles: false
+              fog_belowForeground: false
+              fog_tint_apply: false
+              fog_tint: '#ffffff'
+              fog_soundFxEnabled: false
+              fog_soundFxManualSoundIds: []
+              fog_direction: 180
+              fog_synchronizedDirection: false
+              fog_scale: 0.27
+              fog_speed: 0.27
+              fog_lifetime: 0.27
+              fog_density: 0.51
+              fog_alpha: 1
+              fog_darknessActivationEnabled: false
+              fog_darknessActivationRange_min: '0'
+              fog_darknessActivationRange_max: '1'
+              hail_enabled: false
+              hail_belowTokens: false
+              hail_belowTiles: false
+              hail_belowForeground: false
+              hail_tint_apply: false
+              hail_tint: '#ffffff'
+              hail_soundFxEnabled: false
+              hail_soundFxManualSoundIds: []
+              hail_topDown: false
+              hail_direction: 270
+              hail_synchronizedDirection: false
+              hail_scale: 0.27
+              hail_speed: 0.18
+              hail_lifetime: 0.27
+              hail_density: 0.29
+              hail_alpha: 1
+              hail_darknessActivationEnabled: false
+              hail_darknessActivationRange_min: '0'
+              hail_darknessActivationRange_max: '1'
+              rain_enabled: false
+              rain_belowTokens: false
+              rain_belowTiles: false
+              rain_belowForeground: false
+              rain_tint_apply: false
+              rain_tint: '#ffffff'
+              rain_soundFxEnabled: false
+              rain_soundFxManualSoundIds: []
+              rain_topDown: false
+              rain_splash: true
+              rain_splashDensity: 0.2
+              rain_splashScale: 0.2
+              rain_direction: 285
+              rain_synchronizedDirection: false
+              rain_scale: 0.5
+              rain_speed: 0.2
+              rain_lifetime: 0.25
+              rain_density: 0.4
+              rain_alpha: 1
+              rain_backgroundEnabled: false
+              rain_backgroundMode: accumulate
+              rain_backgroundDuration: 180
+              rain_backgroundGroundMovementSpeed: 0.04
+              rain_backgroundCoverage: 0.65
+              rain_backgroundPatchSize: 0.85
+              rain_backgroundFillVariation: 0.7
+              rain_backgroundOpacity: 0.28
+              rain_backgroundReflectionStrength: 0.58
+              rain_backgroundShimmerStrength: 0.42
+              rain_backgroundShimmerSpeed: 0.14
+              rain_backgroundInteractionEnabled: false
+              rain_backgroundInteractionRadius: 0.5
+              rain_backgroundInteractionStrength: 0.75
+              rain_backgroundInteractionLiftChance: 0.35
+              rain_backgroundInteractionElevationThreshold: ''
+              rain_backgroundInteractionSettleTime: 1.4
+              rain_darknessActivationEnabled: false
+              rain_darknessActivationRange_min: '0'
+              rain_darknessActivationRange_max: '1'
+              rats_enabled: false
+              rats_belowTokens: false
+              rats_belowTiles: false
+              rats_belowForeground: false
+              rats_tint_apply: false
+              rats_tint: '#ffffff'
+              rats_soundFxEnabled: false
+              rats_soundFxManualSoundIds: []
+              rats_orbit: false
+              rats_orbitDistance: 0.5
+              rats_lateralMovement: 0
+              rats_directionalMovement: false
+              rats_direction: 180
+              rats_spread: 0
+              rats_scale: 0.27
+              rats_speed: 0.27
+              rats_lifetime: 0.27
+              rats_density: 0.007
+              rats_alpha: 1
+              rats_tokenAvoidance: false
+              rats_tokenAvoidanceDispositions:
+                - friendly
+                - neutral
+                - hostile
+                - secret
+              rats_tokenAvoidanceAtRest: false
+              rats_tokenAvoidanceRadius: 1
+              rats_tokenAvoidanceStrength: 0.65
+              rats_regionBoundaryAvoidance: false
+              rats_darknessActivationEnabled: false
+              rats_darknessActivationRange_min: '0'
+              rats_darknessActivationRange_max: '1'
+              snow_enabled: false
+              snow_belowTokens: false
+              snow_belowTiles: false
+              snow_belowForeground: false
+              snow_tint_apply: false
+              snow_tint: '#ffffff'
+              snow_soundFxEnabled: false
+              snow_soundFxManualSoundIds: []
+              snow_topDown: false
+              snow_direction: 300
+              snow_synchronizedDirection: false
+              snow_scale: 0.27
+              snow_speed: 0.14
+              snow_lifetime: 0.27
+              snow_density: 0.16
+              snow_alpha: 1
+              snow_backgroundEnabled: false
+              snow_backgroundMode: accumulate
+              snow_backgroundDuration: 180
+              snow_backgroundOpacity: 0.7
+              snow_backgroundFillVariation: 0.75
+              snow_backgroundDriftStrength: 0.5
+              snow_backgroundDriftScale: 0.07
+              snow_backgroundTrailsEnabled: false
+              snow_backgroundTrailRefillEnabled: true
+              snow_backgroundTrailRefillDuration: 90
+              snow_backgroundTrailWidth: 0.5
+              snow_backgroundTrailStrength: 0.25
+              snow_backgroundInteractionElevationThreshold: ''
+              snow_darknessActivationEnabled: false
+              snow_darknessActivationRange_min: '0'
+              snow_darknessActivationRange_max: '1'
+              snowstorm_enabled: false
+              snowstorm_belowTokens: false
+              snowstorm_belowTiles: false
+              snowstorm_belowForeground: false
+              snowstorm_tint_apply: false
+              snowstorm_tint: '#ffffff'
+              snowstorm_soundFxEnabled: false
+              snowstorm_soundFxManualSoundIds: []
+              snowstorm_topDown: false
+              snowstorm_rotationStrength: 0.35
+              snowstorm_direction: 270
+              snowstorm_synchronizedDirection: false
+              snowstorm_scale: 0.54
+              snowstorm_speed: 0.82
+              snowstorm_lifetime: 0.27
+              snowstorm_density: 0.3
+              snowstorm_alpha: 1
+              snowstorm_backgroundEnabled: false
+              snowstorm_backgroundMode: accumulate
+              snowstorm_backgroundDuration: 180
+              snowstorm_backgroundOpacity: 0.2
+              snowstorm_backgroundFillVariation: 0.75
+              snowstorm_backgroundDriftStrength: 0
+              snowstorm_backgroundDriftScale: 0.01
+              snowstorm_backgroundSweepEnabled: true
+              snowstorm_backgroundSweepOpacity: 0.4
+              snowstorm_backgroundSweepScale: 1
+              snowstorm_backgroundSweepSpeed: 0.8
+              snowstorm_backgroundSweepStrength: 1
+              snowstorm_backgroundTrailsEnabled: false
+              snowstorm_backgroundTrailRefillEnabled: true
+              snowstorm_backgroundTrailRefillDuration: 90
+              snowstorm_backgroundTrailWidth: 0.5
+              snowstorm_backgroundTrailStrength: 0.25
+              snowstorm_backgroundInteractionElevationThreshold: ''
+              snowstorm_darknessActivationEnabled: false
+              snowstorm_darknessActivationRange_min: '0'
+              snowstorm_darknessActivationRange_max: '1'
+              spiders_enabled: false
+              spiders_belowTokens: false
+              spiders_belowTiles: false
+              spiders_belowForeground: false
+              spiders_tint_apply: false
+              spiders_tint: '#ffffff'
+              spiders_soundFxEnabled: false
+              spiders_soundFxManualSoundIds: []
+              spiders_orbit: false
+              spiders_orbitDistance: 0.5
+              spiders_lateralMovement: 0
+              spiders_directionalMovement: false
+              spiders_direction: 180
+              spiders_spread: 0
+              spiders_scale: 0.27
+              spiders_speed: 0.27
+              spiders_lifetime: 0.27
+              spiders_density: 0.158
+              spiders_alpha: 1
+              spiders_tokenAvoidance: false
+              spiders_tokenAvoidanceDispositions:
+                - friendly
+                - neutral
+                - hostile
+                - secret
+              spiders_tokenAvoidanceAtRest: false
+              spiders_tokenAvoidanceRadius: 1
+              spiders_tokenAvoidanceStrength: 0.65
+              spiders_regionBoundaryAvoidance: false
+              spiders_darknessActivationEnabled: false
+              spiders_darknessActivationRange_min: '0'
+              spiders_darknessActivationRange_max: '1'
+              stars_enabled: true
+              stars_belowTokens: true
+              stars_belowTiles: false
+              stars_belowForeground: false
+              stars_tint_apply: false
+              stars_tint: '#d9beee'
+              stars_soundFxEnabled: false
+              stars_soundFxManualSoundIds: []
+              stars_orbit: false
+              stars_orbitDistance: 0.5
+              stars_scale: 0.17
+              stars_speed: 0.23
+              stars_lifetime: 0.27
+              stars_density: 0.35
+              stars_alpha: 0.8
+              stars_darknessActivationEnabled: false
+              stars_darknessActivationRange_min: '0'
+              stars_darknessActivationRange_max: '1'
+              _elev_tokenTargets: []
+            disabled: false
+            flags:
+              fxmaster:
+                particleEffects:
+                  stars:
+                    options:
+                      belowTokens: true
+                      belowTiles: false
+                      belowForeground: false
+                      tint:
+                        apply: false
+                        value: '#d9beee'
+                      soundFxEnabled: false
+                      soundFxManualSoundIds: []
+                      orbit: false
+                      orbitDistance: 0.5
+                      scale: 0.17
+                      speed: 0.23
+                      lifetime: 0.27
+                      density: 0.35
+                      alpha: 0.8
+                      darknessActivationEnabled: false
+                      darknessActivationRange:
+                        min: 0
+                        max: 1
+                edgeFadePercent: 0.18
+                eventGate:
+                  mode: none
+                  latched: false
+            _stats:
+              coreVersion: '14.369'
+              systemId: morkborg
+              systemVersion: 6.0.1
+              createdTime: null
+              modifiedTime: null
+              lastModifiedBy: null
+              compendiumSource: null
+              duplicateSource: null
+              exportSource: null
+        locked: false
+        ownership:
+          default: 0
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _shapeConstraints: null
     tiles: []
     walls: []
     playlist: iiKneqfAifB2A9N8
@@ -9233,7 +9838,12 @@ scenes:
     sort: 0
     ownership:
       default: 2
-    flags: {}
+    flags:
+      fxmaster:
+        stack:
+          - uid: region:particle:j11iQnma8KLRilHg:TZbqavsz1cPJvR4z:fog
+          - uid: region:filter:j11iQnma8KLRilHg:TZbqavsz1cPJvR4z:fog
+          - uid: region:particle:dxQ9xZztao84ezLd:Fz374yitEZDhgWdT:stars
     _stats:
       coreVersion: '14.369'
       systemId: morkborg
@@ -10643,7 +11253,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671807096
-  modifiedTime: 1792673165328
+  modifiedTime: 1792689159679
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
