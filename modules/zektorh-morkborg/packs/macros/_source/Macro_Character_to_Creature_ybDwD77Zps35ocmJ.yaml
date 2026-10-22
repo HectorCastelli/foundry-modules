@@ -1,0 +1,206 @@
+name: Character to Creature
+type: script
+_id: ybDwD77Zps35ocmJ
+author: fxKESTgEBpcOTrSl
+img: modules/game-icons-net/whitetransparent/card-exchange.svg
+scope: global
+command: |-
+  (async () => {
+    // 1. Get all character-type actors
+    const characters = game.actors.filter(a => a.type === "character");
+
+    if (characters.length === 0) {
+      ui.notifications.warn("No actors of type 'character' found in the world.");
+      return;
+    }
+
+    // Build dialog dropdown options
+    let optionsText = characters
+      .map(c => `<option value="${c.id}">${c.name}</option>`)
+      .join("");
+
+    // 2. Display dialog to select character
+    new Dialog({
+      title: "Convert Character to Creature",
+      content: `
+        <form>
+          <div class="form-group">
+            <label for="charSelect">Select Character:</label>
+            <select id="charSelect" name="charSelect">
+              ${optionsText}
+            </select>
+          </div>
+        </form>
+      `,
+      buttons: {
+        convert: {
+          icon: '<i class="fas fa-magic"></i>',
+          label: "Convert",
+          callback: async (html) => {
+            const charId = html.find("#charSelect").val();
+            const character = game.actors.get(charId);
+            if (!character) return;
+
+            await createCreatureFromCharacter(character);
+          }
+        },
+        cancel: {
+          icon: '<i class="fas fa-times"></i>',
+          label: "Cancel"
+        }
+      },
+      default: "convert"
+    }).render(true);
+  })();
+
+  // Helper to sanitize/escape raw JSON string
+  function escapeHTML(str) {
+    return str.replace(/[&<>"']/g, (tag) => {
+      const chars = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      };
+      return chars[tag] || tag;
+    });
+  }
+
+  // Helper to strip HTML tags from item descriptions
+  function stripHTML(htmlStr) {
+    if (!htmlStr) return "";
+    const tmp = document.createElement("DIV");
+    tmp.innerHTML = htmlStr;
+    return (tmp.textContent || tmp.innerText || "").trim();
+  }
+
+  async function createCreatureFromCharacter(character) {
+    // Convert character actor to plain object, minify JSON, and sanitize HTML tags
+    const charObject = character.toObject();
+    const rawMinifiedJson = JSON.stringify(JSON.parse(JSON.stringify(charObject)));
+    const sanitizedJson = escapeHTML(rawMinifiedJson);
+
+    // Extract stats and attributes
+    const presence = character.system.abilities?.presence?.value ?? 0;
+    const hpMax = character.system.hp?.max ?? 1;
+    const hpVal = character.system.hp?.value ?? hpMax;
+    
+    // Morale = 6 + PRESENCE
+    const morale = 6 + presence;
+
+    // Extract items
+    const items = character.items;
+    
+    // --- ARMOR: system.armor.name ("Name - Tier X") ---
+    const equippedArmor = items.find(i => i.type === "armor" && i.system.equipped);
+    let armorStr = "No armor";
+    if (equippedArmor) {
+      const tierNum = equippedArmor.system.currentTier ?? equippedArmor.system.tier?.value ?? 1;
+      armorStr = `${equippedArmor.name} - Tier ${tierNum}`;
+    }
+
+    // --- ATTACK: system.attack.name (Ignores Unarmed & Improvised Weapon) ---
+    const ignoredWeapons = ["unarmed", "improvised weapon"];
+    const equippedWeapons = items.filter(i => 
+      i.type === "weapon" && 
+      i.system.equipped && 
+      !ignoredWeapons.includes(i.name.trim().toLowerCase())
+    );
+
+    const attackStr = equippedWeapons.length > 0 
+      ? equippedWeapons.map(w => {
+          const dmg = w.system.damageDie || w.system.damage || "d4";
+          return `${w.name} - ${dmg}`;
+        }).join(", ")
+      : "None";
+
+    // --- SPECIAL: system.special ("• Name - description") ---
+    const specials = items.filter(i => ["scroll", "power", "spell", "feat"].includes(i.type));
+    const specialList = specials.length > 0
+      ? specials.map(s => {
+          const descText = stripHTML(s.system?.description);
+          return descText ? `• ${s.name} - ${descText}` : `• ${s.name}`;
+        }).join("\n\n")
+      : "";
+
+    // --- CARRIED ITEMS SECTION FOR DESCRIPTION ---
+    const excludedTypes = ["armor", "weapon", "scroll", "power", "spell", "feat", "class"];
+    const carriedItems = items.filter(i => !excludedTypes.includes(i.type));
+    
+    let carriedHTML = "";
+    if (carriedItems.length > 0) {
+      const carriedListText = carriedItems.map(item => {
+        const descText = stripHTML(item.system?.description);
+        const qty = item.system?.quantity > 1 ? ` (x${item.system.quantity})` : "";
+        return descText 
+          ? `• <strong>${item.name}${qty}</strong> - ${descText}` 
+          : `• <strong>${item.name}${qty}</strong>`;
+      }).join("<br>");
+
+      carriedHTML = `<h3>Carried Items</h3><p>${carriedListText}</p>`;
+    }
+
+    // Existing Description
+    const baseDescription = character.system.description || "";
+
+    // Dynamic secret block ID
+    const secId = foundry.utils?.randomID ? foundry.utils.randomID() : Math.random().toString(36).substring(2, 11);
+
+    // Secret block containing sanitized minified JSON
+    const secretJsonBlock = `
+  <section id="secret-${secId}" class="secret">
+    <p><strong>Original Character JSON:</strong></p>
+    <code>${sanitizedJson}</code>
+  </section>`;
+
+    const fullDescription = `${baseDescription}<br>${carriedHTML}<br>${secretJsonBlock}`;
+
+    // Preserve folder ID from source character
+    const folderId = character.folder?.id ?? character.folder ?? null;
+
+    // Build new Creature Actor Data
+    const creatureData = {
+      name: character.name,
+      type: "creature",
+      folder: folderId,
+      img: character.img,
+      system: {
+        hp: {
+          value: hpVal,
+          max: hpMax
+        },
+        morale: morale,
+        armor: {
+          name: armorStr
+        },
+        attack: {
+          name: attackStr
+        },
+        special: specialList,
+        description: fullDescription
+      }
+    };
+
+    // Create the Creature Actor
+    const newCreature = await Actor.create(creatureData);
+
+    ui.notifications.info(`Successfully created Creature "${newCreature.name}" from Character.`);
+  }
+folder: null
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792652353501
+  modifiedTime: 1792653826332
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!ybDwD77Zps35ocmJ'
