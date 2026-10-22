@@ -1,0 +1,85 @@
+name: Unlock Compendiums
+type: script
+_id: qJPnUK1DHQjbd8I0
+author: fxKESTgEBpcOTrSl
+img: modules/game-icons-net/whitetransparent/locked-box.svg
+scope: global
+command: |-
+  /**
+   * Toggles or explicitly sets lock status for all Compendiums inside 
+   * a folder named "Zektorh" and its subfolders recursively.
+   */
+  (async () => {
+    const TARGET_FOLDER_NAME = "Zektorh";
+    
+    // Set to true to unlock, false to lock, or null to TOGGLE current status
+    const MODE = null; // Options: true (unlock), false (lock), null (toggle)
+
+    // Recursively collect folder IDs matching target name or nested under target
+    function getFolderIds(folders, parentIds = new Set(), isInsideTarget = false) {
+      const matchingIds = new Set();
+
+      for (const folder of folders) {
+        const isTarget = isInsideTarget || folder.name.toLowerCase() === TARGET_FOLDER_NAME.toLowerCase();
+        
+        if (isTarget) {
+          matchingIds.add(folder.id);
+        }
+
+        // Check subfolders
+        const children = folders.filter(f => f.folder?.id === folder.id);
+        if (children.length > 0) {
+          const childIds = getFolderIds(children, matchingIds, isTarget);
+          childIds.forEach(id => matchingIds.add(id));
+        }
+      }
+
+      return matchingIds;
+    }
+
+    const compendiumFolders = game.folders.filter(f => f.type === "Compendium");
+    const targetFolderIds = getFolderIds(compendiumFolders);
+
+    if (targetFolderIds.size === 0) {
+      ui.notifications.warn(`No Compendium folder named "${TARGET_FOLDER_NAME}" was found.`);
+      return;
+    }
+
+    // Find all compendiums belonging to any of the matched folders
+    const targetPacks = game.packs.filter(pack => targetFolderIds.has(pack.folder?.id));
+
+    if (targetPacks.length === 0) {
+      ui.notifications.info(`Found folder "${TARGET_FOLDER_NAME}", but no compendiums are inside it.`);
+      return;
+    }
+
+    let updatedCount = 0;
+
+    for (const pack of targetPacks) {
+      const shouldUnlock = MODE !== null ? MODE : pack.locked;
+      if (pack.locked !== !shouldUnlock) {
+        await pack.configure({ locked: !shouldUnlock });
+        updatedCount++;
+      }
+    }
+
+    const actionText = MODE === true ? "unlocked" : MODE === false ? "locked" : "toggled";
+    ui.notifications.info(`Successfully ${actionText} ${updatedCount} compendium(s) inside "${TARGET_FOLDER_NAME}".`);
+  })();
+folder: null
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792659836541
+  modifiedTime: 1792659861205
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!macros!qJPnUK1DHQjbd8I0'
