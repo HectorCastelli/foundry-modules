@@ -269,6 +269,11 @@
 				"id": "sephrals-player-notes",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "backgroundless-pins",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
