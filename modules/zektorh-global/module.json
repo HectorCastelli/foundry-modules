@@ -192,6 +192,11 @@
 				"id": "monks-player-settings",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "roll-table-importer",
+				"type": "module",
+				"compatibility": {}
 			}
 		],
 		"recommends": [
@@ -272,6 +277,11 @@
 			},
 			{
 				"id": "backgroundless-pins",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "niks-tiny-changelogs",
 				"type": "module",
 				"compatibility": {}
 			}
