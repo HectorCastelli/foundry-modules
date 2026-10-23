@@ -97,8 +97,8 @@ system:
     @UUID[JournalEntry.gZRszS08EFNaRp1G.JournalEntryPage.ZqOpOMK9gFLMSBoA#goroloth-the-flesh-shadow]{Goroloth
     - The Flesh-Shadow}</p>
   hp:
-    max: 50
-    value: 50
+    max: 80
+    value: 80
   alternateName: ''
   armor:
     name: ''
@@ -120,8 +120,8 @@ _stats:
   coreVersion: '14.369'
   systemId: morkborg
   systemVersion: 6.0.1
-  createdTime: 1792698673188
-  modifiedTime: 1792698673188
+  createdTime: 1792771710894
+  modifiedTime: 1792771710894
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
