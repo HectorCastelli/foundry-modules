@@ -1,0 +1,2658 @@
+name: Shops And Stores
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Madame Ortho's Oddities: A curiosity shop that sells useful (sometimes
+      cursed) trinkets. Examples of some of her wares: a mummy hand that tries
+      to strange it's owner while they sleep, a compass that points to the
+      person that hates the owner the most, and a stuffed Vargouille.
+    _id: p9riSXzTl0RxpZoD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.p9riSXzTl0RxpZoD'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      The Cobbler: A store that sells all kinds of horseshoes, for all kinds of
+      reasons, but you notice, this town has no horses.
+    _id: gMTicb5rZLjm5Vwf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.gMTicb5rZLjm5Vwf'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      A Man's Burden: A blacksmith who displays and sells exotic weapons, made
+      using blueprints gathered from across the land.
+    _id: lkDIRxnBM0CjcwMk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.lkDIRxnBM0CjcwMk'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Row after Row: A store specializing in boats, specifically, boats that use
+      rowing to move.
+    _id: g05U9LGcC0dtbstR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.g05U9LGcC0dtbstR'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Gertha's Topography: A woman who sells maps she has found and made across
+      the continent, from huge full continent maps to small maps of ruins and
+      towns.
+    _id: EjSzCVQ5BJJL5sI6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.EjSzCVQ5BJJL5sI6'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Fran's fortuitous froths: potions of dubious origins and craftsmanship,
+      they almost never work as advertised, but always help you in a way you
+      didn't know you need.
+    _id: oVahgIlx7Df5aAaR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.oVahgIlx7Df5aAaR'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Sofie's softies: pillows of the highest quality, stuffed with feathers of
+      magic beasts, and enchanted with various effects.
+    _id: w3EOyGgcnJ28sDvu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.w3EOyGgcnJ28sDvu'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: 'All the RAGE: battle axes and fashionable shirts.'
+    _id: HwseQnMVQ0nWuMWg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.HwseQnMVQ0nWuMWg'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Wrench warfare: magic craftsman tools that can change into weapons. Great
+      for sneaking weaponry past the border or into the castle. You can place
+      custom orders.
+    _id: aji079kyhx2WHAKM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.aji079kyhx2WHAKM'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Caesarean's Palace - "Veni Vidi Veni": The strip club on the bad side of
+      town.
+    _id: RRc56Qj8LZlOVafg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.RRc56Qj8LZlOVafg'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Head, Shoulders, Knees, and Toes: A store ran by a mysterious wizard, it
+      only sells human appendages.
+    _id: zIVEPLPeLTvKWe6u
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.zIVEPLPeLTvKWe6u'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      The Lotto Grotto: A store that sells magical items, but the item could be
+      cursed or enchanted, and the buyer only knows after using it once.
+    _id: Vj4gEU902bZJprkD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Vj4gEU902bZJprkD'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Gertrude's Trinkets:A dingy magic shop on a back street that sells
+      surprisingly good (we're talking some top notch stuff here) magic weapons
+      and trinkets for ridiculously low prices (half the price of normal on
+      average). At midnight anything bought from the shop returns back to the
+      shop magically, and the shop teleports to another remote location.
+    _id: ZWGcIQeFa4ivG5aO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.ZWGcIQeFa4ivG5aO'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      The Satyr's Pact: A tavern run by a satyr who offers musicians a deal. If
+      they impress him and the crowd with a song they earn a instrument that is
+      always in tune and free room and board for life. If they fail, they work
+      in his tavern for a decade but can audition again for the same deal, years
+      do add up.
+    _id: 2cxEuFqNwywqS1gM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.2cxEuFqNwywqS1gM'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Rock Candy: Sells and buys a wide variety of gemstones. The shopkeeper is
+      an Oread who has a tendency to eat the product, much to the dismay of the
+      shop owner.
+    _id: N6kwLEl5EDR0mTuy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.N6kwLEl5EDR0mTuy'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Scrumdidilyumptious: This bakery is owned by a sorcerer whose focus is on
+      her craft. She likes to infuse her goodies with spells, from rainbow
+      cookies that make your tongue temporarily a new color to a slice of chili
+      cake that makes your fire spells scarily more potent for a while.
+    _id: a8sEpslDcUriOf5c
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.a8sEpslDcUriOf5c'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Munsters R Us: A tiny Pug stands at a crate, hollering in broken common to
+      come over. He'll buy your scavenged monster parts (albeit at varying
+      prices) from you. If you give him enough, he'll turn them into an item.
+      It's disturbing, but how can you resist his cute lil' face?
+    _id: WNxchR1YxpzEEv5R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.WNxchR1YxpzEEv5R'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Furever Homes: Offers small and under-sized creatures as animal companions
+      and pets. They have the basics, like rats, spiders, etc., but if you have
+      enough money, you could adopt more exotic creatures.
+    _id: My0H8fMZOlmQhEIp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.My0H8fMZOlmQhEIp'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      The Mountaineer's Bandolier: Sells survival kits, potions that help you
+      adapt to weather, and various supplies that help explorers get through
+      tough climate situations.
+    _id: AibCcvYp36EVfzEB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.AibCcvYp36EVfzEB'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Fizzlesprocket's Dairiticiary: A quirky gnome runs this ice cream stand
+      and tries to pawn off bizarre treats. You won't know if you like it till
+      you try it.
+    _id: Z7Sx0b3jGYe5OKsf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Z7Sx0b3jGYe5OKsf'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: 'Blood letting: general store takes payments in different kinds of blood.'
+    _id: hItgLpRNWtuugtmp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.hItgLpRNWtuugtmp'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      Binxes potions: potion store run by the Sanderson sisters from hocus
+      pocus. Don't let kids near this place they have an unfortunate habit of
+      disappearing.
+    _id: DvAHgSJJICzo4D4A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.DvAHgSJJICzo4D4A'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      Morticias morgue: will hide and remove bodies, perform autopsys etc., in
+      return for rare bodies/monster parts.
+    _id: SuQMFvwLm8GM3mQd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.SuQMFvwLm8GM3mQd'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      Tinker and sons: apocalyptic/doomsday prepper family of ghomes will fix,
+      repaid or mod weapons in return for canned foods, junk weapons and scraps
+      of metal.
+    _id: ptjLdaEzAyTUKnNn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.ptjLdaEzAyTUKnNn'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Fallen from a star: A well known bar/pub can find different celebrities'
+      style characters like Worgen Freeman or Clint Westwood.
+    _id: 40KSfTn9FW9xwSdE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.40KSfTn9FW9xwSdE'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Seamus the Imp Peddler: A travelling peddler, riding a covered cart led by
+      a mule, stops by the party. He explains that he specializes in the sale of
+      imps, but so far the only ones he has been able to obtain (trade secrets
+      and all) have limited lifespans. It's a mixed bag in his opinion so all
+      the imps cost the same. Imps cost [1d20/1.33] GP each, half this if it's
+      raining. On purchase the imp is bound to the character until the imp's
+      unique demise. Each imp has a craving and a fear; if the character is
+      helpful in these regards the imp's loyalty will improve. Each imp also
+      holds a secret agenda of mischief.
+    _id: gmGw3x0eRNpJDBOX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.gmGw3x0eRNpJDBOX'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Herb the Hatters: Herb makes exquisitely beautiful hats which are quite
+      uncomfortable.
+    _id: RYMv6qocETMwE4mu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.RYMv6qocETMwE4mu'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      The Transport Tube: Any common item will fall down from a tube from above,
+      assuming something of value has been put in the slot in the cubicle.
+      Approx 5ft square circle room. Out the back, some creatures would be
+      feeding the items in.
+    _id: XfBPQqX0EBBRAFJ8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.XfBPQqX0EBBRAFJ8'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Murray's Theatrics: The half-elf Murray retired from the life of a
+      wandering bard eight years ago, but still loves the trade dearly. His shop
+      (which is really just the anteroom to his house) stocks sheet music and
+      scripts for the lutist looking to expand her repertoire, or the troupe
+      seeking to get ahead of the new fashion in comedies. The texts cost next
+      to nothing - Murray remembers what it's like to travel on a performer's
+      income. The real money comes from his younger brother, Astor, whose
+      potions create audience-dazzling special effects.
+    _id: uugAsVwynqJLZ72n
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.uugAsVwynqJLZ72n'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      The Furrowed Brow: Esmeralda Turnbottom's mother made wards, and her
+      mother made wards, and her mother made wards... And Esme has never been
+      one to spoil a good tradition. The wares range from mundane (a pendant
+      against forgetfulness, carved from gingko bark) to the specialized (ground
+      cat's tooth to drive off harpies). Once a year, she closes up shop for a
+      much deserved vacation, and returns with an armful of oddly specific
+      wards. Such as "protection from a stampede of your own cattle frightened
+      by a thunderclap on a moonless summer night". And yet they always get
+      bought, and they always end up useful...
+    _id: FfftJu1F6ZkjcsmW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.FfftJu1F6ZkjcsmW'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      The Sizzler: An exotic restaurant run by a very jovial, and very fat,
+      half-ogre named Thog. They specialize in rare meats of all kinds and will
+      pay well if what you have is fresh. From drake wings to spider legs, if
+      it's fresh and serviceable they'll buy it. Their meals are renowned for
+      being tasty and surprisingly filling, and the exotic nature of their
+      ingredients has been known to impart certain temporary boons to the
+      consumer. The house special is constantly changing, so get in quick before
+      the line forms!
+    _id: FSR2jjj0x8kiSnEn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.FSR2jjj0x8kiSnEn'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Nero's Place: A shop run by an aging, paranoid neurotic elf that is
+      convinced there's a demon after him. Nero sells a wide assortment of
+      scrying crystals, mirrors, looking glasses, and patented listening tools
+      that he uses on a daily basis. Some of his inventions are actually
+      helpful, like his 'Peek-around' that angles two mirrors inside a square
+      tube to look around corners. Others are less helpful, like his 'Hearing
+      Helm' that is basically two gramophone bells welded onto a bucket. He also
+      sells protective charms and wards to help keep... well anything off your
+      back, really. For the paranoid inside us all, Nero's Place is the Place
+      for you!
+    _id: gozmUBl3qDJDMo40
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.gozmUBl3qDJDMo40'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: 'Goldie''s Locks: a wig shop selling enchanted wigs that are just right.'
+    _id: i4bxdYSpej1foYTN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.i4bxdYSpej1foYTN'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      The "ooks" Store: A dingy store front window displays "ooks" peeling gold
+      lettering. Inside the dimly lit shop are shelves upon shelves of musty old
+      volumes fill up the space until only narrow paths await the adventurous
+      customer. After searching the store you might find what you want...or need
+      in the future.
+    _id: 8gChDWX4aFcyOhPl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.8gChDWX4aFcyOhPl'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      The Amazing Omar's Shop of Curiosities: Omar, a flamboyantly dressed
+      merchant waves, you over to his display wagon to view his wears. Various
+      charms, potions, knick-knacks, and unguents are on display for all to see.
+      If you are a polite and interested customer he may be persuaded to
+      showcase his more interesting items...
+    _id: QpvPk3wJTQvBH8lq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.QpvPk3wJTQvBH8lq'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Adon's Exceptional Reflection Collection: A good sized shop that sells
+      mirrors of various shapes and sizes, run by a reclusive and eccentric old
+      gnome named Adon. Mirrors hang from almost every surface, with some even
+      dangling from the ceiling or the bottom of other mirrors. It is incredibly
+      easy to get lost wandering the store, and the inside seems significantly
+      bigger than its outside appearance belies. An observant customer will
+      notice that some mirrors occasionally reflect fantastic locations with
+      startling realism.
+    _id: FO7i5NsMMraiSmse
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.FO7i5NsMMraiSmse'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Ketterman Barley's Stone carving and Statuary: Ketterman is a stone carver
+      of some renown, and does all kinds of stonework from bas-reliefs and
+      fountains to statues and headstones. He's expanded his business recently
+      by offering smaller, personal busts of the client for a reasonable sum,
+      depending on the quality of the stone. Ketterman typically sells to the
+      upper class, but as long as you can pay he's more than willing to work
+      with just about any customer. But here's the catch: Ketterman is actually
+      an accomplished diviner as well. Every time he carves an eye into his
+      stonework he can use those eyes to scry through at any time. Ketterman
+      uses his vast network of eyes to spy on anyone within their gaze, and if
+      he comes across something particularly noteworthy he sells that knowledge
+      to the highest bidder, or uses it as leverage for blackmail under his
+      assumed alias of 'The Emerald Pool' (because his eyes are green).
+      Ketterman has been operating for almost two decades now, and his work has
+      traveled far across the land. Odds are his stone eyes have seen something
+      you didn't want to be seen. So tell me friend; what are you hiding?
+    _id: xJkfBoYQzvSUyoyD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.xJkfBoYQzvSUyoyD'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Blood Of Thy Enemies/Blood Of My Blood: Half the shop weapons &amp;
+      instruments of death run by tiny, aggressive woman. The other half a
+      healing shop run by a large barbarian type man who's gentle. They are a
+      couple...opposites attract?
+    _id: Eir51FMZaFclrz91
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Eir51FMZaFclrz91'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Rats, Bats, &amp; Vats: Your typical cauldron witch type store. Alchemy,
+      herbs, could be run by hag.
+    _id: KVtGq9iAHcQV7hr6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.KVtGq9iAHcQV7hr6'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      Kern The Hammer's Hammers: Shout out to Critical Role. Half-Orc Kern The
+      Hammer has given up on fighting in the pits after the loss to Grog the
+      Barbarian, the shop has every kind of hammer you could ask for.
+    _id: vj65LbGqPui4l232
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.vj65LbGqPui4l232'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      Maybe It's Adamantine: A clearance type shop of magical items. Genuine as
+      advertised Magical Items are in stock but rare. Lots of faulty or
+      completely misidentified items. Create any additional rules, such as
+      refund any item after purchase but at 30% of it's value, no identify
+      spells allowed on store premises, etc.
+    _id: wXjAz32hMIlsIXhT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.wXjAz32hMIlsIXhT'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Ninth Level: Hell themed. Run by a demon or devil. Opportunity to buy
+      existing contracts or forge a new one.
+    _id: wFUWCSx4Lvp62gAK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.wFUWCSx4Lvp62gAK'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Mendelsen's Magnificent Mending: Mendlesen is the most talented mender in
+      the world. Clothes, artifacts, magic items, you name it &amp; he/she can
+      mend it.
+    _id: UW474PORt4CkDrej
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.UW474PORt4CkDrej'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      Carts &amp; Crafts: Every kind of vehicle for sale &amp; rent. Can
+      purchase passage on different methods of transportation as well. Purchases
+      come with option to register as a transporter to provide passage &amp;
+      collect fares.
+    _id: bGSYQsc0Ro7FNV5x
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.bGSYQsc0Ro7FNV5x'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Dark Arts &amp; Melted Hearts: Your typical "Dark Arts" type store, but
+      complete with a tavern type meeting area that regularly provides a speed
+      dating-esque environment for undesirables, villians, &amp; general
+      ne'er-do-wells. Everyone deserves a shot a love right?
+    _id: jkyl6Ofhc3mdsJQQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.jkyl6Ofhc3mdsJQQ'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      The Dock of Many Flings: A store either on the water or with a large well
+      inside. There are no items, only shelves and shelves of pebbles worth
+      different tiers of gold. You buy a pebble, then stand over the designated
+      area and cast your pebble into the water. You gain a random magical
+      effect, item, or etc. (eg. A Mini or alternate deck of many things)
+    _id: CAkcxfA6onyl9d6r
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.CAkcxfA6onyl9d6r'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Whispers &amp; Secrets: The only goods bought and sold here are rumors,
+      secrets, other generally unknown information. You cannot pay with
+      traditional currency, must offer hidden information of your own to barter
+      with. Use either an unbiased magical system (such as speaking your secret
+      into a glass jar, putting the lid on placing upon a magical scale that
+      determines it's weight/value), or for more interesting roleplaying
+      opportunities have a totally biased shopkeep the players can haggle with
+      or try and persuade.
+    _id: Mg31ZJu29GdZ0SMd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Mg31ZJu29GdZ0SMd'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      Proctor &amp; Son's Deadly Traps: More a small dungeon than a store, the
+      ceiling to floor to finally the basement is covered in traps. You must
+      survive long enough to actually disarm and then purchase your chosen
+      traps. It used to be a family business but that didn't last for very long.
+    _id: WiqAXq8xeD6OyyG9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.WiqAXq8xeD6OyyG9'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      Impeccable Times: In a building stylized as a home befitting a cuckoo
+      clock, the sound of ticking from countless mechanisms dominate the senses.
+      The blind elderly craftsman shows no concern for anyone except his owl
+      which is never far from his side. Secretly, he can hear from every watch
+      and see from every clock he creates. The owl is also a mechanical
+      contraption.
+    _id: SBJrsLoP238Dwr42
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.SBJrsLoP238Dwr42'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Ayesha's Insult Emporium: The store's name, in simple black lettering, is
+      all that infers what lies inside. A friendly middle aged woman (presumably
+      Ayesha) wearing a sari greets customers entering this store's antechamber
+      with a sharp personal insult. Anyone who takes great offense to the insult
+      is teleported out of the shop and can't re-enter. However, those who
+      accept it in good spirit will be led by Ayesha to the main room which
+      contains shelves and cabinets filled with scrolls, books and scraps of
+      paper containing some of the most brilliant, sought-after and mind-bending
+      insults to ever have been uttered or penned.
+    _id: pZ3VRegZopFGtSxC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.pZ3VRegZopFGtSxC'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      The Green Room: This inn, hidden by an entrance in the sewers, provides
+      lodging in rooms made completely of thick glass. The floors consist of
+      different types of soil, and beds are constructed from clay with meagre
+      hay mattresses. Patrons that stay the night develop a slight green tinge
+      to their skin that persists for a week. For this duration, as long as one
+      stays in direct natural sunlight for at least 4 hours a day, they need not
+      eat. Sleep is required as usual, and water requirements per day to survive
+      are doubled.
+    _id: 3VAWKKnvIWInigxM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.3VAWKKnvIWInigxM'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      The Potato Is Just An Illusion: A comedy club and tavern frequented by
+      illusionists, diviners and enchanters. Patrons dine, drink and listen to
+      wizards from the local guild tell comedy that is usually highly academic
+      in nature and augmented by various creative illusions. STRICTLY NO IMP
+      FAMILIARS ALLOWED.
+    _id: XJ9MYqdi77SqxENX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.XJ9MYqdi77SqxENX'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Piander's Books: A poorly lit bookshop filled with books of ancient lore.
+      Run by a seemingly mute man in a dark cloak, he watches visitors closely
+      from the shadows.
+    _id: 1WYETweEDxY1xeBy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.1WYETweEDxY1xeBy'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Alethra's Tear Shop: A medium sized store with shelves full of tiny
+      bottles of tears, the are all carefully labeled with the date the tears
+      were shed, the name and race of the being that shed them, and the reason
+      they were shed. Run by a middle aged woman named Alethera, an unusually
+      cheerful woman who is as eager to buy new tears as she is to sell them.
+      Alethera is especially interested in the tears of adventures and famous
+      people.
+    _id: bS2CZUMzl3Af0ZK7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.bS2CZUMzl3Af0ZK7'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      Adventure's Emporium: On the outside it looks abandoned and if you ask
+      around town you will be told it is cursed or haunted, but when adventures
+      enter the building they enter a spacious, well lit store full of ten foot
+      poles, iron spikes, torches, and other adventuring gear. It is run by a
+      retired adventurer.
+    _id: 2b3xrHTQ3W3pJBZV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.2b3xrHTQ3W3pJBZV'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Darvin's Dandy Dolls: A shop with shelves full of dolls, many of them
+      resemble important political figures of the region. It is rumored that
+      some of the dolls have power over the people they represent.
+    _id: MrAcFSOx1ZahO53C
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.MrAcFSOx1ZahO53C'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Sprog's Spirits: A dark shop run by a well tempered and grim half orc.
+      It's shelves are filled with bottles that Sprog claims hold the spirits of
+      the dead.
+    _id: eFvtfOfXv2a0RSZ9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.eFvtfOfXv2a0RSZ9'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Anton's All-porpoise Absolutions: An office run by a cleric of a god of
+      mercy. A place where kings and commoners alike go to repair their
+      relationship with their gods and other extraplanar patrons.
+    _id: D4WjjxGuc8gQHNQO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.D4WjjxGuc8gQHNQO'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Magroma's Jewelry: A "jewelry store" run by an old woman where all of the
+      jewelry is made out of the polished bones of various creatures, some of
+      them quite exotic.
+    _id: FnNhtiuxwO819myC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.FnNhtiuxwO819myC'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Arcadia Glass: A small shop with shelves filled with tiny and exquisitely
+      beautiful glass statues. Run by a half elf, behind his desk he has a small
+      collection of graphic statues that appear to depict past and future
+      events.
+    _id: JVaGJe0hJHyNHP7J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.JVaGJe0hJHyNHP7J'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Gulthric's Curiosity Shoppe: A mostly nondescript store from the outside,
+      this shop is run by an old copper dragonborn. The inside of the shop is
+      sectioned off with all sorts of magical items for sale, and there is the
+      slight smell of incense. The shopkeeper will sell magic items in trade for
+      a true story. The more important the story is to the character, the more
+      likely they are to receive a more powerful magic item (limited within DM's
+      reason, of course). Magic items range from a large selection of small
+      trinkets to a rather limited selection of powerful items.
+    _id: OvA3NW7CFRYwwfDX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.OvA3NW7CFRYwwfDX'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Fletcher's Hunting Goods: A traveling fletcher who makes high quality bows
+      and arrows. More likely to be seen in a frontier town or on the trails in
+      the wilderness.
+    _id: hBFxqncaBpCOMX1A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.hBFxqncaBpCOMX1A'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Clara's Haberdashery: a half-orc woman makes and sells fashionable hats to
+      normal patrons, but sells magical hats on the black market. Her hats are
+      imbued with special abilities by using rare and wonderful items. She's an
+      artist to her core and she'll try to accommodate your request, but at the
+      end of the day, it's her final word. Imagine wild versions of hats you
+      know, precursors to hats we have now, but much more ornate and fanciful.
+    _id: bgfeE02JOEDCNLhh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.bgfeE02JOEDCNLhh'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      People, People!: It's a shop where you can hire people. There's different
+      races and strengths of people for different prices. You can hire a
+      commoner for 1 gold as usual, but there's a few stronger people, or twin
+      halflings that come as a bundle, or an old lady that's very expensive.
+      There's not usually shops where you can easily hire people. Here one is.
+    _id: twcuj5htFhrT9dou
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.twcuj5htFhrT9dou'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      The Flying Dutchmans' Insurance Agency: A pair of brothers, The Dutchmans,
+      enchant items to levitate back to a predetermined location after using a
+      keyword. Useful for if an item is stolen.
+    _id: EQpztChmFVHADng6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.EQpztChmFVHADng6'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Mounds of Masks: A disorganized store stuffed with various masks of all
+      kinds. Owned by a retired, deranged playwright who is rumored to have
+      fallen into the occult.
+    _id: OoOTLDoYxN5uVzPk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.OoOTLDoYxN5uVzPk'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Dundragon Family Goods: This store appears to be an average general goods
+      store run by a small family of three, a father, a mother, and a daughter,
+      but any local criminal will know that "Dundragon Family Goods" is actually
+      the best place to find illegal supplies without attracting attention, as
+      the whole family knows thieves cant.
+    _id: Wmm8G4GV2ErugxDd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Wmm8G4GV2ErugxDd'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Ship Shape Ships: A shipwrights store that constantly smells of the sea.
+      Behind the shipwright's desk are a collection of model ships in bottles
+      that represent real ships, and whoever owns these models owns the real
+      ship.
+    _id: 5VCQukLSTt8janiP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.5VCQukLSTt8janiP'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Stiletto Emporium: Stilettos give bonuses to charisma on female
+      characters, but reduce speed and increase noise.
+    _id: NSoLXqSCesXlOln8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.NSoLXqSCesXlOln8'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: 'Beets Beets Beets!: They sell Beets!'
+    _id: 6BU0y6st0Y9NeGUV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.6BU0y6st0Y9NeGUV'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      The Weather Station: They have bottles of weather. If you open a bottle,
+      the weather inside comes out and fills the room.
+    _id: 8zCj0pGBieeGmSvI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.8zCj0pGBieeGmSvI'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      The Rusty Key: Sells Keys. Sells rings of keys. Sells keys for specific
+      areas or boxes. Simple keys, giant keys, intricate keys, one magical key.
+      They recommend using keys for decorative purposes only.
+    _id: 926bmhck1cUqWJDD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.926bmhck1cUqWJDD'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      Dirt's Dirt: Sells dirt. Also small stones. sells mystery dirt and a "dirt
+      mystery bag" that has dirt plus one item in it.
+    _id: zS4CNilVgCcPdhAS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.zS4CNilVgCcPdhAS'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Balloons and darts: Every balloon purchase also comes with darts. You can
+      get transport on a hot air balloon and tons of darts. Balloon animals and
+      dart animals. Buy a balloon (and dart!) and get a balloon (and dart!)
+      free! [On walking out, the dart is thrown at the balloon].
+    _id: JF7OlqV1knKTQYbK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.JF7OlqV1knKTQYbK'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Rosewaters: Sells tinctures of water. Rose water, holy water, filtered
+      water, spring water, toilet water, alcohol water, etc.
+    _id: b0BBeDWEcXJ7hirn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.b0BBeDWEcXJ7hirn'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      Lukas' Lucky Oddities: At the start of each day, Lukas rolls twice on the
+      trinket table and chooses one trinket. He must sell it for an exorbitant
+      price before dusk. Such is his curse.
+    _id: 8xpexuaXWkWfXQFn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.8xpexuaXWkWfXQFn'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Madame Tralancet's Veritable Shop of Disguises and Costumes for the Modern
+      Journeyman: She has an enormous selection of suspiciously cheap costumes,
+      disguise kits, wigs, and other fake parts. She has seven drawers bulging
+      with moustaches alone.
+    _id: fgtqZqZzYpljnUaD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.fgtqZqZzYpljnUaD'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      Doctor Nehantil's Reputable Establishment: In a rundown shack in a bad
+      part of town, a half-orc woman runs reception. Give her your appointment
+      card, and she'll tear off the planks from the back wall where you can meet
+      Dr. Nehantil, a "physician" with cheap prices and even cheaper services,
+      no questions asked.
+    _id: Yy3x6wzpBSymRvgv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Yy3x6wzpBSymRvgv'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      Mira's Oozes: A pet store of sorts filled with living oozes of all colors
+      stored in jars. Run by a young and naive sorceress who insists that the
+      oozes are harmless when properly handled.
+    _id: AJ4d511rtxYfteNP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.AJ4d511rtxYfteNP'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      Temple of the Tiny: A quaint little store stocked with holy symbols and
+      other religious merchandise, all marketed towards children.
+    _id: hbxAv3vF6ReIePd2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.hbxAv3vF6ReIePd2'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Kesheki's Weapon Shop: A store in the darkest corner of the town run by a
+      curiously well mannered female gnoll, Kesheki. The shop sells all kinds of
+      the most exotic and vicious weapons imaginable. The only currency Kesheki
+      will accept are the scalps of humanoids, the stronger the creature the
+      scalp was taken from the more valuable the scalp is.
+    _id: gktxuCameizJ76cw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.gktxuCameizJ76cw'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Walters Watch/Warehouse/Witchcraft/Wizardry/Weaponry: Walter is an aged
+      peddler who settled in a small town. He has a bit of everything, is the
+      towns postmaster and guard. The shop's sign says "Walter's " on the left
+      side. The right side is a stack of signs he changes as needed. "Watch,
+      Warehouse, Witchcraft (Herbs), Wizardry (mostly useless magic items) .
+      When not selling he switches to "Walter's Watch" and earns his wage as the
+      only townguard.
+    _id: s9r74eS74WEMv4iH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.s9r74eS74WEMv4iH'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Clifford's Catastrophic Candys: a candy shop that only sells empty bags
+      that fill with either just the treat you want or something utterly
+      disgusting once you get hungry. You must eat what appears before it fills
+      again.
+    _id: RKZxXieR97VSfH6O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.RKZxXieR97VSfH6O'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Place Your Hand: An old shop, completely empty, run by and old human
+      wizard. In the shop you can find only a table, and this old man sit on a
+      wooden chair, behind the table. Over the table there is a Bag of Holding;
+      for 10gp the old man let you pull out one random non-magical object, from
+      a rusty pan to a brand new plate armor. Every thing is possibile in this
+      shop! Are you brave enough to “Place your Hand” in the bag?
+    _id: 5LXiSCrpL3DH4Eyl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.5LXiSCrpL3DH4Eyl'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Tomes of Tombs: A shop specializing in information on death, undeath, and
+      graveyards. Includes biographies of famous figures buried in local area as
+      well as maps of some family crypts.
+    _id: Qi7seLKJ70gzFEIp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.Qi7seLKJ70gzFEIp'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      Old Elmer's: A wooden building that walks on several insectile legs, ran
+      by an aging half-elf with a wooden leg, a glass eye, and a fully animated
+      brass hand. Sells prosthetics of all kinds, magical and mundane.
+    _id: hxsDOoAjiDDLq6VQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.hxsDOoAjiDDLq6VQ'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      The Meat Place: A luxurious, popular tavern with really good food, mainly
+      specializing in one kind of meat. An still living animal covered in scars
+      is suspended from the ceiling, chains covered in glowing runes.
+      Occasionally an employee comes in and cuts it up, carrying the meat to the
+      kitchen as the animal heals. Neither the staff nor the patrons seem to
+      have any issues with this. The animal is a 1: Pig 2: Sheep 3: Goat 4: Cow
+      5: Irrecognizable mass of scar tissue with a distinct taste that you
+      cannot place. 6: Roll twice. Both. If a die lands on a 6 again, it's a
+      sapient being being kept against their will.
+    _id: g3Sydy65wjn9wGH5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.g3Sydy65wjn9wGH5'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Frey's Fresh Fish Flesh; A middle-aged female water genasi carrying a
+      large Urn of Infinite Water, as well as various fishing supplies. Sells
+      fresh fish, which she fishes out of the urn, as well as fishing supplies.
+      Often found in deserts.
+    _id: 6LumjsTdPI2Vsybh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.6LumjsTdPI2Vsybh'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      Skeleton Shop: A large underground complex selling all kinds of animate
+      skeletal animals. The owner is a jovial skeleton who only accepts currency
+      taken by force, without the previous owner's consent.
+    _id: 9EXpGoMZ9JIFYMrJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.9EXpGoMZ9JIFYMrJ'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      Howard The Doe Has A Shop Now Come Check Out Howard The Doe's Shop: A
+      rundown house obviously built as a home and not as a shop. Staffed by a
+      very excited yet forgetful doe, Howard, who insists on maintaining bipedal
+      gait while the party is present despite being really terrible at it. Will
+      attempt to sell anything not nailed down, and is surprisingly persuasive
+      despite having obvious trouble speaking with her doe vocal chords and
+      holding objects with her doe hooves. Has no actual grasp on what objects
+      are worth or even what constitutes valid payment and will often overcharge
+      or undercharge the party to ridiculous degrees.
+    _id: P4NaOf8eQUcBG6zh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.P4NaOf8eQUcBG6zh'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: 'The Tavernacle: a tavern run entirely by beer-making monks.'
+    _id: oBeBEiLUNtfrkmdt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.oBeBEiLUNtfrkmdt'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      QIA - Questions, Information, Answers: This business buys and sells
+      information, brokers missions, offers services. Gathered by magic means,
+      bought from adventurers or received from distant locations a party can
+      find the information it needs, learn about a mission offered by a trader
+      or use the shops scrying or message service for a fee. This shop and some
+      traveling business wagons are run by an elderly, stonefaced dwarf named
+      "Harthos Adori Treasurebringer" in wizard robes with a nameplate saying
+      "Hat Wizard".
+    _id: O1myLuQw1ct4EkPi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.O1myLuQw1ct4EkPi'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      Wyatt's Wandering Wares: This shop, run by a young half elf, is of a
+      special kind. It appears in a free spot in a street, and when it appears
+      it has always been there. Wyatt is a good natured trader, selling wares
+      with magic properties that often are unknown, and always trying to play a
+      little trick with his customers.
+    _id: vG8AkRGxJgJXTaS8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.vG8AkRGxJgJXTaS8'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Kabooms and Korpses: A fireworks store that has been almost completely
+      blackened by numerous incidents. Run by a goblin inventor who is also an
+      amateur undertaker, offers to use some of his bigger rockets to give loved
+      ones a glorious send off.
+    _id: w3gG9JPQBledyQQc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.w3gG9JPQBledyQQc'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      Dolores' Café &amp; Dispensary: - a public shop for purchasing all kinds
+      of alchemical reagents and paramacutical goods for healing, potion making
+      and poison brewing - Also doubles as a delightful café where patrons can
+      drink hot brews of cocoa and indulge in their preffered choice of reality
+      enhancing herb.
+    _id: eWPhoJVdnWgMrGMw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.eWPhoJVdnWgMrGMw'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      The Gold Chain: They sell gold. Great place to exchange currency types,
+      trade figurines or valuables for gold. They sell a few gold coins with
+      magical properties, like the boomerang coin and the communication coin.
+      Sometimes they have slow sales so they have a "buy-one-get-one-free" deal
+      on gold coins. Deals primarily in gold. Also can melt gold into shapes
+      like rings and earrings.
+    _id: gP274GPxVqqM5LkT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.gP274GPxVqqM5LkT'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      Store Store: Sells stores. You can buy storefronts ranging from a clothing
+      store to a hot dog stand. Not cheap! They also have an enchanting
+      business, password protected chests, charms to prevent theft, money
+      pockets that only the owner can withdraw from, and alarm bells. They also
+      sell signs of various types, some with glowing lights.
+    _id: mdXZDoBHmfcnr2oc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.mdXZDoBHmfcnr2oc'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      The Prime Meridian: This store has one person inside with very, very shiny
+      golden shoes. "These are my prime shoes" they say. They will sell you
+      almost any item, and have it back to you within two days. However, there
+      is a significant charge to getting the item, and some items might not come
+      within two days. Unfortunately, before you can buy, the man tries to up
+      sell you with a long list of items, and won't begin getting your item
+      until bombarding you with the other items. Things like a bard service to
+      follow you around with music, a chef service to cook you food, an
+      enchanted rock that you can talk to, but also tells him your preferences
+      in case you come back, a painting delivery service that sends you
+      paintings every week for you to look at, but the paintings are pretty bad,
+      like a child drew them. Each service costs 2-3x the cost of the item they
+      are going to get in 2 days.
+    _id: BKuFnzKg6Ciuy9cG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.BKuFnzKg6Ciuy9cG'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: 'Sew it seams: A textiles shop full of misleading fabrics and clothes.'
+    _id: GqVICRCYfnjr4Rxw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.GqVICRCYfnjr4Rxw'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      *ALWAYS A WINNER!: A lottery outlet. To enter, you have to put a GP into
+      above the doorknob. You walk in and bells go off - you're a winner!! A
+      crowd cheers around you and you see then number 10,000 person. A sash is
+      placed on you. You're the 10,000th customer! You win a large cash prize!
+      Congratulations! You can either stop now, or take the chance to double or
+      nothing your earnings!! The shop has a large prize wheel. Roll a D10 -
+      anything other than a D10 loses! You just have to sign here and pay the
+      deposit of 10 gold coins! If the PC does so, they earn the prize of 1,000
+      gold coins. They check their pouch and a faint golden vapor is leaving
+      their pouch and moves toward the lottery. If they re-enter, they must pay
+      another coin, but the building is empty.
+    _id: VH34BkufIwqnPMU4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746605433
+      modifiedTime: 1792746605433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!PBd7QYP24AoGxPSi.VH34BkufIwqnPMU4'
+folder: null
+_id: PBd7QYP24AoGxPSi
+img: modules/game-icons-net/whitetransparent/shop.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746605433
+  modifiedTime: 1792747029124
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 100000
+_key: '!tables!PBd7QYP24AoGxPSi'

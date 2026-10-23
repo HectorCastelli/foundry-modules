@@ -1,0 +1,2520 @@
+name: Magical Fountains And Pools
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Fountain of Transformation: Drinking the water of this fountain causes the
+      drinker to transform into a random race. The transformation is permanent.
+    _id: 4zoC9SawBFSFjg6J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.4zoC9SawBFSFjg6J'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Fountain of Draining: Drinking the water of this fountain causes the
+      drinker's muscles to shrivel up, making them lose 1d4 Strength points for
+      1d4 days.
+    _id: KSGDsGPt6y2Xvuig
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.KSGDsGPt6y2Xvuig'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Fountain of Holy Water: The water of this fountain is considered Holy
+      Water.
+    _id: 6s5YiY5WwoJXTkr0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.6s5YiY5WwoJXTkr0'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Fountain of Teleportation: This fountain can transport the player to
+      another location. All the player needs to do is submerge themselves into
+      the water of the fountain, and they will arise in a new location.
+    _id: L3LQkljrXN1M3LF7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.L3LQkljrXN1M3LF7'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Fountain of Resurrections: This fountain can bring a single dead body back
+      to life if the body is fully submerged in the water. This effect can only
+      happen once a year.
+    _id: n7JcrWSUaVMveM0q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.n7JcrWSUaVMveM0q'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Fountain of Blinding: Drinking the water of this fountain causes the
+      drinker to go blind for 1d6 days.
+    _id: r2TKEDEyLRuxAuAi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.r2TKEDEyLRuxAuAi'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Fountain of Inspiration: This fountain fills the drinker with the
+      inspiration of a poet. They gain a permanent +1 to their Performance
+      skill.
+    _id: 9iDo2LJZBbG9O8Eu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.9iDo2LJZBbG9O8Eu'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      Fountain of Animal Knowledge: Drinking the water of this fountain allows
+      the drinker to understand and speak to animals for 1d4 days.
+    _id: bUtk04QuEV8o3s7A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.bUtk04QuEV8o3s7A'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Fountain of Aging: Drinking the water of this fountain increases the
+      drinker's age by 1d8 years.
+    _id: sNjqIL0sAOi5xPfm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.sNjqIL0sAOi5xPfm'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Fountain of Enchantment: Dipping a weapon in this pool causes the weapon
+      to become a +1 Magical weapon.
+    _id: CdOEx4fYSzSDXAcd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.CdOEx4fYSzSDXAcd'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Fountain of Water Weird: The water in this fountain is actually a giant
+      Water Weird! It attacks when a player gets within 5 ft.
+    _id: lKSLtv5Mx12zUZRz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.lKSLtv5Mx12zUZRz'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Fountain of Alerting: Touching the water of this fountain alerts all of
+      the monsters within 1d4 miles to your presence.
+    _id: Gg68zztlVJcCTas3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Gg68zztlVJcCTas3'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Fountain of Acid: The liquid in this fountain is disguised to look like
+      water, but it is actually a dangerous corrosive acid. If touched, it
+      causes 2d12 damage.
+    _id: PQNCzxjTf0cCPiN7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.PQNCzxjTf0cCPiN7'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      Fountain of Youth: Drinking the water of this fountain reduces the
+      drinker's age by 1d8 years.
+    _id: GdlVArslOyoV7ITv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.GdlVArslOyoV7ITv'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Fountain of Gemstones: Dipping a gemstone into this fountain's water
+      increases the value of the gemstone by ten times. The fountain dries up
+      when 1d10 gemstones have been converted.
+    _id: OsA2AlkzrP8aywMU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.OsA2AlkzrP8aywMU'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Fountain of Genders: Drinking the water of this fountain allows the player
+      to become the opposite gender permanently. The players can only use this
+      fountain 3 times before it dries up.
+    _id: slsx2jtpynkD8RSU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.slsx2jtpynkD8RSU'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Fountain of Cursed Wealth: Touching the water of this fountain causes all
+      of the player's money on their person to vanish.
+    _id: RbAGsIL8thtEh2BG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.RbAGsIL8thtEh2BG'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Fountain of Hunger: Drinking the water of this fountain causes the drinker
+      to become ravenously hungry. They require ten times the normal amount of
+      food a day for 1d4 days.
+    _id: YutQ7C7rQQpGQJXk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.YutQ7C7rQQpGQJXk'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Fountain of Drunkenness: Drinking the water of this fountain causes the
+      drinker to instantly become blackout drunk.
+    _id: CvEMhW3OHwQA8wwo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.CvEMhW3OHwQA8wwo'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Fountain of Wealth: Dipping copper and silver pieces into the water turns
+      them into gold pieces. The fountain dries up after 1,000 coins have been
+      converted.
+    _id: tsVCQu2ZtWSc80TD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.tsVCQu2ZtWSc80TD'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      Fountain of Growth: Drinking the water from this fountain instantly
+      increases the height of the drinker by one foot.
+    _id: 92IXPCIDiDQqqPf5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.92IXPCIDiDQqqPf5'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      Fountain of Gaseous Form: Drinking the water of this fountain turns the
+      drinker into a gaseous form for 1d4 hours.
+    _id: sGbWkX9XMoRwUsiA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.sGbWkX9XMoRwUsiA'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      Fountain of Invisibility: Drinking the water of this fountain will turn
+      the drinker invisible for 1d4 hours.
+    _id: zeQ7wvzfpBuROwwE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.zeQ7wvzfpBuROwwE'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      Fountain of Misfortune: Drinking the water of this fountain allows a
+      permanent -1 to a single random ability. This can only be used once and
+      the fountain dries up.
+    _id: 0sbVrNKohryaGlSs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.0sbVrNKohryaGlSs'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Fountain of Water Breathing: Drinking the water of this fountain allows
+      the drinker to breathe underwater for 1d4 days.
+    _id: lKaNXqMHdCvsa8G1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.lKaNXqMHdCvsa8G1'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Fountain of Metal Disintegration: The liquid in this fountain causes
+      anything metal that touches it to disintegrate instantly.
+    _id: gXcnrcNVt5GSLxRS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.gXcnrcNVt5GSLxRS'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Fountain of Shrinking: Drinking the water from this fountain instantly
+      decreases the height of the drinker by one foot.
+    _id: MPkcADjuHtEotEpX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.MPkcADjuHtEotEpX'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      Fountain of Mutation: Drinking the water of this fountain gives the player
+      a hideous mutation, causing their charisma to drop by 2 points until their
+      mutation is magically fixed.
+    _id: mJbu0ImUEJvRsmXf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.mJbu0ImUEJvRsmXf'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Mystic Pool: This pool is intelligent and has the power of telepathy. It
+      can speak all languages. This pool is ancient and wise, and may help the
+      players with any questions they have about the area.
+    _id: OhkKDtXJLQTcFxmw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.OhkKDtXJLQTcFxmw'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Fountain of Memories: This fountain collects a random memory of everyone
+      who touches its water. You can replay the memory by looking into the
+      water. Only you can see your memory.
+    _id: vzM1rkOVDJYQwrEe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.vzM1rkOVDJYQwrEe'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Fountain of Good Fortune: Drinking the water of this fountain allows a
+      permanent +1 to a single random ability. This can only be used once and
+      the fountain dries up.
+    _id: ZawbfrdMGAUjG5Qh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.ZawbfrdMGAUjG5Qh'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Fountain of Knowledge: This fountain will answer one Yes/No question, and
+      then it dries up.
+    _id: olrMkV3wXBsMjUkl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.olrMkV3wXBsMjUkl'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      Fountain of Protection: Drinking the water of this fountain will increase
+      your AC by +2 for 1d4 hours.
+    _id: Yb6s3bqHHJQynC74
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Yb6s3bqHHJQynC74'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      Fountain of Madness: The water of this fountain seems to be whispering to
+      the players. Touching or drinking its water causes a minor madness.
+    _id: zsmNTnDkd8vt5RX8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.zsmNTnDkd8vt5RX8'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Fountain of Poison: Drinking the water of this fountain poisons the
+      drinker for 2d12 damage.
+    _id: rghVV4bDK8UAVQUS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.rghVV4bDK8UAVQUS'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Fountain of Glowing Water: This water has a permanent Light spell cast
+      upon it.
+    _id: VDjYTkCpwZEzpFPt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.VDjYTkCpwZEzpFPt'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Fountain of Mana: Submerging yourself in this pool allows you to regain
+      all of your spell slots. This can only be used 1d4 times a week.
+    _id: 3CRcVOGEoTiilDYQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.3CRcVOGEoTiilDYQ'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Fountain of Languages: Drinking the water of this fountain allows the
+      drinker to understand any language for 1d4 days.
+    _id: LAxleQyqNVwv4G0y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.LAxleQyqNVwv4G0y'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Fountain of Visions: Drinking the water of this fountain allows the player
+      use of the spell Scrying once per week.
+    _id: d0ixgmEbJUN9eLfE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.d0ixgmEbJUN9eLfE'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      Fountain of Psychic Empowerment: Drinking the water of this fountain
+      protects the drinker's mind from mind-altering effects for 1d4 days.
+    _id: tTzdo4V7bOsVrbgs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.tTzdo4V7bOsVrbgs'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      Fountain of Planes: This fountain can teleport the players to a different
+      plane. All the player needs to do is submerge themselves into the water of
+      the fountain, and they will arise in a new plane.
+    _id: 1BCKJuEQVekxGLmv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.1BCKJuEQVekxGLmv'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Fountain of Brittle Bones: The water of this fountain causes the drinker
+      to feel sluggish and weak, decreasing their DEX score by 1d4 for 1d4 days.
+    _id: BpxUiuuqr0oLnc1P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.BpxUiuuqr0oLnc1P'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Fountain of Healing: This fountain will heal the drinker for all of their
+      hit points. This effect only works once per day.
+    _id: HDh9ZEZ1iSLAlZrz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.HDh9ZEZ1iSLAlZrz'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      Fountain of Awakened Plants: When poured over plants for 7 days, the plant
+      is awakened, as per the spell. It has only enough for one dose per 24
+      hours.
+    _id: Atd6kvuAjpH9Ar6m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Atd6kvuAjpH9Ar6m'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Fountain of Bacchus: Drinking any amount of liquid from this shrine will
+      enhance the potency of any alcohol consumed within 1 hour. Can be used to
+      spike other drinks.
+    _id: j0ac10rWeZC2eUZZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.j0ac10rWeZC2eUZZ'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Fountain of Strength: A person who drinks from the fountain increases
+      their STR by 1. This works once.
+    _id: tTfCvk5njlkQDajH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.tTfCvk5njlkQDajH'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Fountain of Dexterity: A person who drinks from the fountain increases
+      their DEX by 1. This works once.
+    _id: mFxr5dQVg3JyM6e2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.mFxr5dQVg3JyM6e2'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      Fountain of Constitution: A person who drinks from the fountain increases
+      their CON by 1. This works once.
+    _id: Xz7fC2U4RqaxkIXe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Xz7fC2U4RqaxkIXe'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      Fountain of Intelligent: A person who drinks from the fountain increases
+      their INT by 1. This works once.
+    _id: EzWSETccHEKGygcg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.EzWSETccHEKGygcg'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Fountain of Wisdom: A person who drinks from the fountain increases their
+      WIS by 1. This works once.
+    _id: W17JLf7R6U23SBKT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.W17JLf7R6U23SBKT'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      Fountain of Charisma: A person who drinks from the fountain increases
+      their CHA by 1. This works once.
+    _id: aFcYrGUy8QpbdDgL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.aFcYrGUy8QpbdDgL'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Fountain of Amnesia: When a person drinks from this fountain, they must
+      make a DC 14 INT save. On a failure, they are struck with full amnesia for
+      1d4 weeks.
+    _id: nHf21noNMjfZokKu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.nHf21noNMjfZokKu'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Fountain of Morale Antipode: A person who drinks from this fountain has
+      the alignment change to its opposite for 1d10 days.
+    _id: hdmddaEMt77laO0s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.hdmddaEMt77laO0s'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Fountain of Polyglotism: A person drinking from this fountain is under the
+      effects of the Comprehend Languages for 3D8 days.
+    _id: wWsAsV0CpE3VymTc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.wWsAsV0CpE3VymTc'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      Fountain of Control X - A person who drinks from this fountain can control
+      X monster for 2D4 hours. They can control up to 1+CHR Modifier monsters
+      with a minimum of 1.
+    _id: mP0v3QRUEyE6N3Rs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.mP0v3QRUEyE6N3Rs'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Fountain of the Artisans: The water has anomalously high surface tension.
+      It can be molded like soft clay, carried without a vessel, and placed on
+      cloth or earth without soaking in. The effect ends when the water is
+      struck by a sharp impact or contacts another fluid.
+    _id: nLHLL1L5o7bjgZ4t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.nLHLL1L5o7bjgZ4t'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Fountain of Becoming: Living creatures are reflected as they could appear
+      in a possible future. They may appear older, battle-scarred, in the garb
+      of a distant land, etc. Rarely, the reflection will be their decaying
+      corpse; this is considered an ill omen.
+    _id: hz5dtyCWDabXN0zK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.hz5dtyCWDabXN0zK'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Fountain of Sweetwater: The water has a distinct pleasant flavor that
+      varies from drinker to drinker. Villagers claim that the ghost of a
+      beloved grandmother haunts the fountain, offering comfort even in death.
+    _id: MQF7J036S1FdlNhe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.MQF7J036S1FdlNhe'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Fountain of Stillness: The water's surface never ripples, even when
+      disturbed. When consumed, the water temporarily halts involuntary movement
+      of any kind, slows the progression of disease, calms the mind, and induces
+      gentle sleep. Prolonged consumption causes lethargy and eventually coma.
+    _id: mQgvmASyfZutWPV3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.mQgvmASyfZutWPV3'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Fountain of Mists: Thick fog continually pours from the basin. When water
+      is thrown, it erupts into a thick fog cloud that completely obstructs
+      sight in a 10-foot radius for 2D6 minutes. When consumed, sporadically
+      belch fog clouds for 2D6 minutes.
+    _id: EZY9y9UMp8hlRac4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.EZY9y9UMp8hlRac4'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Effervescent Fountain: The water is naturally carbonated and infused with
+      minerals and salts. Gourmands consider it an exotic treat, and it commands
+      a price as high as a fine wine. Just make sure the bubbles survive from
+      fountain to goblet!
+    _id: PyK4mNWtVXn2mYV4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.PyK4mNWtVXn2mYV4'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Fountain of Burnishing: Hard objects immersed in this water for a full day
+      emerge with an immaculate mirror sheen. No material is lost, even on
+      repeat immersions. Consuming the water causes violent stomach illness for
+      1D4 hours.
+    _id: eC8CjoEfM9L3dOnc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.eC8CjoEfM9L3dOnc'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Fountain of the Stentor: Grants the drinker a deafeningly loud, but
+      pleasantly smooth, voice for 4D6 hours. Increases the range of voice-based
+      abilities by 100 feet, but even a whisper is unbearably loud within 30
+      feet. The drinker perceives their own voice at normal volume. When the
+      effect ends, the user's throat becomes hoarse and raspy for about 12
+      hours.
+    _id: 2mhjy2Qn4awfrOAk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.2mhjy2Qn4awfrOAk'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      Fountain of the Void: Water, and anything soaked in it, is utterly pitch
+      black, as if it were a bottomless hole. The water has no other properties.
+    _id: DfETMDnzwfjyv46I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.DfETMDnzwfjyv46I'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      Fountain of Scrying: Looking into the pool will reveal the (person,
+      creature, object, place) that you are thinking about at the time.
+    _id: ZvUjlkSmAjj4Y55h
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.ZvUjlkSmAjj4Y55h'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Pool of Communing: The pool links to another pool of communing. When
+      activated you can see and hear through the pool, allowing two way
+      communication.
+    _id: DaAon4m2pzTIVfiR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.DaAon4m2pzTIVfiR'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Pool of Communing with the Dead: The pool allows two way communication
+      with the realm of the dead. The user must concentrate on the spirit of the
+      person they are trying to communicate with. 1 in 10 chance that the
+      communication will reach an unintended spirit of the dead.
+    _id: HMO0GRUJEZFahBFW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.HMO0GRUJEZFahBFW'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Pool of Drowning: Any creature that touches the pool's surface, gets
+      teleported below the surface. The surface then freezes over in a block of
+      ice (AC:13, HP: 4d8, Damage Threshold: 3, cold attacks heal the ice
+      instead of damaging it). Once the surface is frozen the pool loses its
+      teleportation properties for 1 hour.
+    _id: bAoZQOhc07mw0LLz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.bAoZQOhc07mw0LLz'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Pool of Freezing: The pool is magically cold like liquid nitrogen, but its
+      waters do not turn to ice. Any creature that touches the pool takes 1d8
+      cold damage. Any creature that is submerged in the water takes 8d8 cold
+      damage. Any creature killed by this pool becomes a frozen statue until
+      thawed. Water taken from this pool and used as a spell component increases
+      the damage and duration of cold spells by x1.5, but the water only remains
+      viable for 1 hour if removed from the pool.
+    _id: j8YphYZhh3fzHEae
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.j8YphYZhh3fzHEae'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      Pool of Healing: Any creature that drinks from the pool or bathes in the
+      pool, will be healed for 2d6 damage. The effect only works once per day on
+      an individual. Any water taken from the pool loses its healing properties
+      after 1 hour.
+    _id: hFQ9X4T923DKhGoL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.hFQ9X4T923DKhGoL'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      Portal Pool: Any creature that completely submerges in the pool and then
+      exits, will exit out of a linked portal pool.
+    _id: BC1nHiHEwVAoHUFi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.BC1nHiHEwVAoHUFi'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: 'Pure Water: The (fountain, pool) has a permanent purify water spell on it.'
+    _id: p0mpEkymtzkuWTdu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.p0mpEkymtzkuWTdu'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      Fountain of Baleful Polymorph: Transforms the drinker into a random beast.
+      They retain any abilities or spells and are still capable of speech, but
+      this effect is considered permanent until removed with Remove
+      Curse/Greater Restoration(DM's choice).
+    _id: yXIvQQZWov4x9INP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.yXIvQQZWov4x9INP'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Fountain of Water: Transforms the drinker's body into pure water. They
+      retain their form, but are just made of water. This effect is considered
+      permanent.
+    _id: AznTj0mdETAmmSuh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.AznTj0mdETAmmSuh'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Fountain of the Infernal: Drinker becomes a tiefling and gains the control
+      flames cantrip.
+    _id: 0OwjZMf9qtx96Bto
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.0OwjZMf9qtx96Bto'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      Fountain of the Fairy: Drinker becomes a fairy and rolls a d4, each number
+      corresponding to a season(spring summer fall winter), and their form
+      becomes themed around that season.
+    _id: kxLrE8a14dMuK3Vo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.kxLrE8a14dMuK3Vo'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Fountain of the Ceaseless Gaze: Drinker grows 1d20 eyes in various places
+      across their body.
+    _id: 6KNkfEi23LM6kdpY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.6KNkfEi23LM6kdpY'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      Fountain of the Trees: Gives the drinker permanent barkskin and turns any
+      hair they have into leaves.
+    _id: hRf13brqimeFZhZ3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.hRf13brqimeFZhZ3'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      Fountain of Physical Transformation: If you drink from this fountain you
+      may switch points between any of your physical stats on a one for one
+      basis, to a maximum of 20.
+    _id: Jjo8Uw3UcFRaEoDu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Jjo8Uw3UcFRaEoDu'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      Fountain of Mental Transformation: If you drink from this fountain you may
+      switch points between any of your mental stats on a one for one basis, to
+      a maximum of 20.
+    _id: YZWbA5tXW58gU6A4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.YZWbA5tXW58gU6A4'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Fountain of Mobility: When moving your normal speed, you are not hindered
+      by difficult terrain.
+    _id: M2p0sI2KH2DUbX4J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.M2p0sI2KH2DUbX4J'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Fountain of Health: Your Maximum Hit Points increases by 1d6. This bonus
+      is considered a bonus Hit Dice.
+    _id: R0XfDwk07x7u7qlg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.R0XfDwk07x7u7qlg'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: 'Fountain of Resilience: Gain a +1 bonus to your saving throws.'
+    _id: YOplgp3zWJLp2YDK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.YOplgp3zWJLp2YDK'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Fountain of Eternal Beer: Constantly flowing stream of beer. The beer is
+      rich, dark, and full of depth and flavor. It will never run out nor will
+      it overfill.
+    _id: dD0Wzi9L5fw3V9Af
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.dD0Wzi9L5fw3V9Af'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Fountain of Fire: This fountain constantly streams fire and molten rock.
+      Drinking from it will cause 1d10 points of fire damage per drink consumed.
+      Submersion in the fountain will cause 18d10 damage.
+    _id: ENzWqQgWkdJsOU5M
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.ENzWqQgWkdJsOU5M'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      Fountain of Gold: This magical golden fountain splashes out water that
+      turns whatever it touches into pure gold. Getting close requires a
+      Dexterity Save with a DC of 15 or be splashed. If Splashed a DC 20 Con
+      save will resist being turned into gold. This is fatal.
+    _id: zi0aXywQtKXqoyma
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.zi0aXywQtKXqoyma'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      Fountain of Bathing: Drinking from, splashing with, or submerging in the
+      fountain will instantly clean any person, creature, or object. It will
+      remain clean for 1d4 days.
+    _id: JdU6Z6Ho9aJYvK1Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.JdU6Z6Ho9aJYvK1Y'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Fountain of Dryness: Anything splashed or submerged with this liquid is
+      instantly dried. Any creature drinking it takes 1d4 Con Damage that will
+      restore itself after a Long Rest.
+    _id: CiiseNojKCYfTTTm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.CiiseNojKCYfTTTm'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      Fountain of Extreme Dryness: Anything splashed or submerged with this
+      liquid is instantly dried, taking even the body's water. This causes meat
+      and produce to be turned into dried foodstuffs, while living things take
+      12d8 damage (Con Save DC 21 for half).
+    _id: XTaORPGzoPfurG7B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.XTaORPGzoPfurG7B'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      Fountain of Daydreaming: The water from this fountain reflects light in a
+      weird way, like giving it a random slight coloration. When someone drinks
+      it, they have to make a DC18 Charisma check or start hallucinating as if
+      dreaming, influenced by whatever they were thinking about. Even if they
+      make it, they have disadvantage on Intuition and Investigation checks for
+      10 minutes, as slight hallucinations make lies more believable and
+      illusions more real.
+    _id: GEDPZC9xuCwtP8Ze
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.GEDPZC9xuCwtP8Ze'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      Fountain of Divine Channeling: by submerging yourself into that fountain,
+      you gain a connection to a specific deity, patron or powerful entity for a
+      specific duration. During that duration you gain magical abilities and
+      spells of the specific class. Stick to the dogma of the entity and you
+      gain a class with unique abilities befitting to that entity permanently.
+    _id: 0SDhTc6kHqG6udVu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.0SDhTc6kHqG6udVu'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      Fountain of Alertness: Any creature that drinks from this fountain will be
+      awake and alert for the next 2d6 days. The creature takes no exhaustion
+      from lack of sleep and is immune to sleep spells during this time. After
+      the effect ends the creature gains 3 levels of exhaustion.
+    _id: 7J3FQaOQexVVsVm6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.7J3FQaOQexVVsVm6'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      Fountain of Love: Any creature that drinks from this fountain will fall in
+      love with the next creature they see. Effects last for one day.
+    _id: 8tCUst5m6RJ2a71x
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.8tCUst5m6RJ2a71x'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Fountain of Rage: Any creature that drinks from this fountain will become
+      enraged and attack nearby creatures. Effects last for one hour.
+    _id: Rz9AG3nyUs55c6b8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Rz9AG3nyUs55c6b8'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      Fountain of the Phoenix - Drinking from the fountain grants resistance to
+      fire damage for 7 days. If the drinker dies while under the effect of this
+      fountain, they are returned to life with half of their total HP.
+    _id: 0iGgElfCohIHCus3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.0iGgElfCohIHCus3'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      Fountain of Attunement: Bathing naked with nothing but an item that
+      requires attunement for 8 hours allows the character to attune to this
+      item as a fourth attunement slot, rather than the normal three.
+      Alternatively, this can allow attunement to a magic item that a
+      character's class would not normally be able to be attuned to. These
+      abilities are removed once the item is no longer attuned. Once the
+      fountain is used, it can no longer grant this ability for a year.
+    _id: Y1T8WsNogV3D9ruB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.Y1T8WsNogV3D9ruB'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      Fountain of Mirroring: A creature submerged in the fountain's opaque
+      waters reemerges twice - one is the original creature, and the other a
+      doppelganger or doppelganger-like entity, usually of the opposite
+      alignment. Both are affected by the mind blank spell until the other is
+      slain.
+    _id: 518ficOC0Ucbdpf6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.518ficOC0Ucbdpf6'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      Fountain of Liquid Truesilver: Weapons or ammunition dipped in this
+      fountain become silvered and gain a +2 to attack and damage rolls, not
+      stacking with any preexisting magical bonus to attack and damage rolls.
+      Shapechangers hit with attacks by such weapons or ammunition make a DC 15
+      Wisdom saving throw, reverting to their original form on a failure and
+      becoming unable to shapeshift for 1 hour. Drinking the fountain's liquid
+      inflicts 6d6 necrotic damage per gallon, as metal coats your digestive
+      tract, and you can't properly digest food until the metal is removed
+      somehow, such as by use of the greater restoration spell.
+    _id: KuYPDCSFBbxLjyvA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.KuYPDCSFBbxLjyvA'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Fountain of Reincarnation: a corpse placed in the waters of the fountain
+      quickly dissolves, then reconstitutes into a new form which the soul
+      re-enters, as per the reincarnate spell. The fountain's energies are a
+      danger to living creatures - drinking a thimbleful of it deals 1d6 force
+      damage to any creature that isn't a shapechanger and polymorphs it into a
+      CR 0 creature until the next moonrise.
+    _id: 7XPtIeUXDFAWhQJz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.7XPtIeUXDFAWhQJz'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Fountain of Desiccation: this fountain is filled with swirling, undulating
+      dust instead of water. A living creature that touches the dust takes 6d8
+      necrotic damage, as the water is sucked right out of its body. Plants and
+      oozes take maximum damage instead. The dust can be used as a contact,
+      ingested, or injury poison. Disturbing the fountain with a strong wind or
+      explosion causes it to flow out into a 30 ft radius dust cloud that
+      inflicts its effects on any creature that enters the area or starts its
+      turn there.
+    _id: RtKCR1otLPmZE1zw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746207418
+      modifiedTime: 1792746207418
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A80WDilpxdv3F3qq.RtKCR1otLPmZE1zw'
+folder: null
+_id: A80WDilpxdv3F3qq
+img: modules/game-icons-net/whitetransparent/water-fountain.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746207418
+  modifiedTime: 1792747029140
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1600000
+_key: '!tables!A80WDilpxdv3F3qq'

@@ -1,0 +1,2444 @@
+name: Things Found In A Grave
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      "A book containing the lineage of the person buried. If the character
+      looks back far enough, they will find that they are related to this
+      person."
+    _id: s7Nxpbah2zOFBiOO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.s7Nxpbah2zOFBiOO'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      "A wand. If you remove it from the corpse, it begins crackling with
+      powerful, unwieldy energy."
+    _id: tA1DWSyZXLwlZWqN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.tA1DWSyZXLwlZWqN'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      "Across the deceased’s chest are two amulets to opposing gods; half of
+      their body is singed and the other half is ashen."
+    _id: QVPOzqLhVam70Qwd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.QVPOzqLhVam70Qwd'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: '"A children’s doll, tarnished and missing an eye."'
+    _id: FumhMxroketwMksF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.FumhMxroketwMksF'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      "The bottom of the coffin has been smashed from the inside and a long,
+      dark tunnel burrows deep into the earth."
+    _id: 5mlEhbqkyIug4jLG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.5mlEhbqkyIug4jLG'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      "You open the gilded, ornate casket to find it filled with honey. The
+      golden liquid shines a dim light and within it is a beautiful princess,
+      perfectly preserved."
+    _id: cw1Dok0RacTb1Jbj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.cw1Dok0RacTb1Jbj'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      "A freshly dug dirt grave contains the body of a young man. From head to
+      toe his body had been stabbed with over a dozen iron daggers."
+    _id: CjrSjr3rT41fJGgk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.CjrSjr3rT41fJGgk'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      "The stone cairn contains the body of a long deceased warrior. Their
+      weapons and armour have long been degraded."
+    _id: SO0L599WxScHkCUV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.SO0L599WxScHkCUV'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      "Inside the hole is a body wrapped in birch bark with a tree sapling
+      growing from within the corpse’s chest."
+    _id: 2C3zX6v5wUYqMnpT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.2C3zX6v5wUYqMnpT'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      "A corpse curled on its side with its arms around a mummified
+      pseudodragon."
+    _id: 0MBBQrGT0pdJF2ab
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.0MBBQrGT0pdJF2ab'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      "When you open the coffin a noxious black gas streams out and for a second
+      you can see red eyes. Roll a CON save. If failed, take 2d4 poison
+      damage+1d6 psychic damage."
+    _id: vhaNmSHujU0TdSrA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.vhaNmSHujU0TdSrA'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      "A twig snaps and you see two people flee into the forest that borders the
+      grave site. When you attempt to follow, you step on something. It is a
+      mask of Anubis. An Arcana check may give you info about the cult."
+    _id: 1NZgYFa1ko39GWos
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.1NZgYFa1ko39GWos'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      "You shovel the loamy bog soil to either side of the grave to find the
+      body of an elderly man, unusually tanned and perfectly preserved."
+    _id: 1h6whPsTHVD7kuxM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.1h6whPsTHVD7kuxM'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: '"The hard frozen ground gives way to the blackened body of a child."'
+    _id: jOBxY3fsdkEv1Qjg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.jOBxY3fsdkEv1Qjg'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      "The smashed and rotten coffin gives way to a decomposed body, covered in
+      fungi."
+    _id: 30PUgrkMo1iuTtH6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.30PUgrkMo1iuTtH6'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: '"The gravedigger!"'
+    _id: yrzR7BSzOOqBK04O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.yrzR7BSzOOqBK04O'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: '"The entrance to a colony of giant fire ants."'
+    _id: 3bNODrW6ML7nDeIw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.3bNODrW6ML7nDeIw'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: '"A large stone casket filled with water/oil/acid."'
+    _id: LJWzXFRz9bu05YO3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.LJWzXFRz9bu05YO3'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: '"A skeleton with cut red string hanging from its joints."'
+    _id: BT8ndpFIbmo4dndi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.BT8ndpFIbmo4dndi'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      "An ornate wooden casket is opened to reveal… a smaller casket, and so on
+      and so forth until the last fits in the palm of your hand. It is magically
+      sealed."
+    _id: Ze6haL5Ak3VcVkoS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Ze6haL5Ak3VcVkoS'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: '"A planar portal."'
+    _id: 3lkjmpOi4IZ31Af3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.3lkjmpOi4IZ31Af3'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      "A flourishing flowerbed that sprouts violently towards the sun when
+      exposed."
+    _id: SoqgSAC9lk7lDZXW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.SoqgSAC9lk7lDZXW'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: '"‎A den of rabbits that multiply every 5 minutes."'
+    _id: 3zwJh6bWEYxrcasy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.3zwJh6bWEYxrcasy'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: '"‎A perfect cube of silver."'
+    _id: pdgk9ISSKZx7gUI0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.pdgk9ISSKZx7gUI0'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      "‎A floor-clinging storm cloud that seems to rain, snow, and storm
+      upwards."
+    _id: khprEdr63DJv8g1R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.khprEdr63DJv8g1R'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: '"2 copper over the eyes of the deceased."'
+    _id: lQBe03UHrx4F99W1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.lQBe03UHrx4F99W1'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: '"Several flasks of alcohol."'
+    _id: xiHQABph0SuGzJnn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.xiHQABph0SuGzJnn'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: '"The deed to a very luxorious property."'
+    _id: em6M5bHgBETHdP9W
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.em6M5bHgBETHdP9W'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: '"Emeralds are placed in the eye sockets of the deceased."'
+    _id: MyrtIRrvAzfa78ov
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.MyrtIRrvAzfa78ov'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: '"A skeleton of a woman holding a painting worth 500gp."'
+    _id: 3EohMefsGxaOnq1s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.3EohMefsGxaOnq1s'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: '"1d6 Ghouls."'
+    _id: 9EThwGXJ1EeADNOV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.9EThwGXJ1EeADNOV'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: '"Body of the mayor of a nearby town."'
+    _id: m8G4yhEgz33mWE3v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.m8G4yhEgz33mWE3v'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: '"A body with a stake through it’s heart. Removing it would be a bad idea."'
+    _id: lm6l1BDPAkLYlDaF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.lm6l1BDPAkLYlDaF'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: '"The casket is filled with rocks."'
+    _id: UvtJq7goC0yOEFeK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.UvtJq7goC0yOEFeK'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      "All of the occupant’s flesh has rotted away except for the left side of
+      their abdomen, which has been turned to stone, this was presumably the
+      cause of death. Stuck in the stone is a small dagger that emanates
+      transmutation magic."
+    _id: isW5UbhMKOp9hL7P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.isW5UbhMKOp9hL7P'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      "A small, bright red, rubber bouncing ball resting where the occupant’s
+      heart would have been, had it not decomposed long ago."
+    _id: wjBFRyilzGxLMXfg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.wjBFRyilzGxLMXfg'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      "The occupant’s skull has been crushed as if by a boot heel, and a leather
+      bag has been thrust into the opening. The leather is still bloodstained
+      and slightly rotted. The leather bag contains several sets of humanoid
+      teeth."
+    _id: zk2uU6oj8uswiT9h
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.zk2uU6oj8uswiT9h'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      "A slightly hunched skeleton rests peacefully within the coffin, several
+      extremely desiccated bunches of flowers lie around it. The remains of some
+      folded, mostly ruined pieces of paper lay where the occupant’s torso used
+      to be. If you are able to make out any of the writing, the notes reveal
+      that this was the much-loved, elderly mother of a large family. They wrote
+      these notes and placed them in their mother/grandmother’s coffin. You feel
+      incredibly guilty about disturbing this poor woman’s resting place."
+    _id: ADoXTKchU6W4mA4W
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.ADoXTKchU6W4mA4W'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      "A deathly pale, young humanoid that appears to be around twenty to thirty
+      years of age. They are reclined comfortably in a deep, cushioned casket,
+      reading a book. By the light of a magical smokeless candle they are very
+      proud of, they beckon you down a hatch in the bottom of their casket to a
+      small hidden cave. The cave, though dimly lit, is actually very homey. The
+      walls are lined with over full, wooden bookcases, stacks of books line a
+      narrow path to a comfortable chair. The youth explains that hundreds of
+      years ago, they grew tired of being accused of vampirism just because they
+      are immortal (they are very dismissive of the fact that they are immortal
+      and don’t seem to know the source of their immortality themselves). They
+      decided to gather as many books as they could, use the money they had put
+      aside to construct this secret room and buy a comfortable coffin, then
+      fake their death. Hundreds of years later they definitely don’t regret
+      their decision, only pausing briefly before offering the party a quest for
+      more books to fully restock the youth’s “library”, along with whatever
+      reward is offered, the party gets all of the old books to do with as they
+      please, as well as a small volume of surprisingly well written
+      fanfiction."
+    _id: IHaGA3Bc2jL8895z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.IHaGA3Bc2jL8895z'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      "A completely empty coffin; though if you look hard enough, you find a
+      trapdoor in the bottom. Opening the trapdoor, you find nothing but packed
+      dirt."
+    _id: bDJD7HnCbFHuZb6t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.bDJD7HnCbFHuZb6t'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      "A skeleton of average height but prodigious girth. Resting side the
+      abdomen and ribcage of the skeleton are several dozen smaller skeletons,
+      most humanoid."
+    _id: nihUwyWJ7fKGKDVR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.nihUwyWJ7fKGKDVR'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      "A skeleton that has had every single one of its bones broken neatly in
+      half. Each tooth has been split down the middle, the skull has only a
+      single crack splitting it diagonally, even the tiniest bones of the hands
+      and feet have been cracked in two. Only the jawbone is whole."
+    _id: gJbjPRKJqw21VpL7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.gJbjPRKJqw21VpL7'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      "A skeleton wearing exactly the same clothing and equipment as you. Any
+      magical items are mundane and any weapons badly damaged and blunted. The
+      skeleton is damaged in a way consistent with having been killed in the
+      last significant combat encounter the player participated in, or was
+      nearly killed in."
+    _id: 8EJDC2bplmyj5gq4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.8EJDC2bplmyj5gq4'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      "Approaching the grave you see the ground has heaved up some not just
+      above the grave, but for five feet on all sides as well. During your
+      efforts to excavate the coffin, you find splintered wood, investigation of
+      the wood reveals it to be from a coffin. Digging further down towards the
+      rest of the coffin, you find a huge, hunched, mishapen skeleton. It
+      appears, though twisted, to be posed as if it had been the one lain to
+      rest in the coffin. Other uncovered parts of the coffin appear to be
+      normal humanoid sized; coinpurse, tatters of clothing, even what remains
+      of a pair of shoes near the huge skeleton’s feet are medium sized. Some
+      jewelry lies broken among the bones, a necklace emanating fading
+      transmutation magic near the skeleton’s neck with its chain snapped and
+      two rings split from the inside laying upon the finger bones. The
+      headstone reads to the effect of: ” Here lies our dear Gerald. He helped
+      heal the hole in our family. We forgive you Gerald, for whatever you kept
+      apologizing for.”"
+    _id: UdP4r4KTzsxIvE5H
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.UdP4r4KTzsxIvE5H'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      "Nearby is the grave for someone of the same family, killed by a giant
+      while hunting."
+    _id: fgwFlVeiTsLzczKz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.fgwFlVeiTsLzczKz'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      "The perfectly preserved body of a beautiful youth in fine clothing. Skin
+      still glowing with color, their chest rises and falls with slow restful
+      breaths. They radiate illusion magic."
+    _id: qWHN52DAPbidqx2h
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.qWHN52DAPbidqx2h'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      "Attempting to touch the body in any way causes the image to disperse as
+      so much mist, revealing a crumbling skeleton. There is nothing else in the
+      coffin."
+    _id: xsIVY2O3YrptK6jw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.xsIVY2O3YrptK6jw'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      "The perfectly preserved body of a beautiful youth in fine clothing,
+      though a grisly wound is clearly visible on their abdomen. They emanate
+      dark necromantic magic."
+    _id: 1ySv8eXEgMKsfnDY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.1ySv8eXEgMKsfnDY'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      "Touching the body causes the eyes of the occupant to snap open and the
+      mouth to open in a silent, vein bulging scream as the color drains from
+      the youth’s skin and the flesh begins to decompose and slough off before
+      your eyes, rotting to nothing seconds after separating from the body. You
+      can see the limbs twitching and trying to move, but as more flesh and
+      muscle rots away, the efforts are weaker and weaker. After almost a full
+      minute of this, the youth can no longer move any of its body except for
+      its eyes and what remains of its face. Its eyes dart around, you can tell
+      that it is intelligent but clearly terrified and in maddening agony. Any
+      healing magic seems to cause it even more pain, and it is impossible to
+      put it out of its misery. Eventually it rots to nothingness."
+    _id: mioUInPfH9y2eMfY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.mioUInPfH9y2eMfY'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      "A coffin empty except for an ancient looking note that says: ‘Be back in
+      5! ~S’"
+    _id: KE6ffnom5WWBn74P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.KE6ffnom5WWBn74P'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      "A completely normal skeleton that for some reason has had a permanent
+      version of greater invisibility cast on it."
+    _id: C8DsqiMEspLBr0W7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.C8DsqiMEspLBr0W7'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: '"A skeleton made entirely of glass."'
+    _id: Cj3YpJhv0g8ztnR8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Cj3YpJhv0g8ztnR8'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      "A skeleton that has a single platinum piece lodged in each humeri (thigh
+      bone), either edge visible but the middle completely inside the bone"
+    _id: Y1xjFfopOCdEZWXL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Y1xjFfopOCdEZWXL'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      "Six humanoid skeletons inside a single coffin of a regular size. The
+      scratches on the inside of the lid tell a gruesome story."
+    _id: KfNmiAh9h6p3sR3E
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.KfNmiAh9h6p3sR3E'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      "A humanoid skeleton in a coffin with the lid caved in. Upon
+      investigation, the inside of the lid is scratched and dented. The tips of
+      the finger bones are nearly worn to nothing. It appears that the occupant
+      was buried alive and after finally managing to break the cover open,
+      suffocated as they were buried for a second time."
+    _id: WMkyqqtLqv0aKxVB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.WMkyqqtLqv0aKxVB'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      "A perfectly desiccated mummy of what appears to be an unnaturally tall
+      humanoid with disturbingly long limbs. It appears to be nude but has no
+      orifices other than all of those of the eyes, mouth, nose, and ears."
+    _id: BEEo5yft1QWnpwBM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.BEEo5yft1QWnpwBM'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      "The stone coffin is very plain, it has no markings. It has no seam
+      either. It is, in truth, a single, solid, stone cut into the shape of a
+      coffin. There is nothing at its center, and it is not magical."
+    _id: IRIBdOQwq1eMDetX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.IRIBdOQwq1eMDetX'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      "You find that the dead persons skull is of an unknown otherworldly
+      shape."
+    _id: 2knfTLfZSMHgrL32
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.2knfTLfZSMHgrL32'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      "An ornate ring made of iron, if you have it on while you are sleeping you
+      will have terrible nightmares as if you are being haunted by a ghost."
+    _id: QJr4L57RA89zfXRY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.QJr4L57RA89zfXRY'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      "You find 4d4 gp and a golden signet ring within the buried persons
+      ribcage."
+    _id: hf2Sbx6MTAFNC7jK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.hf2Sbx6MTAFNC7jK'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      "Opening the coffin releases a spring-loaded crossbow, that misfires due
+      to age and wear. The inside of the lid has a note that says “Ha! Gotcha,
+      thief!” The skeleton is clutching a sack of 5d4 gold pieces."
+    _id: k7MiijyLxuFirZaF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.k7MiijyLxuFirZaF'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      "An ancient robed skeleton clutching a book titled “How to become a Lich
+      in 4 easy steps!”"
+    _id: NEv0P0CmSiSPdlA3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.NEv0P0CmSiSPdlA3'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      "A regular skeleton, however it appears someone has recently swapped the
+      deceased’s skull and pelvis."
+    _id: Y6mif0qJtZI2NOld
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Y6mif0qJtZI2NOld'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      "Upon opening the coffin, a magical red bolt shoots straight upwards that
+      alerts the local law enforcement, and everybody within a 10 foot radius of
+      the coffin must make a DC 15 constitution saving throw or be paralyzed for
+      1 minute. Inside the coffin is a rotting corpse with a worn piece of
+      parchment on top that simply says “Fuck You”."
+    _id: ew6MtudtvSHqBNpF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.ew6MtudtvSHqBNpF'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: '"A bloodstained sword."'
+    _id: Yro5t3S6zF4N3mSx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Yro5t3S6zF4N3mSx'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: '"A completely blank book, held in the hands of the deceased."'
+    _id: ryeZgUSDVYffFNvC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.ryeZgUSDVYffFNvC'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: '"A still decomposed body, with scratch marks on the inside of the coffin."'
+    _id: GUZWkmfpZgBnDULw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.GUZWkmfpZgBnDULw'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: '"A mummified cat, surrounded with various toys."'
+    _id: 7YHL6t02Q7g20ENW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.7YHL6t02Q7g20ENW'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      "A normal skeleton, but with a crystallized skull, and a note written in
+      an unknown language by it’s side."
+    _id: lrEJ9UJo5jsUyn3I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.lrEJ9UJo5jsUyn3I'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      "The body of a normal person, that for some reason is missing all of it’s
+      limbs."
+    _id: L65hEjE5Iglz4dJL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.L65hEjE5Iglz4dJL'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      "You find the most ornately carved coffin you have ever seen, made out of
+      the finest wood in the land. Upon opening it, you find only a long dead
+      goldfish."
+    _id: obGwGHRdO1f8RGZ2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.obGwGHRdO1f8RGZ2'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      "You find the skeletons of several small rodents where the deceased
+      person’s stomach was."
+    _id: ashi5bBtx6fTK6ZF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.ashi5bBtx6fTK6ZF'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      "The dead body of a dead PNG who is actually alive and befriended the
+      party. He carries a mysterious letter inside a hidden pocket."
+    _id: JtnFVt0oHbbbjxa0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.JtnFVt0oHbbbjxa0'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      "A grave with your own name on it. The date of death is your date of
+      birth."
+    _id: LYiwQU2e07aEBgra
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.LYiwQU2e07aEBgra'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: '"A grave that’s full of poop. Full. So much poop."'
+    _id: RQYxvr49CqhyloD4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.RQYxvr49CqhyloD4'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      "2d12 rabbits in a perfect circle. They are alive, but cannot be disturbed
+      in any way."
+    _id: V9aKFtJxvXaP8iV3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.V9aKFtJxvXaP8iV3'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      "A child’s birthday party. It is ongoing and would appear completely
+      normal anywhere else."
+    _id: bBVzaMclCwKfYI1H
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.bBVzaMclCwKfYI1H'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      "A sealed pot filled with a thick, opaque liquid. Gazing deep into the
+      liquid, the character will see themselves experiencing misfortune,
+      suffering, or even dying."
+    _id: sz79L9KaYdteteIK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.sz79L9KaYdteteIK'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: '"A corpse. A perception check shows he recently died of suffocation."'
+    _id: yGA52PE8fughOmfa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.yGA52PE8fughOmfa'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: '"An empty coffin and a cryptic note scrawled in an ancient language."'
+    _id: Q0UVrzOcn2VrMVEp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Q0UVrzOcn2VrMVEp'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: '"A walking stick and a turtledove."'
+    _id: 9oQmDuLEyvIOxfEb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.9oQmDuLEyvIOxfEb'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      "A corpse found contorted horribly. The lid of it’s coffin is covered in
+      the bloody scratches of a desperate attempt to escape."
+    _id: 8UtMbuSNan2bvhzF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.8UtMbuSNan2bvhzF'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      "A corpse that is buried face down (a common practice in New England to
+      prevent the dead from rising)."
+    _id: iaZnxyviCYqrLWpR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.iaZnxyviCYqrLWpR'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      "Cold tea. She asked to be buried in tea and who would stop her when she
+      gets like that?"
+    _id: lrtXm29NsVuyBHUe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.lrtXm29NsVuyBHUe'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: '"A corpse. A perception check shows he is actually alive, but sleeping."'
+    _id: xE2q3ANDv2vsM7oM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.xE2q3ANDv2vsM7oM'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: '"Two corpses entwined in a loving embrace."'
+    _id: xDvniv46MQyRhjnv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.xDvniv46MQyRhjnv'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      "A skeleton with its arms folded over the holy symbol of a long-forgotten
+      faith."
+    _id: 7i2kYnjTu6y8yAM3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.7i2kYnjTu6y8yAM3'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      "A life sized human shaped porcelain doll, who’s eyes roll open if set up
+      right."
+    _id: g7vPLJ9hHkD78ZfU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.g7vPLJ9hHkD78ZfU'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      "A thief that hid in a coffin and slept there while avoiding authorities,
+      only to wake up having been buried. He’s holding an expensive object
+      (trophy, small statue, large bag of money, etc.) desperately. He seems
+      like he died recently… If he’s dead at all, that is."
+    _id: ByeFjtN485pRPQa3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.ByeFjtN485pRPQa3'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      "The corpse’s eyes are not decomposed and follow the character’s
+      movements, the corpse is otherwise completely dead."
+    _id: bG72ap6wDcQBvwvR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.bG72ap6wDcQBvwvR'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: '"A hostile swarm of rats!"'
+    _id: LlJ9nxGg3R8coAXu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.LlJ9nxGg3R8coAXu'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: '"A mace with an old note tied to it that says “for emergencies”."'
+    _id: 4v3p7T0ERb09Cq1O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.4v3p7T0ERb09Cq1O'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      "A stethoscope, a book on blood humors, and an empty bottle labeled,
+      “Stobelight’s Purgative Remedy for the Relief of Erysipelas”."
+    _id: D45n3ge15wbkDAjw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.D45n3ge15wbkDAjw'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      "Inside the grave is a tattered backpack containing a hammer, metal
+      stakes, trip wire, a linch pin, and ball bearings. Perhaps this is a hint
+      that there are traps nearby?"
+    _id: 4rLxkJzJjrLzPTlm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.4rLxkJzJjrLzPTlm'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      "A frayed rope attached to a hammer, that would have fired and “shot” out
+      hundreds of ball bearings. Inside is a note: “Keep looking, you will never
+      unearth my hoard.”"
+    _id: QgCZFzlULmZR21Tz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.QgCZFzlULmZR21Tz'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      "The grave belongs to an archaeologist. There is a small collection of
+      statues of people from a dig site he worked on. The archaeologist never
+      realized, but the statues were once living people turned into these small
+      statues by an evil wizard. Dispel magic or similar spells will cause them
+      to return to human form."
+    _id: jZKJ84nHUc6aH8bc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.jZKJ84nHUc6aH8bc'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      "A leather bound tome which has the inscription Maginifcum Necrorium
+      seared into it. Upon further inspection the leather appears to be human
+      flesh."
+    _id: JrLz4VrGWtno5jjx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.JrLz4VrGWtno5jjx'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: '"A single note that says I.O.U. The handwriting is very sloppy."'
+    _id: qtyBoIGTQRHhtZNO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.qtyBoIGTQRHhtZNO'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      "The person opening the grave is incredibly surprised when the corpse they
+      are digging up has their head! If the person has not died from fright,
+      they can notice that a mirror has been placed where the head should be in
+      the coffin."
+    _id: c04vXH4PCdzpGD3i
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.c04vXH4PCdzpGD3i'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      "A map of the nearby area. There are X’s in certain locations all along
+      the map. Only one of the locations houses treasure, the rest are trapped."
+    _id: Cjnx8Ut8fuv6r7eZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746029630
+      modifiedTime: 1792746029630
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!JbF4uHxfjN6Jt5mT.Cjnx8Ut8fuv6r7eZ'
+folder: null
+_id: JbF4uHxfjN6Jt5mT
+img: modules/game-icons-net/whitetransparent/grave-flowers.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746029630
+  modifiedTime: 1792747029138
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1400000
+_key: '!tables!JbF4uHxfjN6Jt5mT'

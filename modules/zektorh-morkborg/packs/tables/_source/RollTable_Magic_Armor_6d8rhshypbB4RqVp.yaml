@@ -1,0 +1,212 @@
+name: Magic Armor
+formula: 1d8
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: 'Mithril chainmail : acts as a tier of armor up without the inconvenients'
+    _id: GgAGi0lrkXwlozAW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.GgAGi0lrkXwlozAW'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Silverglass plate amor, breaking instead of you when reaching 0 HP
+    _id: Qa6Y6cslW79E0LMy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.Qa6Y6cslW79E0LMy'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Shield of truth ; destroying the weapon of the attacker when defending
+      successfully
+    _id: gx1VWQy4OXY3a5Ew
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.gx1VWQy4OXY3a5Ew'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Helmet of shining light : rolling a tier up towards friendlines when
+      rolling for aggressivity
+    _id: u2UTJilWPI1rKhtq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.u2UTJilWPI1rKhtq'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Pavois of cursed iron : when successfully defending, inflict 1d4 damage to
+      the attacker
+    _id: 2ykUyEEWAkokYMBm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.2ykUyEEWAkokYMBm'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Cursed chainmail : when taking a critical hit, take an additional 1d6
+      damages
+    _id: 1svCfX8fI2F6873m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.1svCfX8fI2F6873m'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Helmet of terryfing aura ; when successfully defending, trigger a morale
+      check in your opponents
+    _id: h1XhAJ31qtOWAawU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.h1XhAJ31qtOWAawU'
+  - type: text
+    weight: 1
+    range:
+      - 8
+      - 8
+    _id: EWvtz8A3oyYrGiJV
+    name: ''
+    img: icons/svg/d20-black.svg
+    description: '<p>Dragon-scale armor : Protecting against 1d4 fire damage</p>'
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744624045
+      modifiedTime: 1792744624045
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!6d8rhshypbB4RqVp.EWvtz8A3oyYrGiJV'
+folder: null
+_id: 6d8rhshypbB4RqVp
+img: modules/game-icons-net/whitetransparent/shoulder-armor.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744624045
+  modifiedTime: 1792744624097
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 400000
+_key: '!tables!6d8rhshypbB4RqVp'

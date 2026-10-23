@@ -1,0 +1,477 @@
+name: Contents Of A Chest
+formula: 1d20
+description: >-
+  <p>A chest is a promise, a promise of treasure, of riches, it is a gift given
+  to you by a hostile world, a reward for surviving so long, longer than its
+  previous owner. Some promises however are setups for betrayals, pranks or
+  deceptions.</p>
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      A few glass vials, filled with various concoctions. Not all of the are
+      labelled.
+    _id: D4PZpLt0g90SUpG1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.D4PZpLt0g90SUpG1'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      A trove of sculpted wooden figures, some religious, some not. Part of them
+      are painted.
+    _id: ry8QWzZRq6VNTpfB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.ry8QWzZRq6VNTpfB'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: A chainmail halbert rusted, but not beyond use
+    _id: MrVXxXBAJmQ2MDoy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.MrVXxXBAJmQ2MDoy'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Silver medals and coins
+    _id: GS6Td7hMERP0npZv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.GS6Td7hMERP0npZv'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: A bunch of dusty bones and skulls
+    _id: Lgs8GDM22KufnKAw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.Lgs8GDM22KufnKAw'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: Old books and parchments, barely legible, except for one
+    _id: eHU7hRyScXl7UQkj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.eHU7hRyScXl7UQkj'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: A pagan gold idol statuette, and a fistful of low-value jewels
+    _id: E3odR3Hqu3BeODgZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.E3odR3Hqu3BeODgZ'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: A holy relic ; a skull painted in gold
+    _id: n0cOzPJo4g99QJKI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.n0cOzPJo4g99QJKI'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: A bunch of chains and shackles
+    _id: iFe0wVvZpSnphEQ4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.iFe0wVvZpSnphEQ4'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: Jars of dried herbs and powdered spice
+    _id: cablDqcIDssVPTkF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.cablDqcIDssVPTkF'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: A mummified naked corpse
+    _id: f7UWUeWuav6EfWDW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.f7UWUeWuav6EfWDW'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Broken swords, daggers and blades
+    _id: ZYKOfeV0FOdLNdU6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.ZYKOfeV0FOdLNdU6'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: A jade idol representing a crouched man
+    _id: JLemcdLDPg4YZJ48
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.JLemcdLDPg4YZJ48'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: A blackened metal helmet
+    _id: 8g3HSslqlqwUjUCb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.8g3HSslqlqwUjUCb'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: A stone, burning from the inside like a never-dying ember
+    _id: eZGeZMlGK7xDPCtz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.eZGeZMlGK7xDPCtz'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: Grey wooden planks, engraved with ancient curses by long gone enchanters
+    _id: np8U0mSVXUxx7nn0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.np8U0mSVXUxx7nn0'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: Volcanic stones, encasted in brass and covered in golden runes
+    _id: bhYrLPMNRcgOzzBb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.bhYrLPMNRcgOzzBb'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: A sword, adorned with intricate illustrations of gold and silver
+    _id: WxaCyHhPtNyrVhH9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.WxaCyHhPtNyrVhH9'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      A trove of golden coins, old beyond recognition, relics of an ancient
+      mysterious civilisation
+    _id: LuYXxbHxnQ7okof3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.LuYXxbHxnQ7okof3'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Dust and crumbs of parchement, cobwebs and bits of crumbly pottery chunks
+      and dried cork
+    _id: Zl91qGtmuYUaRDbv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744103754
+      modifiedTime: 1792744103754
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!1Yed4oe5sox1r1yC.Zl91qGtmuYUaRDbv'
+folder: null
+_id: 1Yed4oe5sox1r1yC
+img: modules/game-icons-net/whitetransparent/locked-chest.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744103754
+  modifiedTime: 1792744624100
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 900000
+_key: '!tables!1Yed4oe5sox1r1yC'

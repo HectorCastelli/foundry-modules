@@ -1,0 +1,2427 @@
+name: Riddles And Their Answers
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      It has a golden head. It has a golden tail. It has no body. Answer: A gold
+      coin.
+    _id: 1RyFufNGfRJxZmKq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.1RyFufNGfRJxZmKq'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      It wears a leather coat to keep its skins in working order. Escorts you to
+      other realms, without a magic portal. Answer: Book.
+    _id: C4hBKMUPZQV1SvzE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.C4hBKMUPZQV1SvzE'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: 'It dampens as it dries. Answer: Towel.'
+    _id: Zk0cL3v2xg1Pm70U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.Zk0cL3v2xg1Pm70U'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: 'What has two hands on its face but no arms? Answer: A clock'
+    _id: vVaMnNi3U9xexJXZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.vVaMnNi3U9xexJXZ'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      What kind of coat is always wet when you put it on? Answer: A coat of
+      paint.
+    _id: 9p9GrMnBusLWbOY4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.9p9GrMnBusLWbOY4'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Many have heard me, yet nobody has seen me. I won't speak back unless
+      spoken to. What am I? Answer: An echo.
+    _id: oi8gbUXYeWgiFS4N
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.oi8gbUXYeWgiFS4N'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: 'What five long word become shorter when you add two letters? Answer: Short'
+    _id: LGJVKOgqynMBgtl8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.LGJVKOgqynMBgtl8'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: 'What is not alive but grows, does not breaths but needs air. Answer: Fire'
+    _id: 6G47gaLjuXkXqYbA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.6G47gaLjuXkXqYbA'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Better old than young; the healthier it is, the smaller it will be.
+      Answer: A Wound.
+    _id: D6ygskTFKUFNtgAv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.D6ygskTFKUFNtgAv'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      This fire is smothered best not by water or sand but by words. Answer:
+      Desire.
+    _id: d6JMJ2VmfWDjBhip
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.d6JMJ2VmfWDjBhip'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Two friends stand and travel together, one nearly useless without the
+      other. Answer: Boots
+    _id: ckZ9jmCXb90M9Opv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.ckZ9jmCXb90M9Opv'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: 'Feed me and I will live, give me a drink and I will die. Answer: Fire.'
+    _id: iz6kWkAuo07NKOFI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.iz6kWkAuo07NKOFI'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      A curved stick and a straight twig means red sap and a snapped trunk.
+      Answer: Death by arrow.
+    _id: E9axPRTkaJkk8zeo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.E9axPRTkaJkk8zeo'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      No warning of Timber could have stopped the dropping petals. Answer: Death
+      by axe.
+    _id: VheCLvKjowjvASMc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.VheCLvKjowjvASMc'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: 'A fitting cravat for a poorly chosen suit. Answer: Death by hanging.'
+    _id: 4l1iF1SDwGvqAJrq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.4l1iF1SDwGvqAJrq'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      I build castles, yet tear down mountains, make some men blind, and others
+      see. What am I? Answer: Sand.
+    _id: iQaMnDbfs0C5xxBR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.iQaMnDbfs0C5xxBR'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      As I was going to St Ives I met a man with 7 wives. Each wife had 7 kids.
+      Each kid had 7 cats. Each cat had 7 kittens. How many were going to St
+      Ives? Answer: 1.
+    _id: ir5hoiq47uSIpBsV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.ir5hoiq47uSIpBsV'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      What do banana, grammar and assess all have in common? Answer: if you take
+      the first letter and put it on the end of the word, reading it backwards
+      they spell the same word.
+    _id: U3a6lSFS8oKv0Uwz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.U3a6lSFS8oKv0Uwz'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Twelve men walking by, twelve pears hanging high. Each took a pear and
+      left eleven hanging there. How did it happen? Answer: Each is someone's
+      name.
+    _id: aajNgfm0687LFRTv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.aajNgfm0687LFRTv'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      River bridge crossing, look out for the guards. Can you spell that without
+      any 'R's? Answer: T-H-A-T.
+    _id: KwHq59hcW0OmK07c
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.KwHq59hcW0OmK07c'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      What is it that you keep when you need it not, but throw out when you do
+      need it? Answer: An anchor.
+    _id: YFj1Ks2IexIxygHN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.YFj1Ks2IexIxygHN'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      The foolish man wastes me, The average man spends me, And wise man invests
+      me, Yet all men succumb to me. What am I? Answer: Time.
+    _id: O8x1MTKBuHV22l8g
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.O8x1MTKBuHV22l8g'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      What is something that dawns on you even when it shouldn't? Answer: The
+      obvious.
+    _id: Sg5beQPCoyo2s4l2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.Sg5beQPCoyo2s4l2'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      When you come to the end of all you know, I am there. Who am I? HINTS: I
+      start out wonderful, but then begin worse. Answer: The letter W.
+    _id: ar5UALrS9VrpjI6I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.ar5UALrS9VrpjI6I'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      What has four legs in the morning, two legs in the afternoon and three
+      legs in the evening? Answer: A Man. when he was a child he crawled on all
+      four, when he was older, he walked on two legs and when he was old aged,
+      he used a cane.
+    _id: m0IjnTJtoUB0DDHE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.m0IjnTJtoUB0DDHE'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      I’m made out of five letters, And I’m made out of seven letters; I have
+      keys but I don’t have locks, I’m concerned with time, but not with clocks.
+      Answer: A Piano.
+    _id: YsjHtRA37r1IjNTp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.YsjHtRA37r1IjNTp'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Forty white horses on a red hill. They champ, they stamp, and then stand
+      still. Answer: Teeth.
+    _id: Sjll3UmkSJkpmv66
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.Sjll3UmkSJkpmv66'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      I can fly like a bird not in the sky, which can always swim and can always
+      dry. I say goodbye at night and morning hi. I'm part of you what am I. I
+      follow and lead as you pass, dress yourself in black my darkness lasts. I
+      flee the light but without the sun, Your view of me would be gone. Answer:
+      A shadow.
+    _id: AUgpZ3Sr2SvEvwZC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.AUgpZ3Sr2SvEvwZC'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      I am what men love more than life, fear more than death or mortal strife,
+      what dead men have and rich require. I'm what contented men desire.
+      Answer: Nothing.
+    _id: bhC5X8Weu16ZmCBL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.bhC5X8Weu16ZmCBL'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Two men drink poisoned Iced Tea. One man drinks his fast and lives. The
+      other man drinks his slow and dies. How is this possible? Answer: The
+      poison is in the ice not the tea. The ice melts in the slower drinker's
+      tea.
+    _id: KYseP1oK4KW90zW0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.KYseP1oK4KW90zW0'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Towns without houses, forests without trees, mountains without boulders
+      and waterless seas. Answer: A Map.
+    _id: T9bRXyJQndQlxbNl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.T9bRXyJQndQlxbNl'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Two bodies in one, the longer I stand, the faster I run. Answer:
+      Hourglass.
+    _id: XJGJHjVJnC2ExLiS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.XJGJHjVJnC2ExLiS'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: 'Men desire me in public, but fear me in private. Answer: Truth.'
+    _id: a2gkjnId1dTs72UI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.a2gkjnId1dTs72UI'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: 'What is so fragile, even speaking its name will break it? Answer: Silence.'
+    _id: 0SBOtNVOIXUdjjET
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.0SBOtNVOIXUdjjET'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: 'What must you first give to me in order to keep it? Answer: Your word.'
+    _id: R4bODI1vmlD4breG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.R4bODI1vmlD4breG'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Though I'm tender, I'm not to be eaten, Nor -- though, mint fresh -- your
+      breath to sweeten. Answer: Money. Legal tender; minted coins.
+    _id: R1r0B7fiSSMhyuck
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.R1r0B7fiSSMhyuck'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      You never see it, but it's almost always there, and most people quickly
+      notice when it's absent. Answer: Oxygen/Breathable Air.
+    _id: P0z4wUps9aTueJIA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.P0z4wUps9aTueJIA'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      An untiring servant it is, carrying loads across muddy earth. But one
+      thing that cannot be forced, is a return to the place of its birth.
+      Answer: River.
+    _id: ljwmzRpBQSPCtUwG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.ljwmzRpBQSPCtUwG'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Blessed are the first. Slow are the second. Playful are the third. Bold
+      are the fourth. Brave are the fifth. Answer: Answer: Blade.
+    _id: XDQUPS1EUPf1faUl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.XDQUPS1EUPf1faUl'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: 'Brought to the table. Cut and served. Never eaten. Answer: Cards.'
+    _id: JNfyEfOgkkqmAH8C
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.JNfyEfOgkkqmAH8C'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      It can pierce the best armor, And make swords crumble with a rub. Yet for
+      all its power, It can't harm a club. Answer: Rust.
+    _id: jJnE2gSwxTlVje3B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.jJnE2gSwxTlVje3B'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      It is a journey whose path depends, on an other's vision of where it ends.
+      Answer: Book.
+    _id: yhQgR4pK5Q4U6xVQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.yhQgR4pK5Q4U6xVQ'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Men seize it from its home, tear apart its flesh, drink the sweet blood,
+      then cast its skin aside. Answer: Orange.
+    _id: eBucsAqp52r8GOHf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.eBucsAqp52r8GOHf'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      Names give power, Magic to control. But what is broken, by naming it?
+      Answer: Silence.
+    _id: sl6xQ4mwcAbwQ5DL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.sl6xQ4mwcAbwQ5DL'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Passed from father to son, And shared between brothers. Its importance is
+      unquestioned, Though it is used more by others. Answer: Name.
+    _id: R8Ke3wQgpegkgpMi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.R8Ke3wQgpegkgpMi'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Today he is there to trip you up, And he will torture you tomorrow. Yet he
+      is also there to ease the pain, When you are lost in grief and sorrow.
+      Answer: Alcohol.
+    _id: acv2MaxaVeJE9c0m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.acv2MaxaVeJE9c0m'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      In the form of fork or sheet, I hit the ground. And if you wait a
+      heartbeat, You can hear my roaring sound. Answer: Lightning.
+    _id: taWICYmkU2w4uphG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.taWICYmkU2w4uphG'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      I have no tears but I perspire, I stretch but cannot respire, I can jump,
+      walk, run and dance, Though I have no mind. I'll take a stance. What am I?
+      Answer: A leg.
+    _id: BdzXq4DJiqTa5t0Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.BdzXq4DJiqTa5t0Y'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      The beast of the plains, it goes through the ground, constantly on the
+      search for its next meal. While it hates the taste of dwarves and elves,
+      it loves the taste of halfling. Answer: Bulette.
+    _id: yJ1iDXsG4HHQ4ajs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.yJ1iDXsG4HHQ4ajs'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      This thing can stay completely hidden in even the broadest of daylight. In
+      halls and rooms that monster waits to ambush its next victim. Watch out
+      from below, because it is the floor that this thing waits. Answer: Rug of
+      smothering.
+    _id: tbjA5KZXR5ykmStL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.tbjA5KZXR5ykmStL'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      In the world below, almost everything below has a heart as dark as their
+      surroundings. This thing is the one exception, giving a light glow in the
+      world of the Underdark. Answer: Flumph.
+    _id: p2t1pgxBmWkUoiLA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.p2t1pgxBmWkUoiLA'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      You keep it, but it never ages. Once shared it is gone forever. Answer:
+      Secret.
+    _id: Geqqls1v3Uwkaosx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.Geqqls1v3Uwkaosx'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      I can bring down the mightiest of men. Nobody can defy me. I am the enemy
+      of flight. Yet you can’t even sense my presence. What am I? Answer:
+      Gravity
+    _id: 4ay7NLTQPSNQUu16
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.4ay7NLTQPSNQUu16'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      The more you walk on me the more we get along, and while other may still
+      use me, with you is where I belong. What am I? Answer: Shoes
+    _id: CaOlkspCEg9bC2X9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.CaOlkspCEg9bC2X9'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      I give mirth and merriment and they say I smell quite old but I can turn a
+      timid man into one that is quite bold. What am I? Answer: Wine
+    _id: QTsZM7ZeuS2WnvbF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.QTsZM7ZeuS2WnvbF'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      I am green with envy when I am placed below the sky. I do not breathe the
+      air you breathe but I never wonder why. If you go and shelter me, I simply
+      shrink and die. The answer to this riddle is simply who am I? Answer: A
+      plant
+    _id: okNXcXuk0fMDijHf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.okNXcXuk0fMDijHf'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      I guard precious treasures and yet my body never moves, but I open like a
+      book when something of yours is used. When finally I'm gutted always feel
+      quite blue. I always feel so useless without the gold that I consume. What
+      am I? Answer: A Treasure Chest
+    _id: wjKiluXXNCUJOFXm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.wjKiluXXNCUJOFXm'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      My body's thin and slender and I grow shorter every day. You can use my
+      single purpose, and I'll be sure to lead the way. When I am placed upon a
+      pastry then my life is soon to fade. What am I? Answer: A candle
+    _id: tNbvx8BzpBkgRoOR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.tNbvx8BzpBkgRoOR'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      I am what's desired above of all fame and wealth. Without me it's assured
+      that you'll begin to lose your health. I'm not a fluid dancer, but you can
+      put me on a shelf. What am I? Answer: Food
+    _id: IwAnqLQezsSmusZC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.IwAnqLQezsSmusZC'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      I give people purpose, I am the gardener pulling weeds. In fact I keep a
+      watchful eye over everybody's deeds. I am the cobbler making shoes I am
+      the blacksmith shoeing steeds. What am I? Answer: A job
+    _id: MuQbxw6VkjPBeaRn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.MuQbxw6VkjPBeaRn'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Born by fire, stone, or rain I feel most comfortable at home on the
+      planes. When I am out of my element, I feel much disarray. What am I?
+      Answer: An elemental
+    _id: IvBtfJbLXCaHwTzb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.IvBtfJbLXCaHwTzb'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      I am gifted to you only when I am unwanted. I have the power to kill kings
+      or the lowliest paupers. My strength is unquestioned and I move far and
+      wide, yet my power can falter from potions imbibed. What am I? Answer:
+      Sickness or Disease
+    _id: 55sH6HksNKgSYfVG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.55sH6HksNKgSYfVG'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: 'The more you take out the bigger I get. What am I? Answer: A hole'
+    _id: IOinGK95LO0IUAT3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.IOinGK95LO0IUAT3'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      I am green for some time, but blue thereafter. If it is dark, I am likely
+      to eat you. What am I? Answer: Grue
+    _id: 1cdeXsW70ywbJ2bs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.1cdeXsW70ywbJ2bs'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      Up and down they go and travel, but never do they move an inch. Answer:
+      Stairs
+    _id: CjRevuE9CktlRn57
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.CjRevuE9CktlRn57'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      8 _ _ _ 1 _ _ _ 2 0' Answer: 549763 (Put all the numbers in alphabetical
+      order)
+    _id: E4e0ajGKVfiFpmwm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.E4e0ajGKVfiFpmwm'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Halo of water, tongue of wood, skin of stone and long I've stood. My
+      fingers short reach to the sky, inside my heart men live and die. What am
+      I? Answer: Castle
+    _id: rrkOTxixl08Jovds
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.rrkOTxixl08Jovds'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Flying on invisible wings. I am massive in size. Then if my master
+      commands, I am as small as he wishes. All men wish to own me, but when I
+      touch them, They cannot touch me. I cry when I am with my brothers.
+      Darkness follows wherever I go. I’m a friend, I’m an enemy. I am freedom.
+      What am I? Answer: A Cloud
+    _id: 6xNgJbOlrhcmZvLB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.6xNgJbOlrhcmZvLB'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      A face I do have, but see I do not. When they see my hands, they oft
+      ponder in thought Answer: A watch
+    _id: LugsxdbzAyzEucBG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.LugsxdbzAyzEucBG'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: 'The more you take, the more you leave behind. What am I? Answer: Footsteps'
+    _id: K9bVuBntdMlPJqfP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.K9bVuBntdMlPJqfP'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: 'What kind of room can you never enter? Answer: A Mushroom.'
+    _id: zTZ7IyegOpunpSSm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.zTZ7IyegOpunpSSm'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: 'What is long, brown, and sticky? Answer: A stick.'
+    _id: wxaGNK8TQ2AC1A8j
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.wxaGNK8TQ2AC1A8j'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: 'What has a head and a tail, can flip but has no legs? Answer: A coin.'
+    _id: n2vc3lZJb8MGnYYY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.n2vc3lZJb8MGnYYY'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      What is black when you buy it, red when you use it, and white when you
+      throw it away? Answer: Coal.
+    _id: WaEOq8Vh64fNBbWT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.WaEOq8Vh64fNBbWT'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      What belongs to you, but other people use it more than you do? Answer:
+      Your name.
+    _id: XYjK7PAjdFoqnZNt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.XYjK7PAjdFoqnZNt'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      Tall I am young, Short I am old, While with life I glow, Wind is my foe.
+      What am I? Answer: A candle.
+    _id: cY3x0vJYiNRLATxr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.cY3x0vJYiNRLATxr'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      I can build castles, I can stop a flood, I can show the time flow, I can
+      make people blind, I can make others see. What am I? Answer: Sand
+    _id: av8lg1lWAgsbgufY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.av8lg1lWAgsbgufY'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      If I'm in front I don't matter, If I'm in back I make everything be more,
+      I am something yet I am nothing. What am I? Answer: Zero
+    _id: YdifrBn8pHgaL0xx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.YdifrBn8pHgaL0xx'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      I shine brightest in the dark. I am there but cannot be seen. To have me
+      costs you nothing. To be without me costs you everything. Answer: Hope.
+    _id: rZGMKLRqejRhSJvl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.rZGMKLRqejRhSJvl'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      I am taken from a mine, and shut up in a wooden case, from which I am
+      never released, and yet I am used by almost everybody. Answer: Pencil
+      lead.
+    _id: GecJzwhYlhBQZRDZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.GecJzwhYlhBQZRDZ'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      What goes round the house and in the house but never touches the house?
+      Answer: The sun.
+    _id: 1jwgEjeoBLUoFwzp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.1jwgEjeoBLUoFwzp'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      What comes once in a minute, twice in a moment, but never in a thousand
+      years? Answer: The letter M.
+    _id: FeNOZ3Au88NLoQNe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.FeNOZ3Au88NLoQNe'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      He who has it doesn't tell it. He who takes it doesn't know it. He who
+      knows it doesn't want it. What is it? Answer: Counterfeit money.
+    _id: o79kl6i7j8FwKBYO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.o79kl6i7j8FwKBYO'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      What goes round and round the wood but never goes into the wood? Answer:
+      The bark of a tree.
+    _id: fLJ40gdV1AboNhrZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.fLJ40gdV1AboNhrZ'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      I have a little house in which I live all alone. It has no doors or
+      windows, and if I want to go out I must break through the wall. Answer: A
+      chick in an egg.
+    _id: J1kI2YzSEWWwRsQb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.J1kI2YzSEWWwRsQb'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      There are four siblings in this world, all born together. The first runs
+      and never wearies. The second eats and is never full. The third drinks and
+      is always thirsty. The fourth sings a song forever. Answer: Water, fire,
+      earth, wind.
+    _id: h85Fakn5CMcHQmxm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.h85Fakn5CMcHQmxm'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      A cloud was my mother, the wind is my father, my son is the cool stream,
+      and my daughter is the fruit of the land. A rainbow is my bed, the earth
+      my final resting place, what am I? Answer: Rain.
+    _id: hPLwo4srUGSI0YAq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.hPLwo4srUGSI0YAq'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Poke your fingers in my eyes and I will open wide my jaws. Linen cloth,
+      quills or paper, all will split before my might. What am I? Answer:
+      Shears/Scissors
+    _id: 1OC2He7WSuo2nvcB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.1OC2He7WSuo2nvcB'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      What goes with a carriage, comes with a carriage, is of no use to a
+      carriage and yet the carriage cannot go without it? Answer: Noise.
+    _id: cTCNKOlQOUA0uZGO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.cTCNKOlQOUA0uZGO'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: 'What stands on one leg with its heart in its head? Answer: A cabbage.'
+    _id: fVkUXI0DW7MCJowa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.fVkUXI0DW7MCJowa'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      It's been around for millions of years, but it's no more than a month old.
+      What is it? Answer: The moon.
+    _id: 34UsfM2NeLbfTRHJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.34UsfM2NeLbfTRHJ'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      I met a man with a load of wood which was neither straight nor crooked.
+      What kind of wood was it? Answer: Sawdust.
+    _id: MAkugZKRweRk5H9j
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.MAkugZKRweRk5H9j'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: 'What binds two people yet touches only one? Answer: A wedding ring.'
+    _id: 1VYasQ5YafseAO0u
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.1VYasQ5YafseAO0u'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      I am the beginning of sorrow and the end of sickness. There's no happiness
+      without me nor is there sadness. I am always in risk, yet never in danger.
+      You will find me in the sun, but I am never out of darkness. Answer: The
+      letter S.
+    _id: 9gKf5XMitvHuwii4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.9gKf5XMitvHuwii4'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: 'What holds water yet is full of holes? Answer: A sponge.'
+    _id: azNpEDvQIJJ9mOP1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.azNpEDvQIJJ9mOP1'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      Lives without a body, hears without ears, speaks without a mouth, to which
+      the air alone gives birth. Answer: An echo.
+    _id: 8WjQzmUnxiGh1bfL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.8WjQzmUnxiGh1bfL'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: 'What goes into the water red and comes out black? Answer: A red-hot poker.'
+    _id: yBayqJn0jIuYG0X0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.yBayqJn0jIuYG0X0'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      When one does not know what it is, then it is something. When one knows
+      what it is, then it is nothing. Answer: A riddle.
+    _id: EokqJdqkhn1b210B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.EokqJdqkhn1b210B'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      It is the beginning of eternity, the end of time and space, the beginning
+      of the end and the end of every space. What is it? Answer: The letter E
+    _id: a7M00oJj7XzsO4eX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.a7M00oJj7XzsO4eX'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: 'What tastes better than it smells? Answer: A tongue.'
+    _id: cwfAkCzbazvJBfha
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747337297
+      modifiedTime: 1792747337297
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!eRfNWu9s1h20yDvs.cwfAkCzbazvJBfha'
+folder: null
+_id: eRfNWu9s1h20yDvs
+img: modules/game-icons-net/whitetransparent/egyptian-sphinx.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792747337297
+  modifiedTime: 1792747337297
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!tables!eRfNWu9s1h20yDvs'

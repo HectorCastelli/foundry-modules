@@ -1,0 +1,2597 @@
+name: Bard Songs
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Snuffed The Magic Dragon' - A song about slaying a dragon that has
+      terrorized the countryside. This song has a part two called 'Stuffing The
+      Magic Dragon' in which the party has the dragon stuffed and brought to
+      their castle.
+    _id: QQhxQDquERVcgk7V
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.QQhxQDquERVcgk7V'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      The Deep One's Sea Shanty' - To anyone who can’t speak Aquan this sound
+      sounds like an upbeat sea shanty sung in another language. To those who do
+      speak Aquan it tells the story of 'The One who causes the waves' and how
+      he fought the gods themselves to reclaim the sea as his own.
+    _id: enhIZEL1oa79bTR8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.enhIZEL1oa79bTR8'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Lycan Virgin' - Famous wenching song punctuated by wolf howls. Werewolves
+      struggle to resist joining in during these parts, as does anyone else who
+      has had a few...
+    _id: UwNUGIfNR0UwEKB4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.UwNUGIfNR0UwEKB4'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Crossbow' - A song about a Ranger who rides into town to collect a bounty,
+      alive or dead, against the Barbarian Reckless Redd. 'No one dared to ask
+      his business, no one dared to make a slip, 'cus the Ranger there among
+      them had a crossbow at his hip.'
+    _id: zTRzEWHpLvMggDbW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.zTRzEWHpLvMggDbW'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      The Wizard and the Wren' - A children's song about a wizard who built a
+      wooden town taller than any in the land that was undone by a wren who
+      needed twigs to build its nest.
+    _id: sYNxtzKRhSYEa0bB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.sYNxtzKRhSYEa0bB'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      The Crown on the Head and the Crown on the Heart' - An epic poem
+      describing a king who was usurped and his journey of growth on his return
+      to the throne.
+    _id: n26jixcA5if8IR62
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.n26jixcA5if8IR62'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Ashkeeper' - A slow and somber dwarven chant about the history of one of
+      their oldest and deepest fortresses.
+    _id: 1g2jh19CXs0NeRsd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.1g2jh19CXs0NeRsd'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      Our Son Arsen's Arsine Arson and Parson Carson's Incarceration Assertion'
+      - This bar song is known for being a dangerous tongue twister, and
+      requires a DC 20 perform or linguistics check to sing without a serious
+      mouth injury. Failing the check results in being unable to sing or speak
+      for 1d6 hours.
+    _id: RFUh8kRopdbwwQWR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.RFUh8kRopdbwwQWR'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      My Shortest Love' - a song about the love between an elf and a halfling
+      (hence “shortest”).
+    _id: Uu4qw3KNqyoRWGOI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Uu4qw3KNqyoRWGOI'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      The Seven Dwarves' - song about how seven dwarves help to rescue a human
+      maiden poisoned by a female wizard.
+    _id: DesY4UU6WBnWahP2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.DesY4UU6WBnWahP2'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Blasphemy Song' - a rhyming song where every verse is an insult to a god.
+      It is usual sung at a speedy pace. Worshipers say any bard who sings the
+      song will face divine retribution, but for most bards, this wasn’t their
+      last song.
+    _id: ygxzjKf9RbxmV9Vk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.ygxzjKf9RbxmV9Vk'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      The Seven Screw-ups That Saved the World' - A song about an adventuring
+      party in which the members kept dying but still managed to stop the
+      apocalypse. Each verse is how they helped the party, and how they died is
+      in the chorus: 'There were Seven Screw-ups in the party in all, One sang
+      with the banshee in the hall and then there were Six Screw-ups in the
+      party in all' Popularly altered to sing the praises of other unfortunate
+      adventuring groups.
+    _id: FH3rQjHRH7vYylAV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.FH3rQjHRH7vYylAV'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Rocking Chair' - A calm ballad about an old elven lady remembering the
+      times when she was young and fierce.
+    _id: fgVWoUVqUqiuvmjh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.fgVWoUVqUqiuvmjh'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      Cold Blows the Wind' - The love ballad of a budding necromancer and the
+      lover she lost to the sea.
+    _id: Wsxr6LAq3YKLHNn9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Wsxr6LAq3YKLHNn9'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Letters in the Sky' - A tragic tale about a prince exiled to the sun and a
+      princess exiled to the moon, and how they can only express their love for
+      each other by arranging the stars into messages. Usually, it ends with the
+      performer gazing skyward on the final chorus.
+    _id: 8Xu1q0RrzyMB1Vo2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.8Xu1q0RrzyMB1Vo2'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Pahoot' - A children's song (best played on the flute or piccolo) that
+      parents roll their eyes at while their children giggle. It features verses
+      about the exploits of Pahoot, the flatulent goblin, who somehow always
+      gets the last laugh whenever he's ostracized for his odor.
+    _id: Lwf6SJ4nBLKjVsKO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Lwf6SJ4nBLKjVsKO'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Where You’ve Been' - A song about a ranger who searches for his lost love,
+      using his tracking skills, but he’s delayed by his memories of the
+      locations he visits. At the end of the song, he finds his love waiting for
+      him.
+    _id: IKVtUQZz97VDyD5G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.IKVtUQZz97VDyD5G'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Behind Blue Scales' - song by a blue dragonborn who wants to break free
+      from chromatic influence.
+    _id: ZjfjkI1GLIjCar1R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.ZjfjkI1GLIjCar1R'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      What's In A Bottle Of Elfish Wine' - A popular song among taverns owners
+      and their patrons. This fast paced song is widely known and adapted by
+      everyone who sings it.
+    _id: SynAJuh6clHkDtTt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.SynAJuh6clHkDtTt'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      The Night Groomer' - a tragic story about a night time barber who was
+      killed by a customer that transformed into a werewolf.
+    _id: OtU1URmf2w1ZhGT5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.OtU1URmf2w1ZhGT5'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      The Lonely Golem' - A song about a statue coming to life and starting a
+      quest to find friends, forgetting that its job was to protect an ancient
+      weapon built to destroy nations.
+    _id: IMLsRevT59I69lgK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.IMLsRevT59I69lgK'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      The Shortening of Meradian Finn' - A Dwarven drinking song with
+      thirty-eight official verses (and countless unofficial ones), the song
+      recounts the punishment meted out against an Elven noble who stole from a
+      Dwarven treasury. The chorus ends with a rousing slamming of glasses and a
+      'in the end, he never did again!' It is considered poor taste by many
+      elves, which helps account in part for its popularity.
+    _id: HZNDlvcOcHLanJwc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.HZNDlvcOcHLanJwc'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      The Bawdy Body of Biddy Badee' - A raucous account of an old woman
+      accidentally restored to youth and beauty. The song makes liberal use of
+      alliteration and plays on words: 'her newly charmed charms were enchanting
+      enchantment; passing by barracks led to guardsman advancement...'
+    _id: 0UO1lJzWPvSUxLNB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.0UO1lJzWPvSUxLNB'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      The Cruel Changeling' - A mournful ballad of a wandering bard falling for
+      a woman at a fair, only to discover that she is wearing another's face.
+    _id: fr4CG1EX9AEdAfUF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.fr4CG1EX9AEdAfUF'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      And All for a Turnip' - A song best sung as a round. It tells the story of
+      a hungry halfling and his incredible exploits finding a snack.
+    _id: Zh3l1bieRwFwTCXv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Zh3l1bieRwFwTCXv'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      I Eldalië Nairii (sometimes translated as The People Mourn)' - An Elven
+      Dirge describing the loss of Cyrindes Flestivel, a beautiful and kind
+      mage, to a spreading plague, along with many of her people. A melancholy
+      ode to loss, some have taken it as a representation of the Elves' sense of
+      mourning for the loss of their brighter world.
+    _id: HdIvsFwZliYN1UXi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.HdIvsFwZliYN1UXi'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      I Eldalië Snuiiiiii (The last word is used to sound like snoring or deep
+      breathing)' - A parody of the Elven Dirge 'I Eldalië Nairii', the song is
+      of unknown source; it tells of an Elven bard singing the dirge, while the
+      listeners fall asleep from boredom. A sure way to insult the singer of
+      such a dirge, it is best sung with as much false pomposity as possible.
+    _id: brLRfF50QvRNkB6H
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.brLRfF50QvRNkB6H'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      But the Gnome Was Never Seen' - A children's song, used to remind Gnomish
+      youths about the importance of caution and care.
+    _id: DSgLyL1rSnWYtH4J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.DSgLyL1rSnWYtH4J'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Adam the Easygoing' - A relaxed song telling the tale of the titular Adam,
+      a large, pudgy human paladin with an odd knack for befriending those he
+      defeated in combat.
+    _id: iqnGpU4MzeEIWzcw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.iqnGpU4MzeEIWzcw'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      I Write the Spells' - A catchy if somewhat easily grating little song of
+      unknown origin. If sung, it makes certain wizards go absolutely berserk.
+    _id: cUaFWXBedoimeKsR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.cUaFWXBedoimeKsR'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Nyarna Nwalcamun' - The Saga of the Hero Grefedd and his journey to
+      destroy the sentient cursed sword Nwalcamun. Traditionally, the climactic
+      final battle scene is punctuated by the beat of a hammer on an anvil,
+      representing Grefedd's smashing of Nwalcamun while under attack by a drow
+      army.
+    _id: cwlqpHd7lwhnX5IJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.cwlqpHd7lwhnX5IJ'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      The Green Eyes of Mallistari' - The wooing song of a human woodsman for a
+      half-elven maiden 'met in a shady glade.' The song is notable for a
+      memorable bridge, often used when teaching the lute.
+    _id: 7Ho11NFCFApXeq6o
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.7Ho11NFCFApXeq6o'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      Ga-Grosh For-Thaash' - A song adapted from an Orcish marching anthem,
+      useful for learning the rudiments of Orcish.
+    _id: A4fBLQIGwPTouyZb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.A4fBLQIGwPTouyZb'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      The Oysters of Miss Marchelle' - A sea shanty, recounting the joys of
+      stopping in port at an establishment called 'Harbor Belle.' The song
+      declares that 'no sailor can resist the delight of the oysters of Miss
+      Marchelle.' The shanty, unlike many such songs, is not clearly innuendo,
+      although it certainly may be (and many sailors sing it as such).
+    _id: oHQToCEfxGsHCYCy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.oHQToCEfxGsHCYCy'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Arnash Quadmatter' - A song mocking the quintessential absent-minded
+      wizard, referring to the foibles caused by having 'his nose in a book, a
+      book, a book...'
+    _id: bN42UYuZgVnc9PCr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.bN42UYuZgVnc9PCr'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      The Missing Child' - A mournful Elven song about a mother looking for her
+      lost child, eventually going mad with grief and drowning herself, only to
+      rise again as a banshee.
+    _id: wYKNckX4sFh5Lw97
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.wYKNckX4sFh5Lw97'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Grandma Got Eaten By An Owlbear' - A Popular song in winter months
+      reminding people that they shouldent allow their elderly ex adventuring
+      grandmother to attempt to wrestle monstrosities.
+    _id: TCZI9dzgQb3XA9T5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.TCZI9dzgQb3XA9T5'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      You Can Just Call Me The Gnome' - A fast-paced, silly song telling the
+      increasing exploits of Hamish McTamish, a fictional gnome adventurer. Each
+      time the chorus is sung, Hamish's name is lengthened with more titles (the
+      last chorus includes as many silly titles as the singer can think of and
+      can sing in a single breath) followed by 'but you can just call me the
+      Gnome!' Although believed to be human in origin, gnomes love the song, and
+      an informal competition has sprung up as to the longest final chorus. The
+      current record belongs to Sprigvill Gaudynack, who (via both her own
+      talent and magical augmentation) kept the last chorus going for three and
+      a half minutes.
+    _id: SB0jprCPVTjR3rpG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.SB0jprCPVTjR3rpG'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Callaud's Pre-funeral Dance' - A sprightly instrumental air for country
+      dances. If played with a performance check DC 18 or higher, it functions
+      like 'Otto's Irresistible Dance' for anyone not in combat or threatened
+      (i.e. it will make listening townsfolk break out into dance, but not if
+      you are in the midst of robbing their homes).
+    _id: dqYLS3GssIgLIjoQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.dqYLS3GssIgLIjoQ'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      Long, Gone Galangal' - A love story told through Gamelan music about an
+      adventurous Chef seeking a rare root in the forest. Instead of finding it,
+      they find the love of their life. The song is quite long, requires a large
+      number of musicians to play properly, and has a happy ending.
+    _id: 0rXK4SmQbxSb9G6U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.0rXK4SmQbxSb9G6U'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      Untranslateable Orcish Proverb' - A morality tale operatically told
+      through Carved Masks, Huge Percussion Instruments (Taiko style Drumming),
+      Slapstick Pantomime, and Throat Singing techniques. A classic of High
+      Orcish culture, now practically lost to time and the collapse of
+      High-Orcish society. The choregraphy is quite energetic.
+    _id: 01baZ8X1lpUPPsNm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.01baZ8X1lpUPPsNm'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Great-Grandmother Will Enjoy Eating Your Flesh An Orchestral Eladrin
+      Morality Tale from the Far Fey Realms' - A bold hero cheats and fails to
+      respect the ancestral Mother-spirit. The mother spirit holds the hero to
+      his deal and devours him for his crimes. The tale is told non-verbally,
+      through colorful illusion and intepretive dance.
+    _id: z2jH06o0ZS7EDt4p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.z2jH06o0ZS7EDt4p'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      My Lord, Come-a-Leaping' - A bawdy Halfling tale about a Randy Prince who
+      is turned into Frog when he comes on too strong to a powerful and
+      beautiful Halfling Sorceress, and discovers he likes being a Frog more
+      than a Ruler.
+    _id: tIt9y869P8uaeHv3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.tIt9y869P8uaeHv3'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      The Farmer's Corn' - A bawdy tale about a comely farmer's daughter who
+      mishears something someone said, and spreads gossip around the village.
+    _id: 0mjLfV72UUq71jmk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.0mjLfV72UUq71jmk'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      The Three Spinners' - A children's Tale retold through a tongue twisting
+      call and response song. It is about three unmarried magical Farm-women who
+      challenge that they can out-spin (thread) better than anyone. They
+      challenge a devil, who curses one with a swollen foot, one with an
+      infected finger, and one with an infected lip. The woman with the infected
+      lip's line is supposed to be sung while holding one's tongue. In the end,
+      the women win, the devil is defeated, and each one wins more gold than
+      they know what to do with.
+    _id: 0SLLlQ1VlHRkPoJj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.0SLLlQ1VlHRkPoJj'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      The Town with No Name' - 'I came across a pokey town. Not much going on
+      and curtains all down. I came across a smokey tavern. Not much going on in
+      that pokey town.' A slow sad song about a old woman that lost her way and
+      found a town not on any maps they brought and only too late discovered it
+      to be a ghost town. (Actual ghost town not just one that was abandoned).
+    _id: eW7YSrNW5T7lT1a9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.eW7YSrNW5T7lT1a9'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Beware A Human Bard' - A pseudo-cautionary song about the lascivious
+      characteristics of human bards; the song begins with an Elvish mother
+      warning her daughter, and proceeds through all the more common races into
+      more and more ridiculous warnings ('Mama Golem warns that he'll say he
+      likes your rocks, but what he's really thinking of...')
+    _id: sRdpaAeYrypJ7WOm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.sRdpaAeYrypJ7WOm'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      The Fall of the Sun' - A mournful Aarakocra ballad, said to have been
+      written by the first to travel from the Elemental Plane of Air and see a
+      sunset.
+    _id: H2fByNJkJgqUSGOH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.H2fByNJkJgqUSGOH'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      The Cheese Song' - 'Cheese Cheese Cheese Cheese Cheese Cheese Cheese
+      Cheese Cheese Cheese' A song used by Kenku bards who create melodies out
+      of the different voices and accents they have heard the word in the songs
+      they sing.
+    _id: NsUS8ebeFwz2mW8v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.NsUS8ebeFwz2mW8v'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Glida's Wedding' - A traditional halfling travel song, describing the
+      setup for a halfling wedding, 'held in the shadow of the wagons on a
+      Summer Sunday.'
+    _id: JIdWiDAITpVa7LEt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.JIdWiDAITpVa7LEt'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      The Flute &amp; Lute' - A 'dueling instruments' style song featuring the
+      eponymous instruments. While some bards have added words to the lute
+      portion, it is usually simply instrumental.
+    _id: VsMn8O77b4rZs4ZG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.VsMn8O77b4rZs4ZG'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Bear Bride' - A song about a human maid, enchanted by a fair traveler into
+      leaving her home, who meets a sad end when she discovers the traveler is a
+      dangerous druid. Likely originating in legends warning of associating with
+      strangers.
+    _id: Oz8uKMuXAatHTRLN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Oz8uKMuXAatHTRLN'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Rocks Fall' - A cautionary song about travelers who did not heed the
+      warnings of the gods and met a sudden and tragic end in an avalanche.
+    _id: rHJ6grofE75GtOEr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.rHJ6grofE75GtOEr'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Green Fields, Grey Fields (The Old Woman and Young Girl)' - A song about
+      an old woman walking with her great-granddaughter. The song is both
+      nostalgic and melancholy.
+    _id: IwJJzBVAY9R9EV89
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.IwJJzBVAY9R9EV89'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      The Solemn Judge' - A song about an irascible old magistrate, his
+      beautiful daughter, and the blacksmith's son who falls for her. The last
+      verse tells of the judge marrying the happy couple.
+    _id: 6DPsQhiVRCheKrbH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.6DPsQhiVRCheKrbH'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Fleshy Pinklings' - An Orcish Festival song, championing the power of the
+      Orcish races and declaring their superiority over the rest of the world,
+      and their destiny as conquerors.
+    _id: zcnY3neprvVYhL7U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.zcnY3neprvVYhL7U'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Cloth in the Street' - A protest song, originally written in Malthcumband,
+      calling for weavers to rise up against an unjust leader. Banned in many
+      evil-aligned areas, the song calls for the people to rise up and take back
+      the city. Ironically, one of the governments to ban the song is the
+      tyrannical Communal Autocracy of Malthcumband, formed by many of the same
+      weavers the song was first written for.
+    _id: 4znjFF4R8lLXM9DG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.4znjFF4R8lLXM9DG'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      The Colors Of Death' - A colorful tale of how an adventuring party was
+      brutally murdered by all the chromatic dragons at once.
+    _id: sgekyq1roXKoQhG1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.sgekyq1roXKoQhG1'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Well Well Well' - A song relating how several people did mischief and
+      subsequently fell into a hole in the ground. The chorus starts with: 'Well
+      Well Well, look who fell here!'.
+    _id: dVlBKlf3NqDSNeQb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.dVlBKlf3NqDSNeQb'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      To The Death' - A marching song about a young soldier who plans on dying
+      bravely to defend their homeland, and asks their leader to write a letter
+      home for them to their one true love. It was quite popular long ago, but
+      is now considered cloying and outdated.
+    _id: 0EjMd338gFMaXZpY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.0EjMd338gFMaXZpY'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Ale for the Victorious' - A popular drinking song sung by soldiers while
+      off-duty.
+    _id: MqbcO0ZH9k7lC8lI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.MqbcO0ZH9k7lC8lI'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      To My Lover's Lover's Love' - A downer of a song, this tear-jerker is a
+      letter dictated, postmortem, by a forlorn lover telling all the sordid and
+      dirty deeds of their former lover, now in the arms of another.
+    _id: J81dlzMS09qJ3J6O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.J81dlzMS09qJ3J6O'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Sir Dalloway the Duelist' - A song from a hundred years ago, poking fun at
+      nobles and fragile honor. It was once considered unlawful to sing it in
+      polite company, but it is now a popular folk ballad that is quite catchy.
+    _id: SOncCiIJVspumNU8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.SOncCiIJVspumNU8'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      Rhetting the Flax' - A work song about how many bales of flax a young and
+      ambitious villager promises to grow, harvest, prepare, spin, weave, and
+      sell, so they can have enough fabric and gold for a huge wedding, if only
+      their lover would return their affection. The song is a thinly veiled
+      sexual innuendo.
+    _id: U9sy9ibfL4m42tw4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.U9sy9ibfL4m42tw4'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      The Horrible Haggis of Hampstead Heath' - A rhyming cumulative song about
+      a mimic that swallows an farmer's old, rotten haggis, gains magical
+      powers, and then goes on a rampage. It devours an entire town, where every
+      occupant, their occupation, their children, and the name of their family
+      pets are listed. At first no-one stops it because they are too
+      self-centered. In the end, the town's guards and even the mayor are
+      devoured. The song has a happy ending as the unlikely hero lets themselves
+      get devoured and then slices open the mimic from the inside, releasing
+      everybody safe and sound. The best bards are able to keep the crowd going
+      for an entire hour, and then recite in reverse order the entire population
+      of the village.
+    _id: bi8wH3pWejRrj8lr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.bi8wH3pWejRrj8lr'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Ogre-Melon Crawl' - A catchy ditty which is a comedic precautionary tale
+      about walking and not riding a horse if you have been drinking Ogre-Melon
+      wine.
+    _id: wNXtcpBAl4CfgzFr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.wNXtcpBAl4CfgzFr'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Two Hundred and Seventeen Heartbeats' - a controversial Elven composition.
+      The singer takes a breath, then measures their pulse in silence for the
+      duration that the title implies, while the audience is meant to slowly
+      embrace the many natural sounds taking place during that time as a song of
+      their own. It has been hailed by some musicians as a deep, thoughtful
+      reflection on natural sounds, but criticized by others as a bad joke.
+    _id: 65Th04yDCJJUc4LZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.65Th04yDCJJUc4LZ'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Dwavers Wumblerubs' - A halfling nonsense song, meant to sound like, but
+      not actually be, Dwarvish. Sung with mock solemnity.
+    _id: 76ocmw7ISC9BoZeJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.76ocmw7ISC9BoZeJ'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Slashworthy' - A sea shanty about a cutlass that never went dull, until
+      the captain of the ship used it to shave his back.
+    _id: e5kYlL0VPXgfOaTi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.e5kYlL0VPXgfOaTi'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      The Old Dun Cow' - The dedicated patrons of a tavern take refuge in the
+      cellar while the building burns down around them, and take advantage of
+      the taverner's stores while waiting to be rescued.
+    _id: RxHSsxCLBvz4fh8p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.RxHSsxCLBvz4fh8p'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      The Hollowed One' - A tale about a man who gave his mind, will, and voice
+      to be able to house a disgraced god to protect his people. Any who hear it
+      are inclined to feel a deep lament for this person.
+    _id: GgWn1VKqDYCdZ9wC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.GgWn1VKqDYCdZ9wC'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      The Snarl' - A frightening song about gnoll attacks, with reference to the
+      sounds they make beforehand. Sure to give a frisson to listeners.
+    _id: HJFCnl03c7pJIPo2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.HJFCnl03c7pJIPo2'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      Duplicitous Dannalor' - A song about a half-elf man who is having
+      simultaneous affairs with an elven woman and a human woman.
+    _id: xXJmHB0vaWrccdcf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.xXJmHB0vaWrccdcf'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Dreaming of an Inn' - A ballad of an adventurer in the wilderness, missing
+      civilization and bemoaning the uncouth surroundings and travelling
+      companions.
+    _id: 6KLNN1gXLHv4Qn3O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.6KLNN1gXLHv4Qn3O'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Gandavous Thunke' - Oh, Gandavous Thunke was a dangerous drunk with chaos
+      instilled in his soul, And when faced with sellswords, or rampaging Orc
+      Hordes, Or an angry cantankerous Troll, Old Gandy would growl and fix them
+      with a scowl and unleash the magic inside, Calling forth lightning, or-
+      equally frightening- A fireball, leaving them fried. Now, though it seems
+      tragic, the use of the magic has had an effect on his hue; So if you're
+      foolhardy and meet him at a party, you can call him Old Gandy the Blue.
+    _id: ANSCxiRvHI7Cz5Qd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.ANSCxiRvHI7Cz5Qd'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      This Moment of Magic' - A love song about a wizard's apprentice falling
+      for his classmate as they cooperate in the creation of a summoning circle.
+      'Though I open a gate to the Plane of Air, and float through unending
+      skies, I would never find night that was dark as your hair, nor a view as
+      blue as your eyes.'
+    _id: DsS7kE23nQOOFUXM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.DsS7kE23nQOOFUXM'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Robin Redbreast' - A song about a bird hopping through the forest.
+      Although unknown by many, including some of its singers, there is a second
+      message contained in thieves' cant within the song, describing the guard
+      patterns of the Royal Summer Palace of Keann.
+    _id: G6plMFrGOS6YDhvC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.G6plMFrGOS6YDhvC'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: The Future Journey' - A Dwarven song about the afterlife 'dug down below.'
+    _id: liTx7BhlDKIQCzzc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.liTx7BhlDKIQCzzc'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      Tenting on the Old Campground' - a ballad of a soldier honoring and
+      remembering those they've lost and wishing for an end of the war they are
+      fighting.
+    _id: 3kLaphlA8Yb2zTmg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.3kLaphlA8Yb2zTmg'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      My Hedgehog Son' - A catchy, nonsense, drinking song about a magical,
+      talking hedgehog that gets adopted by a childless farmer, the hedgehog
+      rides a rooster like a knight on a horse, and makes the farmer rich. The
+      song is filled with tongue twisters. Bards occasionally challenge each
+      other to invent and repeat new verses, each more difficult and hilarious
+      than the last, while taking a drink after every flubbed line.
+    _id: u3UndBp4Z869ejX4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.u3UndBp4Z869ejX4'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      The Silken Meadow' - Who knew ancient Eladrin epic poetry turned thousand
+      year old ballad could be so raunchy?
+    _id: 3jixtxjW9wgDLnoV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.3jixtxjW9wgDLnoV'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Llolth's Lullaby' - An adventuring bard somewhere made it all the way down
+      to the underdark, and heard one or two of the teaching songs sung by the
+      Creche Matrons who give young Drow infants the education they need to
+      survive the rigors of life; the song is in a deep dialect of undercommon
+      that is almost never spoken anymore, but it is filled with all sorts of
+      'Learning Magic', mnemonics, and cultural references that makes it a sort
+      of memetic hazard (you NEVER forget the words if sung by a powerful enough
+      teacher), but the effect is less so when you don't understand the
+      language. That adventurous bard made it back to the surface, but not
+      understanding the dialect of the deep, transposed the lullaby into a few
+      other chords and added an improvisational lick of their own. That was a
+      thousand years ago, and people have been humming and playing the tune up
+      here ever since then, 50 generations later.
+    _id: vchYn8uYNek1tuzQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.vchYn8uYNek1tuzQ'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Health Potion #9' - A song about a long-suffering herbalist companion to a
+      luckless knight and the scrapes the two of them get into. In the end, they
+      end happily- the knight marries a guard captain who arrests him, while the
+      herbalist falls for a local fortune teller.
+    _id: Kc2Eogq0tMvubJWh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Kc2Eogq0tMvubJWh'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Ghouls in the Graveyard' - A song about running through a graveyard
+      seeking to avoid the attack of undead.
+    _id: lL6iMHY2lL10mSLR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.lL6iMHY2lL10mSLR'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      A Red Ribbon' - A murder-ballad. A lover is given a red ribbon, the lover
+      cheats while wearing the ribbon. The lover is strangled with said ribbon.
+      The song is sung from the perspective of the lover wearing the red ribbon
+      and ends abruptly, mid verse.
+    _id: 7QdikWZsUb9Aq0mq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.7QdikWZsUb9Aq0mq'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      She's Won the Crusade' - A song about the exploits of a halfling bard,
+      celebrating her exploits in the Great Crusade of Nevis with increasingly
+      impossible descriptions of her victories.
+    _id: ekjZHG8FU77ysW6Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.ekjZHG8FU77ysW6Y'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      Last breath' - A song about the recent death of a loved one, party member,
+      and loss, the song goes through the 5 stages of grief as well.
+    _id: htAJiBzY8kpUkeam
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.htAJiBzY8kpUkeam'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Hurry Up and Die' - A song about a necromancer seeking a zombie companion,
+      but surrounded only by living creatures.
+    _id: 3PYPYpn9nh3Q6sP6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.3PYPYpn9nh3Q6sP6'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      Run Through The Jungle' - A saga of adventurers who managed to
+      successfully get through the Haunted Temple of Khymann'roe and obtain the
+      Crystal of Nor'Vesh without ever entering combat- simply by running away.
+    _id: PXjZGwwV52g0340G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.PXjZGwwV52g0340G'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      No Rest For The Wicked' - This song tells the tale of Caela of the
+      Mammoth, a paladin of vengeance from a barbarian tribe, on her quest to
+      hunt down the travelers who robbed and killed her father.
+    _id: KbahWMN4kqlQLR4b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.KbahWMN4kqlQLR4b'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      The Stew' - a Farcical portrayal of an foolish adventurer getting news
+      that their loved one has decided that they are probably dead and has moved
+      on. The distraught adventurer falls in love with the attractive savage,
+      promising they'd 'Jump in the Stew for You'. It has become a popular
+      saying amongst foolish young lovers.
+    _id: Yz55tXPSa9fJmTZQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.Yz55tXPSa9fJmTZQ'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      There Is No Mountain' - A chant developed in the monastery of Gar-Yin. The
+      chant is used to focus the speaker away from the material realm, and
+      declares the non-existence of the mountain, valley, and river visible from
+      the monastery's meditation area.
+    _id: ou22LNnkyP3yzyLd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.ou22LNnkyP3yzyLd'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      The Scornful Beauty' - A human traveler falls for a Dwarven gemsmith's
+      daughter, but she rebuffs his advances. The song calls on her to turn her
+      head and consider his suit.
+    _id: 2fcVALYVv89Ay0Bq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.2fcVALYVv89Ay0Bq'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Dihen-Nin (Forgive Me)' - A mournful plea by an Elven soldier to his
+      fallen comrades, begging their forgiveness for his survival 'when your
+      songs have been ended.'
+    _id: BCuFITPKDINybHI2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.BCuFITPKDINybHI2'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      Captain Hennion's Wife' - A decidedly ribald army song about the wife of a
+      commanding officer; it is common to adapt a verse to be about the wife (or
+      daughter) of a current army leader. Singing this song can be a good way to
+      end up in the stocks; nevertheless, it is very popular in camp.
+    _id: dvZfmE22iUGvuNEa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.dvZfmE22iUGvuNEa'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      And Another Tree Falls' - A mournful tale of a dryad, trying
+      unsuccessfully to protect her grove from the incursion of a growing human
+      city. This song is abnormally famous for starting bar fights, especially
+      if there are urban and wild elements in the tavern.
+    _id: p4bDnT3G2fLHpGvS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.p4bDnT3G2fLHpGvS'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      Clotted Soil' - A recounting of the betrayal of King Bhoulthekk Bramfisted
+      and his army by the Elven nation of Alv'dirae when the Dwarven army stood
+      to defend Alv'dirae's borders from attacks by the Ghowldresh Empire. One
+      of the often-quoted verses from the saga includes the line 'And may I
+      trust a broken axe before an elf again.'
+    _id: U0iQnk4a08eSZHWP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.U0iQnk4a08eSZHWP'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      The Old Fisherman' - A shanty about a mysterious old Dwarven fisherman,
+      encountered in the middle of the ocean on a little skiff. According to
+      legend, if the fisherman is disturbed by a ship and not treated with
+      respect, he kills every guilty soul on the ship with his gaff and leaves
+      them hanging from the yardarms like a fish market.
+    _id: sDK27C1PXrfUULZ1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.sDK27C1PXrfUULZ1'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Simon McGurk' - A shanty about a brilliant but lazy pirate. 'Oh Simon
+      McGurk, scared stiff of work, sailing all over the sea...'
+    _id: PyLAHQJjAXPrWbCu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.PyLAHQJjAXPrWbCu'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Greed's Foul End' - A movement from a morality play featuring a single
+      musician and a vocalist. The piece is about the dangers of greed and the
+      benefits of charity. Poignant, but difficult to pull off; often a
+      touchstone work for performers of an ecclesiastical bent.
+    _id: gGouYbjAWczPOfla
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745192319
+      modifiedTime: 1792745192319
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!hQ09WzrJVTXo2X1E.gGouYbjAWczPOfla'
+folder: null
+_id: hQ09WzrJVTXo2X1E
+img: modules/game-icons-net/whitetransparent/musical-score.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792745192319
+  modifiedTime: 1792747029150
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 2000000
+_key: '!tables!hQ09WzrJVTXo2X1E'

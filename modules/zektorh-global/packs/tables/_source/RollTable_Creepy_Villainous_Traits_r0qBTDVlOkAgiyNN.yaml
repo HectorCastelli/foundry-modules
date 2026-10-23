@@ -1,0 +1,2456 @@
+name: Creepy Villainous Traits
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      They change voices between every sentence. Most of the time it's just one
+      of many intimidating voices, occasionally multiple, sometimes they throw
+      in that of an innocent sounding child, rarely, you'll hear your own...
+    _id: 7426NRJTZgV3FOb9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.7426NRJTZgV3FOb9'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      They are never fully seen, as they're always behind a veil of magical
+      darkness that nothing seems able to dispel/always hidden beyond the
+      party's perception checks. Occasional hints of their appearance come out,
+      only to immediately be contradicted by something.
+    _id: bFy3UVTLwxFnHgxR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.bFy3UVTLwxFnHgxR'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      They are completely unflappable. No amount of threats, bargaining,
+      insults, etc. are able to change their demeanor of eerie grinning
+      stoicism.
+    _id: pXvZt5o1Sqko4V8q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.pXvZt5o1Sqko4V8q'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      They never move normally, whether crawling along the walls and ceiling,
+      taking exaggerated movements, flailing about as they give chase towards
+      someone, they never just casually walk.
+    _id: vIh5bZJW9MLTSCYB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.vIh5bZJW9MLTSCYB'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Whenever one isn't looking at them, they can move completely silently and
+      over any terrain without difficulty.
+    _id: LAFrCcAmIDvwoLqZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.LAFrCcAmIDvwoLqZ'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      While you are speaking with them, they are stacking and restacking small
+      piles of rodent bones. Every few minutes, they will ask whether this
+      arrangement looks better than the last one.
+    _id: W4qyKc3lpwaQ1yCe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.W4qyKc3lpwaQ1yCe'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      They can possess other living beings. Makes for great 'oh shit' moment
+      when party realizes that they are never safe, even when they are alone
+      because one of them could be possessed.
+    _id: AiKwxZ2SoxbnJzi7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.AiKwxZ2SoxbnJzi7'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: You never, EVER, see them enter a room. They are just... There.
+    _id: F1H1zKhy3duFZpAA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.F1H1zKhy3duFZpAA'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: They never blink.
+    _id: 1s5llnCkEiS5BMjj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.1s5llnCkEiS5BMjj'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: They know impossible things about your character.
+    _id: fA3RPLN57BzTzRbd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.fA3RPLN57BzTzRbd'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      If you see them eating or drinking it looks normal at first, but something
+      is wrong. They eat/drink in a strange manner or the food/drink itself is
+      strange and upsetting but it takes you a moment to notice.
+    _id: VgSeaizK3TU3LJuP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.VgSeaizK3TU3LJuP'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Their shadow moves and acts independently, but you have to be very
+      perceptive to notice.
+    _id: BhBgFhIXww0VeDie
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.BhBgFhIXww0VeDie'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      When looking at them with peripheral vision, they appear totally different
+      or monstrous.
+    _id: t7iPJUpU1hLYsMA5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.t7iPJUpU1hLYsMA5'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: When in their presence you hear something from your worst memory.
+    _id: MNiZtAgG76CPiUO8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.MNiZtAgG76CPiUO8'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: Your skin feels clammy anytime you are in their presence.
+    _id: HrP80vfyfiJyFPvv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.HrP80vfyfiJyFPvv'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: You feel intoxicated in their presence.
+    _id: 6mnAa4Hjnma4bR0V
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.6mnAa4Hjnma4bR0V'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Whatever is... Wrong about them only YOU notice it (DM, hand different
+      secret notes to your players with different creepy aspects).
+    _id: 8lRRIWl6wIBkgdtn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.8lRRIWl6wIBkgdtn'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      They always stare for a couple seconds when asked a question as if trying
+      to understand an alien language.
+    _id: hzXGpEBYauuGZuyO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.hzXGpEBYauuGZuyO'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: They are obsessed with dolls, doll houses, or doll house furniture.
+    _id: BWRtHAoi2FpTNxJ2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.BWRtHAoi2FpTNxJ2'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: They stare for hours on end without moving or uttering a word.
+    _id: le8GcavUmtr4atS4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.le8GcavUmtr4atS4'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      They bring up traumatic events, death, or torture with a playful or casual
+      tone.
+    _id: iriGmKzO6WA1YcW0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.iriGmKzO6WA1YcW0'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      They understand things about the spirit world more than a normal person
+      should.
+    _id: KrTjMrV1xfFFOOo0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.KrTjMrV1xfFFOOo0'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      They introduce dead objects on their person with you as if they are
+      legitimately alive things.
+    _id: ElWQofaCCsIccRZJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.ElWQofaCCsIccRZJ'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: Have no remorse for any morally questionable actions or thoughts.
+    _id: RmUYA8Lpwx9QXHOb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.RmUYA8Lpwx9QXHOb'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      They illogically blame others for the negative way they reacted to a
+      situation.
+    _id: m5TSzqirIVTwNYYf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.m5TSzqirIVTwNYYf'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      They occasionally run their hand through their hair, with clumps of it
+      coming out each time.
+    _id: UQv9cSSpsnUR1CfS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.UQv9cSSpsnUR1CfS'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Turns out, the off-looking villain 'person' you've been talking to, was
+      just a shape-shifted appendage of a much bigger creature hidden in the
+      ground...
+    _id: s1jofsvoPnnJ9wgi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.s1jofsvoPnnJ9wgi'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: They talk to the group via a ventriloquist puppet with a mummified head.
+    _id: DKHCv7biOh6xB46Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.DKHCv7biOh6xB46Y'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      The underlings of the villain are absolutely terrified to the core by the
+      mere presence of their boss, despite the fact that they are totally calm
+      and (overly?) friendly to them.
+    _id: YGPzbmeN3XrV0TrO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.YGPzbmeN3XrV0TrO'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Unsettling perfection. Beauty, style and gracefulness turned up to 110%.
+      Too good to be real.
+    _id: xeaR4xw620YHZr9i
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.xeaR4xw620YHZr9i'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Being normal and relatable contrasted by showing glimpses of extreme lack
+      of empathy or sanity. 'You're from Gray Oaks? Ha! World's small! I grew up
+      not half a days walk from there on a farm, just like you. Also had a
+      younger brother. We had so much fun playing together. I left after I
+      chopped him up and fed him to the pigs.'
+    _id: paJAdoQzjc2Pg0Wn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.paJAdoQzjc2Pg0Wn'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Despite seemingly being a normal person with no supernatural powers, some
+      very powerful people are terrified of them.
+    _id: cwuvBOdAE2t6QDbQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.cwuvBOdAE2t6QDbQ'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      It's impossible to sneak up on them, they're always perfectly aware of
+      where everyone is.
+    _id: gSBdK0gVplYw3aD2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.gSBdK0gVplYw3aD2'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: They don't seem to feel pain, however badly they're injured.
+    _id: zOCFo4kYmw24Pii2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.zOCFo4kYmw24Pii2'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: They have too many teeth.
+    _id: i1Oq710QytA3jHtv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.i1Oq710QytA3jHtv'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      They float across the floor, as of the very act of walking is beneath
+      them.
+    _id: qtnceDbuUvXkDk5Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.qtnceDbuUvXkDk5Z'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Their face never moves when they talk. It’s a mouth on their chest! Let
+      someone get a perception check as it moves.
+    _id: SLxhmwoFseJutV9Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.SLxhmwoFseJutV9Y'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      The villain’s body is covered in ritualistic cuts, some of them quite
+      gruesome. The villain’s clothing may cover them, but the villain isn’t
+      concerned with keeping them concealed.
+    _id: ywNya6HmT5cTP6Kk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.ywNya6HmT5cTP6Kk'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      When something disappoints the villain, a minion approaches and offers its
+      throat. The villain slays the minion without changing expression, then
+      turns its attention elsewhere.
+    _id: abXvsyccTDMPuU5V
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.abXvsyccTDMPuU5V'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      The villain keeps the head or skull of a hated opponent at hand, and
+      frequently stops to condescend to it.
+    _id: cHLKokz7Fm4Jrw84
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.cHLKokz7Fm4Jrw84'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      The villain’s body is covered in places by spiderwebs. If the villain
+      spies one of the arachnid inhabitants, it eats the spider.
+    _id: nPmCOwBbtBGKcPyW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.nPmCOwBbtBGKcPyW'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Due to its diet, the villain’s mouth and teeth are perpetually smeared in
+      blood.
+    _id: oqRNLp2P0vyjG6hT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.oqRNLp2P0vyjG6hT'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      The villain once collected a beard from a renowned dwarf mystic. The beard
+      has been mounted by leather bindings to a wooden handle, and the villain
+      will sometimes lift the blood-tinged beard to its face like a mask.
+    _id: GcsdxVJDco1iIYCJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.GcsdxVJDco1iIYCJ'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      The villain spends its spare time gazing into a special crystal ball that
+      replays the violent final moments of various departed individuals.
+    _id: l3Uw1iAKPnR4Sosi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.l3Uw1iAKPnR4Sosi'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      The villain maintains a collection of fetishes of various characters. The
+      fetishes are constructed of real animal bone, blood, hair, leather and
+      flesh.
+    _id: 6hruetazmrB9mSiq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.6hruetazmrB9mSiq'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      The villain can emit a maddening cacophony of whispers and disturbing
+      cries. This supernatural sound can be heard at a distance, regardless of
+      intervening materials, excepting magical silence. Unpleasant from afar,
+      and deafening up close, this sound can be suppressed by the villain at
+      will.
+    _id: KLYK02MF81rHuavF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.KLYK02MF81rHuavF'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      The villain does not walk. It is carried forth by a tide of putrid limbs
+      that erupt from whatever surface the villain is upon, propel the villain
+      in a seated position, then rapidly decay as the villain passes beyond the
+      spot.
+    _id: VJxycKlQjfZtjlko
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.VJxycKlQjfZtjlko'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      The villain’s appearance is normal for its species, but it’s lower face is
+      missing. Where flesh would be, there are only teeth and a bony grimace.
+      The villain never speaks.
+    _id: TgeifPxqHc6P9GKq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.TgeifPxqHc6P9GKq'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      The sound of crying, pleading young ones can be faintly heard from within
+      the villain’s clothing.
+    _id: mcD2g3b5ek3aI2Mt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.mcD2g3b5ek3aI2Mt'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      The villain’s body is visibly riddled by rot grubs, though it does not
+      seem to suffer ill effects from the wounds.
+    _id: KNE8DF7ZmZnZhYEq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.KNE8DF7ZmZnZhYEq'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      The villain carries an unholy tome, and constantly reads aloud prayers to
+      a profane god. Though it may take other actions and cast spells, it will
+      never stop its recitations to engage in conversation.
+    _id: OeLFRA2IsgBoHj2s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.OeLFRA2IsgBoHj2s'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Visible within the flesh of the villain gestates a massive, monstrous,
+      pulsating creature. Its birth will clearly kill the host, who shows great
+      affection for the creature.
+    _id: OQcItWdJOuDUbK8n
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.OQcItWdJOuDUbK8n'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      The villain’s eye sockets are empty, and it’s head is perforated by dozens
+      of unnatural holes.
+    _id: C8k00jSVzJvAEnyk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.C8k00jSVzJvAEnyk'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      The villain’s head is entirely enclosed within a metal strongbox. There is
+      a slotted panel that it could open if it chose to reveal its eyes.
+    _id: LzO2OfTdlmdOQpOy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.LzO2OfTdlmdOQpOy'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      The villain must slay one sentient being every day to maintain the pact it
+      made with its dark master. The villain scars itself to maintain the count.
+      After 99 days of victims, the villain will kill itself.
+    _id: t8cZ300dgUUhlTdG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.t8cZ300dgUUhlTdG'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      The villain gave up its mouth for its master. When the master desires it,
+      it will manifest a mouth on the villain’s palm to speak through.
+    _id: lpZT9rA1PUvLjHOz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.lpZT9rA1PUvLjHOz'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      The villain’s heart beats supernaturally loud. Within thirty feet of the
+      villain, your vision dims slightly on each beat. Standing next to the
+      villain is dangerous to the psyche.
+    _id: rdYKzOkv2nifn3XP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.rdYKzOkv2nifn3XP'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      The villain is entirely encased in leather, armor, and goggles. If its
+      suit is ever compromised, the vile fluid that comprises its body will seep
+      into the earth and reconstitute itself somewhere else.
+    _id: TfEBtsr7EN5HlxWn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.TfEBtsr7EN5HlxWn'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Anyone the villain rests its gaze upon experiences bleeding from their
+      eyes and ears.
+    _id: 47UBlP5S5EBdrsQL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.47UBlP5S5EBdrsQL'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      The villain can make its hand semicorporeal and remove the heart or brain
+      from a willing or helpless subject.
+    _id: r2brFbyiWEGBfZat
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.r2brFbyiWEGBfZat'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      There are places on the villain’s body where the flesh boils when the
+      villain becomes angry.
+    _id: m75Cy2jrEzbYTSrh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.m75Cy2jrEzbYTSrh'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      The villain has a large number of progeny, and they frequently offer their
+      lives in service to the villain.
+    _id: c3wVgtdmV0ZQKZ0w
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.c3wVgtdmV0ZQKZ0w'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      The villain can project a shadowy version of itself to any area of dim
+      light or darkness within one mile. It can see and hear through the
+      projection. It frequently uses this ability to interrogate and threaten
+      its enemies when they are alone.
+    _id: iKPMQESxc1Bd0FyX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.iKPMQESxc1Bd0FyX'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      The villain visits young, old, and vulnerable people, terrifying them and
+      making strange demands of loyalty.
+    _id: UqXPowkLNmSD8qq3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.UqXPowkLNmSD8qq3'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      The villain will almost constantly use magic to create the sounds of an
+      audience; clapping the villain's monologues, booing your/your party's
+      retorts, gasping, cheering and laughing all at the villain's whim.
+    _id: YaQCNdWxc8GK5bqP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.YaQCNdWxc8GK5bqP'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      The villain's personality will shift between completely psychopathic and
+      terrified NPC. One minute they're flaying the skin off of a live animal
+      for fun and the moment the party have them at knifepoint, the 'villain' is
+      violently sobbing, begging the heroes for forgiveness and asking for
+      death, so as to stop this personality from harming their last remaining
+      family, a young child.
+    _id: 3ogRVDUvaa3qDLkK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.3ogRVDUvaa3qDLkK'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      They have an unsettling laugh that forces itself out of them during their
+      speaking.
+    _id: HnqXdOxpxg737CbH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.HnqXdOxpxg737CbH'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      The villain gently caresses someone with something vile and/or deadly,
+      like a ritual knife, a poisonous stinger, or a mummified hand. Bonus
+      points if the villain licks said deadly weapon after that.
+    _id: 550zHrlpRQzMnz32
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.550zHrlpRQzMnz32'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      You never hear them approach, but they look like they've been there a
+      while when you finally notice them.
+    _id: b3styjp1H13leJ06
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.b3styjp1H13leJ06'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      When someone runs from the villain, the villain takes his or her sweet
+      time. They speak slower, maybe even whistle a tune as they casually give
+      chase.
+    _id: UfaudZRfLTn8vtTw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.UfaudZRfLTn8vtTw'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      The villain appears differently to whoever views it. Some see a pale
+      human, others see a clammy, zombified creature, others a demon, whatever
+      the case, the true form of this villain is unknown...
+    _id: iPfpiMOx4RnB8enn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.iPfpiMOx4RnB8enn'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      The villain refuses to attack or allow harm to one party member because
+      they like the quality of their hair.
+    _id: FKt1w5nrkk0ebIr1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.FKt1w5nrkk0ebIr1'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      They’re constantly talking to an inanimate skull. They act more surprised
+      when other people don’t talk to or greet the skull.
+    _id: iGJHwtCIvpcPSoeF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.iGJHwtCIvpcPSoeF'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      The villain is cheerful, friendly, personable, makes it a point to
+      remember the name of everyone they meet, and it's apparently genuinely
+      confused that the heroes won't join in on the villainy which is often
+      ultra-violent.
+    _id: j6H0u1WmzSYnK5Iz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.j6H0u1WmzSYnK5Iz'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      The villain struggles to speak, and when they do the PC's hear it as if
+      someone is whispering in their ear from behind, including feeling like
+      someone is behind them even when there is nobody there.
+    _id: Rery6kEMVYGVrpTe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.Rery6kEMVYGVrpTe'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      The villain has patches of skin sewn on to their own to cover
+      markings/wounds/whatever.
+    _id: TsmaMCSYOpaIkSN6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.TsmaMCSYOpaIkSN6'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      You can feel them in your head when they look at you, and it feels like
+      they are licking your thoughts.
+    _id: IXr4eWCKGGJG4jx1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.IXr4eWCKGGJG4jx1'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      They take on the appearance of a porcelain doll, complete with an
+      emotionless mask, child-like voice and frilly clothes. In their hand is a
+      large pair of scissors dripping with blood and a slashed ragdoll similar
+      in appearance to a missing villager.
+    _id: Oy46tqETWwl3OoAf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.Oy46tqETWwl3OoAf'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      They create puppet shows with life-like marionettes. These puppets are
+      humanoids with wounds where the strings would be placed, mouths sewn shut,
+      and eyes full of panic.
+    _id: vtqd8Fhm8bSQ3HTG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.vtqd8Fhm8bSQ3HTG'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      Their eyes are completely white (effectively blind) and will often ask for
+      one to offer their sight to them. In their lair, jars of preserved eyes
+      are kept in the hopes that they can regain their sight.
+    _id: F7xw7dPVv70CCrFe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.F7xw7dPVv70CCrFe'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      They are silent / mute, and often do not waste time with speech, acting
+      quickly and with purpose without a word.
+    _id: AeJbjmDaoan7LAww
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.AeJbjmDaoan7LAww'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      They have several wounds in their neck with many openings. Every breath
+      sounds like a bagpipe filling, and as they speak their voice comes out as
+      an eerier multi-toned chorus that is eerie and off key. Every proclamation
+      from them sounds as if a chorus of spirits is speaking in unison.
+    _id: cDtLTvBikiutw5vx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.cDtLTvBikiutw5vx'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      They have many holes or enlarged pores that suggest illness and set off
+      Tripophobia.
+    _id: 1RPF1UfEJ9QpQMeL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.1RPF1UfEJ9QpQMeL'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      They assume the form of a treasured loved one of whoever they are speaking
+      with / interacting with. It is a natural effect and they cannot choose the
+      form they are perceived as.
+    _id: EjrS4XhcRw1uDnLL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.EjrS4XhcRw1uDnLL'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Their bottom jaw actually splits into 2 when they speak, giving the
+      appearance of mandibles.
+    _id: 52J1Oa3h7vdX2haI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.52J1Oa3h7vdX2haI'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      They ominously play with a set of artisan's tools, it is not clear what
+      they intend to do with them.
+    _id: 4Kx6Uxrd8HE4lD5d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.4Kx6Uxrd8HE4lD5d'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      They pull out an easel and canvas, and ominously attempt to speed-paint
+      the party whenever they monologue.
+    _id: g83dh6gGE96MkzSM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.g83dh6gGE96MkzSM'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      They are missing their left cheek, and their jaw is visible. Their whole
+      outfit is leather made from left cheeks of many, many victims.
+    _id: J1qlJZUKqjqEbHUB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.J1qlJZUKqjqEbHUB'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      They are devoid of bodily fluids. Instead, insects and bugs swarm through
+      their veins and writhe in their body.
+    _id: 7no0iibcq7Kvkj4y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.7no0iibcq7Kvkj4y'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      The wind always picks up when the villain is present, blowing the trees,
+      rustling the leaves, bending the branches, whistling around the eaves of
+      buildings, whistling through fireplaces. Everyone within 50 feet gets a
+      chill, a little shiver, feels as if they want to pull a cape tighter
+      around themselves, button a jacket, throw a blanket around the shoulders,
+      regardless of the weather.
+    _id: zzPPfrTYg19pjJAO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.zzPPfrTYg19pjJAO'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      Everything within 10 feet of the villain experiences accelerated mold and
+      mildew growth, all surfaces (including creature/gear surfaces) turn sickly
+      black/olive/brown with patches of mold and sporulating mildew in about 30
+      seconds. The stench of decay is noticeable within 60 feet.
+    _id: Q9eTZxYmt3wwfjiI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.Q9eTZxYmt3wwfjiI'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      A 10-foot radius around the villain is constantly in shadow (as if the
+      villain were walking under an large, invisible, black umbrella).
+    _id: CFZhqDPFvdW6jr1a
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.CFZhqDPFvdW6jr1a'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      The villain only speaks in whispers, but the whispers sound as if the
+      villain's mouth is just outside your ear (or just behind you, regardless
+      of the villain's location, and regardless of which way you turn).
+    _id: 0tcnTZ5YEdzT6zjR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.0tcnTZ5YEdzT6zjR'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: All plant life within 20 feet of the villain turns gray, withers and dies.
+    _id: r9wd6ZaGbgZgM7UX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.r9wd6ZaGbgZgM7UX'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      All little creatures (insects, mice, roaches, small birds, etc.) within 20
+      feet of the villain flee (run/fly away from the villain).
+    _id: WTtgd1aSaNS2l0Cz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.WTtgd1aSaNS2l0Cz'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      The villain is draped in visible, but ethereal-looking and seemingly
+      weightless, chains and shackles. The villain often tugs at them, as if
+      trying to remove them, without realizing they are doing so.
+    _id: 9d619fLUL77Me6k9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.9d619fLUL77Me6k9'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      The villain drools and smacks their lips constantly, as if looking at the
+      most delicious meal in the world, even when speaking.
+    _id: 5v4pitRmfesGQHHj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.5v4pitRmfesGQHHj'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      They do not perform incidental movements; they don't twitch, shift in
+      place when standing, swing their arms as they walk, glance around, etc.
+    _id: ZwcqsBWTw5Jj8fB6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.ZwcqsBWTw5Jj8fB6'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      The villain's eyes dart to the source of any slight sound however they
+      will continue to face and converse uninterrupted with whoever they were
+      focusing on.
+    _id: CvLH3azsL754Y47T
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.CvLH3azsL754Y47T'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      They have experimented on themselves and they gleefully and slowly display
+      their glistening new appendages such as wings or extra limbs.
+    _id: sI9TnbotM1uOgFxv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744748640
+      modifiedTime: 1792744748640
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!r0qBTDVlOkAgiyNN.sI9TnbotM1uOgFxv'
+folder: null
+_id: r0qBTDVlOkAgiyNN
+img: modules/game-icons-net/whitetransparent/evil-minion.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744748640
+  modifiedTime: 1792747029152
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 2500000
+_key: '!tables!r0qBTDVlOkAgiyNN'

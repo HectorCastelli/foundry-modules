@@ -1,0 +1,2324 @@
+name: Dungeon Graffiti
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: Here Lies Big Benson - Didn't Bring His Ten Foot Pole And Paid The Price'
+    _id: u5u6KYM7YpdMzJlV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.u5u6KYM7YpdMzJlV'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: For a good time teleport to sequence [SIGIL SEQUENCE]'
+    _id: IohBI1wvKhepM9GW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.IohBI1wvKhepM9GW'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: Sneek Atak Heer' with an arrow pointing behind a rock.
+    _id: kLAL46DbaZaSjRfv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.kLAL46DbaZaSjRfv'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Kobold Pride' in draconic.
+    _id: CgnvIF05CukokN00
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.CgnvIF05CukokN00'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: Your Mother Is A Succubus'
+    _id: ZuudKI00rFlbTWR9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.ZuudKI00rFlbTWR9'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: Here lies Tom - 'There's no way that door can be a mimic'.'
+    _id: DYD5xdLnQVE2SpmS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.DYD5xdLnQVE2SpmS'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Here may be found the last words of Joseph of Aramathia. He who is valiant
+      and pure of spirit may find the holy grail in the Castle of
+      Aaauuuggghhh... '
+    _id: et8wTYtkr3NX37bQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.et8wTYtkr3NX37bQ'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: Dwarves Suck' written 8 feet up a wall.
+    _id: kNEwXfRMBEVe8uoq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.kNEwXfRMBEVe8uoq'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Don't bother trying to grave rob. The corpses don't like visitors. Come to
+      think of it, they don't like anything living at all'.
+    _id: Y2kfzzkweK0w2WUa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Y2kfzzkweK0w2WUa'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: On the ceiling, 'Beware of Trappers'
+    _id: PciWO7cHJ4YBmlOy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.PciWO7cHJ4YBmlOy'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: On the floor, 'Beware of Piercers'
+    _id: HCQR2D0nqHJu2SDn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.HCQR2D0nqHJu2SDn'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Archmage Drachnar and his Meat-Shields were here'
+    _id: RMVd5CjCmbdldgSA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.RMVd5CjCmbdldgSA'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: On the side of the passage, 'Only the penitent man shall pass ...'
+    _id: GErgR9pEZFoLMwWZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.GErgR9pEZFoLMwWZ'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      A map of the dungeon that at first glance seems correct, but either upon
+      closer inspection or actually trying to use it flaws are revealed, secret
+      doors marked where there isn't one, hallways/staircases connecting the
+      wrong rooms, etc.
+    _id: 3A5uW898YZT5BzA8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.3A5uW898YZT5BzA8'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: I'll make yer skeleton exit yer meat', in Orcish.
+    _id: BIe4seKbZGxK1a0v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.BIe4seKbZGxK1a0v'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Do not open.' on a door (door opens to a small, empty closet). 'Can you
+      not read?' on closet wall.
+    _id: UtCQ89XFTZoAvlWP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.UtCQ89XFTZoAvlWP'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Don't Dead, Open inside' written in the same manner as on the show. While
+      there's probably undead on the other side, the more or less garentees the
+      room hasnt been looted.
+    _id: oFbUj8ih7oe5tGZV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.oFbUj8ih7oe5tGZV'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      You don't matter! Give up!' Placed on a pair of small signs outside of the
+      dungeon. Left by a well intentioned, if a bit stupid, bard.
+    _id: uRFNHLG5x9c3oNyd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.uRFNHLG5x9c3oNyd'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Sorry about your wall!' Place this one near either some blood from a prior
+      battle or a hole in the wall for added effect.
+    _id: f6SNUkgA7QZse2Yf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.f6SNUkgA7QZse2Yf'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Fuck you!' placed behind a false door with a booby trap rigged to the
+      door. Maybe a explosive/grenade/fire trap or a rockfall trap.
+    _id: SMwyFbt2o0qyzpab
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.SMwyFbt2o0qyzpab'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      Sharg's wife is most beautiful,' in orcish script, next to a crude picture
+      of a fang-mawed dog.
+    _id: vnPJyuwGSU4LAquL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.vnPJyuwGSU4LAquL'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      A crude drawing of a kobold 'in congress' with a dragon. It isn't clear
+      from the context and art quality whether this is a good or bad thing for
+      the kobold.
+    _id: Bnc5iE91A4epNkaK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Bnc5iE91A4epNkaK'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      68 tally marks scratched with incredible neatness. The last one looks very
+      fresh and is shorter than the others...
+    _id: sjeFMjE6PoX8mSDI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.sjeFMjE6PoX8mSDI'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      2 to the left, 3 to the right and straight below' in the language of a
+      subservient race to the main dungeon dwelling race.
+    _id: WIPFnj7H8cMrUfIw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.WIPFnj7H8cMrUfIw'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      [Cheif's right hand lackeys name] is
+      [impotent/illiterate/part-human/vegetarian/a bookworm/short-sighted/other
+      dire embarrasing trait for one of their species or job] ' this is a
+      horrible rumour around the dungeon which (s)he has worked hard to stamp
+      out and is now largely forgotton or at least unspoken. It is also 100%
+      true. Make sure you introduce them by name when the PCs meet them!
+    _id: jDNk5NU2KpIalXol
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.jDNk5NU2KpIalXol'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Trouble reading this? Try Lothar's Lights for all your torch and lantern
+      needs. Just a short ride from this dungeon.'
+    _id: 375rdFhQDC2Q85AO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.375rdFhQDC2Q85AO'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      That last bit of graffiti was written by a [setting appropriate
+      expletive]ing liar'. On a successful spot check, evidence of dried blood
+      can be seen on the floor below the graffiti.
+    _id: rHZL4ssnriS8spvJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.rHZL4ssnriS8spvJ'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      Originally a crude carving of a penis, someone painted over it to turn it
+      into a kitten. If the paint is removed, the original carved design
+      remains.
+    _id: xPvqm5jzH3ifXrQB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.xPvqm5jzH3ifXrQB'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: Block the path RUN'
+    _id: EFnhEAvmgqwQQAEm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.EFnhEAvmgqwQQAEm'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: Take off that hat.'
+    _id: tOBND9omZyaliq0W
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.tOBND9omZyaliq0W'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: It sees NO EYES'
+    _id: lniD2zaEXKU5Xnjz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.lniD2zaEXKU5Xnjz'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: You have to burn the rope.'
+    _id: GkQNkiG9pWLbMiaz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.GkQNkiG9pWLbMiaz'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: It hurts.'
+    _id: Q9iO2C73YmZhCC2d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Q9iO2C73YmZhCC2d'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: OVER THINKING IT'
+    _id: 9HBuPcnFGPuIcneR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.9HBuPcnFGPuIcneR'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: REDRUM'
+    _id: 0HKgCtZzyBCghX6b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.0HKgCtZzyBCghX6b'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: NILBOG'
+    _id: dpi0boN0UWNTfNIn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.dpi0boN0UWNTfNIn'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: See you next Wednesday.'
+    _id: kTzGmv4sItGINBCK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.kTzGmv4sItGINBCK'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: There is no such thing as Majestic-12.'
+    _id: RqB51aaCiA5tFAhZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.RqB51aaCiA5tFAhZ'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: How's my dungeoneering?'
+    _id: Lmlacr1dhgfJtnCN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Lmlacr1dhgfJtnCN'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: Welcome to Hell. We accept payment in paper or plastic.'
+    _id: 0CmII1yi7xoEs19M
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.0CmII1yi7xoEs19M'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: I must not tell lies.'
+    _id: UtTyE9XDmYrPrT9d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.UtTyE9XDmYrPrT9d'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: Wash your boots, don't leave any footprints behind.'
+    _id: 21AkpBMosNekaGaG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.21AkpBMosNekaGaG'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      I am so grateful to be alive. I am in a world of shit, yes, but I am
+      alive. And I am not afraid.'
+    _id: vquFutdgcRTueMEw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.vquFutdgcRTueMEw'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: She's lying to you.'
+    _id: NqRn75KcXDkgXLNI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.NqRn75KcXDkgXLNI'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: Did I ever tell you the definition of insanity?'
+    _id: MVeamo2moAJxosAX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.MVeamo2moAJxosAX'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: Let me in. I'm scared.'
+    _id: mpPPhu8dJwsdG6WC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.mpPPhu8dJwsdG6WC'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: 'In tiny lettering: ''If you can read this, it''s already too late.'''
+    _id: RLoRY61i32ALbmse
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.RLoRY61i32ALbmse'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: The Minotaur is not what he seems.'
+    _id: r69GWQurpyqxY0BC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.r69GWQurpyqxY0BC'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: Secret door here.'
+    _id: JYn8d3e80prMsiar
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.JYn8d3e80prMsiar'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Joreth - I've gone back for her. Meet me at the Frog and Jester in
+      Pennyworth Lane.'
+    _id: srYzxYdZwhBrsYbP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.srYzxYdZwhBrsYbP'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: Look behind you. Now!'
+    _id: 7KzzHYNlsBDinWrc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.7KzzHYNlsBDinWrc'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      I am the last of us. Do not think ill of me but I cannot go on alone. Do
+      not choose the black door if you wish to see sunlight again. Good luck.'
+    _id: 6TEc3HLUJ35dEzkC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.6TEc3HLUJ35dEzkC'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn'
+    _id: VaaOOL1nHS8UztO6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.VaaOOL1nHS8UztO6'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: No hope for those who proceed forward'
+    _id: 2zy0Vm1DfxEDMs5w
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.2zy0Vm1DfxEDMs5w'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: Watch for the pit trap'
+    _id: h5rWKmdHUP1xoncT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.h5rWKmdHUP1xoncT'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: 'In scribbled writing: ''Don''t eat the mushrooms'''
+    _id: oec9th2gD6j39EIA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.oec9th2gD6j39EIA'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: Turn 'wright' at the fork'
+    _id: oPDOnior6a3Sv5mo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.oPDOnior6a3Sv5mo'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: 'In blood: ''Zed''s dead'''
+    _id: Rwmo9Fx2gxO4fmFY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Rwmo9Fx2gxO4fmFY'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: 100 gold to anyone who finds my sword - [insert name and location of npc]'
+    _id: mwS51UcPbx0QWvb6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.mwS51UcPbx0QWvb6'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: Brother, She’s not here- she is apparently in another dungeon.'
+    _id: Fx3iltgQhPlihOpG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Fx3iltgQhPlihOpG'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: You're lucky someone already read these Explosive Runes.'
+    _id: 491a74cZThg6Bq4w
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.491a74cZThg6Bq4w'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Here lies Gilbert - 'The mushrooms clearly aren't poisonous, that rat just
+      ate some and it was fine. Look, I'll show you.'
+    _id: syrIF14QolxE6cpa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.syrIF14QolxE6cpa'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      The skeletons are not dead' hastily written halfway down a hallway of
+      skeletons.
+    _id: XW9aXxBFyCea03QF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.XW9aXxBFyCea03QF'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      The Great Necromage Vilicous and his coterie of foolishly moral companions
+      were here'
+    _id: LIuClTBDvHAOL0q7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.LIuClTBDvHAOL0q7'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: Treat the dungeon with courtesy, and it will do the same'
+    _id: yod0Qaj33MhyyDBz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.yod0Qaj33MhyyDBz'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Worm Path - Look both ways before crossing' chalked on the floor on both
+      sides of a large, circular tunnel intersecting a hall.
+    _id: 4fYwXCHnumvZ1QrE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.4fYwXCHnumvZ1QrE'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Mind the gaps' written in large letters before an otherwise empty stretch
+      of hallway.
+    _id: ThKcHzIk0jZGVDaJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.ThKcHzIk0jZGVDaJ'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      If you are reading this, do NOT look behind you until you exit the room'
+      scrawled in shaky letters on the back wall of a dead end room.
+    _id: AhzJjtlRjjPkHQF0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.AhzJjtlRjjPkHQF0'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Please step on me' carved onto the surface of random rocks and tiles on
+      the dungeon floor. The words are seen multiple times throughout the
+      dungeon's exploration, and seem to disappear when no one is looking. The
+      words constantly reappear no matter what, but if stepped on, helpful and
+      relevant graffiti is found before the next encounter, puzzle, or junction
+      of pathways.
+    _id: 0IQAX0kmdE8gI6eB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.0IQAX0kmdE8gI6eB'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: Grall Stonebringer was here.'
+    _id: kSXaAUnzEH8pcmZi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.kSXaAUnzEH8pcmZi'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: A picture of a gelatinous cube eating a person.
+    _id: gjc5TXRQsEy7WEu7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.gjc5TXRQsEy7WEu7'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: A cartoonish picture of a dwarf running away from a rust monster.
+    _id: aZwPKqY8QyW2fx9n
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.aZwPKqY8QyW2fx9n'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      Written in very tiny letters: 'If you can read this, you can't see the
+      goblin sneaking up behind you.'
+    _id: t9NkRXjEHJIf7Qdj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.t9NkRXjEHJIf7Qdj'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      There is a short and narrow room; the long-rotted remains of a door hang
+      off hinges at the entrance. Scrawled along one wall, in an ancient
+      language the party must translate is '[Name of some long-dead king]
+      gobbles donkey goobers'. The opposite wall is also marked, with '[Name of
+      long-dead queen] does the nasty.' If the party succeeds on a perception
+      check they realize they're standing in a toilet stall.
+    _id: qZvk7r2eCKzbzhcH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.qZvk7r2eCKzbzhcH'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      A scribbled map of the dungeon, with a big X in one room and directions to
+      a treasure. But it's a trick; when the party stands at that spot they
+      trigger a trap.
+    _id: 5sv7La2PCp1DiVwM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.5sv7La2PCp1DiVwM'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: Abandon hope all ye who enter here.'
+    _id: sjFyzEouChDkYbyB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.sjFyzEouChDkYbyB'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Artival. Waited 3 days for you. Ran out of supplies. Moving on to the next
+      level (or whatever floor is the one below.'
+    _id: 3EV57DUVcVjuDzXH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.3EV57DUVcVjuDzXH'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      There's a safe room in the center. Left food and supplies.' (an obvious
+      trap)
+    _id: 9SUjfiutGuTRpbdv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.9SUjfiutGuTRpbdv'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: On this day, Brumr Goldbeard killed ninety-three kobolds.'
+    _id: mvpz0ge8vTPZQ7Dl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.mvpz0ge8vTPZQ7Dl'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: Who built this place?'
+    _id: MD0pH9Ox4b3SN4b2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.MD0pH9Ox4b3SN4b2'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: Vampires don't care about daylight when live indoors.'
+    _id: IZZTjSNQgehbFwto
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.IZZTjSNQgehbFwto'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: Stick to the center halls. They're safer.'
+    _id: uRNvABHkjzPAiFwl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.uRNvABHkjzPAiFwl'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: Tika isn't dead. She's with us.'
+    _id: CwEYRio4H2Udf0dQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.CwEYRio4H2Udf0dQ'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: WHERE IS THE EXIT'
+    _id: 4n8yLNhavB8ekDMl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.4n8yLNhavB8ekDMl'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      None are so blind that they cannot see the darkness of this place. Look
+      not upon the face of the weeping one, Tread not on the bones of mad men.'
+    _id: bxPt1I8AxcUfjqjv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.bxPt1I8AxcUfjqjv'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: We are the real monsters.'
+    _id: Y7TzxhBwOGwGlvhk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.Y7TzxhBwOGwGlvhk'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: This corner secured by the Mighty Woodchucks.'
+    _id: MH8vVFY3ZfM5B4ji
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.MH8vVFY3ZfM5B4ji'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      This was all already written. You are being controlled. They know what
+      you're doing. We're all just pawns in their little game. They decide who
+      lives and who dies. None of us are safe. None of us have free will. Don't
+      let them win.'
+    _id: FKHl6jbI3JGmb4wi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.FKHl6jbI3JGmb4wi'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: Jessedo R.I.P.'
+    _id: 7F2YWvuhbbiN06Kj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.7F2YWvuhbbiN06Kj'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: If you find my body, tell Matin I loved him.'
+    _id: 3ayhQy5NGv7cBNvu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.3ayhQy5NGv7cBNvu'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: God bless the Zentarim.'
+    _id: M9ZNdklBGWzZZ85o
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.M9ZNdklBGWzZZ85o'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: Here rests two good men -- Nissus and Camom. Respect their souls.'
+    _id: XvQi6hddXqvGif0N
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.XvQi6hddXqvGif0N'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      Let it be known that I, Luip Salazom, screwed every barmaid in
+      Neverwinter.'
+    _id: wAGgvn0epFh9gH5Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.wAGgvn0epFh9gH5Z'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: Drawings of butts, each one from a different race.
+    _id: fDUN4nOdpCMj41E0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.fDUN4nOdpCMj41E0'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      A symbol in thieves cant that means it is safe to rest, with 'r rouge died
+      so I cant right this in yur theves speak, but go fuck yurself with a
+      rusted spyke dipshit.' painted over it.
+    _id: dO8XKgF10OND9A35
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.dO8XKgF10OND9A35'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      There is a secret door somewhere on this passageway- I hope you have
+      better luck finding it.'
+    _id: 75ZuM1Jq7XBYTHDs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.75ZuM1Jq7XBYTHDs'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: Large scrawled lettering that says 'Droop woz heer'
+    _id: uR4DoTGtT657c6NY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.uR4DoTGtT657c6NY'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      Crimson red letters that are still oddly sticky, 'Don't ask about the
+      price'
+    _id: azAJqAiTg3lpNdig
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.azAJqAiTg3lpNdig'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      An oddly phallic image that seems to have been painted on in bold white
+      paint.
+    _id: V5t9FMg8sEG7Uimn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.V5t9FMg8sEG7Uimn'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: Bloody scrawled writing say 'The secret chamber has been opened.'
+    _id: gUW7MRXCX04hNGeq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747300937
+      modifiedTime: 1792747300937
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!A7K1pmWH43YsyPFj.gUW7MRXCX04hNGeq'
+folder: null
+_id: A7K1pmWH43YsyPFj
+img: modules/game-icons-net/whitetransparent/palette.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792747300937
+  modifiedTime: 1792747300937
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!tables!A7K1pmWH43YsyPFj'

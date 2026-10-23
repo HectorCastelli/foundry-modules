@@ -1,0 +1,175 @@
+name: Magical Incense
+formula: 1d6
+description: >-
+  <p>Cults are fond of rituals and often use them as a way to reinforce
+  themselves, powered by the dark, nefarious entities backing them from behind
+  the shadow veil. Incense is one of the ways they employ in order to embolden
+  themselves. Meditating while under their influence has diverse results, and
+  their lair's atmosphere often is saturated with the powerful smell of burning
+  incense.</p><p></p>
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Inspiring incense ; The smell gives a powerful kick to fanatics, giving
+      them a +1 to morale rolls
+    _id: brdZvemg2TAGB6Wf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.brdZvemg2TAGB6Wf'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Enraging incense ; This incense has psychoactive effects, turning fighters
+      stronger, adding +1 to their damages
+    _id: OreZ7MDFCCkOMIRx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.OreZ7MDFCCkOMIRx'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Nauseating incense ; The smell overpowers you, reducing your defense rolls
+      by 2
+    _id: cIhGMn9NCP4nPaHG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.cIhGMn9NCP4nPaHG'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Holy incense ; The mystical aura of this incense emboldens fighters,
+      giving them a bonus of +2 on defense rolls
+    _id: hzZZy4fyB3UnA1Ke
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.hzZZy4fyB3UnA1Ke'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Restorative incense ; Meditating for an hour while under the influence of
+      this incense slowly restores 1D4 hp
+    _id: kYP4sgUQsIKvAvif
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.kYP4sgUQsIKvAvif'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Berzerker's incense ; While under the influence of this burning incense,
+      the enemy never rolls morale checks and fight until death
+    _id: HQtQ7yP8YhdPiS4Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744485881
+      modifiedTime: 1792744485881
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!KlB4u6RsInBNtKH4.HQtQ7yP8YhdPiS4Z'
+folder: null
+_id: KlB4u6RsInBNtKH4
+img: modules/game-icons-net/whitetransparent/smoke-bomb.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744485881
+  modifiedTime: 1792744624100
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1200000
+_key: '!tables!KlB4u6RsInBNtKH4'

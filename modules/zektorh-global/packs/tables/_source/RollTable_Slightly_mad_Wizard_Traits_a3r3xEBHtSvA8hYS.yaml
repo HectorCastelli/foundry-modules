@@ -1,0 +1,2464 @@
+name: Slightly-mad Wizard Traits
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Sometimes pages from your spellbook spontaneously fold into origami and
+      attempt to escape.
+    _id: EYSV8uUkJtE9BZ82
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.EYSV8uUkJtE9BZ82'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Whenever a new spell comes to your mind, you hastily scribble it down on
+      the nearest available flat surface, be it a page of an already written
+      book, a wall, or an ally's shield.
+    _id: XGu2oEHZ9wr2yodz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.XGu2oEHZ9wr2yodz'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      You do not actually rest during long rests. The whole night is spent
+      rehearsing spells.
+    _id: EoqjKr64zKsDnSeN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.EoqjKr64zKsDnSeN'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      The hand that you usually cast spells with has a tremor and often acts on
+      it's own volition when you are stressed.
+    _id: RIAe1fbwDMl5elqF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.RIAe1fbwDMl5elqF'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Pages in your spellbook tend to rearrange, completely ruining the
+      numbering.
+    _id: cLOv8966U0uFdxER
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.cLOv8966U0uFdxER'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      You are extremely paranoid about your school of magic being used against
+      you (e.g. divination wizard being scried on, enchantment wizard being
+      charmed, etc.)
+    _id: MM0iQF68aHqvYaIp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.MM0iQF68aHqvYaIp'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: You are convinced your spellbook is sentient and somewhat hostile.
+    _id: Tne14YjqSGqvIpxR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Tne14YjqSGqvIpxR'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      You are on your way to becoming a Nothic and are starting to get strangely
+      obsessed with people's secrets.
+    _id: zvesnmmF1flBzJRr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.zvesnmmF1flBzJRr'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      While speaking, you make absolutely no hand gestures, because you fear
+      accidentaly casting a spell with a somatic component.
+    _id: nHKzdWa1yM8Oda2K
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.nHKzdWa1yM8Oda2K'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      You use a different name for your familiar every time you address it. It
+      responds anyway.
+    _id: KsVAQQ4IJl2jOz3j
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.KsVAQQ4IJl2jOz3j'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      When casting a spell with verbal components, you have an accent. You don't
+      otherwise have that accent, however.
+    _id: ucpk2LDGUytskf0Q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.ucpk2LDGUytskf0Q'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      You obsessively collect seemingly mundane, ordinary, nondescript pebbles.
+      But not all pebbles. Most pebbles you pick up, look over, and
+      contemptuously cast aside. Maybe 1 out of every 20 you keep, gingerly
+      putting them into a felt pouch. When people ask what you're going to do
+      with all these pebbles, you just smile and say, 'You'll see.'
+    _id: JMc25scMrmE6ueMn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.JMc25scMrmE6ueMn'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      You don't actually remember how to cast your cantrips anymore. You just do
+      it from muscle memory.
+    _id: eKIVSMGi2JdsAUDF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.eKIVSMGi2JdsAUDF'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      You are convinced you know how to speak to owls, they all just choose to
+      ignore you.
+    _id: TARbG0vI8DKZXDNj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.TARbG0vI8DKZXDNj'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      You always scream the name of your spells when casting them in battle, it
+      that draws good luck.
+    _id: s2kaxIyEn3TaSiMh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.s2kaxIyEn3TaSiMh'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      You feel uncomfortable preparing the same spell two days in a roll, as
+      that makes your casting stiff and rusty.
+    _id: dHVRcMPoUtLUNJwW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.dHVRcMPoUtLUNJwW'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Whenever possible, you use Mage Hand to perform actions. If you don't know
+      Mage Hand, you really feel like you should, since using your physical
+      hands feels wrong.
+    _id: RDD78EBIhHUhHRpn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.RDD78EBIhHUhHRpn'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      You are convinced a spectral duck is always staring at you, just out of
+      sight. Magical means to detect said duck only fail because the duck is too
+      powerful.
+    _id: O8M5EpPN560CVJXL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.O8M5EpPN560CVJXL'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Every night, you check the stars to attempt to obtain information about
+      the near future. This doesn't result in any reliable info, but you sure
+      act like it does.
+    _id: VHvyu0VSVXc2nb6N
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.VHvyu0VSVXc2nb6N'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      When casting spells, you completely lose track of time. You think spells
+      that require more than an action to perform are way shorter than they
+      actually are, rituals only adding one minute to the casting time.
+    _id: PCgVeKWjR2m6x1Gt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.PCgVeKWjR2m6x1Gt'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      You are absolutely sure you hail from a different plane of existence, and
+      your childhood memories adapt to conform to that belief. Magic that would
+      prove otherwise must be the works of a manipulative god or a mistake on
+      the caster's part.
+    _id: I8RVqXOWKxpiboCd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.I8RVqXOWKxpiboCd'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      You are convinced your evil twin is out there, waiting to get the jump on
+      you. If you actually do have an evil twin, you think you're one of
+      triplets, and they're both evil.
+    _id: mFHyoqVuYiFCyW2G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.mFHyoqVuYiFCyW2G'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      You think your magic abilities come from psionics, and that your arcane
+      studies are just a means to prime your brain to it's latent magic
+      capacities.
+    _id: 7Wx95c8RaP0Gp9qR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.7Wx95c8RaP0Gp9qR'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: You feel like many of your actions are decided by dice rolls.
+    _id: lAYNiYEE1xfhJBUP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.lAYNiYEE1xfhJBUP'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      You think you are a polymorphed metallic dragon. You refuse to transform
+      back because you like your opposable thumbs.
+    _id: sEk9lDT5pGoHxZXL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.sEk9lDT5pGoHxZXL'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      You believe there is a devil living inside your head, influencing your
+      every action. Any attempt by others to convince you that this devil is
+      merely your 'thoughts' is futile.
+    _id: IAYV0jLp68wo92Qj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.IAYV0jLp68wo92Qj'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      You believe you have been sent by the gods to fulfill an epic destiny, but
+      you can't for the life of you figure out what that is, and any possible
+      options feel wrong.
+    _id: f5I2dGkxXULWU06S
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.f5I2dGkxXULWU06S'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      You try to speak in rhymes as much as possible, as you think that will
+      improve your domain of language, and therefore your magic skills.
+    _id: 6DcowFNsu3GqWcSp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.6DcowFNsu3GqWcSp'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Your spellbook sometimes plays music, appropriate to the situation. You
+      aren't sure how you enchanted it this way.
+    _id: tKHGTlI0aKA28lqc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.tKHGTlI0aKA28lqc'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      You refuse to eat nonmagical food, or food that isn't magically touched in
+      some way, as that would taint your magical aura.
+    _id: IQPgMI4E8LU2SwE5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.IQPgMI4E8LU2SwE5'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      You refuse to use magic whenever it's not absolutely necessary, as you saw
+      a bad wild magic surge once, and you think that could happen with any
+      instance of magic use.
+    _id: 0cXb4aQJACrM1x98
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.0cXb4aQJACrM1x98'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      You keep seeing subtle arcane symbols in everyday objects like clouds,
+      trees, or pitch-black darkness. You've catalogued those findings and
+      believe you may be onto a new powerful spell.
+    _id: ocPRi8LLFuc6AlF6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.ocPRi8LLFuc6AlF6'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      Every spell you cast you believe decreases your lifespan slightly. You are
+      more frugal with how often you cast spells and reason with yourself
+      furiously on whether you should cast the spell or not.
+    _id: MPwRc8Z0npmwsUrM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.MPwRc8Z0npmwsUrM'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      You believe spell casting is way more complex than what typical wizards do
+      to cast a spell. You add an extra layer of [dramatic performance, dancing,
+      or hand gestures] believing it will make the spell more potent and
+      powerful.
+    _id: fGyjn4oYvQzST4bq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.fGyjn4oYvQzST4bq'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Preparing spells for you is as religious an act as a cleric or paladin
+      beseeching their god for strength and power.
+    _id: pnSUz165xK5mMgZY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.pnSUz165xK5mMgZY'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      You will wear a unique outlandish hat for each day of the week. You are
+      convinced they are good luck and will give you favor as you use arcane
+      spells. We all know what happened the day you didn't follow through with
+      this habit.
+    _id: wX4LbcyEUPQCK8O9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.wX4LbcyEUPQCK8O9'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      You greet every sizable furniture piece in a room you walk into, you know
+      you do not want to be rude to a mimic.
+    _id: Hetspdl1I8yOt34R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Hetspdl1I8yOt34R'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Insists on a certain renowned wizard title at the end of their name
+      whenever introduced or referred to.
+    _id: aHAsTgQVFDUE5Yxo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.aHAsTgQVFDUE5Yxo'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      You write into your spell book with blood as ink, you are convinced
+      anything else is a gross disgust to the practice of using your spell book.
+      The smell or taste of the blood is the most appropriate test to ensure it
+      is of good quality.
+    _id: HSy86rFx2z3UFpaT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.HSy86rFx2z3UFpaT'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      You use your staff like a microphone and you extend it towards people's
+      faces when they talk. You are convinced your staff is wise and will help
+      guide you with making friends. Anyone who refuses to use it you will
+      immediately mistrust and be skeptical of. The opposite effect if they
+      accept to use it.
+    _id: JGKyeEgqQL5dO5I2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.JGKyeEgqQL5dO5I2'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      You pepper your speech with phrases from a language you invented
+      personally. You often offer to teach it to people but they aren't
+      interested.
+    _id: BJBKvKZpYeVZ7EOk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.BJBKvKZpYeVZ7EOk'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      You're always wearing a different hat. Same hat, actually, it just keeps
+      shapeshifting.
+    _id: JKJWDUcl6TiHQjz0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.JKJWDUcl6TiHQjz0'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      You are convinced that your completely prosaic household servants are
+      actually demons that you summoned and keep controlled with powerful magic.
+    _id: CBgu93xjcPp6tzUv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.CBgu93xjcPp6tzUv'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      You use a cantrip to keep your hair neat and combed, but it only works on
+      the right side. The left side is a hopeless rat's nest.
+    _id: UTUFHq3BKKUCOKF8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.UTUFHq3BKKUCOKF8'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      You really want to breed winged goats. You keep an eagle and a she-goat in
+      a comfortable enclosure together and are convinced that eventually you'll
+      find the right aphrodisiac.
+    _id: n59yYQN2jwFHSv8S
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.n59yYQN2jwFHSv8S'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: You take notes with a dry quill, leaving the parchment unmarked.
+    _id: 7vdeLbJRCxNQ2nVf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.7vdeLbJRCxNQ2nVf'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Whenever you end a spell that requires Concentration you sing a little
+      song to yourself to make sure your concentration is truly broken.
+    _id: SqyUACxSLcutfyo6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.SqyUACxSLcutfyo6'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      You’re overly paranoid about your spell components. You constantly check
+      to make sure they haven’t been stolen or that you are not out of anything.
+    _id: QmyeXn1Ay6HVWMon
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.QmyeXn1Ay6HVWMon'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      You refuse to tell anyone you do not trust your real name. After all
+      knowing a being’s true name grants you power over them.
+    _id: Ct71YAwjBGzgKNGs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Ct71YAwjBGzgKNGs'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      You are a devout worshiper of the goddess of magic out of fear that she
+      may become angry with you and remove your magical abilities.
+    _id: u22CBIUPaTV5uTOx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.u22CBIUPaTV5uTOx'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      You wear a hat lined with gold leaf foil. To “prevent other mages from
+      reading your mind and stealing your spells”
+    _id: 8RSXtMb3URzNyS95
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.8RSXtMb3URzNyS95'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: You obsessively clean any surface before placing your spellbook on it.
+    _id: F65uYinrlFq8NaLF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.F65uYinrlFq8NaLF'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: Using magic causes your hair to grow an inch per spell used. Epic beard.
+    _id: L6iIM8EYwNqixSTp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.L6iIM8EYwNqixSTp'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      No matter what you do, your magic always has a pink aura with star shaped
+      sparkles.
+    _id: mRmiWAbe9Go8sB00
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.mRmiWAbe9Go8sB00'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      You wear a gag (of the DMs choosing) at night because you fear mumbling
+      the words to a spell while sleeping.
+    _id: vbA1DXmLRZZ7WnYN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.vbA1DXmLRZZ7WnYN'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      A cat follows you around and you are convinced it is your familiar. You
+      are sure that it speaks to you with its eyes and you often make decisions
+      based on what the cat does. It does not follow your commands, because you
+      think you are not strong enough yet. (It is just a normal stray cat, it
+      has no abilities of a familiar)
+    _id: 2bb85f0ph83ehYJT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.2bb85f0ph83ehYJT'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: You avoid anything that moves counterclockwise. It throws off your magic!
+    _id: 7KZ3c22evGeAv1Ga
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.7KZ3c22evGeAv1Ga'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Anytime you encounter an attractive (insert desired sex/race), you brag
+      about how you were top of you class and how you can “Pretty much cast any
+      spell”.
+    _id: rLkOAudFIC9c7zdz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.rLkOAudFIC9c7zdz'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      You hate a very specific type of creature with a passion. Every part of
+      your place is riddled with ways to repel or hinder them.
+    _id: ElP0Aze3H67m5uIs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.ElP0Aze3H67m5uIs'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      You use your body as a canvas to avoid forgetting new spells. Every bit of
+      skin on your body that you can see without the use of a mirror is
+      completely inked with descriptions, incantations and lists of spell
+      components.
+    _id: K8OvqmkOIHaK0E7h
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.K8OvqmkOIHaK0E7h'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      You believe that lying will make your magic less potent. You believe the
+      more you lie the less real your words become.
+    _id: YBdpfomGZ8W13Ywy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.YBdpfomGZ8W13Ywy'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Anytime you see a pattern that resembles a face, you believe it to be a
+      real person. There are a lot of very rude people who staunchly refuse to
+      talk to you.
+    _id: AuNaJXhPxhmu7Lax
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.AuNaJXhPxhmu7Lax'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      You are convinced that the stars are other far away wizards trying to
+      communicate with you. You’ve been trying to figure out a way to talk with
+      them ever since you realized.
+    _id: lgX3dHPpQ1tpjz7a
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.lgX3dHPpQ1tpjz7a'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      You’re never quite able to tell whether your dreaming or not. Throughout
+      the day you perform a variety of little spells and rituals to attempt to
+      discern whether or not you’re awake.
+    _id: YhMJkBBuZ13HggB8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.YhMJkBBuZ13HggB8'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      For the longest time, you’ve been trying to convince your magical peers
+      (or whoever will listen) that birds, fish and worms are all just
+      variations of the same animal.
+    _id: AVuVywg0cBjgb6OH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.AVuVywg0cBjgb6OH'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      You don’t trust birds. As such, you never open your spell book when it’s
+      pages would be visible from the sky.
+    _id: Jw9MfOKXWXHiyOtA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Jw9MfOKXWXHiyOtA'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Like how some people sleep walk, you sleep cast. On multiple occasions,
+      you have awoken to your sleeping area fully reorganized based on dream
+      logic.
+    _id: BrAP4BBUIOIOMP84
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.BrAP4BBUIOIOMP84'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      You actually tried to tattoo your spell book onto your body at one point.
+      You still have the nasty magical scar. Turns out the human body is closer
+      to a spell scroll than a spell book.
+    _id: MeitWCHgTuCwHKlV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.MeitWCHgTuCwHKlV'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      You randomly mix spell structuring words into sentences. It does
+      grammatically make sense, if you understand it. It’s the equivalent of
+      saying half a line of code in a conversation. Other wizards might
+      understand it, depending on how fluent they are magically and in the
+      language.
+    _id: PpefvTXtjaCEza3i
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.PpefvTXtjaCEza3i'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      You can't stop explaining ALL the rules, history, and statistics to
+      Marvelous Magical Marbles Maneuvering League to anyone you meet, including
+      them as aphorisms of daily wisdom, and meticulously explaining how
+      competing rules interpretations may be applied to non-Marbles-League life,
+      and also how the sport differs in so many way from the Stupendous Sphere
+      Sliding Squadrons Sport, which is a totally inferior sport. ALL THE RULES.
+    _id: 5smHVt7KCDBXlquw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.5smHVt7KCDBXlquw'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      Every time you cast a spell of higher level than a cantrip, you must first
+      cast at least one cantrip for reasons of universal balance and vast
+      significance that mundane mortals could never hope to fully comprehend.
+    _id: cUMLncaJoAhJGMCW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.cUMLncaJoAhJGMCW'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Why spend one gold, when you can spend 1d3? It is only gold, after all...
+      and if it gets spent to further increase your wizardly power, it isn't
+      wasted.. one gets what they paid for, after all.
+    _id: MxaEruBhA653vARI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.MxaEruBhA653vARI'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      The biggest reason you’re a wizard is because your spell book (and weapon
+      if bladesinger) is “possessing” your body, which will last even if
+      destroyed because it’s actually fused with you due to a ritual in the
+      past.
+    _id: np2dqTB5xySQzruH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.np2dqTB5xySQzruH'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      You have a stutter which doesn’t effect the casting spells, but visually
+      causes them to look as if they are lagging, stuttering, or skipping.
+    _id: wT7csCvCEzyRkI3s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.wT7csCvCEzyRkI3s'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      You insist you are a cleric of Mystra and every spell you cast is a prayer
+      to her.
+    _id: Byft6Yz4VGXzi433
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Byft6Yz4VGXzi433'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: You constantly talk to your wand, giving it compliments or scoldings.
+    _id: jOUWcCvzalhYEokt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.jOUWcCvzalhYEokt'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Your hair changes color every time you cast magic. The color tends to be
+      more vibrant when powerful spells are cast.
+    _id: 8dvPYBlQe0IdDWwA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.8dvPYBlQe0IdDWwA'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      Inspired by the great archmages of old you've decided to create your very
+      own entirely new spell. You just haven't exactly figured out how it is
+      supposed to work or how to cast it yet. Nevertheless, you insist it is
+      only a matter of time before you learn its secrets.
+    _id: Af347FWRQoPfplQu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Af347FWRQoPfplQu'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      You've developed an unnerving level of fondness for trying to magically
+      enchance blackpowder. As a consequence, your laboratory has exploded on at
+      least 5 separate occasions.
+    _id: 5rkZlEDvhfwzW7OF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.5rkZlEDvhfwzW7OF'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      You've developed a taste for raw insects and earthworms after having spent
+      3 months polymorphed as a newt due to a slight mispelling of a spell once.
+    _id: tIEErN38lnoccxML
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.tIEErN38lnoccxML'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      You are convinced that writing your spellbook in a very specific way
+      enhances the power of your spells (it does not).
+    _id: tqbw1YR7oJjClPgP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.tqbw1YR7oJjClPgP'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: Casting any spells makes you start briefly cackling maniacally.
+    _id: owgsbsmhwkMdLspW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.owgsbsmhwkMdLspW'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      You keep having arguments with your shadow over mundane things like what
+      to cook tomorrow for dinner.
+    _id: 3xq6Svjbo4U5LjDk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.3xq6Svjbo4U5LjDk'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      You are constantly paranoid about about some malicious entity trying to
+      snuff out your genius intellect with the use of poison. Just to be safe
+      you cast detect poison on any food or drink you eat whenever it is
+      possible.
+    _id: BS3ABOI9SDMPFyQt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.BS3ABOI9SDMPFyQt'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      For some reason all of your spellcasting verbal components come out as pop
+      song lyrics, product jingles, and slogans for things that don’t exist in
+      your fantasy realm. For example, the verbal component for casting Fly is
+      “Come Fly the Friendly Skies”, and for Blade Ward is “duh nuh nuh nuh,
+      can’t touch this”.
+    _id: a7F6jiiT8nVZjDjd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.a7F6jiiT8nVZjDjd'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      You have a suspicion of all cheeses, especially the aged ones, as you have
+      yet to disprove their sentience.
+    _id: Cfr4E0ojAcXRnzd8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Cfr4E0ojAcXRnzd8'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      You love to smoke, but only do so armed, just in case magical residue
+      turns the smoke into an imp.
+    _id: st2OmfnRJsYUPrCn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.st2OmfnRJsYUPrCn'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: Something about casting spells makes you feel slightly intoxicated.
+    _id: UIRUGvmQkwzI8efd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.UIRUGvmQkwzI8efd'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      You CAN NOT resist a good deal or opportunity for free spell components.
+      Regardless if it’s a spell you know.
+    _id: e6n9GZ2dVQCjGC3y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.e6n9GZ2dVQCjGC3y'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: You get really sweaty after using magic.
+    _id: Dhs9Ic1YdxKTnHOn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.Dhs9Ic1YdxKTnHOn'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: Using magic makes your feet really cold.
+    _id: NDhmtX2CVEOnQno9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.NDhmtX2CVEOnQno9'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      You always wake up singing a song. This dictates the spells you know that
+      day.
+    _id: IKa65IxdkbOsVQl8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.IKa65IxdkbOsVQl8'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      You have an obsessive habit of testing any mirror you encounter no matter
+      how small or large, making sure it's not a portal, life trap, or duplicate
+      inside. Lesson learned.
+    _id: WFik3LUbdjMwRqUO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.WFik3LUbdjMwRqUO'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      You constantly feel like there are tiny fingers pulling at your hands and
+      face. Using magic makes it go away.
+    _id: xvcnarsNie8Qt0XE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.xvcnarsNie8Qt0XE'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: You are irrationally afraid of spherical objects.
+    _id: 1xueMRQMif6y99Wc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.1xueMRQMif6y99Wc'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      You insist that all spells actually belong to your school of magic and
+      that all other schools of magic are just lies.
+    _id: thTCnzZfEmvCslYs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.thTCnzZfEmvCslYs'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      You attend arcane research conferences only to discourage other wizards
+      from writing the topic you're planning on publishing.
+    _id: vzhMV8kbyZpl7fVH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.vzhMV8kbyZpl7fVH'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      You believe that you're living in a time loop, but your memories get reset
+      every time you wake up.
+    _id: 9dCUD60Nr2DHAUhD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.9dCUD60Nr2DHAUhD'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      You believe that upcasting your spells to a higher spell slot is a waste
+      of your magical energies and it gives you a lot of anxiety whenever you
+      do.
+    _id: i5WuyZaunLOOaWQZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.i5WuyZaunLOOaWQZ'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      If you have a familiar, you feel the need to change its form every single
+      day to keep things fresh. If you don't have a familiar, you make do with a
+      pet rock you change every day.
+    _id: X9DYOwS8Xmi5uXbN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746884101
+      modifiedTime: 1792746884101
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!a3r3xEBHtSvA8hYS.X9DYOwS8Xmi5uXbN'
+folder: null
+_id: a3r3xEBHtSvA8hYS
+img: modules/game-icons-net/whitetransparent/wizard-staff.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746884101
+  modifiedTime: 1792747029129
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 600000
+_key: '!tables!a3r3xEBHtSvA8hYS'

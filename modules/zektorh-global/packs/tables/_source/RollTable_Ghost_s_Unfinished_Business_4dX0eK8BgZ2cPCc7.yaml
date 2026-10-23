@@ -1,0 +1,2364 @@
+name: Ghost’s Unfinished Business
+formula: 1d101
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: Give regards/news to loved one.
+    _id: p6VYxYuVYklp2fZf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.p6VYxYuVYklp2fZf'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Find the killer.
+    _id: v15XhvvGclzARsvF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.v15XhvvGclzARsvF'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: Kill the killer.
+    _id: yXXaTgAiAbGvgi7G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.yXXaTgAiAbGvgi7G'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Finish reading/writing a book/journal.
+    _id: wtoaMFRct8Yv2iNQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.wtoaMFRct8Yv2iNQ'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: See a child/mentee get married/graduate.
+    _id: diw8jnebmS86hpM5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.diw8jnebmS86hpM5'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: Fix the error in the formula they were writing.
+    _id: GUGX5hAWpMkzh5Kf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.GUGX5hAWpMkzh5Kf'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: See someone/something they were waiting for.
+    _id: WXz4VlpDt5TSq2XB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.WXz4VlpDt5TSq2XB'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: Get a law changed.
+    _id: FHjVFda2fdkHoDQY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.FHjVFda2fdkHoDQY'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: Harvest crops of a dilapidated farm.
+    _id: ijVdvr6NTVOpjfVr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.ijVdvr6NTVOpjfVr'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: Finish an aria.
+    _id: javqIFvoF1f66Ssu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.javqIFvoF1f66Ssu'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: Make amends.
+    _id: i85TKyt1y39MjFLH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.i85TKyt1y39MjFLH'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Figure out where they heard that music that was going through their head
+      when they died.
+    _id: 3HCpayfXm3S9VhK8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.3HCpayfXm3S9VhK8'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: Overcome their fear of death.
+    _id: WUTkoSRjOCyEcdq3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.WUTkoSRjOCyEcdq3'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: Realize they are actually dead (à la Sixth Sense).
+    _id: A26vCyrXjPYLZwPq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.A26vCyrXjPYLZwPq'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: See the ocean one last time after dying in the middle of the desert.
+    _id: QJv5Gnr8MEFXHOIo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.QJv5Gnr8MEFXHOIo'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: See land again after being trapped for centuries on a ghost ship.
+    _id: 5nqD2CgNUFagtuHT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.5nqD2CgNUFagtuHT'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: Finish climbing that damn mountain that killed them.
+    _id: 6xHU1nWZBB9NmSNj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.6xHU1nWZBB9NmSNj'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Find that one last item that would have completed their (very esoteric)
+      collection.
+    _id: 3hNpPKj2HC6UKhgn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.3hNpPKj2HC6UKhgn'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: Tell the person who killed them that they are forgiven.
+    _id: mStW1iyNGEktnHND
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.mStW1iyNGEktnHND'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: Say goodbye to their pet 🙁
+    _id: mRb1WXq8tQOzE4Np
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.mRb1WXq8tQOzE4Np'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      Make sure their lineage remains pure and the children are responsible with
+      their inheritance.
+    _id: rN7dUiAEPcPKZrDK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.rN7dUiAEPcPKZrDK'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: See how the village is doing.
+    _id: ZEfWkdtLXmNEM8qA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.ZEfWkdtLXmNEM8qA'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: See all of their family.
+    _id: rrtuFc1qQR4uv9cP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.rrtuFc1qQR4uv9cP'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: Find that stupid treasure they have been venturing for all of their life.
+    _id: YDW7d4OO6PbFjtbQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.YDW7d4OO6PbFjtbQ'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      They were listening to a beautiful song when they died, they need to hear
+      how it ends.
+    _id: FFtuELAx8plJlF3f
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.FFtuELAx8plJlF3f'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: Possess a commoner for one last bout of carousing (maybe a PC?).
+    _id: 0SHPG3FgKCp9ua2D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.0SHPG3FgKCp9ua2D'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Preserve their tattoos, possibly through some very gross taxidermy (They
+      tell a very important story).
+    _id: 3y5PpNoL0H6Lvkft
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.3y5PpNoL0H6Lvkft'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: Find what was at that damn spot marked out on the old map they found.
+    _id: 1musc1abz7wXf0Bw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.1musc1abz7wXf0Bw'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: Tell their kid not to follow in their footsteps.
+    _id: nN2g5ogudNxFOwko
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.nN2g5ogudNxFOwko'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: Return a stolen good to its original owner.
+    _id: f3AhGb4lP3OHiqeT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.f3AhGb4lP3OHiqeT'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: Have a treasured possession buried with their corpse.
+    _id: FdiK3S6oCZ7OvkFT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.FdiK3S6oCZ7OvkFT'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Dead chef ghost, cannot rest until he proves his signature dish is better
+      than his still living rivals dish.
+    _id: gJHXpGLgK3OFysar
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.gJHXpGLgK3OFysar'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: Can't remember if they've left the oven on or not.
+    _id: NCbFvQ9YIsT3IXai
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.NCbFvQ9YIsT3IXai'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: To reconcile their taxes.
+    _id: avuE3Uic9txOrllW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.avuE3Uic9txOrllW'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Guide them up from the underdark to the surface to see the sun one last
+      time.
+    _id: fB1fITmIMOsjY4t5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.fB1fITmIMOsjY4t5'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Show them that their family / bloodline was not, as they believe, wiped
+      out, by bringing them to observe their descendants.
+    _id: ziI0M1uczsZO0YJu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.ziI0M1uczsZO0YJu'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      (Evil ghost) Show them that their reign of terror in life is all but
+      forgotten--that they have not been remembered--by bringing them to the
+      cheerful village that they terrorized in life.
+    _id: 7TST4kOI4lc2HQhp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.7TST4kOI4lc2HQhp'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      They always paid respects to their grandmother on the anniversary of her
+      death, never missed a year until they died. They need to pay their
+      respects one last time.
+    _id: TSQzO61eFXUvNnM0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.TSQzO61eFXUvNnM0'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Their children didn’t pay respects to their grave this year, or the year
+      before. If their children honor their grave one last time, they can pass
+      on.
+    _id: 4knnwgmYHeN9gYnh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.4knnwgmYHeN9gYnh'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: Find their corpse (and therefore discover their cause of death).
+    _id: 4q6k710O9ROMHYaF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.4q6k710O9ROMHYaF'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: Pass on the code words to enter their secret society.
+    _id: a6wP3ztTaSlcyS4O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.a6wP3ztTaSlcyS4O'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: Remember their own name.
+    _id: qADVbi8SX88ghdQ0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.qADVbi8SX88ghdQ0'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Fulfill their lifelong goal of opening a quaint little bakery, flower shop
+      or barber.
+    _id: yIogGLZ2jEKUVQ2A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.yIogGLZ2jEKUVQ2A'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: Get their buddy laid.
+    _id: EHCrAfN7CM6uXdtN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.EHCrAfN7CM6uXdtN'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: Have their funeral rites read and their body laid to rest.
+    _id: whRc2afFHL9wAjCB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.whRc2afFHL9wAjCB'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      See the sunrise one last time, yet is only on the material plane during
+      the night.
+    _id: E2MoefoZDgE2cBxM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.E2MoefoZDgE2cBxM'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: Say a final goodbye to family/spouse.
+    _id: lcKM0mR48moV2g3m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.lcKM0mR48moV2g3m'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: To finish the last menial task they had to do.
+    _id: zbGYFfWpN75gbkPk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.zbGYFfWpN75gbkPk'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: To help their loved one on their adventures.
+    _id: 5h8omQeNq6Jbr87g
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.5h8omQeNq6Jbr87g'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      To confess their love for someone they were too afraid to tell while
+      alive.
+    _id: 90vXqsZkxKZyz1p1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.90vXqsZkxKZyz1p1'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: Find the answer to a complex riddle/puzzle.
+    _id: rTmLsDXpjOmzkJIu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.rTmLsDXpjOmzkJIu'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: Repair a broken weapon that is part of their family lineage.
+    _id: YH2mjd1Fp0GcV2cD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.YH2mjd1Fp0GcV2cD'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Find where they buried their life savings and bequeath it to their loved
+      ones.
+    _id: apeb1OLjVhPuPvwl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.apeb1OLjVhPuPvwl'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Make sure their family is moved to a better settlement with greater
+      opportunities.
+    _id: zm5tbA6Ky1RLoSws
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.zm5tbA6Ky1RLoSws'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: Murder their former spouse.
+    _id: fOzCRL9SprQu14XI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.fOzCRL9SprQu14XI'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Find their missing child whom they were already looking for when they
+      died.
+    _id: uBPUEPeJP8vNzbwT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.uBPUEPeJP8vNzbwT'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: Have proper funeral rites read from a priest of their chosen religion.
+    _id: 0xT7DFB3ZMkdepRm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.0xT7DFB3ZMkdepRm'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Their town was infested by (insert monster) and needs to be cleansed for
+      them to move on.
+    _id: AwawT66tMJ0KU3gS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.AwawT66tMJ0KU3gS'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: Be acknowledged for their accomplishments by someone of great import.
+    _id: mBSaf4Ehj77msp9E
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.mBSaf4Ehj77msp9E'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: Willingly receive a proper exorcism.
+    _id: jIasKU6Q81EDxS9S
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.jIasKU6Q81EDxS9S'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: Finish their script for a play they wrote.
+    _id: UTf0omL3y4m741Zi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.UTf0omL3y4m741Zi'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Feel someone's intimate embrace once more through a willing participant's
+      possession.
+    _id: k2FfFqI7cdy7BL3N
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.k2FfFqI7cdy7BL3N'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: Change someone's mind about a controversial topic.
+    _id: qv1EN6KiwGWBIV7z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.qv1EN6KiwGWBIV7z'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: Have their own mind changed about a controversial topic.
+    _id: 2oPd18GBW7DoPHMa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.2oPd18GBW7DoPHMa'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      Recover the sword of Life Stealing that took his father's life. It was
+      last seen on a tiefling barbarian.
+    _id: hpLheSmTslsDZYbv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.hpLheSmTslsDZYbv'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      To find the purchase agreement of the family farm. It was sold illegally
+      as part of Magistrate Vorkain's rise to power.
+    _id: UtxSvEQXtQkR2BJM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.UtxSvEQXtQkR2BJM'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: To take one more breath of air (don't we all?).
+    _id: Eb3daPpjeIm5T7JW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.Eb3daPpjeIm5T7JW'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Agnor roams the streets of the city in search of the descendants of
+      Bilgurym, the thief that killed him over his coin purse. Agnor won't rest
+      until every descendant of Bilgurym is slain. Bilgurym was slain 500 years
+      prior and yet Agnor still roams the foggy streets of the city.
+    _id: 8pxS5lqb7iu4mU8T
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.8pxS5lqb7iu4mU8T'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Ghost of famed pirate. Won't rest until his illegitimate boy is made a
+      cabin boy on board a pirate ship.
+    _id: MvYAKABoKjgPE0CH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.MvYAKABoKjgPE0CH'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      Artur Deghnd was killed because of mistaken identity. He now wants his
+      name cleared and Artur Dehnt properly punished.
+    _id: aObbxnOJgWpG6LDK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.aObbxnOJgWpG6LDK'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      Werarod of Cretten is the son of a local lord. Werarod became infatuated
+      with a local peasant girl named Elyss. When she spurned him, he took her
+      by force. When he realized his actions, he took his own life. Now he
+      cannot rest until Elyss is happily married.
+    _id: rFKLXJ5LQKcS3v7U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.rFKLXJ5LQKcS3v7U'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Drivia henpecked her husband until her death from wasting disease. She
+      can't rest until her husband 'makes something of himself'.
+    _id: uVvo1QTGLGVufHZs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.uVvo1QTGLGVufHZs'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      A pianist cut his own hands off to escape an abandoned dungeon, his
+      keepers having long since fled. He didn't get far but he regretted every
+      moment he spent without his dexterous, spindly hands. The ghosts asks that
+      you find his rotting hands within the dungeon and bring them back to him.
+      Bonus: the ghost will settle for any pair of hands you give him.
+    _id: 3juBVp5q3bAnq1e2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.3juBVp5q3bAnq1e2'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: Rid the world of a magical item that is not easily destroyed.
+    _id: xUOzhiepeKCWT1sB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.xUOzhiepeKCWT1sB'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: Escort their spirit across the Astral Plane to lay their soul to rest.
+    _id: lZ7ElGVH1bAMzFkw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.lZ7ElGVH1bAMzFkw'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      A pirate captain was burying his treasure when he happened upon a lovely
+      Nymph. He sought her out each month and soon they both fell in love. He
+      was already betrothed, but this was an arranged marriage and he wasn't
+      happy. The Nymph and captain were to wed in secret when the jilted fiance
+      shows up in a fiery flash. She cursed the cheating fiance to forever sail
+      the seas and to never step foot on dry land. To the Nymph, she cursed her
+      to become a wooden figurehead. The clause of the curse was this: True love
+      would never be found as long as the white sands fall down. The captain
+      piloted the 'Cursed Heart' ship and when he died, became a sorrowful
+      ghost. Somewhere on another ship, the nymph comes alive only for one hour
+      a night on a full moon. The cursed heart will always attack the Sea Nymph
+      in order to take the wooden figurehead. The sorceress (jilted fiance)
+      guarded the never-ending hourglass at the top of her tower. When she died,
+      she became a Banshee guarding the last thing she loved... the curse.
+    _id: 4CgrLahALL3huzps
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.4CgrLahALL3huzps'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: Bring their bones to their ancestor's tomb.
+    _id: H9iiPUuRiRYzi3ni
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.H9iiPUuRiRYzi3ni'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      A young child was lost in a forest. His father searched desperately for
+      him, but could never find him. He angrily began chopping down the forest,
+      looking for his son. Now dead, his ghost will not rest until the entire
+      forest is chopped down or burned to ash.
+    _id: UcU9nNVtP9rNZlIn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.UcU9nNVtP9rNZlIn'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: A royal ghost won't rest until their rightful heir sits upon the throne.
+    _id: Jdhp06MH5kvJQHz1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.Jdhp06MH5kvJQHz1'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      A child lost in the winter passed away from the cold. They can't move on
+      until they are reunited with their parents, but they were lost decades ago
+      and don't remember who their parents are.
+    _id: vScCI6XZDjBxpqr0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.vScCI6XZDjBxpqr0'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      A soldiers ghost can't move on until the war is over and his side is at
+      peace.
+    _id: QOOU2KlrhW7M7UoY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.QOOU2KlrhW7M7UoY'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      A wandering ghost won't be able to move on alone. They await another lost
+      soul with which they can depart the world together.
+    _id: g8a3NUfYlPU5d8rZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.g8a3NUfYlPU5d8rZ'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Wants their body/bones burned and the ashes thrown into the air from the
+      highest peak of the world.
+    _id: 8YrK92EPoR3IqxQL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.8YrK92EPoR3IqxQL'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: They want to create a weapon worthy of a name.
+    _id: 17SJiGRionb4ldZv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.17SJiGRionb4ldZv'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      They want to make contact with a greater deity to learn where their soul
+      will be sent. Regardless of the answer, they move on whether they want to
+      or not.
+    _id: d6JPqQjcUbcXwvgw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.d6JPqQjcUbcXwvgw'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: They want to possesses a very powerful creature/person.
+    _id: 3NysxrI0QQNCOLKq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.3NysxrI0QQNCOLKq'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: This ghost had no reflection and wants to see their face as it is now.
+    _id: S0iPZCwNRyg2xkEd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.S0iPZCwNRyg2xkEd'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      The ghost had started a religion based on a newly discovered deity. They
+      want a church built and a small following of said religion.
+    _id: YHCf8eJYS4dkLTdk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.YHCf8eJYS4dkLTdk'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      They had died in the most heinous way. They will not rest until they see
+      someone die in a worse way.
+    _id: BLhxTEplXdNAbN9u
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.BLhxTEplXdNAbN9u'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      They never left their hometown in life. They want to see the rest of the
+      world.
+    _id: yOarNRbCLsDYXZRl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.yOarNRbCLsDYXZRl'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      They never defeated their rival family. They cannot rest until that family
+      lineage is completely erased from the world.
+    _id: xvp5gPJfypvKeUO0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.xvp5gPJfypvKeUO0'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      They lost their sight at a young age. They want to see the beauty of the
+      world again.
+    _id: VXVE11pvElB4gYa6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.VXVE11pvElB4gYa6'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      A powerful wizard died after losing their spellbook. It had many powerful
+      spells and if it were to fall into the wrong hands it could be terrible.
+      They want you to find and destroy it.
+    _id: LBdToSNjL62oKTFh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.LBdToSNjL62oKTFh'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      A ghost of a shunned race has never been accepted in the city/kingdom they
+      grew up in. They want the cities leader to recognize them and their kind
+      as full fledged citizens.
+    _id: s8sssYMHJxGjywCK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.s8sssYMHJxGjywCK'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      A ghost is now stuck in this miserable afterlife for their greediness.
+      They need to give away their vast amount of riches to charity in order to
+      move on.
+    _id: tDEie9bhhEurcmlr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.tDEie9bhhEurcmlr'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: Finish a masterpiece work of art.
+    _id: fKvMZsxkp1525xm0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.fKvMZsxkp1525xm0'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: Finish crafting a magical contraption.
+    _id: sF3yvQkLlgVqNBpy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.sF3yvQkLlgVqNBpy'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: Finish the conversation they were having before they died.
+    _id: KcukT1OAdA4QMty0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.KcukT1OAdA4QMty0'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Killing themselves never took. They need to figure out a way to destroy
+      their soul as well.
+    _id: iZIjD2ourFw9TIuU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.iZIjD2ourFw9TIuU'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: They were creating a brand new board game/card game
+    _id: TPWH2tNpM992jzYI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.TPWH2tNpM992jzYI'
+  - range:
+      - 101
+      - 101
+    name: ''
+    description: >-
+      able-top game. They need a group to test it out and make it a final
+      product.
+    _id: FPARfXLR4I21XMac
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746775482
+      modifiedTime: 1792746775482
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!4dX0eK8BgZ2cPCc7.FPARfXLR4I21XMac'
+folder: null
+_id: 4dX0eK8BgZ2cPCc7
+img: modules/game-icons-net/whitetransparent/ghost.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746775482
+  modifiedTime: 1792747029128
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 500000
+_key: '!tables!4dX0eK8BgZ2cPCc7'

@@ -1,0 +1,2828 @@
+name: Morally Ambiguous Side Quests
+formula: 1d101
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      The party is tasked to hunt down a pack of wild animals that has been
+      attacking settlements. Upon investigating, it turns out this is the last
+      of the specific animal species in the area/world. If the player's kill
+      them, they are wiping out a species potentially needed for maintaining the
+      Eco system, but letting them live runs the danger of them continuing to
+      attack settlements.
+    _id: yvOCTUj6PolxB2tu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.yvOCTUj6PolxB2tu'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      A necromancer has been sending his undead to a nearby villages to raid
+      supplies in an otherwise barren land and has been accused of grave
+      robbing. When confronting the necromancer, the party finds out that he is
+      only gathering supplies so he can find and restore his long dead family;
+      spouse, children, pets. He only wants to see them one more time.
+    _id: ZLOW1Sp5btozFeR0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.ZLOW1Sp5btozFeR0'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      A local cult have become very vocal that they are looking for new members
+      to join them in spiritual bonding and meditation in a clearing near a
+      waterfall. The townsfolk nearby think it’s fishy and are getting riled up,
+      but it doesn’t appear that these cultists are doing anything wrong or
+      magical at all... except openly admitting that they’re in a cult.
+    _id: 0mBbXUQc2Mj9VSm2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.0mBbXUQc2Mj9VSm2'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      The party is hired to retrieve a rare and valuable medicinal plant from a
+      dangerous swamp which will be used to create a potion that can save a
+      dying noble. When they find the plant, they discover that it is actually
+      the last of its kind and uprooting it will force the plant's extinction.
+    _id: g6NLVupNYwfdZUhW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.g6NLVupNYwfdZUhW'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      A local priest asks you to stop the string of grave-robberies in the area
+      because they could disturb the souls or even create angry ghosts. The
+      culprits, however, are destitute farmers who claim that they need the
+      corpses as fertilizer or else their crops will fail.
+    _id: HmXKBeCd2wTzJC89
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.HmXKBeCd2wTzJC89'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      A warlord is buying the contract of all the prostitutes and gambler from a
+      life of respectable servitude. They seem to be bringing war into a new era
+      of steel and fire, but, at the cost of the forest and druids.
+    _id: VFk8wh3SP3gRJPpv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.VFk8wh3SP3gRJPpv'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      A noble family is paying a lot of gold for someone to kidnap the child of
+      their child's kidnapper, in hopes they can do a prisoner trade instead of
+      having to fulfil the kidnappers demands.
+    _id: gPf1apny5bDIPiCZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.gPf1apny5bDIPiCZ'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      There is a powerful lich that needs to be stopped. Unlike other liches its
+      soul is bound to its descendants. Investigation into its family tree
+      reveals that most of its descendants are good people. So, long as one
+      survives the lich cannot be truly defeated.
+    _id: dE504FD1hXDqx197
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.dE504FD1hXDqx197'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      A former soldier approaches the player characters, asking for their help
+      in protecting him from the wrath of his former comrades. He deserted his
+      post during a battle, leaving his fellow soldiers to die. The players must
+      decide whether to turn him in to face justice or to help him flee from his
+      pursuers and keep his secret safe.
+    _id: sFSPEWsXvPIcbyt1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.sFSPEWsXvPIcbyt1'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      You are hired by a "holy" organization to hunt down and kill a small
+      family as they believe their tombs foresee this family to be some kind of
+      threat to their cause. The family does not know about the prophecy or who
+      this organization is, they live their lives like every other commoner.
+    _id: xZba2uFM7HVk3VAc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.xZba2uFM7HVk3VAc'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      A noble-turned-bandit chief is in the dungeon, soon to be tried for
+      killing a cousin of the king. The chieftain's wife has two respectable
+      monks who witnessed the death and can testify to the chieftain's
+      innocence. She wants you to get them safely to the court to clear his
+      name; the bandits' second-in-command, happy with his new position over the
+      bandits, will be opposing you. The problem is, the chieftain has murdered
+      many commoners, murders he will never face justice for; this trial may the
+      only semblance of justice his other victims ever get.
+    _id: CONpHdNdXWhue2xm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.CONpHdNdXWhue2xm'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      The Lord of Redfallow has been robbed of a family heirloom, it is quickly
+      made clear that the culprits are band of goblins. Upon tracking down the
+      goblins though, it is revealed that this supposed family heirloom was
+      stolen from a nearby tomb, and the disturbed spirits within have been
+      terrorizing the Goblins village until they find the ring. However, it's
+      soon discovered that returning the ring may empower those dark spirits
+      rather than silencing them.
+    _id: V07zPyQhuIEJnBzQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.V07zPyQhuIEJnBzQ'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      A newly chosen leader of a town's council is demanding the farmers there
+      to not sell their crops to a nearby city. The councilman claims the good
+      farmers have been underpaid for their labors, while the lord of the city
+      has not claimed taxes from his citizens as a recent plague has left many
+      unable to work. At his wit's end, he offers to hire the party to either
+      convince the councilman of the dire need for food, or quietly get rid of
+      him so the lord's men may negotiate payment the lord can actually afford.
+    _id: 5TTm2DjwpxSg6iRd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.5TTm2DjwpxSg6iRd'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      The High Priestess is gravely ill. She has forbidden an expedition to try
+      to find medicine for her; it would be, she says, refusing the gift of
+      death the gods have prepared for her. Her followers, terrified of going on
+      without her guidance and protection, want you to go find medicine that
+      they can give her in secret.
+    _id: 9Wfh2sXTYODjqbVM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.9Wfh2sXTYODjqbVM'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      In a land where inheritance is strictly to the eldest child, a lord seeks
+      professional assistance to terminate his stupid and vicious eldest son to
+      clear the way for a more competent and reasonable younger sibling.
+    _id: 0E9gxkmGDuexD3fQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.0E9gxkmGDuexD3fQ'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      The player characters are tasked with investigating a small village that
+      has been cut off from the rest of the world for many years. Upon arriving,
+      they find that the village is ruled by a powerful and mysterious sorceress
+      who has promised to keep the villagers safe from harm in exchange for
+      their loyalty and obedience. The players must decide whether to overthrow
+      the sorceress and free the villagers, or to try to work with her to
+      uncover the dark secrets that the village is hiding.
+    _id: TatnlgkCXHrl6i4I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.TatnlgkCXHrl6i4I'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      The fair maiden wants help eloping with her true love against the wishes
+      of her overbearing parents. There are disturbing signs that her true love
+      is a cad and her parents may have a point.
+    _id: qOKvA8o5XdyCxlvW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.qOKvA8o5XdyCxlvW'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      The King wishes you to safely escort a foreign princess to their kingdom,
+      you later find out the princess was setup with a forced marriage
+      arrangement between the two kingdoms to improve their diplomatic
+      relations. She is actually in love with another person back at her home
+      and wishes to be set free to return.
+    _id: Vp23n7LGsExrvEtO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Vp23n7LGsExrvEtO'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      The party is tasked to find the culprit of a murder that could start a war
+      on the realm if it goes unpunished. The murderer is revealed to be a close
+      friend of the party. It was just an accident and they didn't know what to
+      do, so they fled.
+    _id: U9SvjoYdzcSVP0Lz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.U9SvjoYdzcSVP0Lz'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      A noble/wealthy trader's child is gravely ill and they are quickly
+      building up a debt trying to pay for healers from far and wide. The party
+      has been tasked to end the child's life to prevent the town from falling
+      any further into debt to its neighbors and loan sharks.
+    _id: duYxOCh3UA6raW4B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.duYxOCh3UA6raW4B'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      The party is tasked with defending a peace summit between two nations, one
+      much stronger than the other. The peace deal is clearly lopsided to the
+      stronger side. The party soon discovers a plot to disrupt the peace summit
+      and assassinate an important figure on the stronger side by freedom
+      fighters
+    _id: jAaH2fLK6Bq4gVCN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.jAaH2fLK6Bq4gVCN'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      errorists on the weaker side. Protecting the summit will mean the weak
+      nation will be stuck with a bad deal, but letting the assassination go
+      through (or assisting it) may mean it will be conquered entirely.
+    _id: g2bTqhlkWNrwkZfH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.g2bTqhlkWNrwkZfH'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      You are tasked with bringing down a pirate queen by local authorities, but
+      as your party investigates, it soon becomes clear that there is a power
+      struggle in her organization, with many chaffing against the "benevolent"
+      codes of the Pirate Queen (in my game it was banning slave traders but you
+      might want something lighter). Removing her from power will bring in a new
+      pirate lord that is far more dangerous and has far fewer scruples.
+    _id: v3oWz0efUUgDaQjO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.v3oWz0efUUgDaQjO'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      A small village has been plagued by a mysterious curse that causes crops
+      to wither and animals to sicken. The players are asked to investigate the
+      cause of the curse and remove it. However, as they delve deeper, they
+      discover that the curse was placed by the villagers themselves, as a last
+      resort to protect themselves from an even greater evil. The players must
+      decide whether to lift the curse and risk unleashing the evil, or to leave
+      the village to its fate.
+    _id: YpSAj1bPzmVLFjEh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.YpSAj1bPzmVLFjEh'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      The people of a town talk of a demonic force that is terrorizing a few
+      buildings and they want it gone. The demonic force is a very young child
+      who lost their parents and made a pact with a fiend/devil to play with the
+      child and keep them company forevermore.
+    _id: GQrm9T2iGozRhXIY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.GQrm9T2iGozRhXIY'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      An executioner for the local power, a church, has asked you to rescue
+      their child who has been kidnapped by a group of "bandits" attempting to
+      stop the execution of their leader. The group of bandits are freedom
+      fighters attempting to stop the merciless and corrupt church who is
+      killing any who dare to question their authority, using ways that's not
+      necessarily readily seen as beneficial to the regular people.
+    _id: yjKnweILnfzui9u5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.yjKnweILnfzui9u5'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      A group of wood elves hires the party to sabotage a factory that is
+      polluting the local river and killing the wildlife. The gnome factory
+      owner claims that the pollution is an accident and that they are working
+      to fix the problem, but the elves insist that the owner is lying and that
+      the factory must be destroyed. The party must decide whether to trust the
+      elves or the factory owner, and whether to take action against the factory
+      or try to find a peaceful solution.
+    _id: 5ThEJEwXT1UlOksN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.5ThEJEwXT1UlOksN'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      A local lord enlists the help of the party to track down a monster that
+      has slain some of his guards and destroyed a small cottage in the woods
+      last night, killing all inside. It his escaping into the mountains, and
+      they must hurry. As they follow the trail of the creature, they learn that
+      the creature was [Summoned / Brought Here / Created] to be the focus of a
+      great hunt the lord wanted to hold for their birthday. The creature proved
+      too powerful to contain, and it is trying to head home, now. All deaths
+      related to it are a result of the lord's efforts to stop and recapture the
+      creature.
+    _id: x2IaqMxzpoFfIEda
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.x2IaqMxzpoFfIEda'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      The party is hired to investigate and prevent a series of horrible and
+      bloody murders in a nearby village. They eventually discover that the
+      murders are caused by a creature who is seeking revenge against the
+      villagers. The villagers had conducted a desperate magical ritual in hopes
+      to bless their failing crops, but with little knowledge of magic, it
+      failed horribly, corrupting one of the villagers, whom they then ran out
+      of town in shame and disgust. The villagers are ashamed and resistant to
+      explaining the truth. The monster just wants justice, at any cost.
+    _id: wX0OLHM9RYJAqrqW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.wX0OLHM9RYJAqrqW'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      The player characters are hired by a wealthy merchant to investigate
+      strange happenings at his isolated country estate. Upon arriving, they
+      discover that the mansion is haunted by the vengeful spirits of the
+      merchant's ancestors, who were murdered for their wealth and power. The
+      players must decide whether to help lay the spirits to rest, or to try to
+      use their powers for their own gain.
+    _id: Glody2M2pMGEcG1r
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Glody2M2pMGEcG1r'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      The party is tasked to hunt down an assassin who is currently responsible
+      for a considerable number of gruesome murders in the city, with the bodies
+      being left on display after each killing. The assassin is actually
+      systematically dismantling the large merchant organization who was
+      responsible for the bankruptcy and subsequent ruination of her family when
+      they refused to sell their family business to the organization and were
+      undercut and outbid on every following contract in the region.
+    _id: 47TIqGZhdODYDFUD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.47TIqGZhdODYDFUD'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      A local dwarven mine owner asks the party to investigate the spread of a
+      dangerous drug amongst the workers. The mine has great strategic
+      importance because it is a rich source of magic crystals vital for the
+      kingdom's protection. During the investigation, the adventurers learn that
+      mine workers only use the drug to dull their physical and emotional pain
+      because the working conditions are unbearable. The drug is provided by
+      kobolds living in the deeper parts of the mine who brew it themselves. In
+      exchange for the drug, the kobolds want to stay there and mine crystals
+      themselves, as they did before there was a dwarven-owned mine.
+    _id: 48EYAPCaqZyxXeeo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.48EYAPCaqZyxXeeo'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      A wealthy merchant hires the party to retrieve a valuable and rare magical
+      artifact from a group of bandits who stole it from them. The bandits claim
+      that the merchant is not actually the rightful owner of the artifact and
+      he stole it from them first, and that they are simply trying to reclaim
+      what is rightfully theirs. The party must decide who to believe and
+      whether to return the artifact to the merchant or to the bandits.
+    _id: m9MzvmlZQiZxLv1n
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.m9MzvmlZQiZxLv1n'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      Goblins have been attacking a newly constructed dam above the village, the
+      party is hired to stop them. The goblins claim that the dam has caused
+      their underground homes to flood. If the dam is broken the town will be
+      hit by a tidal wave.
+    _id: qtZAw06TeDTUHTu3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.qtZAw06TeDTUHTu3'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      The party must bring a famed healer from her remote mountain village to
+      the capitol so that she can heal the ailing prince. But she is busy
+      fighting an outbreak of disease at home, and patients will likely die if
+      she leaves. Then again, the death of the prince would throw the succession
+      into chaos and possibly bring a civil war.
+    _id: 9VxkEz4wuLftrBdt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.9VxkEz4wuLftrBdt'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Villagers are complaining about a feud between two mad scientists. One is
+      a necromancer who was surrounded himself with the ghosts and zombies of
+      his dead family and the other is "Frankenstein" type that is trying to
+      steal those family members to use as spare parts. The law of the land
+      offers no protection to the undead and the scientist offers the party a
+      discount on grafts or modifications should they assist with the capture of
+      said undead.
+    _id: GGIbJ5tPZ3wmGGGv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.GGIbJ5tPZ3wmGGGv'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      The party comes across an armed caravan being attacked by paladins and
+      knights. They are in the process of being defeated, and the last few
+      defenders are guarding a young child. The party intervenes and saves the
+      child, and on the deathbed of the last defender, are asked to bring them
+      to the Temple of Happy Times. The party may face more resistance along the
+      way, with more paladins and champions claiming that the child is evil and
+      will destroy us all. They get the child to the temple, are rewarded, and
+      all seems well. Until hell breaks loose because they were the last piece
+      of some doomsday puzzle the Temple was trying to release.
+    _id: HVzNz2933sAxnPu8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.HVzNz2933sAxnPu8'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      The party is hired to protect a caravan that contains medicine for a far
+      away castle filled with plague infected commoners. A different town which
+      is also far off hears of this, and attempts to raid the caravan to acquire
+      the medicine for their own people who are also infected. There is not
+      enough medicine nor time to get to both places.
+    _id: HsC5W4BSa5jcyDjk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.HsC5W4BSa5jcyDjk'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      The local lord would like the party's help defeating a band of villains
+      that are gathering just outside his territory. There is strong evidence
+      that the band will attempt to annex part of the Lord's land in the coming
+      weeks. When the party investigates, they find that the villains are in
+      fact exiles of that area who are attempting to retake their homes. The
+      exiles were harsh rulers, and the current lord is not much better.
+    _id: hPLc9h1efcBaTksX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.hPLc9h1efcBaTksX'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      A farmer needs help dealing with a undead scourge. The undead is the
+      original owner of the farm, having come back for vengeance as a revenant
+      after a bandit murdered him and his family so he could steal the land.
+    _id: pHE6ajutYTDUkQs1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.pHE6ajutYTDUkQs1'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      The only magical user and healer of a newly colonized island port is known
+      to be a friend to both natives and newcomers and has been staying neutral
+      in the conflict for the sake of both people. You have been tasked to
+      either convince her to divulge the location of the leader of the natives
+      or stalk her when she travels out of town as rumors grow of an imminent
+      rebellion by said leader after random buildings and ships have been set on
+      fire in recent weeks.
+    _id: LCnI8iGBXhaojghc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.LCnI8iGBXhaojghc'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      A famine has plagued the nearby countryside. A caravan of merchants carry
+      food to sell to the stricken region. An accident occurs and the caravan
+      wrecks as the party passes by. Starving villagers descend on the food and
+      begin stealing it. Do they party turn a blind eye but potentially bankrupt
+      the merchants or can they stomach beating back the poor starving villagers
+      who may get the food anyway?
+    _id: 8eA3L7wEqkNRBGDb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.8eA3L7wEqkNRBGDb'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      A group of dwarves hires the party to retrieve a valuable gemstone that
+      has been taken by a group of trolls. The trolls are using the gemstone to
+      power a magical artifact that holds great religious significance to them.
+      The trolls claim that the gemstone is an ancient artifact that rightfully
+      belongs to them, and that the dwarves have no right to it.
+    _id: Id7rzz9sRuQl7idG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Id7rzz9sRuQl7idG'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      The party is approached by a group of influential and powerful smugglers
+      who ask for their help in transporting a shipment of illegal and exotic
+      animals across the border. Many of the animals are near extinction. They
+      claim that the animals are going to a prominent zoo where they will be
+      well tended and encouraged to breed. But a local Druid circle wants them
+      all freed to their natural habitats.
+    _id: NTI6ZJ93DONgEffd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.NTI6ZJ93DONgEffd'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      The party is hired by a group of rebels to sabotage a military research
+      facility that is developing new and advanced weapons. The rebels claim
+      that the facility is dangerous and unethical, but the facility owner
+      insists that their research is necessary for the defense and security of
+      the kingdom.
+    _id: 94SxPJjb003MJ0Ar
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.94SxPJjb003MJ0Ar'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Some strange fungus has been discovered growing in the woods. A tabaxi
+      alchemist will pay handsomely for samples but it is implied that he will
+      use it to make strong poisons.
+    _id: OI0nREL8aXOWOv0S
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.OI0nREL8aXOWOv0S'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Reports have indicates restless dead at the settlement's cemetery.
+      Investigation reveals a group of necromancers are attempting to raise
+      their own loved ones, but their magics are also raising other dead. Do the
+      players stop the necromancers and deny them their wish of seeing their
+      loved ones again, or do they allow them to continue and risk an undead
+      infestation stopping the settlement's people from visiting their dead?
+    _id: 46tRsysNDhJFZPnU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.46tRsysNDhJFZPnU'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      A gnome society is attempting to dam up a water fall and river to generate
+      power for their village, however a pesky Hobgoblin Druid keeps destroying
+      their progress or attacking their work site at night. They want the
+      monster removed so they can finish the damn. Upon investigation, the Druid
+      will warn the party that backing up the river will cause flooding of the
+      nearby cave network. Although the animals this will displace could be
+      harmful, he is more concerned with the enchanted sleeping green dragon he
+      has enchanted deep within the cave network. Should the caves flood, he
+      will be awakened, and will bring destruction upon the region in a way the
+      Gnomes have forgotten.
+    _id: ySrWkzmSdWmzNiPA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.ySrWkzmSdWmzNiPA'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      A local gang has been selling illicit alcohol that has not been authorized
+      and properly taxed by the governing authorities. The party is hired by a
+      government official off-books, to sneak into and poison the product,
+      thereby eliminating the buyers and the illicit business.
+    _id: iGNuXlRWO7VWDeDo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.iGNuXlRWO7VWDeDo'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      A mage is infecting a village’s water supply with a magic potion that
+      charms everyone that drinks it. The main effect is that it forces all that
+      drink it to obey the mage’s instructions. The mage is actually benevolent,
+      and acts as the village's prefect, resolving disputes, giving advice and
+      orders. The village runs smoothly, but no one has any free will. The son
+      of the butcher in the village had stopped drinking the water as he got
+      lost in the woods for a few days and now knows what's going on. He hires
+      the party to kill the mage. The party also finds out the sordid history of
+      the village and its many years of warring, violence, and blood games that
+      are now a thing of the past since the mage arrived.
+    _id: WepVaYCvBFSonAvN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.WepVaYCvBFSonAvN'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      An incredibly old Dragonborn wants the party to reclaim his families
+      Silver Mine from bandits. These bandits haven’t stolen anything, but are
+      rumoured to have captured prisoners. The whole town is nervous and is on
+      the brink of sending in an angry mob! Turns out the rumours are somewhat
+      true, but the bandits see themselves as bounty hunters and recently caught
+      a group of cultists.
+    _id: s11Syert49cfHMcP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.s11Syert49cfHMcP'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Defend a wizard's tower while he's casting a ritual. The town's folk are
+      up in arms because (half-way through the battle the party realizes) the
+      wizard kidnapped a child for blood sacrifice.
+    _id: Rb6qoMk5P7Of5eAD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Rb6qoMk5P7Of5eAD'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      The party is hired to rescue a young nobleman kidnapped by an evil cult.
+      It turns out that the cult's evilness is somewhat exaggerated, and the
+      young man is sincerely committed to it.
+    _id: Cxe0f0KiTpEM4UWm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Cxe0f0KiTpEM4UWm'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      The party receives a request to stop a necromancer, who is robbing graves
+      to create undead. It turns out that the necromancer is using the undead to
+      run a large farm, which supports several surrounding villages.
+    _id: WoOsGqAvdGxvyrh8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.WoOsGqAvdGxvyrh8'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      A powerful being is approaching the city. It causes death and destruction
+      where ever it goes. There is an artifact, that can permanently kill this
+      being. However the artifact itself is evil and corrupts whoever uses it.
+    _id: Qk4QWMWzMqFhzOn9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Qk4QWMWzMqFhzOn9'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      People have been getting food poisoning without any apparent reason. In
+      secrecy, the local wizard or alchemist has been magically changing the
+      corpses of humans (or rotten dead animals) into prime livestock meat. The
+      town will starve without the extra food, but will continue to fall ill
+      with it.
+    _id: LRZPSlpGAK8Ve2JD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.LRZPSlpGAK8Ve2JD'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      A lynch mob has gathered to hang someone accused of murder. The accused
+      proclaims their innocence and the fact they have not received a trial. The
+      evidence given by the crowd is not concrete: things like people seeing him
+      near the house before the murder or someone finding bloody clothes in his
+      house when he had been slaughtering pigs the day before. Does the party
+      stand by and potentially let an innocent man die, or do they risk drawing
+      the ire of the settlement by fighting them to free him?
+    _id: FIfwiT4l4Ok0A0Xp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.FIfwiT4l4Ok0A0Xp'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      The player characters are approached by a wealthy noble who asks them to
+      track down his missing son, who was last seen in a nearby dangerous
+      forest. As they delve deeper into the investigation, they discover that
+      the noble's son may have been involved in a dark cult that sacrifices
+      children to a powerful demon. The players must decide whether to turn the
+      son over to the authorities, or to try to save him from his own evil
+      actions.
+    _id: vUuYHZVfX3x1oGDm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.vUuYHZVfX3x1oGDm'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      The players are hired by an upper class Epicurean's Club to find and kill
+      a specific beholder for them to eat. Meanwhile, a second group claims that
+      this is immoral, since beholders are sentient beings, and to instead bring
+      the beholder to justice by capturing it alive or killing it. However, when
+      the party finds the beholder, they discover that it, while not willing to
+      be killed or captured, much prefers being eaten to letting itself go to
+      waste.
+    _id: tl9awp1mmYtnefEO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.tl9awp1mmYtnefEO'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Evil cult is trying to bring their deity back so it can do its evil thing.
+      An order of knights is working to eliminate this cult and the threat it
+      poses. A third party hires some individuals to stop the order from
+      eliminating the cult, claiming that the being which trapped the cultists
+      god managed to power the cage with worship, if enough (thoroughly evil)
+      cultists die then the god will break free and wreak havoc.
+    _id: gfNEl4qjTI749gZN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.gfNEl4qjTI749gZN'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      The party is hired to drive off a group of "terrorists" using magic to
+      awaken trees and grow plants to attack a nearby city. However, the
+      "terrorists" are actually druids that seek to regrow the forest where the
+      mayor's men burned it to the ground to expand their city. The druids do
+      not see their acts as terrorism but as an attempt to protect nature from
+      the ones that want it destroyed and replaced with civilization.
+    _id: XHgNasCc4McxQaZu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.XHgNasCc4McxQaZu'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      The party is hired by a foreign government or entities within the current
+      government to infiltrate a peaceful protest and surreptitiously turn the
+      protest violent. This will either give the government the justification it
+      needs to send in soldiers to suppress the locals, or it will propel the
+      protest into a revolution to overthrow a corrupt regime.
+    _id: 7UrVpvfZg31vSW4Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.7UrVpvfZg31vSW4Y'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      The party is asked to investigate why anyone who enters the woods returns
+      with no memories. A Fey creature who encounters them prevents their death
+      from a terrifying creature, but wipes their memory so they cannot tell
+      others about its home.
+    _id: pCxlAkit7bm72xko
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.pCxlAkit7bm72xko'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      A new city is going to be built on the sight of an old mill town that’s
+      been abandoned for decades. Unfortunatly, the old inhabitants died off for
+      a reason, and they are willing to rise from the grave to protect that
+      terrifying secret.
+    _id: a2IWKUTl3VkBrhOK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.a2IWKUTl3VkBrhOK'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      An evil magic user is capturing people and draining them of their life
+      energy. It turns out that, in an attempt to gain more power the mage
+      summoned a powerful entity. The mage quickly realized that they were
+      unable to control this entity, so they trapped it in a magical prison. The
+      prison requires life energy to maintain it. Stop the mage and potentially
+      release something far worse or allow the mage to keep stealing people's
+      life energy.
+    _id: 6YqldWO6qrVh5epV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.6YqldWO6qrVh5epV'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      A hunting guild is struggling to produce any food and the town they serve
+      is beginning to starve. To top things off, two of the hunters returned
+      recently, very badly injured. The party is asked to investigate the
+      hunting grounds and try to figure out what has happened to the animals.
+      The party eventually discover that the hunting grounds have recently come
+      under the protection of a druid, who's animal friend had been injured by
+      one of the hunters months prior.
+    _id: 8Jid6aUoxzp8BJcW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.8Jid6aUoxzp8BJcW'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      A baker is sentenced to death for selling poisoned goods. The man has
+      proof he is innocent. Unfortunately, the real poisoner is a very powerful
+      man, and especially hard to get to. If the baker is killed, his guard will
+      be down, giving the authorities their only chance to apprehend their
+      cities most notorious criminal. Should an innocent die to stop a serial
+      killer?
+    _id: ViPwYBIyEf1MdaTR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.ViPwYBIyEf1MdaTR'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      A family seeks to find their missing child who is missing from their home,
+      upon further discovery the child ran away from the home due to negligence
+      on part of the parents. The child claims abuse or lack of provision.
+    _id: IGNev3vadoDOVJee
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.IGNev3vadoDOVJee'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      The party must seek out a famed healer to treat the heir to the
+      land/fortune/guild. The healer travels with a group of servants with oddly
+      shaped lesions hidden beneath their robes. In order for the healer to cure
+      the heir they must use a magic orb that painfully transfers the disease to
+      their servants leaving fresh lesions in the same shape as those floating
+      in the orb as the disease is transferred.
+    _id: fmkgysCtpam1xkkL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.fmkgysCtpam1xkkL'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      The Sage of Windmere hoards countless books, some of them one-of-a-kind,
+      refusing to let others copy or even see them. The Monks of Yewlane
+      consider this an intolerable restriction on knowledge that mere property
+      rights cannot justify; they want you to sneak books away from him, then
+      return them once copies are made.
+    _id: pDWegb9ZP7cFaxhs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.pDWegb9ZP7cFaxhs'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      A Lord sends the party to investigate the lack of supplies coming from a
+      usually thriving village in the woods. The Village is falling apart
+      because the fruit and vegetables that they gather from the forests are
+      rotten and shriveled. The reason for this is because the section of the
+      forest is controlled by a group of overly charitable dryads that give
+      their lives to supply the food and now the forest is dying with the last
+      dryad.
+    _id: 4sUm9oxaZf8biohP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.4sUm9oxaZf8biohP'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Goblins have been attacking a newly constructed dam above a village, and
+      the party is hired to stop them. The goblins claim that the dam has caused
+      their underground homes to flood, and the party must decide whether to
+      prioritize the safety of the village or the homes of the goblins.
+    _id: yGBA2EtW9fMt7awj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.yGBA2EtW9fMt7awj'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      An entire mountain village are advertising a magical wellspring that can
+      grant any who bathe in it the power of a dragon! The opportunity (although
+      incredibly expensive) is too good not to investigate. What they’re NOT
+      telling everyone is that this ‘Magical Wellspring’ is actually the crystal
+      blue blood of a dragon that is beyond ancient and the last of its kind.
+      They have it chained up inside the mountain it used to call its home and
+      have bled it to the point that it’s almost dead. What will the party do?
+      Fight these dragon infused people? Or let an innocent, good hearted
+      creature suffer?
+    _id: b9niHSWGdAaIKzrj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.b9niHSWGdAaIKzrj'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      An important diplomat or authority seeks the PCs to help him fake his
+      death. Desperate to retire and be rid of the pressures of his position, he
+      simply wants to live a “normal” life from now on. Unfortunately the
+      kingdom is having a big peace meeting with a rival nation, that will
+      likely go wayward without them. If he attended the meeting however, his
+      work would be required to maintain peace with the other nation for years
+      to come.
+    _id: 7NBXkHDCt20XLOWJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.7NBXkHDCt20XLOWJ'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      A collection of prophecies written by a sage have mostly come true the
+      last few years. The last one which has yet to pass indicates that a child
+      born with a certain birthmark will cause great calamity if they grow up in
+      this country. A child with this mark is born. Do the players uproot an
+      entire family who may not be able to afford or survive in a new land
+      (potential issue of no other country wants to take them) or do they
+      convince the people to stay and run the risk of the prophecy coming true?
+    _id: DXRmZKRV3GzsgPco
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.DXRmZKRV3GzsgPco'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      A town seeks your help in slaying a monster that has been reported to kill
+      a certain number of theirs. When confronting the monster, it admits to
+      killing the town folk, but as a result of an attack on their home at
+      night. The monster was acting in self-defense and would prefer to be left
+      alone. The town is wanting to use the monster's sanctuary as development
+      for expansion and business and have been trying to scare or kill it away
+      for months now. The town is outgrowing its current infrastructure and have
+      been unable to get the monster to agree to leave. The town leaders believe
+      they had no other choice.
+    _id: bdFci3eTE0UMM9q6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.bdFci3eTE0UMM9q6'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      The party receives a request to stop a necromancer who is robbing graves
+      to create undead. They soon learn that the necromancer is using the undead
+      to run a large farm that supports several surrounding villages..
+    _id: 1CvRdcgS6PetCjvI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.1CvRdcgS6PetCjvI'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      The party is hired to find a criminal that has been terrorizing the town.
+      The party is monitored loosely and is expected to give updates on their
+      progress to ensure that the town is getting their money's worth. The party
+      tracks the individual but finds that the individual is actually two souls
+      in one body, and transforms to reflect so. The innocent soul in the body
+      has no recollection of what the other half is doing, and is completely
+      harmless. If the party does nothing, the guilty soul will continue to
+      terrorize the town.
+    _id: 9mkQBcaHhsKndBD8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.9mkQBcaHhsKndBD8'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      A pirate captain has stolen a great treasure from the King. Gain the
+      pirate's trust by aiding them in their piracy to find out where he's
+      hidden the treasure.
+    _id: wTLUDjEdrmJ1vPMZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.wTLUDjEdrmJ1vPMZ'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      Ever since the local kingdom's royal family was executed some 10 years
+      ago, the area has existed in peace and harmony as a result of the Accord
+      of the Three, a treaty amongst the three dukedoms, now minor kingdoms, to
+      work together as a confederacy. The area economy has benefited incredibly
+      for the people of these small kingdoms as a result. All the while,
+      uncorroborated rumors abounded about a single male heir, a baby with curly
+      red hair, dark complexion, and vivid green eyes, that escaped with the
+      royal nursemaid on the day of his birth, the day of his family's death,
+      persists. A small but strong rebellion loyal to the old royals has never
+      been far below the surface. You are called to an audience with
+      representatives of the three kings. A 10yr old boy matching the
+      description of the potentially lost royal has been sighted 100 miles north
+      by northwest in a small town. Find him. Kill him discretely before his
+      existence becomes common knowledge. Upon your success, you will be
+      rewarded handsomely, and, if you fail, the three kingdoms will devolve
+      into bloody war.
+    _id: JTJ1U6zoczktKXqN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.JTJ1U6zoczktKXqN'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      A group of villagers hires the party to investigate a series of strange
+      occurrences in a nearby forest. The villagers believe that the forest is
+      cursed and that they are being punished by the spirits of the forest. The
+      party discovers that the forest is actually being damaged by a group of
+      loggers who are clear-cutting the trees and polluting the water. The
+      loggers claim that they are providing jobs and resources for a neighboring
+      community.
+    _id: RC7mApdgOzAMCu4d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.RC7mApdgOzAMCu4d'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      A local lord has hired you to remove the goblins that have taken over the
+      church and has started to take over the surrounding buildings. Upon
+      arrival you see they take in orphans as forced labor. The orphans are
+      miserable but asking whether they prefer staying in the streets versus the
+      meals and boarding the goblins provide, they choose the church. The choice
+      is whether you leave them be or remove the goblins, because they will
+      continue to take over the rest of the village.
+    _id: W6ai51Mfi88Id5rC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.W6ai51Mfi88Id5rC'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      The party is tasked by local clergy with finding homes for three orphaned
+      siblings: two boys (about 12 and 10) and a girl (about 6). A local farmer
+      and his spouse are willing to take only the boys (to work on the farm); a
+      wealthy, childless widow visiting her cousin will take only the girl (she
+      wants an heir). The children want to stay together. No one in town can
+      afford to take all three children. The widow will take the girl back to
+      the place where she lives in two days when her visit ends. The children,
+      who were found wandering the road, have no living relatives and no local
+      ties. Will the party negotiate these arrangements? Talk one of these
+      parties into taking all three? Donate to a completely different family who
+      will keep the children together? Take the children to another town and
+      hope for the best? Leave the clergy to handle it?
+    _id: IHM7lsFfFRGJwDYD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.IHM7lsFfFRGJwDYD'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      The heir apparent is not the rightful heir; get this evidence to the
+      palace on behalf of his older brother, who should replace the dying King.
+      The older brother has been considered illegitimate, but we have a wedding
+      ring and testimony from the priest who secretly married the king to his
+      mother before he was born. What's more, the younger "heir apparent" has
+      known about this all along and knows that his older brother deserves the
+      throne. Problem is... the older brother is an idiot; the rightful heir
+      according to the law, but probably a terrible king-to-be.
+    _id: PWZcdi4lva1kKw6x
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.PWZcdi4lva1kKw6x'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      The party is hired to clear the nearby forest of a small pair of deadly
+      owl bears so that the hunters may roam the forest in peace. On their way
+      to slay the beasts, they find many signs and instances of Gnoll corpses
+      and signs of fighting against them. If they chose to investigate, they
+      will find on the far side of the forest is a band of Gnolls who fear the
+      owl bears, and have been kept from exploring deeper in the woods (and thus
+      discovering the village) because the Owl bears keep them at bay. Should
+      they be removed, it is likely the Gnolls will push deeper into the forest
+      and find the village.
+    _id: o7OLoNvTmDdT61wU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.o7OLoNvTmDdT61wU'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      PCs are hired to clear out kobolds from their mine nearby, so that humans
+      can mine their silver.
+    _id: Rx7MNaRsyHDV3DhO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Rx7MNaRsyHDV3DhO'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      The party is hired to bring a crate of valuable medicine to a faraway city
+      facing a debilitating wasting disease. You are warned that you will face
+      opposition on your way, and may have to smuggle it in, and that it would
+      be confiscated if found. Your party is approached with urgency and paid
+      handsomely. However it's not medicine, it's all addictive narcotics.
+    _id: CQVkOgNco8ML35Mc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.CQVkOgNco8ML35Mc'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      The party has been hired as bodyguards, to escort a negotiator to a peace
+      conference between two warring city states. During the journey, the more
+      time they spend with the negotiator, they learn that he’s actually a
+      former warlord, accused of war crimes and cruel experiments against enemy
+      prisoners of war. He was supposedly shot several times with arrows,
+      crossbow bolts, a couple of ballista bolts, stabbed, hanged, decapitated
+      and burned at the stake. However, the body was never reliably identified.
+    _id: V7CEzBsJKnrBxCQS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.V7CEzBsJKnrBxCQS'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      The party is asked to eradicate a kobold/goblin pack outside the town for
+      stealing from local farmers. The pack is only stealing because they've
+      been pushed out of their home by the town.
+    _id: gRhHGUGSpgpSY7r9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.gRhHGUGSpgpSY7r9'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      A devil promises one wish in exchange for his release from magical
+      shackles.
+    _id: HhXbJRQEOIkyLoME
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.HhXbJRQEOIkyLoME'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      A town lord wants you to protect the construction of a large public works.
+      They are rerouting a river through a different valley which would mean far
+      more fertile land for his people. However, the valley the river is being
+      diverted from is occupied by a smaller village. Without the river, it will
+      turn into a ghost town.
+    _id: ZzMx2SDd3dJr1Nr3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.ZzMx2SDd3dJr1Nr3'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      The king has a rebel untamed frontier region that is always in need of
+      purging of humanoids. Recently there is talk of an Evil
+      Beholder/Dragon/Big Monster amassing a tribe of giants and that they rule
+      that region limiting humanoids but also human settlers. Once you meet the
+      leader of that tribe you find him to be intelligent and amendable to
+      almost every propositions. However he is amassing tribes after tribes
+      under his banner and will soon have much more power. If the players get
+      rid of the leader, the giants will not go away and a worst leader may take
+      his place. If the players wipe the giants, the humanoids will bounce back
+      and be even more of a problem.
+    _id: sWBhQTrc1cr1UxKv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.sWBhQTrc1cr1UxKv'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      The player characters come across a notorious bandit who has recently been
+      injured in a robbery gone wrong. The bandit offers them a deal: if they
+      help him retrieve a valuable artifact from a nearby ruin, he will give
+      them a large sum of gold and information that could lead them to even
+      greater treasures. However, the ruin is guarded by powerful magic and the
+      artifact may have a terrible curse attached to it.
+    _id: Rnr8hn6hOPQcJzvC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Rnr8hn6hOPQcJzvC'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Ruthless cultists have kidnapped the baron's son and daughter-in-law and
+      promise to kill them. The baron wants you to rescue his son but not his
+      daughter-in-law, who must be "accidentally" left behind. Once his son is
+      widowed, the baron has a new highly favorable political marriage lined up
+      for his son.
+    _id: j1Sqxp62W43ZRXxc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.j1Sqxp62W43ZRXxc'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      A local woodworker asks you to retrieve a special kind of wood from a
+      grove nearby. When you reach the grove and attempt to fell one of the
+      trees a dryad appears. The dryad will ask for a trade, you may take a tree
+      from the grove if you agree to take a sapling to plant in another location
+      (she may describe a particular kind of location eg: near the shoreline).
+    _id: Hdsn0xDoqKHe0WIB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Hdsn0xDoqKHe0WIB'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      A thief keeps stealing from a farmer and his farm is in danger of being
+      unable to provide food for the local town if it continues. A prominent
+      member of the community, the nasty head of the thieves guild chapter, has
+      been arrested and charged for the crime. However: he is adamant on he is
+      innocent and has never used their skills to harm the residents of the
+      town. It turns out, a group of destitute children are the thieves, but
+      they are doing so as their single mother is extremely ill and is unable to
+      work to provide for the family. Without food, they and their mother will
+      surely starve. However, an innocent man will soon lose his hands for a
+      crime he did not commit if they are not brought to justice.
+    _id: kmnIC3SnuPxMvgdG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.kmnIC3SnuPxMvgdG'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      A farming community tell of a beast that has been killing their live
+      stock. The beast is in fact a wild man, cursed by a witch to become a
+      rampaging wolf at night. The witch cursed the man because he rebuked her
+      love for the love of another.
+    _id: sczXT1UaySaZtmET
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.sczXT1UaySaZtmET'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      Players get hired by a Wizard for protection. As of late, the Wizard has
+      been hunted by devils/demons/twisted creatures of some sort from another
+      plane. Turns out though, these creatures used to be living people- the
+      Wizards former apprentices, who are coming back for revenge.
+    _id: CNw6KHnUw6pxv3l5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.CNw6KHnUw6pxv3l5'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      The party is hired to liberate a recently invaded border village. On
+      further investigation, this is far from the first time the village has
+      been "liberated", and multiple groups have a claim to it as their home.
+    _id: o5pTf7w0vvfTwSz5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.o5pTf7w0vvfTwSz5'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      A lord has asked the party to dispatch some low-life bandits who are
+      terrorizing the local people. The bandits call themselves freedom
+      fighters, fighting against the over taxing of the lord, taking the money
+      off the middle class to fund for weapons, not wanting to give up vengeance
+      against the lord who let their children starve.
+    _id: gMkpHiesSKAzoWqj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.gMkpHiesSKAzoWqj'
+  - range:
+      - 101
+      - 101
+    name: ''
+    description: >-
+      The party is hired to escort a caravan of civilians through a war zone
+      between two nations. Along the way, they discover that one of the covered
+      wagons contains weapons that will prolong the war and break the fragile
+      armistice. The party must decide whether to continue on their mission and
+      deliver the weapons, or risk their own lives and the safety of the caravan
+      to prevent the weapons from reaching their destination.
+    _id: Jm7NYhtmjunyGJMp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745264221
+      modifiedTime: 1792745264221
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!gLfYW0Vi5YfvQuiP.Jm7NYhtmjunyGJMp'
+folder: null
+_id: gLfYW0Vi5YfvQuiP
+img: modules/game-icons-net/whitetransparent/hill-conquest.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792745264221
+  modifiedTime: 1792747029142
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1800000
+_key: '!tables!gLfYW0Vi5YfvQuiP'

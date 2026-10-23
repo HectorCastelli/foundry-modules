@@ -1,0 +1,2285 @@
+name: Random Potion Effects
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: You grow feathers all over your body.
+    _id: ZWrh62clHNvi0nPy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.ZWrh62clHNvi0nPy'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      You feel your body begin to change! You are turned into a tiny frog for
+      1d4 days.
+    _id: ycbN1LOByU3NOU5I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.ycbN1LOByU3NOU5I'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: You fall in love with the first living thing you see.
+    _id: 8HlQaVVwdBEZRWF6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.8HlQaVVwdBEZRWF6'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Your skin begins to turn a sickly green, and you gain the ability to
+      breathe underwater for 1d4 hours. You also lose the ability to breathe
+      outside of water for the time limit!
+    _id: QTxGNiFiMCgPjt8t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.QTxGNiFiMCgPjt8t'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: You grow gills on your neck. You can breathe underwater for 1d4 hours.
+    _id: 46Lrn16A4x1Zz3t6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.46Lrn16A4x1Zz3t6'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: You can only speak in lies for 1d4 days.
+    _id: 3TQgA72HNxPNXOJD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.3TQgA72HNxPNXOJD'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      The content of the potion is a literal soul! If you try to drink it, you
+      must succeed on a DC 13 CON saving throw or your soul will be swapped for
+      1d10 days.
+    _id: Acw9hhouPRHhKiBH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Acw9hhouPRHhKiBH'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: Your skin begins to glow, creating a 25ft. aura of light around you.
+    _id: IAOmXn6abW7dQ2cx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.IAOmXn6abW7dQ2cx'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: You forget how to read for 1d4 days.
+    _id: JbwBB7Xg3MwR8X8a
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.JbwBB7Xg3MwR8X8a'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: You gain the effects of gaseous form for 1d4 hours.
+    _id: VLnj9auXtDVFcZLA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.VLnj9auXtDVFcZLA'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: You gain a vague, mystical vision of the future.
+    _id: XA2uCk0I5ozppE7W
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.XA2uCk0I5ozppE7W'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Your skin turns pale and your blood stops pumping. You become undead for
+      1d4 hours.
+    _id: JUQ9NqphmXmcggfF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.JUQ9NqphmXmcggfF'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: Your body turns to stone for 1d4 days.
+    _id: zf4aJ9rJzTYHeRxk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.zf4aJ9rJzTYHeRxk'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: Your hair turns the color of the potion you drank.
+    _id: MRwpNGePc65rAnin
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.MRwpNGePc65rAnin'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      You are filled with courage, making you immune to fear effects for 1d4
+      days.
+    _id: 0g1TmyJdyViHhRPv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.0g1TmyJdyViHhRPv'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      You feel your tongue begin to twist. You can only speak in rhyme for 1d4
+      hours.
+    _id: h2OUrofgNryfiyKi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.h2OUrofgNryfiyKi'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: You lose your shadow permanently.
+    _id: OqwM744yxx9BVVWx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.OqwM744yxx9BVVWx'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: You switch to the opposite gender.
+    _id: pBzZDDDlGSJdganh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.pBzZDDDlGSJdganh'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: The potion gives you resistance to cold damage for 1d4 hours.
+    _id: U3yJu6Ld8d8PeIVq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.U3yJu6Ld8d8PeIVq'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: You begin to hover one foot off the ground for 1d4 hours.
+    _id: fgcB5QGvIyq4NUk0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.fgcB5QGvIyq4NUk0'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      You suddenly feel another arm growing out of your back. This third arm
+      lasts for 1d4 days before it falls off. It functions as a normal arm.
+    _id: YGZOqis6Ng3lhScv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.YGZOqis6Ng3lhScv'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: The potion gives you resistance to radiant damage for 1d4 hours.
+    _id: QOEFoBVFi96bff3D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.QOEFoBVFi96bff3D'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: You can speak to animals for 1d4 hours.
+    _id: dApCipnAsdwI4hST
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.dApCipnAsdwI4hST'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: You gain 1d10 hit points each round for 1d4 rounds.
+    _id: V1sxvETgyk7zfxmc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.V1sxvETgyk7zfxmc'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: You don't need to sleep for 1d8 days.
+    _id: ozssEa9LI46lRVYl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.ozssEa9LI46lRVYl'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: You are cured of any diseases that you have.
+    _id: 5SPfoRoDQk9cMWL1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.5SPfoRoDQk9cMWL1'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Your fingers become completely flaccid for 1d4 hours. You cannot hold
+      anything in your hands.
+    _id: tYgV95aUYAHw2XVN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.tYgV95aUYAHw2XVN'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      You begin to have dark visions of an elder god. You fall under the effects
+      of Fear for 1d4 hours.
+    _id: 1QrYOaBg9DorGOBF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.1QrYOaBg9DorGOBF'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: All tattoos on your body vanish.
+    _id: 6IkGckCg6JnyAqvC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.6IkGckCg6JnyAqvC'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Spiked vines begin growing out of your body for 1d4 days. If a creature
+      touches you, they take 1d4 damage.
+    _id: wXSMAiPxJa8lg0Vn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.wXSMAiPxJa8lg0Vn'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      You grow a third eye in the center of your forehead, increasing your
+      perception skill by 2.
+    _id: Z5R6ltKdakhsqySf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Z5R6ltKdakhsqySf'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      You are instantly resurrected if you are killed within 24 hours of
+      drinking this potion.
+    _id: 5xYXQW7k6UhE8Ui5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.5xYXQW7k6UhE8Ui5'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      You become extremely physically ugly for 1d4 hours, losing 2 points of
+      CHA.
+    _id: AboFVwKUysm77GqS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.AboFVwKUysm77GqS'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: Your size shrinks by 1d4 feet for 1d4 hours.
+    _id: fvDvXbw4k6pZcOUn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.fvDvXbw4k6pZcOUn'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: The potion gives you resistance to force damage for 1d4 hours.
+    _id: AwvaTx1WKUEl96KF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.AwvaTx1WKUEl96KF'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: The potion gives you resistance to lightning damage for 1d4 hours.
+    _id: gMUlRcuJznvEf5J2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.gMUlRcuJznvEf5J2'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Your skin begins to harden at an alarming rate. You are turned to stone
+      for 1d4 hours.
+    _id: zXtHrKmXS6PvHLgM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.zXtHrKmXS6PvHLgM'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Your skin turns to metal for 1d4 hours, giving you resistance to martial
+      attacks.
+    _id: HNZl5mwKNhYhSXEp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.HNZl5mwKNhYhSXEp'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: Mushrooms begin to grow out of your head.
+    _id: thg9zzgXw7QFyeXA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.thg9zzgXw7QFyeXA'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      You feel incredibly strong! You now have the strength of a Frost Giant (23
+      STR) for 1d4 hours.
+    _id: XHjZUnZflsGJsFv5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.XHjZUnZflsGJsFv5'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: You can understand all languages for 1d4 hours.
+    _id: 9MiH9EJWNPOjF8SE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.9MiH9EJWNPOjF8SE'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: You cannot tell a lie for 1d4 days.
+    _id: pwvKcT2VTP0gE0kF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.pwvKcT2VTP0gE0kF'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: You regain all of your spell slots.
+    _id: vXYUv1MwmqIEG4GK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.vXYUv1MwmqIEG4GK'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: You are able to pass through walls that are 1ft. thick, like a ghost.
+    _id: THCEgentDQ2mGWie
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.THCEgentDQ2mGWie'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      When you drink this potion, you gain the effect of the detect thoughts
+      spell (save DC 13).
+    _id: yVvnf5jJwqM1Dufd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.yVvnf5jJwqM1Dufd'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: You suddenly forget the last language you spoke for 1d4 days.
+    _id: aGoc3imhKroCZFhk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.aGoc3imhKroCZFhk'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      The ends of your fingers become very sticky. You can now climb walls for
+      1d4 hours.
+    _id: YNfoKQaEHQDEDICf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.YNfoKQaEHQDEDICf'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: You are instantly teleported to the nearest body of water.
+    _id: ITeVVuvMaqejG5W2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.ITeVVuvMaqejG5W2'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: You lose your reflection permanently.
+    _id: 6e5oWXAOBy1hPEbb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.6e5oWXAOBy1hPEbb'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: The potion gives you resistance to psychic damage for 1d4 hours.
+    _id: 9aiZWoUWSVpDPENv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.9aiZWoUWSVpDPENv'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: Your hair has the effect of being underwater permanently.
+    _id: x0o76b0o0GjoTiPe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.x0o76b0o0GjoTiPe'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: You instantly become 1d6 years older
+    _id: iQx2LSlTm6LTib8R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.iQx2LSlTm6LTib8R'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: You can speak with plants for 1d4 hours.
+    _id: Q2cwuHliCDR14lys
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Q2cwuHliCDR14lys'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: You gain double your speed for 1d6 rounds.
+    _id: AjNB8G0bCABPsBNx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.AjNB8G0bCABPsBNx'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: The potion gives you resistance to fire damage for 1d4 hours.
+    _id: dJoHzEc24YyrO7ha
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.dJoHzEc24YyrO7ha'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Drinking this potion has allowed your consciousness to be noticed by a
+      random deity! You have one chance to ask any yes or no question.
+    _id: VxuoKP1tqJZJ3fIL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.VxuoKP1tqJZJ3fIL'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      You begin to secret a substance that is very similar to gasoline. Be
+      careful, you are extremely flammable!
+    _id: 45h2ED7zREwuvWeu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.45h2ED7zREwuvWeu'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      You have horrific hallucinations of demons coming after you for 1d4 hours.
+      You are under the effect of Fear!
+    _id: uIuKvNYpEXHwQXu6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.uIuKvNYpEXHwQXu6'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: Your hair color changes to a random color.
+    _id: 2eInESZ8tIDeLWKU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.2eInESZ8tIDeLWKU'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: All of your inner thoughts are audibly heard for 1d4 hours.
+    _id: P2fesRWwZLkQhjEy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.P2fesRWwZLkQhjEy'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: The potion gives you resistance to poison damage for 1d4 hours.
+    _id: Q2BeNos8rLf3HTE9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Q2BeNos8rLf3HTE9'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: You can cast Fire Breath for 1d4 hours.
+    _id: TXRpzBmcaVrA095t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.TXRpzBmcaVrA095t'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: Your pupils disappear! You are blinded for 1d4 hours.
+    _id: JEKYpgUAaDJdKgLr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.JEKYpgUAaDJdKgLr'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: Your hair triples in length.
+    _id: HLXquoTvhQjR2Dhu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.HLXquoTvhQjR2Dhu'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      You suddenly feel more drunk than you've ever been. You're gonna have a
+      BAD hangover in the morning!
+    _id: fp6bubZOBovD4yOn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.fp6bubZOBovD4yOn'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: You begin to grow insect mandibles on your face that last for 1d4 days.
+    _id: rEbogXMvx7lTAhNB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.rEbogXMvx7lTAhNB'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: Wings sprout out of your back, allowing you to fly for 1d4 hours.
+    _id: dRGxJOPHenUu4JQf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.dRGxJOPHenUu4JQf'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: Your eye color changes to a random color.
+    _id: x0Z96vOQfKeNbxfo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.x0Z96vOQfKeNbxfo'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: You fall asleep for 1d4 days.
+    _id: xWwazV41mDvR5CIc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.xWwazV41mDvR5CIc'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: You can smell gold from 50ft. away for 1d4 days.
+    _id: FVVoXa2ajGMHZyaD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.FVVoXa2ajGMHZyaD'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: You become transparent like a ghost for 1d6 hours.
+    _id: MTCp8NefZEgCdkpV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.MTCp8NefZEgCdkpV'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: Your mouth vanishes for 1d4 hours. You are unable to speak.
+    _id: JkzCN4sBjlCWYJgf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.JkzCN4sBjlCWYJgf'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      You can suddenly hear the thoughts of those around you in your head! You
+      gain the effect of the Detect Thoughts spell.
+    _id: lPe6AjZEZrrmjLcv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.lPe6AjZEZrrmjLcv'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: You turn invisible for 1d4 hours.
+    _id: R42dBNXlC7jTAvqL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.R42dBNXlC7jTAvqL'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: You take on the form of a water elemental for 1d4 hours.
+    _id: lOhhy2xsHkT5OByV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.lOhhy2xsHkT5OByV'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: You transform into a random race.
+    _id: u2XyMm0lPn1BcaWW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.u2XyMm0lPn1BcaWW'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: Your body feels incredibly tired. You gain 2 levels of exhaustion.
+    _id: ZiL5bY13iMn096JS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.ZiL5bY13iMn096JS'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: Your size grows by 1d4 feet for 1d4 hours.
+    _id: z0VS9kYulAl5oLIq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.z0VS9kYulAl5oLIq'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: You are able to cast a random cantrip for 1d4 days.
+    _id: XpzUzq2zK3eWTcTC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.XpzUzq2zK3eWTcTC'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: Your skin color changes to a random color.
+    _id: 0GDqu7l0AhElndPk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.0GDqu7l0AhElndPk'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      You feel like you have springs in your feet! You can jump four times your
+      normal jumping height for 1d4 hours.
+    _id: x5JFmWpPQrukZD55
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.x5JFmWpPQrukZD55'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: The potion gives you resistance to acid damage for 1d4 hours.
+    _id: b5XK2Grl1WhEgaY5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.b5XK2Grl1WhEgaY5'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: You grow a beautiful ginger beard down to your knees.
+    _id: u9m0oI74ik2LzNmK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.u9m0oI74ik2LzNmK'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: Your hair color changes depending on your mood.
+    _id: PZ79iSATgT8XdXEM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.PZ79iSATgT8XdXEM'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: Your AC increases by 1d4 for 1d4 hours.
+    _id: az5Y0xhysNjPZIjG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.az5Y0xhysNjPZIjG'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      You create a clone of yourself every time you sneeze that lasts for 1d4
+      minutes.
+    _id: nXUVRSEccxYCKB4s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.nXUVRSEccxYCKB4s'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      You begin to vomit a swarm of angry insects. You can control them for 1d4
+      hours.
+    _id: TiqHaNkdvZ4a7HEm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.TiqHaNkdvZ4a7HEm'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: You grow goat horns from the sides of your head.
+    _id: LySqIru68mqiYJr8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.LySqIru68mqiYJr8'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      You begin to emit an odd musk from your skin, attracting wild animals to
+      your location.
+    _id: CLOfDxdFrjTxzm8v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.CLOfDxdFrjTxzm8v'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: You gain 1d12 temporary hit points.
+    _id: R8fKtqX29knxTTxd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.R8fKtqX29knxTTxd'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      Your hands and feet grow webbing, allowing you to travel much faster in
+      water.
+    _id: XolbFtf9Q6GbHX9v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.XolbFtf9Q6GbHX9v'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: The potion gives you resistance to necrotic damage for 1d4 hours.
+    _id: xcZVvh2KwoqpEtW6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.xcZVvh2KwoqpEtW6'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      You gain a shiny film over your eyes. You can see in the dark for 1d4
+      hours.
+    _id: Y2hY7QTawfrCIRoy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Y2hY7QTawfrCIRoy'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: You lose all of your spell slots for the day.
+    _id: B69UxlRp2jZgdHoB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.B69UxlRp2jZgdHoB'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: All the hair on your body falls off.
+    _id: Q8SSKrXCtj7om3In
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.Q8SSKrXCtj7om3In'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: You instantly become 1d6 years younger.
+    _id: zRTdSxBUfIEplKuA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.zRTdSxBUfIEplKuA'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: You completely forget the last 24 hours.
+    _id: mSgCdB8yiVlXDoEd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.mSgCdB8yiVlXDoEd'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: You are instantly teleported to the location you found the potion.
+    _id: iZuojdR6WJVOPqy9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.iZuojdR6WJVOPqy9'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: Your breath is now a light flurry of snow.
+    _id: hYJnSCXnmlnbfRrL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.hYJnSCXnmlnbfRrL'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: For the next 1d4 hours, fire damage heals you instead of hurts you.
+    _id: 9CmcjBjtfWlYxbtv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746646679
+      modifiedTime: 1792746646679
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!9U57NljALNtnkxXr.9CmcjBjtfWlYxbtv'
+folder: null
+_id: 9U57NljALNtnkxXr
+img: modules/game-icons-net/whitetransparent/round-potion.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746646679
+  modifiedTime: 1792747029125
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 200000
+_key: '!tables!9U57NljALNtnkxXr'

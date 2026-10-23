@@ -1,0 +1,2506 @@
+name: Types Of Alcohol That Can Be Purchased In Taverns
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Mordenkainen's Magnificent Malt: A beer with just a lower alcohol
+      percentage, for the adventurer that expects he needs to be sober for the
+      upcoming nights.
+    _id: YEJmSk3UbbKzjnLO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.YEJmSk3UbbKzjnLO'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Mordenkainen's Malificent Malt: A beer with an alcohol percentage similar
+      to that of whiskey that has its own plans for naive adventurers.
+    _id: hq0ru0TIxjDOA8b6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.hq0ru0TIxjDOA8b6'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Elven Absinthe: With an herbal taste, one can easily see why it is a
+      popular drink among the elves. Drinkers take care, though, as it is much
+      more potent than it seems.
+    _id: J04gLGo26aPJmfhV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.J04gLGo26aPJmfhV'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      Underdark Ale: It isn’t really from the Underdark, but the brewers figured
+      the name would be eye-catching (they weren’t wrong). It is a dark, potent
+      Burton ale found in pretty much every tavern.
+    _id: kIds78BCxdtDO1aR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.kIds78BCxdtDO1aR'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Goodberry Sangria: Delicious, nutritious, and pricey, this sweet
+      concoction is a fan favorite.
+    _id: h3mpbRYXss58fdBv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.h3mpbRYXss58fdBv'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Devil's Blood Whiskey : Nobody knows whether there truly is devils' blood
+      in this aged whiskey or not... but the feeling of fire in the chest
+      definitely seems to support the claim.
+    _id: xMNODciRo1NIb6q7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.xMNODciRo1NIb6q7'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: 'Gore: Fermented pigs blood and cane sugar.'
+    _id: uYlHUC450yNt4jXq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.uYlHUC450yNt4jXq'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: 'Iced Lager: From enchanted casks. Tastes as cool as the northlands.'
+    _id: S6vjRTVk4ajcKw6d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.S6vjRTVk4ajcKw6d'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Draconic Ale: A strong but rather basic ale; there are 10 additional
+      varieties of it based on the chromatic and metallic dragons.
+    _id: tozBQaQMIgFQUT07
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.tozBQaQMIgFQUT07'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: 'Red Draconic Ale: Infused with cinnamon; feel the burn.'
+    _id: f2GgwA4wp28MLLpI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.f2GgwA4wp28MLLpI'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Blue Draconic Ale: Infused with prickly pear cactus; causes slight static
+      charge when drank.
+    _id: HXPBrAeAJv7qbqjr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.HXPBrAeAJv7qbqjr'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      Green Draconic Ale: It feels like you're drinking straight poison, this
+      ale is so strong.
+    _id: xb7GYjFgMeBMM0bb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.xb7GYjFgMeBMM0bb'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Black Draconic Ale: Infused with various citrus to give it a slight
+      acidity.
+    _id: NVp8eEZmBq8RUhEz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.NVp8eEZmBq8RUhEz'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      White Draconic Ale: Magically enchanted to stay close to the freezing
+      temperature of water. You can feel it go all the way down.
+    _id: vgHWHgrHw90hAXNd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.vgHWHgrHw90hAXNd'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Copper Draconic Ale: Infused with ginger; causes you to hiccup a few
+      times.
+    _id: tblsA9AvKMA5UAD8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.tblsA9AvKMA5UAD8'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Bronze Draconic Ale: Infused with coconut and pineapple. Smells like the
+      sea.
+    _id: AQdD41GpFXDLTdxa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.AQdD41GpFXDLTdxa'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: 'Brass Draconic Ale: Infused with agave; makes you slightly sleepy.'
+    _id: Q2A6Zl6DQpGruM09
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Q2A6Zl6DQpGruM09'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Silver Draconic Ale: More of a cider than an ale, it is magically
+      enchanted to be the perfect temperature for the drinker. It is made using
+      the finest apples.
+    _id: pyXASGk75kmd3SZW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.pyXASGk75kmd3SZW'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Gold Draconic Ale: Infused with cinnamon, little gold flakes can be seen
+      floating within. Causes the drinker to belch small harmless flames for the
+      next 5 minutes.
+    _id: nJdNRCEzLRETtcyg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.nJdNRCEzLRETtcyg'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      Patrons Pint: A drink that shifts its type to correspond to the drinkers
+      chosen patron/deity/inspiration. Dark ale with foam in the pattern of
+      tentacles for a Great Old One, pale ale with an evershifting cloud for
+      Archfey, and spiced mead with a bubbling fire at the base for the Fiend
+      patron.
+    _id: XNxvazhFmEo8KYOA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.XNxvazhFmEo8KYOA'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      Cave Breath Hard Whiskey: Of gnomish make. Gnomes don't do much alcohol,
+      so when they do, you know they'll apply the same wacky engineering to make
+      a bottle of essentially 50% rubbing alcohol and 50% gasoline that will
+      100% get you effed up.
+    _id: SL1a1GN9OmRY3mxt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.SL1a1GN9OmRY3mxt'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      Bubblegut Ale: A dark, heavy brew with hints of clover. I bet you can't
+      drink a pint without burping.
+    _id: bmoyHNFBzbE9awxp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.bmoyHNFBzbE9awxp'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      Frost Giant's Kiss: A chilled shot that leaves your breath frosty for 12
+      hours.
+    _id: R0LQRa9dGQu1nWyu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.R0LQRa9dGQu1nWyu'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: 'Red Fez: A heady palm wine brewed in the desert regions.'
+    _id: rGNzCg3s8RvziPct
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.rGNzCg3s8RvziPct'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Tectlate: An ancient fermented corn drink. Based on a thousand year old
+      recipe.
+    _id: k4AnAdFh51fzO1th
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.k4AnAdFh51fzO1th'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Miguelabu: It's a drink that is based off of Malibu but with an aasimar's
+      twist.
+    _id: 2HSUz4H7LsFzMhJs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.2HSUz4H7LsFzMhJs'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Awakened Wine: A vineyard owned by a druid who cast Awaken on his vines.
+      Claims it creates better wine when working with the plants input.
+    _id: uxABWZj8QBqKKyjL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.uxABWZj8QBqKKyjL'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      Spore Wine: A svirfneblin wine made from crushed mushroom. Despite being
+      considered top shelf due to its difficultly to obtain, most surface
+      dwellers find it stomach turning. Definitely an acquired taste.
+    _id: GyDKGU9yGvU3OBVO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.GyDKGU9yGvU3OBVO'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Pixie Cider: Served by the teaspoon, this surprisingly potent drink leaves
+      the drinker seeing stars and "pixie dust" trails behind all other
+      creatures for 1d4 hours.
+    _id: iiNWmcmMoK3q0AR8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.iiNWmcmMoK3q0AR8'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Vegan Blood Wine: Wine that has been magically flavoured to taste like
+      blood, for the socially conscious vampire.
+    _id: fAOOZPd4zqP3dtmD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.fAOOZPd4zqP3dtmD'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Zombie Whiskey: An out-of-touch elf decided the undead were "in vogue"
+      this season and created this whiskey from grains soaked in rotting
+      carcasses. Tastes absolutely awful but somehow leaves the drinker without
+      a hangover.
+    _id: DKdAsC52eizX51tq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.DKdAsC52eizX51tq'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Jungle Juice: A spirit from Chult, made from berries grown wild in the
+      jungles.
+    _id: D9Jb0AKa2ckqhJIV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.D9Jb0AKa2ckqhJIV'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      Ver-poo-th: A derogatory name for a vermouth from the moonshae isles that
+      is made from cherries that have been eaten and defecated by a native tree
+      cat.
+    _id: b1J6eJ2Q07gXMd4L
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.b1J6eJ2Q07gXMd4L'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      Orcish Rotgut: A surprisingly pleasant tasting, blood red alcoholic
+      beverage, with secret ingredients that hide the fact that it's incredibly
+      potent. Those particular ingredients do not sit well with non-orcish guts.
+      Anyone drinking it that is not an orc or half-orc must make a DC 15
+      Constitution saving throw a half hour after drinking it (separate from any
+      checks that might be made to resist intoxication). Failure means the
+      drinker feels painful nausea for the following 12 hours, during which the
+      drinker cannot benefit from short or long rests and suffers disadvantage
+      on attack rolls, saving throws, and ability checks.
+    _id: jP7mBIBPB7nY29fn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.jP7mBIBPB7nY29fn'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Korin's Dragonmint Mead: A delightfully light and crisp drinking mead that
+      has a hint of herbal flavors and a tiny finish of mint. Tastes awful to
+      paladins for some unknown reason.
+    _id: SdT21U7BAEycbVZ8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.SdT21U7BAEycbVZ8'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Kobold Kombucha: Comes in all the chromatic flavours, perfect for your
+      hippie-dippie druids and teetotaler paladins.
+    _id: 17q5nv86yhXD7l8Q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.17q5nv86yhXD7l8Q'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Rubyrump's Red Ale: Made with all the care and love you'd expect from a
+      dwarf with the name Rubyrump. A warm inviting red ale with a smooth
+      finish. A winking dwarf caricature with a foamy flagon and "It'll put that
+      ruby twinkle in yer eye" written in bold yellow letter on the barrels,
+      crates, bottles, limited edition flagons, etc.
+    _id: zUTtMrg2vFrELPOz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.zUTtMrg2vFrELPOz'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Jotenhiem's Ringlefich Brandy: Suprise suprise. Who would have guessed
+      some of the best brandy in the region comes from some very outlander-ish
+      Dragonborn living in the mountains. A favorite and well kept secret
+      amongst the locals of the area. Best served warmed and paired with aged
+      goats cheese.
+    _id: u9sp1njXiHOLIFwt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.u9sp1njXiHOLIFwt'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Denurs Golden Ale: A light beer with moderate hoppy finish and a crisp
+      mouthfeel with the smallest notes of hickory and rasberry. Simple enough
+      to be enjoyed casually, but with just enough hidden suprises for a beer
+      lover to find interesting.
+    _id: gEER22qY8YqmTghQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.gEER22qY8YqmTghQ'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      Gerlach's Winery: A merlot grown by gnomes. They say the process with
+      which they make this particular merlot is actually a secret formula locked
+      away in a vault guarded by two ogres too dumb to read but too smart to
+      turn down the gold the Gerlach family puts up for their services.
+    _id: DjmfCvrZbRChL9sK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.DjmfCvrZbRChL9sK'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      Gentleman Jim's: The mass produced whiskey that comes from the city in
+      large shipments. Straightfoward and simple, cheap but effective for
+      livening up a party. The black bottle with flourishes on its print is
+      easily recognized by whiskey savant and dullard alike.
+    _id: Hkk617cEnLufxuQc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Hkk617cEnLufxuQc'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Shanty Shandy: Allows the drinker to "see" musical tunes hanging in the
+      air. Taking a swig before dancing dramatically improves one's skills.
+      Powerfully addictive to bards, as it connects them with music on an
+      intimate level. Bards who imbibe will soon be unable to play without it.
+    _id: G8i8yw30b7nZ7T7o
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.G8i8yw30b7nZ7T7o'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Goblin Gutrot: Brewed in a local cave by the smartest of goblins, this
+      stuff is your one copper for two flaggons. It will destroy your liver,
+      tastes like shit and may have negative impact on you from cave rot. But at
+      2 tankads minimum per copper, sometimes you just want to get drunk.
+    _id: lVzc5gtTAcYkgM3O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.lVzc5gtTAcYkgM3O'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      Brandis' Brandy: Named after a famous pirate captain, this brandy is cut
+      with seawater, and the barrels it is aged in are submerged in the sea for
+      a year before it is served to the patrons.
+    _id: 7qv2V79tf5PJspAH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.7qv2V79tf5PJspAH'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Stahn Brown Ale: A rich dwarven-brewed ale, dark in colour and very strong
+      in flavour. Regular consumption results in an inability to feel the cold,
+      refusal to wear a coat even when snowing, and an immense craving for
+      finely sliced spiced lamb with salad on a flatbread.
+    _id: Wf5FcCQmjsGdkFMM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Wf5FcCQmjsGdkFMM'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Rats Piss: Served in goblin bars exclusively, in a stitched-up ratskin.
+      Extremely powerful drink. It is customary at goblin parties to "drain the
+      rat" by squeezing the skin dry in one go, similar to doing a yardie at a
+      21st.
+    _id: hYToPIx7KLzYgQdb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.hYToPIx7KLzYgQdb'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Moody Cider: Made from the apples of treants. However they were feeling
+      when the fruit was harvested is the emotion that the drinker will
+      experience for the next hour. Every drink is a gamble! Exuberance,
+      depression, fits of laughter, shyness, love, or confusion.
+    _id: qWRwtDvM1JdpgC5e
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.qWRwtDvM1JdpgC5e'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      Ooze Bane: A brutally strong and rough spirit that doubles as a solvent
+      for oozes and jellies!
+    _id: cKq69EOeJ2bG6f8I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.cKq69EOeJ2bG6f8I'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      Choke Ale: A nearly undrinkable goblin beverage made from fermented
+      garlic. It is traditionally served with chunks of garlic floating in the
+      glass, hence the name.
+    _id: ggBMgVohxmFU1K0J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.ggBMgVohxmFU1K0J'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Gru'sh: Made of the bladders of large sea-life, this coastal inn sells
+      this oily black beverage in large serving sizes. It is extremely potent,
+      and had it not been for its fluidity, it would be extremely hard to keep
+      down. If spilled, you must make a Dexterity DC10 Saving Throw to not slip
+      on the tile it was dropped on or fall prone.
+    _id: fBFGoOBV3oxDbtVo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.fBFGoOBV3oxDbtVo'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      Dwarven Tomb: Also called a Pondahl Tafone by elitists who don't want to
+      sound like a ruffian when they order it, this drink is a dwarven-made
+      black mead. Besides its blackcurrants, it has a very earthy flavor and a
+      grit to it. While someone who calls it a Pondhal Tafone would likely
+      explain to you in depth that the earthy flavor and grittiness comes from a
+      complicated and sophisticated fermenting process involving fresh roots
+      that only a trained pallette can detect, the validity of this claim could
+      be brought into question as the beverage is traditionally served in an
+      unhewn stone cup. Something which those who call it a Dwarven Tomb, spare
+      no time in pointing out, much to the frustration of their well dressed
+      counterparts who are often mid-explanation.
+    _id: dbg0VSCoE7CE1wDS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.dbg0VSCoE7CE1wDS'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Dark Smoke Bourbon: The best bourbon can only be appreciated with a fine
+      cigar. That's why every bottle has a box included.
+    _id: xfvOMkCBIzU8BYHj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.xfvOMkCBIzU8BYHj'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Party Poppers: A magic cider that has a prize appear after it is drunk.
+      It's bottle cap also has numbers that act like a lottery.
+    _id: sGoRUdEwNoJtHCfD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.sGoRUdEwNoJtHCfD'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Black: A thin translucent black liquid that tastes somewhere between salt
+      water and acrid smoke. Burns going down, ignites at the faintest rumour of
+      a flame, but it's cheap as it comes (2cp for a bottle big enough to knock
+      out an average human).
+    _id: OQWNG0lx8EJ7AccK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.OQWNG0lx8EJ7AccK'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      Brown: Looks like thick opaque brown ale with a lighter brown foam head.
+      There is a noticeable delay when pouring and it will develop a skin if it
+      sits out for too long. Tastes like strobg, creamy, slightly-acidic ale,
+      but fill you up like a good lunch. Often described as a "Meal in a Mug".
+    _id: BdiQWcsLsxKalFyP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.BdiQWcsLsxKalFyP'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Lathander's Light Ale: A pale ale brewed by the clerics at a temple of
+      Lathander. Rumoured to grant minor boons to followers of Lathander, which
+      the temple will neither confirm nor deny.
+    _id: qW3dIpH9cw1FvwN8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.qW3dIpH9cw1FvwN8'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Borovian Wine: A rich blood red in colour, the bartender doesn't remember
+      ordering it, but found it in the cellar so figured he might as well sell
+      it. Not suspicious at all.
+    _id: Tl7MFppNL7Rg9PCv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Tl7MFppNL7Rg9PCv'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Beholders Tears: A clear spirit that causes very vivid dreams the next
+      time the drinker sleeps. Actually just made from a plant know for it's
+      hallucinatory effects but that doesn't make for an exciting name.
+    _id: rKDGcSx4grJTrlsr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.rKDGcSx4grJTrlsr'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      The Princess: A reddish spirit with a fruity taste. Because of the
+      sweetness, the colour and that is sometimes served with some flower inside
+      the glass, some people may think of it as weak, but is extremely potent
+      and usually a few glasses are enough to wake up the morning after with no
+      recollection of what happened.
+    _id: pqWRrn3n5dUXRf8q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.pqWRrn3n5dUXRf8q'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Dragonblood: A dark red wine with an addition of some spice. It's called
+      Dragonblood becouse of the colour, the fact that is served warm, and it's
+      very spicy.
+    _id: Qq9G0ZbudbzZzQPL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Qq9G0ZbudbzZzQPL'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Fairy Gift: A liquor with an herbal flavour and a distinct light-blue
+      colour. The colour is given by some rare plant and can remain for some
+      time on your tongue or your lips
+    _id: zdfcmQ3EWutUqLOD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.zdfcmQ3EWutUqLOD'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Holy Springs Golden Ale: Claims to be made from water drawn from a sacred
+      stream and then blessed by a prophet of the gods. Everyone knows it's all
+      bullshit but drink it anyway because it's super tasty.
+    _id: wrqUTGopv3H8SSZn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.wrqUTGopv3H8SSZn'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Nilbrew: A noxious brown liquid that is legendary for its terribleness and
+      high alcohol content. People ritualistically drink this foul brew calling
+      the process "taking the wanderers journey" due to the tendency of these
+      impromptu acolytes to end up in the most unusual places.
+    _id: VaWsODtuxZUtAkH3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.VaWsODtuxZUtAkH3'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: 'Druidic Sangria: Messes with your visual color spectrum'
+    _id: 9rTowkUjblxPpbA5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.9rTowkUjblxPpbA5'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      The Walking Red: A unassuming dry red wine that the players are instructed
+      to "let breathe," for a while before consumption. The longer the player
+      lets it sit, the more it seems to actually be breathing. If left long
+      enough, it will crawl out of the mug and wander away.
+    _id: VXaHEUAenQhhVIe1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.VXaHEUAenQhhVIe1'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Elven Ale: Made with a recipe stolen from a dwarven brewery. It's
+      drinkable, but not great.
+    _id: Djl7jqOxtJwcW9VL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Djl7jqOxtJwcW9VL'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Dwarven Wine: Made with a recipe stolen from and elven winery in
+      retaliation to them stealing a beer recipe. Slightly more successful than
+      the elvish attempt at beer, but not by much.
+    _id: tBYiTIH2lTlIAkir
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.tBYiTIH2lTlIAkir'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: 'Belbuck: A transulent green, spearmint beer favored by halflings.'
+    _id: I8h4Ck5rxUJfYlY9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.I8h4Ck5rxUJfYlY9'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: 'Blue Eyes Wine: A halfling wine made from blue grapes.'
+    _id: LUNlAcujtIgpDrrP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.LUNlAcujtIgpDrrP'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      Luiren's Best: A black-as-ink, very sweet stout. Brewed by a coastal clan
+      of Luiren, Smokardin.
+    _id: JpxxQF40nKLnOMOb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.JpxxQF40nKLnOMOb'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: 'Pulsch Brown Ale: Halflings make this. It has a pleasant, nutty flavor.'
+    _id: x0oTHuwragf3wEVT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.x0oTHuwragf3wEVT'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Moon Mountain Ale: Very popular drink from the Moon Mountain Brewery in
+      the Forgotten Realms.
+    _id: rbTGEGmszG2KSMzu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.rbTGEGmszG2KSMzu'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      Stonesulder Wine: This yellow-hued, sharp-flavored liquid is made by the
+      sap from demon plants from the Abyss, which is then fermented in wooden
+      barrels.
+    _id: PxOR8ftZrx5cH9Xd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.PxOR8ftZrx5cH9Xd'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Aelfengrape Wine: This elven drink is extraordinarily potent but doesn't
+      have a refined taste.
+    _id: OAYFFJFGwldiIKIw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.OAYFFJFGwldiIKIw'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Elven Aleeian Wine: Grapes plucked from wild vines deep in the forest.
+      Takes several months to create one batch.
+    _id: tpdH2QtXHophaLbE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.tpdH2QtXHophaLbE'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: 'Dwarven Garnet Wine: Made from grapes high in the mountains.'
+    _id: Lj4SCBVDNyR97XuB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Lj4SCBVDNyR97XuB'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Dragonbite Bitter: Exceptionally dark beer. Recipe is centuries old, only
+      the Dragonbite Brewery makes it.
+    _id: 3M5K4wxSpPdgNELL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.3M5K4wxSpPdgNELL'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      Dwarfhead Stout: A powerful, "day to day" brew favored by warriors. Mostly
+      found in dwarven communities.
+    _id: f4m9emXTpEdT2BfW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.f4m9emXTpEdT2BfW'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      Frenzywater: Extremely potent. Bottle may sometimes spontaneously burst
+      into flame if left in sunlight. Might cause a berserker rage.
+    _id: jk6T7ff16vlsmfqH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.jk6T7ff16vlsmfqH'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: 'Gnome Golden Light: A lightweight beer with flowery accents.'
+    _id: Fj46k4hKJMYvI1ZT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Fj46k4hKJMYvI1ZT'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Elven Mead: Elves use exotic honey in the forest to make this. Even
+      dwarves like this drink.
+    _id: PB1WU2AUmKmAg3s8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.PB1WU2AUmKmAg3s8'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Elven Moondrop: Exquisite drink made by experts using fresh dew and
+      moonlight.
+    _id: cFFG0iDBW4hfIplE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.cFFG0iDBW4hfIplE'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Moonslake: Minty halfling drink. Alcoholic apple cider that's been mixed
+      with water in which crushed mint has been boiled, then strained out again.
+      Cool taste, humans don't like the after-taste.
+    _id: 8Fjdk2IeQO4z1JXB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.8Fjdk2IeQO4z1JXB'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Darklake Stout: This drink is a signature ale brewed by the Muzgardt clan
+      of Duergar that live in the Underdark settlement of Gracklstugh in the
+      Forgotten Realms.
+    _id: n0wE5O8jyv05HWAY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.n0wE5O8jyv05HWAY'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Tea: It's just a nice warm cup of tea. Perfect after a day on the town, or
+      a day killing monsters. Have it black, or with sugar and milk if you
+      prefer.
+    _id: vu1IQs0jg4ZHufuK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.vu1IQs0jg4ZHufuK'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: 'Coffee: For those nights where you need to stay awake on guard duty.'
+    _id: QBH5dJOBhQzxb62I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.QBH5dJOBhQzxb62I'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      Three-Ashes Tea: This beverage is a cold, bitter tea, said to aid in
+      meditation. Popular with the Dustmen in Sigil.
+    _id: 6zddTTxPOgZjVOtK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.6zddTTxPOgZjVOtK'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Firewine: Brewed from the Arborean fireseed, firewine is a strong,
+      smoky-flavored wine. It is often consumed alongside fireseeds, as each
+      enhances the flavors of the other when consumed together.
+    _id: FQ6KegQQHPj69nvC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.FQ6KegQQHPj69nvC'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      Oathbeer: Dwarves drink this as part of a ceremony to seal a pact, or as a
+      sign of friendship and devotion. All involved swear an oath before a
+      priest, shed blood into the beer, and the cup passed around. Oathbeer
+      binds the drinkers to the oath, as long as they partake of their own free
+      will. Violating the pact brings a curse upon the oathbreaker.
+    _id: 3sRqzdnmd93IKloj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.3sRqzdnmd93IKloj'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      Dwarven Grave Ale: When a great dwarven hero dies, skilled brewmasters are
+      commissioned to create a signature ale to commemorate his passing. It is
+      stored in barrels that have carvings of scenes of the dwarf's great deeds.
+    _id: i80BCCG3sWre23Ww
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.i80BCCG3sWre23Ww'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      Golden Maggot: A terrible name for a surprisingly fruity pale ale. The
+      recipe is a close-guarded secret.
+    _id: HnbKsAtD0KRuDvN6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.HnbKsAtD0KRuDvN6'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      Island Kava: A dull beige beverage made from a plant root from distant
+      lands. A pungent earthy taste. Will make your lips numb and your brain
+      number.
+    _id: U7c7PzsKLAXSzJwY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.U7c7PzsKLAXSzJwY'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      Jacka's Salted Mead: Tastes like honey-cured bacon. Looks like foul pond
+      scum.
+    _id: 0a5A3Axf33FLRPzI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.0a5A3Axf33FLRPzI'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      C'Suk's Fortified Fruit Wine: The label literally says "Will get you
+      pished"
+    _id: NrPwh4Om4gcwBYGP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.NrPwh4Om4gcwBYGP'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      Owlbear Brew: Cheap and disappointingly watery lager. Inexplicably, the
+      label depicts an Owlbear with massive breasts.
+    _id: hKqsmmGMIytO1SaQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.hKqsmmGMIytO1SaQ'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      Owlbear Premium Brew: A palatable lager that won't break the bank. The
+      label depicts an Owlbear with unfathomably large breasts and a paper party
+      hat.
+    _id: Qk4bWaawjTD3sUvk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.Qk4bWaawjTD3sUvk'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      Human Cider: Made with apples, not humans. Touts itself as a 'genuine
+      human recipe' and has a picture of a happy farm girl on the label. Pairs
+      well with belly pork.
+    _id: KH8bqu9GKIur1Irs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.KH8bqu9GKIur1Irs'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      Wyvern 981: A viscous liquor with an indescribable taste. Some have
+      likened it to being punched in the nose with an onion whilst a fond memory
+      kissed you gently inside your throat.
+    _id: cSJAnTXjasNoLGFj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.cSJAnTXjasNoLGFj'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Gelatinous Gin: One curious and profitably end point in the wizardly
+      experimentation of Curzan is this breed of gelatinous cube, bottled,
+      intoxicating and relatively safe for consumption. This lively cousin of
+      the Gelatinous Cube dances wildly in its bottle when it is given a little
+      shake, as if it is sloshed itself. Sometimes brewers add flecks of
+      precious metals like gold simply for visual effect and conspicuous
+      extravagance. Typically served in a shot glass, the gelatinous drink goes
+      down with a slightly paralyzing effect giving the drinker a signature
+      raspy lisp. It is sweet from the molasses half-metabolized into alcohol
+      (yes, it's technically a rum) and flavored by other organic material added
+      in the brewing process—berries are popular, but some adventurous
+      combinations include ghost peppers, whole octopi and cilantro. Left too
+      long on its own, it has been known to sneak out of the glass and crawl off
+      a bar.
+    _id: YvitneMiN09lDDr8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.YvitneMiN09lDDr8'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Infernal Absinthe: Dangerous stuff. Functionally a deal with a devil in a
+      bottle, infernal absinthe can produce visions in some, nightmares for
+      others. Most people just pass out. If you drink enough of it, you might be
+      in for a terrifying result.
+    _id: wVFWFv1A24yQVXLm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745680624
+      modifiedTime: 1792745680624
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!tXEYEI4DzGExMVKU.wVFWFv1A24yQVXLm'
+folder: null
+_id: tXEYEI4DzGExMVKU
+img: modules/game-icons-net/whitetransparent/beer-bottle.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792745680624
+  modifiedTime: 1792747029135
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1100000
+_key: '!tables!tXEYEI4DzGExMVKU'

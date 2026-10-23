@@ -1,0 +1,2285 @@
+name: Prompts For Idle Chit-chat Between Characters
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: You and x recall the first time you met.
+    _id: BaCkHWoJGPa2kNvN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.BaCkHWoJGPa2kNvN'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: You and x got into an argument, what was it about?
+    _id: 0m0K2ynm4fZJ58nX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.0m0K2ynm4fZJ58nX'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: There's an old saying among your people...
+    _id: bi3ifeTatOy8nISC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.bi3ifeTatOy8nISC'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: You and x discuss philosophy. What is the meaning of life?
+    _id: sDozpaV78ih1BgEv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.sDozpaV78ih1BgEv'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      You picked up a small souvenir in the last town and want to show it off to
+      x. What is it?
+    _id: CalHiYFCbbnNSoQU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.CalHiYFCbbnNSoQU'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: There is a competition in (town), you and x make a bet.
+    _id: qZKdvSpbeU88b0xV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.qZKdvSpbeU88b0xV'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: If you could have a pet, what would you get?
+    _id: EfQ6bVH8eRQLD4au
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.EfQ6bVH8eRQLD4au'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: This area is famous for its (food/drink). What is it?
+    _id: D8ABlSd7iVRzs7jp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.D8ABlSd7iVRzs7jp'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: Do your best x imitation
+    _id: Z4lyVS0d8gV4KB0a
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Z4lyVS0d8gV4KB0a'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: There is a song stuck in your head. You ask X to help you identify it.
+    _id: 9FV9rlb9x4kNhbTS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.9FV9rlb9x4kNhbTS'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      You and x discuss philosophy: Could the Gods create something they could
+      not destroy?
+    _id: gTcCgkuY1xvZc99c
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.gTcCgkuY1xvZc99c'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: You and x discuss favorite alcoholic drinks
+    _id: g6BV1TkIt8SMYPKQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.g6BV1TkIt8SMYPKQ'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: What landmark do you most want to see?
+    _id: tDF3bwHA1grLv0cQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.tDF3bwHA1grLv0cQ'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      You notice there's something different about x. Guess what change they
+      did.
+    _id: kPqXqV53v4UugCXG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.kPqXqV53v4UugCXG'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: Would you kiss a goblin?
+    _id: OFHQR8y07v3iGzpJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.OFHQR8y07v3iGzpJ'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: Someone farted. Determine who did the deed.
+    _id: RsuzC5ilb8Uzx05s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.RsuzC5ilb8Uzx05s'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      There's an auction in a nearby town! Rumor has it they have an item you're
+      interested in. What is it?
+    _id: MrDk6SrLqFtDae6m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.MrDk6SrLqFtDae6m'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: You've heard rumors about (town). What was it?
+    _id: mgzCVQRryNHF0Fqf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.mgzCVQRryNHF0Fqf'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      You and x discuss philosophy. Is someone born evil? Can an evil person
+      ever be made good?
+    _id: gBh7rQDiWALrUFga
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.gBh7rQDiWALrUFga'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: What would you do if you were king?
+    _id: bcf0wBzos7ZXoghN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.bcf0wBzos7ZXoghN'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: If you owned a Tavern, what would you call it?
+    _id: PnCrsxYuAWW99d57
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.PnCrsxYuAWW99d57'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: This weather reminds you of the time...
+    _id: yNRXlKwe9QQRq3OV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.yNRXlKwe9QQRq3OV'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: You and x discuss philosophy. What is the greatest evil?
+    _id: e9hBiwYndeouwq8Q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.e9hBiwYndeouwq8Q'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      You and x recount a prior adventure differently and get into an argument.
+      Each gives their version of events.
+    _id: 6dTzXMFrBGF6YbSS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.6dTzXMFrBGF6YbSS'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: You and x reminisce about previous adventures and swap war stories
+    _id: jDl9AxBHLZdXEKKB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.jDl9AxBHLZdXEKKB'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      You and x decided to play a roadtrip game to pass the time. It has now
+      devolved into a heated debate.
+    _id: gFn382fYWqpMlZlo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.gFn382fYWqpMlZlo'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: Someone ate your lunch. What are you going to do about it?
+    _id: NbxYr6cLOLZ0oFwm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.NbxYr6cLOLZ0oFwm'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: There's an old story you've heard about the nearby woods. What is it?
+    _id: P3XRxhGPbU4tLgyf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.P3XRxhGPbU4tLgyf'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: You and x discuss your favorite animal...and which would win in a fight.
+    _id: i0vxY730zY9Ie44j
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.i0vxY730zY9Ie44j'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: Describe the last time you got drunk. X describes what really happens.
+    _id: BlgoDVeQLE5oNHN7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.BlgoDVeQLE5oNHN7'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      You decide to teach x how to swear in your language (or a rude gesture in
+      your culture)
+    _id: KNYZMXuIj7dSFNir
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.KNYZMXuIj7dSFNir'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: You've heard of a strange festival in this area. What is it?
+    _id: VcCpbFHfYjNvSBB9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.VcCpbFHfYjNvSBB9'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: You and x discuss philosophy. What would you use a Wish on?
+    _id: QxxOZEm1hefmI6n2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.QxxOZEm1hefmI6n2'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: Who in your group would you want to fight the least?
+    _id: vkOuNiFaMMnCIqkO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.vkOuNiFaMMnCIqkO'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: You had a nightmare and confided in x, what was it?
+    _id: 7AXx4gn4QDNJ0Ml8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.7AXx4gn4QDNJ0Ml8'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: You and x discuss philosophy. Where do you go when you die?
+    _id: Gj5DaWns8dnlo5hu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Gj5DaWns8dnlo5hu'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: You and x discuss the value of honor in Adventuring.
+    _id: SZGl0rBY81H9KlV5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.SZGl0rBY81H9KlV5'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: What was the worst tavern you ever stayed in?
+    _id: lJGfLiV6es9Hatfb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.lJGfLiV6es9Hatfb'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: Isn't this the region (important figure) comes from? Tell us who they are.
+    _id: STtxEJNCtYlFoCIx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.STtxEJNCtYlFoCIx'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: You and x reminisce about a former companion. Who were they?
+    _id: I746xetV39Jz83AG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.I746xetV39Jz83AG'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      You have an old friend who retired from the Adventuring Life and set up a
+      shop in the region. What was it called again?
+    _id: tjDunj86Tcu5sORg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.tjDunj86Tcu5sORg'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: You are writing a letter, x is bugging you to reveal the details.
+    _id: GYW5aBC3i8tCD07Y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.GYW5aBC3i8tCD07Y'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: What do you name the Wagon?
+    _id: VB2M6iIEAKtyICcD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.VB2M6iIEAKtyICcD'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: You and x play 'Would You Rather?'
+    _id: z0tm3hy5ST76dqjv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.z0tm3hy5ST76dqjv'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Being in such a confined space you begin to notice that x has an odor.
+      Descretely try to inform them without alerting the others
+    _id: e2phyFvXPB20rRcu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.e2phyFvXPB20rRcu'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      You and x are in a pranking war. What is the next prank you're plotting
+      for them?
+    _id: 6EtQgUzyXgsOJmXK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.6EtQgUzyXgsOJmXK'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: You tell the group a true ghost story.
+    _id: LppDJKALT2I43QP1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.LppDJKALT2I43QP1'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: X saved your life once, what were the events surrounding it?
+    _id: ZVEQbdUHO0az8i9Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.ZVEQbdUHO0az8i9Z'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      You and x compare romantic tastes and discuss what's best in a potential
+      partner.
+    _id: XTQ8QAsRtrmUDIP3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.XTQ8QAsRtrmUDIP3'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: What do most people you encounter immediately assume about you?
+    _id: kKfz363WCrpv677g
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.kKfz363WCrpv677g'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: You and x discuss philosophy. What does a fulfilled life mean to you?
+    _id: 91IphxBP2ZE6iZZ4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.91IphxBP2ZE6iZZ4'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: What's the next town famous for?
+    _id: z39CeFaZxxCxpiQ9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.z39CeFaZxxCxpiQ9'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: X had an awkward incident at your last stop and you saw it. What was it?
+    _id: qqsg8e8qPoehEuC2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.qqsg8e8qPoehEuC2'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: What creature would you most want to ride?
+    _id: 1B1bUZRx8QLcJugI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.1B1bUZRx8QLcJugI'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: What do you hope is in the next town?
+    _id: ZGualLvufsQTUBg3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.ZGualLvufsQTUBg3'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      There is a sign along the road that reads 'GOD IS REAL'. You and x discuss
+      which God you think it's referring to
+    _id: p4Wr6LAtMQlcfMTA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.p4Wr6LAtMQlcfMTA'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      You and x discuss: if you weren't an Adventurer, what would you like to do
+      instead?
+    _id: fm7lT3G4wtrfbMFy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.fm7lT3G4wtrfbMFy'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: If a Bard were to sing a song, what would you hope they would say?
+    _id: ZF3qUHKeGTgNNvxu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.ZF3qUHKeGTgNNvxu'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: You and x plan your next night on the town.
+    _id: W1qepQPJWAd3xxiD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.W1qepQPJWAd3xxiD'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: You and x discuss philosophy. What is the greatest good?
+    _id: N0geVqL6UhcyQe3z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.N0geVqL6UhcyQe3z'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      You and x get into a petty disagreement. The only resolution is a
+      thumbwar.
+    _id: k77KptToangYSKHS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.k77KptToangYSKHS'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: Everyone plays two truths and a lie.
+    _id: tZ3m7ZlxUgtGsUQ0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.tZ3m7ZlxUgtGsUQ0'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Your desperate to stretch your legs, what's the first thing you want to do
+      when this wagon stops?
+    _id: Rzwjh8Qallvpi9gT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Rzwjh8Qallvpi9gT'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: You've heard rumors about the mayor of (town). What was it?
+    _id: 5gS3bKhnuFwQBOKL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.5gS3bKhnuFwQBOKL'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      You and x speculate about what might be out in the wilderness beyond the
+      road.
+    _id: SXZ7K4oU3rbYChUP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.SXZ7K4oU3rbYChUP'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: Your seat is uncomfortable, see if you can convince x to switch.
+    _id: 8EEAtLO44I51RprA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.8EEAtLO44I51RprA'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      There's a sign for your favorite band along the road. They're on tour!
+      Share your excitement!
+    _id: cFPFNOT1x7mnaNEU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.cFPFNOT1x7mnaNEU'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Everyone plays a round of Curse/Marry/Shag: pick 3 random Humanoid
+      Monsters
+    _id: DXWUvuoHdrTzhGza
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.DXWUvuoHdrTzhGza'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: You decide to mess with x with a fake story.
+    _id: h9HrZvfYJMYBfWGD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.h9HrZvfYJMYBfWGD'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: There was a play you recently saw. Recount it. X may disagree.
+    _id: PLMqSdHSW6uCR33b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.PLMqSdHSW6uCR33b'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      There was a creep at the last tavern who wouldn't leave you alone. Share
+      the experience
+    _id: yENNnMhMPLVG1yKh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.yENNnMhMPLVG1yKh'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: You and x reminisce about previous lovers and swap love stories
+    _id: Eak15EwZfKAhxivz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Eak15EwZfKAhxivz'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      You and x play Cows and Graveyards to pass the time. A heated debate over
+      whether a Minotaur counts erupts
+    _id: NNWCOhYKMK52hHlr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.NNWCOhYKMK52hHlr'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: X slighted you over dinner. What did they do?
+    _id: 4NumVEWr4wmVKfNN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.4NumVEWr4wmVKfNN'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: You've been to (town) before, what was it like?
+    _id: nSczfjiqWFzkNMQi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.nSczfjiqWFzkNMQi'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      You and x discuss philosophy: Is it better to be a slave living safely, or
+      to be free living under constant risk?
+    _id: lirhbWvC6TfSfUM9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.lirhbWvC6TfSfUM9'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: What's your least favorite food/drink?
+    _id: wv0HtI3J9uB5qfEB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.wv0HtI3J9uB5qfEB'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: The barmaid in the last town caught your eye, x teases you about it.
+    _id: Nax0rgSFRodoEDGT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Nax0rgSFRodoEDGT'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: You consider your a lover of nature...except for those damn (animal)
+    _id: FGDYtbxiI8yRJzBv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.FGDYtbxiI8yRJzBv'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: You shared a secret with x, what was it?
+    _id: kCgq9GHGe5XpPaIH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.kCgq9GHGe5XpPaIH'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: You and x make a bet. Whats' the wager over and for how much?
+    _id: WjEgagA96MObLoIN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.WjEgagA96MObLoIN'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: 'You and x discuss philosophy: What happens after Death?'
+    _id: 10EPzTZBM9x7gRD0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.10EPzTZBM9x7gRD0'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      You and x play The Alphabet Game to pass the time. A heated debate over
+      whether non-Common letters can be counted erupts
+    _id: Zrk5JJFwSt2yoYwf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.Zrk5JJFwSt2yoYwf'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: You and x discuss philosophy. Does luck exist? Manipulate luck?
+    _id: ktxAu0jKylfs2V4b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.ktxAu0jKylfs2V4b'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      There's a recent fashion trend among adventurers. What is it? You and x
+      discuss.
+    _id: EhYo0O4nHOxVy1jT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.EhYo0O4nHOxVy1jT'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: Remind x that they owe you one. What do they owe you and what for?
+    _id: VXPVuxvcxAOXFze1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.VXPVuxvcxAOXFze1'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: This road reminds you of the time...
+    _id: 7VZFlALJz8puYU08
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.7VZFlALJz8puYU08'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: X tells you a story, you call bullshit.
+    _id: 2VF8sxNHUGdlO90x
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.2VF8sxNHUGdlO90x'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: You had a dream and really want to share with x.
+    _id: y0mbwcnguHwTfb0e
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.y0mbwcnguHwTfb0e'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: You and x discuss philosophy. What is the best way to die?
+    _id: X8K541cnndrvf5UN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.X8K541cnndrvf5UN'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      There's a sign for the next tavern that claims to have the 'Best in the
+      Realm' for your favorite food. Convince the rest of the party to
+      investigate
+    _id: yZAus6Ibtfr6kr8O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.yZAus6Ibtfr6kr8O'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: There's a local legend around these parts. What is it?
+    _id: 49gSGvQSkCxjjkNn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.49gSGvQSkCxjjkNn'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: Your character cannot pronounce a certain word, x decides to help
+    _id: vA0H9TFrS40pmrHX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.vA0H9TFrS40pmrHX'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: You and x discuss the worst parts of Adventuring Life
+    _id: zhRXpJM24E9arfzE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.zhRXpJM24E9arfzE'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: You and x discuss your biggest fears.
+    _id: FD1VGQ5jfBMgBlF9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.FD1VGQ5jfBMgBlF9'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      You and x strategize: You give a hypothetical scenario and x thinks of a
+      way out.
+    _id: 5yHzQ3LXw8RB9xVP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.5yHzQ3LXw8RB9xVP'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      X convinced you to try something new, what was it and what did you think
+      of it?
+    _id: eSAATsG06uKCK9u0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.eSAATsG06uKCK9u0'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: Who in your group do you respect the most?
+    _id: pEpJj3qxMp4lhWoK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.pEpJj3qxMp4lhWoK'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      You and x discuss philosophy: What is the difference between People,
+      Monsters and Animals? Is it strictly their nature or can you turn a
+      Monster into a Person?
+    _id: a1mVAm9jNN9hOPw3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.a1mVAm9jNN9hOPw3'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      There's a temple in this region that is rumored to have an odd ritual.
+      What is it?
+    _id: RRKxSU0ecAIMgI3b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746924510
+      modifiedTime: 1792746924510
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qehgdAv9Xv0p0U6x.RRKxSU0ecAIMgI3b'
+folder: null
+_id: qehgdAv9Xv0p0U6x
+img: modules/game-icons-net/whitetransparent/conversation.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746924510
+  modifiedTime: 1792747029130
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 700000
+_key: '!tables!qehgdAv9Xv0p0U6x'

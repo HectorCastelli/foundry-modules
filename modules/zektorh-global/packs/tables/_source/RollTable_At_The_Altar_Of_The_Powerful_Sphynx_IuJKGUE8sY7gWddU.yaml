@@ -1,0 +1,293 @@
+name: At The Altar Of The Powerful Sphynx
+formula: 1d12
+description: >-
+  <p>What you may be asked to sacrifice:</p><p></p><p>You may be aked to
+  sacrifice something in order to receive the vision you need. The mystical
+  creature gives, but</p><p>demands an offering be made, in order for the
+  magical balance to remain even.</p>
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: All your wordly riches
+    _id: 98w2y3h7Tr499EgO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.98w2y3h7Tr499EgO'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: A part of your name
+    _id: wYGyNG5x03PP2BL9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.wYGyNG5x03PP2BL9'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: A sliver of your immortal soul
+    _id: ONpDa1IEqcl3PKsL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.ONpDa1IEqcl3PKsL'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: The love for something or someone you hold dear
+    _id: ADpzSSr6SSFCS5LG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.ADpzSSr6SSFCS5LG'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: Something you did not know you had
+    _id: usGScoAZlNej5wyJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.usGScoAZlNej5wyJ'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: A finger on each hand
+    _id: M2NjDRo5Jh8jqsNU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.M2NjDRo5Jh8jqsNU'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: The light in you eyes
+    _id: y03mPuYLl5UL0YMd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.y03mPuYLl5UL0YMd'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: The most powerful word you know
+    _id: wimxyJkLu3u9CWgg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.wimxyJkLu3u9CWgg'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: Your sense of right and wrong
+    _id: GSqVaYZfDv2KhDSs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.GSqVaYZfDv2KhDSs'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: Your connection to magic
+    _id: eseTGM07g4qHbirI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.eseTGM07g4qHbirI'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: A magical artefact
+    _id: NBTIcYWjPtyfgUag
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.NBTIcYWjPtyfgUag'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: A feeling of determination
+    _id: RJuTYYAzyQulsOBQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744750810
+      modifiedTime: 1792744750810
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!IuJKGUE8sY7gWddU.RJuTYYAzyQulsOBQ'
+folder: null
+_id: IuJKGUE8sY7gWddU
+img: modules/game-icons-net/whitetransparent/greek-sphinx.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744750810
+  modifiedTime: 1792747029151
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 2100000
+_key: '!tables!IuJKGUE8sY7gWddU'

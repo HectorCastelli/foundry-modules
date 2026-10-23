@@ -1,0 +1,117 @@
+name: Level Of Organisation
+formula: 1d4
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: Militaristic ; They are disciplined, have routines and patrol routes
+    _id: v5NdWImQC1GrKWkV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744754977
+      modifiedTime: 1792744754977
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qi0TjpHiPSckA46e.v5NdWImQC1GrKWkV'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      Fanatical ; They speak in fierce religious ways and are blindly devoted to
+      their cause
+    _id: j8efUFoNp0FlUCiN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744754977
+      modifiedTime: 1792744754977
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qi0TjpHiPSckA46e.j8efUFoNp0FlUCiN'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Chaotic ; They don't communicate between themselves or keep track ofeach
+      other
+    _id: AKugyekLWbWX7IRf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744754977
+      modifiedTime: 1792744754977
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qi0TjpHiPSckA46e.AKugyekLWbWX7IRf'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Apathetic ; they barely care about each other
+    _id: JmWv3EqM5erMrT1g
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744754977
+      modifiedTime: 1792744754977
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!qi0TjpHiPSckA46e.JmWv3EqM5erMrT1g'
+folder: null
+_id: qi0TjpHiPSckA46e
+img: modules/game-icons-net/whitetransparent/meeple-army.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744754977
+  modifiedTime: 1792747029152
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 2300000
+_key: '!tables!qi0TjpHiPSckA46e'

@@ -1,0 +1,2585 @@
+name: Interesting Statue Descriptions
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      A weather worn, articulated wooden mannequin with three heads (one of them
+      a devil's) and six arms. The arms move, crudely, and hold instruments. The
+      legs are goat hooves. An old, much abbreviated and poorly spelled
+      inscription at the base reads, "Ruin Ye Goode Faithe". Perched on the
+      shoulder of the devil is a Blue Jay carrying a twig in its beak.
+    _id: HyIEODhX7UF4eXpJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.HyIEODhX7UF4eXpJ'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      A goddess or demigoddess holding a torch up high and wrapping her cloak
+      around a trio of young looking slaves with broken chains on thier wrists
+      and ankles.
+    _id: RtBXskFNydocu0yi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.RtBXskFNydocu0yi'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      It is a statue dedicated to a famous saint of a local Lawful Good
+      religion. The statue depicts a man reaching to the sky, towards something.
+    _id: C1TdzTC33S9M94uu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.C1TdzTC33S9M94uu'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      This plinth evidently once held a statue of someone important; now, only
+      their feet remain.
+    _id: HkQ5zspbsDSLD79L
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.HkQ5zspbsDSLD79L'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      It appears to be of a wizard or sorcerer poring over a tome. The fists are
+      raised and clenched and body language is tense or pained. The statue is
+      missing its head.
+    _id: aaaWQ0xksP3cgRIE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.aaaWQ0xksP3cgRIE'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      A tall ornate column with a continuous spiraling bas-relief depicting
+      multiple scenes of the greatest deeds of an ancient conqueror. On top of
+      the column stands tall a statue of said conqueror wearing a smooth
+      cuirass, with a spear in one hand and a scale in the other he looks far
+      away towards the sunset.
+    _id: sjfrYd18aliR0xF2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.sjfrYd18aliR0xF2'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      It is a statue of a queen from long ago. She is wearing a long, flowing
+      dress and is holding a scepter in her hand.
+    _id: 6Q8J7xMs6uNNDNC0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.6Q8J7xMs6uNNDNC0'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      A sort of "henge" of nine half spheres, each of a different type of stone,
+      round side polished mirror smooth, and about the size of a comfortable
+      chair, in a stone-henge type circle around a head high prism made of
+      flawless quartz crystal at least 3 feet across. The half-spheres' rough
+      hewn flat faces are aligned to the center and precisely aimed at the peak
+      of the prism. Close inspection might reveal a 1" hole through the center
+      of each sphere, aimed at the point of the prism.
+    _id: u29Rjox7sk6PvMRv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.u29Rjox7sk6PvMRv'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      A perfect sphere, about three feet in diameter and made from an unknown
+      metal of some kind. It is polished to a mirror finish. Despite its shape
+      it cannot be rolled, perhaps magically fixed in place.
+    _id: FQeM48YdAoPceEcR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.FQeM48YdAoPceEcR'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      A fool in motley, seemingly hanging upside down by a noose around their
+      foot. The fool is blindfolded. Through creative artifice in the stone, it
+      seems as though nothing holds the form up, as if it really were suspended
+      by the rope.
+    _id: TBRJP1OGEDMmH3FT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.TBRJP1OGEDMmH3FT'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      A bronze statue of a hound, a beloved local icon. Its snout and paws are
+      worn down to a noticeable polish from the many hands that have rubbed them
+      for good luck. (Doing so may or may not grant Inspiration.)
+    _id: z7eK8Ut1vNiFvdBE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.z7eK8Ut1vNiFvdBE'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      This small statue is carved from wood and depicts the founder of the town.
+      He is a halfling with a bald head and big beard, hoisting a garden hoe
+      skyward. In his other hand, in an oddly gruesome twist, is the head of an
+      orc.
+    _id: YvZBC3k2b8GvCQJ3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.YvZBC3k2b8GvCQJ3'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      This ancient statue is clung with moss and ivy. An elvish warrior-queen
+      gazes northward, toward something no longer apparent, her left hand
+      clasping a cracked crystal ball. Her right hand thrusts out ahead, and
+      appears to have once held a sword. The return of the queen's sword, the
+      party soon learns, is a matter of local legend.
+    _id: RX4VAmlLcLQe73At
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.RX4VAmlLcLQe73At'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      A large shallow bowl on edge, facing the viewer, made of polished brass,
+      on a stylish, rough hewn plinth of black granite. Any water nearby is
+      always magically levitated to fill the bowl as if it were horizontal. A
+      nearby skylight or window makes a convenient and interesting reflection on
+      the water surface.
+    _id: EWqvgWPNMiDeXt2t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.EWqvgWPNMiDeXt2t'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Seven finely dressed nobles dancing along with two musicians playing
+      horns. One of the nobles in the center of the piece is wielding a sword
+      and cutting off the head of another. All have serene expressions upon
+      their faces.
+    _id: Nfs70PlE1LAIlUCj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.Nfs70PlE1LAIlUCj'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Two plate-mailed knights jousting on horseback, but strangely with lances
+      only and without shields. One knight wears a helmet bearing a bird, the
+      other a helmet with a small tower. Miniature figures of very animated folk
+      surround the two jousters.
+    _id: K1r2MNypKDgfBryw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.K1r2MNypKDgfBryw'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      It is a statue of a pyramid of skulls. Or perhaps it is a pyramid of
+      metal-plated skulls?
+    _id: 7X3JLfcp9lmeErLb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.7X3JLfcp9lmeErLb'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      It’s a statue of a local explorer, holding a telescope to one eye, looking
+      at something in the distance. He traveled the world several decades ago
+      and the villagers will gladly show the party a map of the world where the
+      explorer named everything after himself. Of course, the PCs will only need
+      an easy intelligence check to recognize everything by their real names,
+      like say Waterdeep.
+    _id: qXELdFuq4j0Eihqn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.qXELdFuq4j0Eihqn'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      An open book hewn from fine marble. Each day the text of the page is
+      different. Usually it is in one of many dead languages that few still
+      living can comprehend. It is said that a great ancient library once stood
+      on this site before being destroyed by war. Each day the statue displays
+      one of the millions of lost tomes opened to a random page. The legend is
+      that a powerful mage created the statue in an effort to recover some piece
+      of priceless knowledge. Despite checking every day for the rest of their
+      life, the library's collection was so vast that the mage never found what
+      they sought.
+    _id: yCnxrXoelhSKN5KY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.yCnxrXoelhSKN5KY'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      It is a statue of a God of War, with piles of weapons and armor laying at
+      their feet. The God stares ahead.
+    _id: Zc1y2olpko22xXfY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.Zc1y2olpko22xXfY'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      A recumbent (resting) unicorn being speared by a hunter. The hunter has a
+      serene expression upon their face, and has two birds perched upon their
+      shoulders, while a third bird seems about to pluck out the dying unicorn's
+      eye.
+    _id: OuuUPq4DLBRVyt7s
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.OuuUPq4DLBRVyt7s'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      A statue of a royal knight standing victoriously atop a pile of what
+      appear to be drow, his foot resting on the back of a still-living one
+      attempting to crawl away. Though the face and posture of the knight seem
+      heroic, careful attention to detail was paid to capture the fear and
+      anguish in the face of the drow.
+    _id: 7YRlAYZeNBmLvJ24
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.7YRlAYZeNBmLvJ24'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      It is a statue of a plague doctor in full uniform. The air seems a little
+      sweeter near the statue.
+    _id: 26Yxej16Zd4c7TOP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.26Yxej16Zd4c7TOP'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      It is a statue of a grinning gnome stabbing a roaring devil in the back of
+      the leg.
+    _id: 59MH6xB4dgU16pXH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.59MH6xB4dgU16pXH'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: It is a statue of a king holding a ceremonial mace high in the air.
+    _id: B3H2GB44pl3hO5nf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.B3H2GB44pl3hO5nf'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      A gang of humanoid revolutionaries actively destroying a guillotine and
+      forcing the head of a struggling executioner beneath its blade. A basket
+      of heads rolls gruesomely at the statues' feet.
+    _id: cZ6hzzGQgDR4KeQC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.cZ6hzzGQgDR4KeQC'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      A block of Nephrite carved as a scaled, fire-breathing legless wyrm, with
+      eyes made of carnelian, rotating and swallowing miniature humanoids in a
+      brutalist, elemental style. The block is at least 10 feet on each side.
+      The snake twists and turns unpredictably at right angles in three
+      dimensions, filling at least 50 percent of the available space, and
+      masterfully narrows as it's body recedes into the negative space of the
+      stone block's interior, creating a disorienting, and somewhat hypnotic
+      forced perspective, but also revealing the unimpeachable skill and mastery
+      of whomever carved it. It is said that when a storm approaches on moonless
+      nights, the stone somewhat glows.
+    _id: TlALr2TtfOs6E3R6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.TlALr2TtfOs6E3R6'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      A trio of marble mermaids sit atop a plinth in the center of a fountain.
+      Each holds aloft a pitcher from which water pours forth. The floor of the
+      fountain contains a scattering of copper and silver coins.
+    _id: hdccJ79n2G3Uheyw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.hdccJ79n2G3Uheyw'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      This statue looks familiar, you realize it’s you! Whoever is looking at
+      the statue sees themselves. Multiple people viewing it together all see
+      themselves.
+    _id: 4UHBeQG83ZUaeasK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.4UHBeQG83ZUaeasK'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      It is a very realistic statue of a medusa. Are medusae vulnerable to their
+      own kind's petrifying abilities, or is this merely the product of a
+      strange artistic sense?
+    _id: naZnGO1RM7L5bZTN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.naZnGO1RM7L5bZTN'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      A knight kneeling before a regal, motherly figure. The knight has an
+      ecstatic expression upon their face gazing up; the regal figure a soothing
+      or relaxed expression gazing down. The regal figure is richly robed, and
+      clearly pregnant, holding a giant key in their right hand, and a large owl
+      in their left. The knight is armored in chainmail, and a scabbard, but the
+      scabbard contains no sword.
+    _id: NrTvCa8JRZ0BIuJV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.NrTvCa8JRZ0BIuJV'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      It is a statue of a single, heavenly angel descending onto a corpse and
+      guiding its soul into the afterlife.
+    _id: 78fRxF8zoOJ22BIR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.78fRxF8zoOJ22BIR'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      A weather worn statue of an exaggeratedly pregnant woman, a look of anger
+      or disgust upon her face, using a butter-churn, a rusting iron horseshoe
+      has been nailed near the bottom, leaving a stain. The work is articulated,
+      the arms move up and down, the belly spins to reveal a carving of a demon
+      or imp, and the face of the woman turns to reveal a death's head behind.
+      An inscription, much abbreviated, along the side reads, "Spoileth Ye
+      Butere".
+    _id: BcURuJJfsPwOzOdg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.BcURuJJfsPwOzOdg'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      From afar it seems like any other small shrub. Upon closer inspection you
+      realize that it is actually a statue made from green stone. Either it was
+      once a living plant that was turned to stone, or it is a stunningly
+      detailed carving that required incredible skill and patience. Despite its
+      delicate appearance, it appears to be in perfect condition with no visible
+      damage.
+    _id: W9nIy8jNJRvu1hkd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.W9nIy8jNJRvu1hkd'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      A stylized whale vomiting forth every type of sea creature in a froth. A
+      tiny caricatured boat and fisherman are trapped in the maelstrom.
+    _id: ehgqKSGaShBLtyWf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.ehgqKSGaShBLtyWf'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      A seemingly unfinished work of a humanoid slave struggling to break free
+      from unseen bonds. Only half of the work is carved, as if the humanoid is
+      carving itself out of the stone with its struggle. That which has been
+      revealed from within the stone is masterwork in quality.
+    _id: D5TmMTRI8T7khz5P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.D5TmMTRI8T7khz5P'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Two noblewomen in archaic dress, facing each other, legs a-caper, skirts
+      furled, they intertwine fingers. They appear to be dancing. Their forms
+      are intricately detailed, but their faces are void. One is literally a
+      void, the other is a smooth blank egg shape with an inscrutable rune in
+      the exact center.
+    _id: PPv9zTSUjHfGYpqj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.PPv9zTSUjHfGYpqj'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      A statue of a hero, holding a sword. Some of the arms plating has fallen
+      off, revealing some simple gears. Every morning at 9 the gears try to move
+      - but are blocked by a small stone, making a screeching sound. If the
+      stone is removed the gears work normally, and every 9 AM the hero raises
+      the sword and waves it in the air - before moving it back down.
+    _id: PTCpHaT6q0JYSjr7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.PTCpHaT6q0JYSjr7'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      A fifteen-foot marble wall depicts a great battle in high relief. Dozens
+      of knights and horsemen trample about a beach, clashing with dozens of
+      fishfolk warriors emerging from the sea. The fight appears clumsy,
+      ill-fought and ignoble, and it is unclear which side is supposed to be
+      winning. Bodies of both sides pile up on the sand. Overhead, the sun is
+      eclipsed. A bronze plaque dedicates the relief to the Human-Fishfolk
+      Diplomatic League.
+    _id: Smej2aMydqEeAkTF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.Smej2aMydqEeAkTF'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      A servant in dishabille carrying a basket of roses is loading a trebuchet
+      with the flowers. The trebuchet uses forced perspective.
+    _id: bQfWrJHssr2RHPp0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.bQfWrJHssr2RHPp0'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      A statue of a large ornate goblet that collects rain or any liquid poured
+      inside it. However, it cannot overflow. When the level of the liquid gets
+      close to the rim all of it mysteriously drains rapidly, leaving the goblet
+      empty. No one has yet figured out where the liquid goes or how the
+      mechanism works.
+    _id: pgJ8nyngUY9EnF9I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.pgJ8nyngUY9EnF9I'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      It is a statue of a king from long ago. The surface of the statue is
+      covered in scratches and any precious stone that was embedded in the
+      statue has long since been stolen.
+    _id: OcUBX5WBiXm5xlOl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.OcUBX5WBiXm5xlOl'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      It is a statue of a recent king that has been completely defaced. The head
+      of the statue lies in pieces at your feet.
+    _id: aahW3jLKfAB91OUm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.aahW3jLKfAB91OUm'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      It is a statue of a great necromancer that terrorized the region for many
+      years. The statue has a skull face that seems to stare right through you.
+    _id: 1kjLizfK0kzwCMyN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.1kjLizfK0kzwCMyN'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      It is a statue of a group of devils gathering souls from a pile of
+      corpses. You can almost hear the souls screaming...
+    _id: T2Tp7FUqvYt9037W
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.T2Tp7FUqvYt9037W'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Rough, flat slabs of perfect white marble about two inches thick, and
+      eight feet high by three feet wide, arranged in a sinuous spiral such that
+      each slab is no more than 12 inches apart at the widest point. A perfect,
+      snake-like hole, complete with subtle scale pattern on the inside, and
+      wide enough for a human arm to fit through, spirals in the opposite
+      direction several times through each slab.
+    _id: kBJfT3eQz9X2LphZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.kBJfT3eQz9X2LphZ'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      A flat disk with seven stars in an arc, one prominently large at the
+      zenith, carved stone vines wrap the plinth but open up to stylized flowers
+      that frame the disk and stars.
+    _id: nVjsY6y6XnV7IfAC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.nVjsY6y6XnV7IfAC'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      A series of imposing spikes at odd and aesthetically displeasing angles. A
+      series of inscriptions along the base in multiple dead and forgotten
+      languages reads, cryptically, "This is not a place of honor, No esteemed
+      deeds are commemorated here".
+    _id: qxnBUd5jwgoxfAmV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.qxnBUd5jwgoxfAmV'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      The real heroes, a statue of craftsmen and women of a variety of races
+      making adventuring gear (weapons, armor, kit) on a shared workbench. Items
+      left as tribute will disappear, sometimes reappearing having been made
+      magical.
+    _id: VdE19fpEMKAiLHZm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.VdE19fpEMKAiLHZm'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      It is a statue commemorating a famous (yet temporary) alliance. An elf and
+      a dwarf shake hands, respect on their faces.
+    _id: 5yuA9AlSXJ8i0S4m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.5yuA9AlSXJ8i0S4m'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      A freshly used executioner's block and chains, in pristine, sterile black
+      marble. The dripping gore is somehow captured perfectly.
+    _id: X4vwwHD9XDjTpQub
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.X4vwwHD9XDjTpQub'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      A small, woven basket made of sharp thorns, in the shape of a boat atop a
+      stylized wave-wracked sea. A swaddled baby is inside, along with a
+      long-sword, shield, crown, and orb. The babe is holding a laurel branch in
+      their tiny hand. Overseeing the babe is a Shrike (bird) who has impaled
+      several mice and fish upon the thorns.
+    _id: Wo36jsG3MC4hjIGX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.Wo36jsG3MC4hjIGX'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      It is a statue of a famous merchant prince from long ago. The eyes of the
+      statue are embedded with precious gems.
+    _id: YzumWEvy19L0h0bz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.YzumWEvy19L0h0bz'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      It is a statue of a woman staring at something in her palm. However,
+      whatever she was holding seems to have been broken off and taken away.
+    _id: GvynwrxSHZjHRM9j
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.GvynwrxSHZjHRM9j'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      A statue of a human commoner in mid-stride. The figure is unremarkable,
+      but somehow familiar. This familiarity is felt by all who view the statue,
+      though none can exactly place who the statue depicts or where they might
+      have seen this person.
+    _id: djnURZmhI9lwaldm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.djnURZmhI9lwaldm'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      It is a statue of a great horned demon, reaching in front of itself,
+      seemingly to grab the person looking at the statue.
+    _id: L9P6V3w4uv17lN6k
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.L9P6V3w4uv17lN6k'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      It is the statue of a king in armor that gives its back to the viewer–head
+      bowed and hands over the face. Inscribed on the pedestal in Elvish is
+      "shame".
+    _id: vBcTYTOpQGz8wV1Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.vBcTYTOpQGz8wV1Z'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      A giant apple, carved of stone and painted bright red, marks the entrance
+      to a local orchard. It is a cherished landmark hailed by locals as The
+      World's Biggest Apple. Somehow, you doubt that even this is true.
+    _id: dENGnSNNFBKwyKSf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.dENGnSNNFBKwyKSf'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      It is a statue of a god who turns into an eagle. The statue depicts him as
+      a humanoid with eagle wings instead of arms and a beak instead of a nose
+      and mouth.
+    _id: VZDPbO1hvzhTLsCb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.VZDPbO1hvzhTLsCb'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      A pregnant woman in a sharp iron crown, with three arms, three legs, and
+      three separate anguished faces looking in different directions is tearing
+      her breast and giving violent birth at the same time. One face is
+      devouring the newborn.
+    _id: sxlPmeUFiqyHHgu7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.sxlPmeUFiqyHHgu7'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      It’s a statue depicting a wyvern and a soldier, the wyvern lays on its
+      back writhing in pain while the soldier stands on top of the wyvern and is
+      pushing his spear through the creature’s chest using all his strength and
+      bodyweight to pierce the thick skin of the wyvern.
+    _id: CQOxgeR15AAqKaJ7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.CQOxgeR15AAqKaJ7'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Two devilish imps in a tug of war with two cherubs on each of the
+      shoulders of a great mage with floppy hair. The literal, metaphorical
+      thread of thought that each side is trying to influence runs between the
+      mage's ears. A great deal of effort has been put in to get the hat just
+      right.
+    _id: DXq8OlvbsGdLiIar
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.DXq8OlvbsGdLiIar'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      A delicate statue of a bird, about to take flight. It looks to be made out
+      of crystal clear glass, but will not break. A few rocks lie by it, as if
+      thrown at it.
+    _id: hIND4RR0iLtdgyhT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.hIND4RR0iLtdgyhT'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      A bronze statue of a huge serpent coils itself around a freestanding
+      marble column. It gazes upwards, its eyes set with glittering emeralds.
+      Atop the column is a lit brazier of magefire.
+    _id: oef6TiVoGHFTW7It
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.oef6TiVoGHFTW7It'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      It is a statue of a rugged miner swinging their pickaxe. A plaque at the
+      bottom reads "Couldn't have made this without you".
+    _id: x5knlPzwSNk4eVHI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.x5knlPzwSNk4eVHI'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      A great warrior-king caught in mid-disintegration; fully half of a Rune of
+      Power etched into his enraged face, a portion of the actual physical
+      manifestations of the magical runes left from the casting are captured,
+      somehow, in the work. An enterprising mage might learn a few forbidden
+      things or two from this masterwork.
+    _id: rHyYiH88Dak5iKEC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.rHyYiH88Dak5iKEC'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      It is a statue of two figures facing each other with a rectangular frame
+      in-between. The figures heavily resemble each other, but one is a human,
+      while the other is a demon.
+    _id: Zh9CQCiO8cljtD61
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.Zh9CQCiO8cljtD61'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      An elegant deity-queen in fine marble, clothed only in flowing, sheer,
+      diaphanous silk, with so many lifelike folds it appears as if the stone
+      itself were really fabric. One hand and arm is raised in the act of
+      casting a spell, the second hand and arm are lowered, and both legs appear
+      to be performing a dance. The face is a featureless smooth, shallow bowl
+      shaped depression.
+    _id: B99QBjrsU5mCDUw7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.B99QBjrsU5mCDUw7'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      It is a statue of the ouroboros, the mythical snake that eats its own tail
+      as a symbol of eternity.
+    _id: GykBnETODj2FfTLU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.GykBnETODj2FfTLU'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      It is a statue of a predatory animal in a sitting position. You feel as if
+      it's watching you.
+    _id: zeDMDf3oq8wMAXOv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.zeDMDf3oq8wMAXOv'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      A holy warrior impaling a lich on an intricate and intimidating looking
+      holy lance. The lance is broken.
+    _id: oC2MEKd6yueXKGeC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.oC2MEKd6yueXKGeC'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      It is a statue of an old king sitting on his throne, with a spear in his
+      hand.
+    _id: E5iRFp6GQBRsXVNp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.E5iRFp6GQBRsXVNp'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      It is a statue of a valiant knight in full plate. The knight is holding
+      his shield, which is decorated with a specific coat of arms, in front of
+      him.
+    _id: HgeXM3IqZxzAdTMS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.HgeXM3IqZxzAdTMS'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      A crystalline statue of a fabled master assassin in repose, lying in the
+      throne of a king who was supposedly killed by them. The statue is plainly
+      visible when seen straight-on, but becomes completely invisible when
+      viewed from more than a 30deg angle. The Crystal of the statue is
+      completely mundane, only worked by what must have been an absolute master
+      craftsman.
+    _id: zREk8SSdZEx2vcYf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.zREk8SSdZEx2vcYf'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      A gigantic stone head that was shorn off a larger-than-life statue, taken
+      as plunder by the king's grandfather in a war of conquest in a far-off
+      land.
+    _id: dviGy8s521hi3my5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.dviGy8s521hi3my5'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      An abstract form resembling two large vertical cones touching point to
+      point, with a crystal sphere at least 1 foot across impaled upon it. The
+      sphere has an array of 26 finger sized holes radially spaced around the
+      equator. The bottom cone has a finger-sized spiral groove with 13
+      rotations up its entire length.
+    _id: GGHP8MnAwWYez58p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.GGHP8MnAwWYez58p'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      It is a statue of two lovers embracing. With their poses and the statue's
+      position, you can barely see the lovers' faces.
+    _id: GU1MnLTgl9o1El4m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.GU1MnLTgl9o1El4m'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      A condemned person moments before being drawn and quartered. The condemned
+      is crying out. The statue is incredibly detailed, and even features
+      gruesome whip scars on their back.
+    _id: 4EmrkCylrc0u2Eaw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.4EmrkCylrc0u2Eaw'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      A series of life-size, interlocked and entangled humanoid forms in forced
+      perspective. The forms are all abusing, attacking, or fighting each other,
+      some attempting to tear or devour limbs, others with various weapons. All
+      appear distraught or afraid. The most "distant" and smallest forms are
+      being actively devoured by the "closest" and largest.
+    _id: uqLEViPXSIizpx1G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.uqLEViPXSIizpx1G'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      A young, well-to-do woman, a strapping soldier, and a little pet dog. The
+      woman is dead, dying, or on a sick-bed. The woman and soldier are done in
+      an abstract style, while the dog is lavished in life-like detail. The
+      arms-man has committed suicide by stabbing themselves in the chest with a
+      sword. An empty scabbard lies on the ground, strap pulled by the dog.
+    _id: UjE14gyR9PdNyDAq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.UjE14gyR9PdNyDAq'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Two statues of saints adorn either flank of a staircase. On the left, a
+      dwarf holding a shortsword and an abacus; on the right, a human holding a
+      basket of bread. They are dressed in robes and gaze sideways at one
+      another. You feel a sense of calm as you pass between them.
+    _id: 1ciaG14rpo30DYUl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.1ciaG14rpo30DYUl'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      A statue of a dire wolf with its head arched back in a pitch dark room. It
+      howls when any light is produced in the room.
+    _id: gUr0Wy4FVSlEmwNy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.gUr0Wy4FVSlEmwNy'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      A holy feast, filled with fine food and drink, and a fine table, captured
+      in utmost perfect detail. Beneath the table is a drunken minstrel
+      attempting to steal some of the wine. A cherubim actively seeks to
+      dissuade the drunkard wrapping their face with a cloudlike veil, while a
+      devil actively prods the exposed buttocks of the drunkard with a fork.
+    _id: DvLZZX18qXeQDUEH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.DvLZZX18qXeQDUEH'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      An archer god with winged feet and seven eyes riding a crescent moon.
+      Their arrows and bow are extremely long.
+    _id: mxIIbKLRiI2krvjk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.mxIIbKLRiI2krvjk'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      A life sized statue of a wizard holding a workable lamp. Lighting the lamp
+      with magical fire causes the statue to rotate and shine the light on a
+      nearby wall, revealing a secret door.
+    _id: gqZTl6BNanqOUtsv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.gqZTl6BNanqOUtsv'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      A small fishing boat and crew, navigating through seemingly perilous
+      waters. The statue is about half life-size in scale.
+    _id: DmbF2ge11dmHbtFX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.DmbF2ge11dmHbtFX'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      An abstract form sits on a windy hilltop in a park: three long, curved
+      tubes, cast of polished bronze and interwoven intricately. Each catches
+      the wind and plays a low, whistling note, which combines in a sweetly
+      melodious chord.
+    _id: YvS6HhwmXtT4EVSy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.YvS6HhwmXtT4EVSy'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      It is a statue of a famous monster slayer from ages past. Stories of their
+      deeds have traveled far and wide.
+    _id: JwaVBLuqLaJ467UX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.JwaVBLuqLaJ467UX'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      It is a statue of a noble atop a horse, dressed as if they are getting
+      ready for a pageant.
+    _id: qTIS6IrTdGAXnNYM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.qTIS6IrTdGAXnNYM'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      A statue dedicated to The Pyromancer, an ancient adventurer with a
+      penchant for fireballs. The statue of black stone, depicting a dragonborn
+      in sorcerer robes, hands reaching forward as if mid-spell. The statue will
+      very occasionally and without warning spout flames from its outstretched
+      hands
+    _id: sKQOr6vzTHuX7k9z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.sKQOr6vzTHuX7k9z'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      The statue of a dwarven folk hero stands before you, raising a mighty
+      warhammer to the sky. If the top of the warhammer is pressed down, it
+      opens a secret door in this room.
+    _id: jGbSqoImK41wFI4i
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.jGbSqoImK41wFI4i'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      A minecart full of ore and mining equipment, and a small, tired,
+      mine-donkey.
+    _id: W5KpjJRud1VdaDMU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.W5KpjJRud1VdaDMU'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      It is a large, slightly tilted slab of stone, onto which water drips down
+      from an unknown source above. A small groove has formed around the
+      droplets' path. A plaque at the bottom reads "Monument to Persistence".
+    _id: XkE9VMubl0pLXhDi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.XkE9VMubl0pLXhDi'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      It is a statue of a dwarf kneeling, deep in prayer. His hands are clasped
+      together and his eyes are tightly shut.
+    _id: G13NB9z2ZPcgxsfO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.G13NB9z2ZPcgxsfO'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      It is a statue dedicated to a long-forgotten god of Thievery. No one has
+      laid eyes on this statue for centuries.
+    _id: klSSaVnl769U7hCG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.klSSaVnl769U7hCG'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      A caricature of an obscure harvest deity with a circular calendar carved
+      over their smiling visage and hands cupped as if expecting an offering.
+      The calendar is articulated to spin. The statue includes carved stalks of
+      what appear to be flax.
+    _id: UeTzesyFi2XU99g9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.UeTzesyFi2XU99g9'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      It is a statue of a king atop his favored horse. The king looks as if he
+      is readying himself for battle.
+    _id: roiRN14PaAW7Xhx7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.roiRN14PaAW7Xhx7'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      The statue of an elf king sits before you in a stone throne, its entirety
+      wrapped in long, crawling ivy. If the ivy is cleared away, it grows back
+      within 24 hours.
+    _id: XUMwfQoSutxIvwMm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.XUMwfQoSutxIvwMm'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      It is a statue of a very important religious figure that died when they
+      were very young. The good that they did for the world will never be
+      forgotten.
+    _id: xv9JhVaoi7cpUSkQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.xv9JhVaoi7cpUSkQ'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      A two part statue comprising the large body of a pirate-king bravo, 3x
+      life-size, carved from a lemony-green variegated alabaster with onyx,
+      combined with a contrasting pink variegated alabaster with calcite throne
+      behind. The king is seated, one hand in a metal gauntlet (made of carved
+      stone) resting on an armrest, the other is holding a stone sword as if
+      leading a charge. The king's nose is visibly replaced by an actual pewter
+      prosthetic. The throne has been defaced, but in such a way as to have
+      clearly been carved that way originally. The king's clothing and notably
+      oversized hat, is a distinctive style of fine fashion among the sea-going
+      swashbucklers, from a period of time roughly 100 years ago.
+    _id: DsghF8bxIuNXDQyp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747239253
+      modifiedTime: 1792747239253
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!oIPEd1jsP5CVRCqt.DsghF8bxIuNXDQyp'
+folder: null
+_id: oIPEd1jsP5CVRCqt
+img: modules/game-icons-net/whitetransparent/colombian-statue.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792747239253
+  modifiedTime: 1792747239253
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!tables!oIPEd1jsP5CVRCqt'

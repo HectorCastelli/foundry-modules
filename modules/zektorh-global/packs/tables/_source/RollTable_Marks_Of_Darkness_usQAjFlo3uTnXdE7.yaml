@@ -1,0 +1,2410 @@
+name: Marks Of Darkness
+formula: 1d101
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      An evil rune, such as the symbol of a demon lord or archdevil, appears on
+      your face.
+    _id: Upvs9ZwtT1Y8Hge2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Upvs9ZwtT1Y8Hge2'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Your eyes become a glossy black.
+    _id: rAKxjbGUiu3QMcFB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.rAKxjbGUiu3QMcFB'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: Demonic-looking horns sprout from your forehead.
+    _id: xzfdXvZdmYgC3o6y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.xzfdXvZdmYgC3o6y'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: You become wizened and hideous, looking almost like a mummified corpse.
+    _id: IO1NjfDWR7irOlOe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.IO1NjfDWR7irOlOe'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      You lose all facial features, your former face being covered with smooth
+      skin.
+    _id: cAiPIHDR5pNJj1hW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.cAiPIHDR5pNJj1hW'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: You gain a forked tongue.
+    _id: 9W8OG34QAo3NleWe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.9W8OG34QAo3NleWe'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: You lose your nose and instead gain slit-like nostrils.
+    _id: 7Hhn3wANnyx4k5mF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.7Hhn3wANnyx4k5mF'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: You become almost skeletal, with white skin, no hair, and a gaunt stature.
+    _id: gPFDvKBX6Mu1r6mw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.gPFDvKBX6Mu1r6mw'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Your shadow seems darker and bigger than before. Sometimes it moves out of
+      sync with your body.
+    _id: DtGTyfykm3XO8QYu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.DtGTyfykm3XO8QYu'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      You appear superficially very attractive, but some people are revolted by
+      you (sort of like psychopath sense).
+    _id: 3ylgAKkycM3iNUMt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.3ylgAKkycM3iNUMt'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: Your teeth become sharp points.
+    _id: B33se27BMY0TyEd9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.B33se27BMY0TyEd9'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Your nails grow longer and longer, and are impossible to cut.
+    _id: WL55FLKca3K0B9Zy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.WL55FLKca3K0B9Zy'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: A small black spot appears somewhere on your body and grows.
+    _id: fqy5rt2cQMn6WiIB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.fqy5rt2cQMn6WiIB'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: Your heart is turned to stone and you are unable to feel emotion.
+    _id: ZG8DoMANalQCedWv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ZG8DoMANalQCedWv'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: You are unable to withstand direct sunlight.
+    _id: eSY6JdbHh9bgdk2z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.eSY6JdbHh9bgdk2z'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      You shed your skin all at once like a reptile and are vulnerable for a
+      short period afterwards (alternatively, you build a cocoon and transform
+      into... something else).
+    _id: YNgX62i4jPeuAkDC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.YNgX62i4jPeuAkDC'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      You have an affinity with a type of bug like a cockroach, which you may
+      eat, play with, see often, or which may emerge from your bodily orifices.
+    _id: bBjoXCixmJ0b7VHW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.bBjoXCixmJ0b7VHW'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: Animals instinctively know you are evil/wrong.
+    _id: ZoTjPhaYpsOyvUsT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ZoTjPhaYpsOyvUsT'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: Plants that you touch wither and rot.
+    _id: im11A0fh2Es1RMJJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.im11A0fh2Es1RMJJ'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: Your eyes grow to be more bulbous, similar to a fish.
+    _id: 6BTjOmOJU6tURv3T
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.6BTjOmOJU6tURv3T'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      One of your hands losses all bones and shifts into a writhing mass of
+      tentacles.
+    _id: ygDY9dQks3hGDwzp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ygDY9dQks3hGDwzp'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      You begin to develop patches of only black scales that are contantly
+      itchy. When scratched off, more grow to take their place.
+    _id: BooXmBibQz136JZH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.BooXmBibQz136JZH'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      Your teeth shift in your mouth to sit at odd angles. This doesn't impact
+      your ability to talk or eat, but it does five you a crooked smile.
+    _id: n0GG5dp38mWQpZ2f
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.n0GG5dp38mWQpZ2f'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      You begin to sweat a thin, clear grease. No matter how much you bathe you
+      cannot get it off.
+    _id: qXQeQK0wIExku5Ej
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.qXQeQK0wIExku5Ej'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Two new eyes grow in the palms of your hands. You cannot see out of them
+      and they seem to move on their own freewill.
+    _id: efIBFRZQRt9OxWPm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.efIBFRZQRt9OxWPm'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Your spine arches outwards, giving you a severe hunchback. Looking closer
+      reveals small spines protruding from your skin down your back.
+    _id: 7j1nUIRxgcfdW72I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.7j1nUIRxgcfdW72I'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      The palms of your hands are stained a deep red that is not able to be
+      washed off.
+    _id: ahSPf4nCa3vcheR9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ahSPf4nCa3vcheR9'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: Your skin becomes cold and rubbery to the touch.
+    _id: W6fh0BtLBhe8TUKk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.W6fh0BtLBhe8TUKk'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Blood will occasionally leak out of various spots on your head (eyes,
+      ears, nose, mouth). It is not enough to hurt you, but it is visible to
+      others.
+    _id: y4ANdp7GqaOhHlvG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.y4ANdp7GqaOhHlvG'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: Your body odor becomes that of brimstone, rotting fish, or rotting flesh.
+    _id: CPnPFM4pL60UDKrh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.CPnPFM4pL60UDKrh'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: Your body temperature is always burning hot or freezing cold.
+    _id: pNzQEwErBN4KWLs0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.pNzQEwErBN4KWLs0'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Your eye pupils change (cat eyes, frog eyes, goat eyes, multiple pupils,
+      no pupils, etc.).
+    _id: sz0IklPr0mh7BdLb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.sz0IklPr0mh7BdLb'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: Your eyes glow with a hellish light.
+    _id: RXfcUP69z0HOL2Sk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.RXfcUP69z0HOL2Sk'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      Your eyes change to empty sockets filled with absolute darkness or hellish
+      light.
+    _id: 52KFjHScUU5KNTQR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.52KFjHScUU5KNTQR'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      You grow one or multiple extra eyes (extra set, third eye, randomly placed
+      eye).
+    _id: ugxnoftmGcgUn8qQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ugxnoftmGcgUn8qQ'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: You gain a halo of fire or hellish light.
+    _id: 6PkEVrBjcYawZT4D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.6PkEVrBjcYawZT4D'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Your skin color changes to something unnatural for your race (green, milk
+      white, obsidian black, red, etc.).
+    _id: 1gezgrKTHq9LS7WE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.1gezgrKTHq9LS7WE'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: Your skin changes to scales (if you didn't have scales before).
+    _id: tFNM3Xax8oxrFa8q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.tFNM3Xax8oxrFa8q'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: Your skin stretches and bulges as if there is something moving beneath it.
+    _id: K3wVNwkYCIPgcKPC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.K3wVNwkYCIPgcKPC'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: Your teeth become shark-like, with extra rows of teeth.
+    _id: fJjebwLe0UIpxMrI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.fJjebwLe0UIpxMrI'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: There is a literal gaping hole in your chest where your heart used to be.
+    _id: qVsoXeGxRX83fXAU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.qVsoXeGxRX83fXAU'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      The touch of blessed, divine, or sacred objects burn you and leave actual
+      burn marks.
+    _id: aSPDkRcy7CV0aFvr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.aSPDkRcy7CV0aFvr'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      Your veins become visible through your skin; they might appear black,
+      blue, green, red, or glowing.
+    _id: bdm5Jh5PGixlGOWY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.bdm5Jh5PGixlGOWY'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: Your reflection shows a monster.
+    _id: ortS6Z1Q4aZOe9LT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ortS6Z1Q4aZOe9LT'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: Your shadow is shaped like that of a monster.
+    _id: ma48GoaX8kMzoLck
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ma48GoaX8kMzoLck'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      Your fingers lose their bones, especially where you held the Evil Object.
+      They still move just fine and may even gain some flexibility.
+    _id: rbYf5cvOZk6TUdKP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.rbYf5cvOZk6TUdKP'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      Your pupils appear to be constantly melting off your face in a jelly-like
+      trail of black slime.
+    _id: 59ixaLUaTdWAB9Rs
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.59ixaLUaTdWAB9Rs'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      Your mouth moves to your clavicle overnight and expands across the entire
+      front of your throat as though your throat has been slit.
+    _id: 3PPr39mykhFZM3LO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.3PPr39mykhFZM3LO'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      You no longer gain sustenance from food or recuperate from rest. You begin
+      to lose 1 permanent HP per day until the problem is solved or curse is
+      lifted. Becoming an undead or aberration or finding alternative sources of
+      nourishment may help you.
+    _id: 9VyguK7sX6RUn2PC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.9VyguK7sX6RUn2PC'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      When breathing out in cold weather, you exhale black smoke instead of
+      white breath.
+    _id: Cov7LSSgVP8NImGH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Cov7LSSgVP8NImGH'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      You have no shadow. Even the natural shading of your body is gone, giving
+      you an uncanny valley kind of appearance.
+    _id: ypwePWgvhYka6dqB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ypwePWgvhYka6dqB'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Your blood loses all colour, your complexion is now unnaturally pale and
+      ashy.
+    _id: 0A5jXl7riNaoHkwb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.0A5jXl7riNaoHkwb'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      Strange runes in a language foreign to you appear on random spots on your
+      body. They appear to be trying to tell you somethig but you cannot
+      descipher them.
+    _id: Ttlhf8OKsRwnkvVU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Ttlhf8OKsRwnkvVU'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: Shadows cling to your body, and aren't as easily dispelled by light.
+    _id: 0Kb7Wpu4GeFulWFd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.0Kb7Wpu4GeFulWFd'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      Anomalous orifices begin appearing on your body, such as mouths, eye
+      sockets, etc.
+    _id: KkQtv576ZItJ5izE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.KkQtv576ZItJ5izE'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      A tragedy/comedy masks appears over your face, which bleeds a black liquid
+      from its openings.
+    _id: ecClqQlIwByXUZB5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ecClqQlIwByXUZB5'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Your eyes are now tinted with a dull black, as if dampened. When you cry,
+      it's almost as if the tears share the same color as your original eyes.
+    _id: Ndly5JYB7vWMGhfx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Ndly5JYB7vWMGhfx'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Wisps of black smoke sift through the soles of your shoes whenever you
+      walk.
+    _id: cUVVzeH4t0yVsMq3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.cUVVzeH4t0yVsMq3'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Whenever you voice echoes, it lasts for much longer than it normally
+      should.
+    _id: rOTBBcl4txfxijjz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.rOTBBcl4txfxijjz'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Acts of humanity and decency now stain you. Tears apply permanent defects
+      to your skin. Mercy and sparing aches your hand, and dimples become gnarly
+      and wrinkled.
+    _id: 5DKUzUoDWSjxXP1k
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.5DKUzUoDWSjxXP1k'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Your presence dampens the weave around you, snuffing out simple cantrip
+      effects such as dancing lights, prestidigitation, and mending.
+    _id: hC4GJsZ2hedGW1hc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.hC4GJsZ2hedGW1hc'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      You hear the pulses of those near you. The heavy thuds of their hearts
+      beat like drums drowning out ambient sounds.
+    _id: Jglit5H532qGOtn6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Jglit5H532qGOtn6'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      A loud crash shakes the establishment. It appears lightning struck the
+      rooftop. This is the third time this week it’s happened while you were out
+      and about.
+    _id: Rdnr2bHFqpGS3FEj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Rdnr2bHFqpGS3FEj'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: Your wrists can rotate all the way around.
+    _id: HUxDToN8AAFk64rO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.HUxDToN8AAFk64rO'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: You slowly stop needing to move your mouth to talk.
+    _id: F8UjYtg77MV4QJ2v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.F8UjYtg77MV4QJ2v'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Amalgamation. You look like several parts from different creatures were
+      spiced, stitched, or grown together to from one creature.
+    _id: WUQp03vGvPJNmR9b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.WUQp03vGvPJNmR9b'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: 'Disproportional limbs. Ex: one overly large arm or one overly small leg.'
+    _id: 8hPi50iBQfkEwVFk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.8hPi50iBQfkEwVFk'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Strange bulbous pods growing on your skin. They seem to pulsate with your
+      heart beat.
+    _id: rqnr54iok4TBENHC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.rqnr54iok4TBENHC'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: When cut, you bleed black or green ichor instead of blood.
+    _id: xk4aIBujHnr9AXRS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.xk4aIBujHnr9AXRS'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      When your skin gets damaged, it reveals a different type of creature
+      underneath. This other creature appears to be wearing your skin like a
+      disguise.
+    _id: 2jiqSJpS6dDnwG4Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.2jiqSJpS6dDnwG4Z'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      Everybody who sees your eyes will believe that you are looking directly at
+      them. (like it is with the mona lisa).
+    _id: kO6CwPjaOB3cJYSL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.kO6CwPjaOB3cJYSL'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Your skin turns clean and pure white. It's hard to the touch and slightly
+      cold.
+    _id: eZ8pmkTGHvj9rHhT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.eZ8pmkTGHvj9rHhT'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      An eye appears on the back of your neck. It's a bright acidic greenish
+      yellow color.
+    _id: ruS6UM39SUJ1IKGn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ruS6UM39SUJ1IKGn'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      A strange symbol appears in the middle of the chest of whatever clothing
+      you wear. If you put a coat over it, the symbol fades in on the surface of
+      the coat over the course of a few minutes. If you take the coat off, it
+      fades and is back on the shirt underneath again. When you strip naked, it
+      fades in as a tattoo.
+    _id: pk0lAM4yzdjYVlM2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.pk0lAM4yzdjYVlM2'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Your hair becomes distressed and wirey no matter how much you tend to it,
+      creating a knotted nest of bristly strands.
+    _id: J50OTkyWA7qDXHsh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.J50OTkyWA7qDXHsh'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: Your saliva takes on an unnatural hue and can now be used as a weak venom.
+    _id: ND8HonCJsWsU4Hfq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.ND8HonCJsWsU4Hfq'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      You gain a wheezing, hacking cough that eventually leads to strange
+      objects and fluids being coughed up (I.e. tetromas, small statues and
+      smoothed rocks, black sludge).
+    _id: DGi0vwlJJ23cKWG7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.DGi0vwlJJ23cKWG7'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: You weep black, oily tears.
+    _id: Rsbzup3Aa0rN09p4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Rsbzup3Aa0rN09p4'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      Strange shapes begin to form beneath your skin, spelling out words as you
+      run your fingers over them. The words urge you to commit dreadful acts.
+    _id: c6rfmtSKCcOSPCNg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.c6rfmtSKCcOSPCNg'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      A hornet's nest forms within your body. The hornets come and go through
+      holes at your collar bones. They are not hostile to you.
+    _id: N9PFisZzCvLfoG0t
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.N9PFisZzCvLfoG0t'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      While your appearance does not change, it becomes increasingly difficult
+      for others to remember who you are. Over time, even your closest friends
+      and family lose the ability to recognize or remember you.
+    _id: vncm5JqliLAi26f4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.vncm5JqliLAi26f4'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Your fingernails shed and regrow constantly. The process is neither clean
+      nor painless.
+    _id: uL57pZpwAn3q9Jqo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.uL57pZpwAn3q9Jqo'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      You develop a chronic irritation, such as itchy eyes, sore limbs/joints,
+      or a mild rash. Careful observers will notice a very subtle movement at
+      the location, akin to a worm moving under the surface.
+    _id: b9mKtPUm8qz4vmdx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.b9mKtPUm8qz4vmdx'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Your gait shifts as you move, most times in small increments similar to
+      carrying a heavy object in a hand or dragging with a leg, but sometimes
+      the shift is like some large entity actively pushing/pulling against you.
+    _id: XB6ijrmVGldz06CW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.XB6ijrmVGldz06CW'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Your body's symmetry is thrown askew. One arm is thicker, an eye is
+      larger, a leg is now 1-2 inches longer/shorter, etc. This change affects
+      1d3 paired body parts or organs.
+    _id: pt90vXs4JekgKU3x
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.pt90vXs4JekgKU3x'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      A natural aura of darkness follows you. People always (mysteriously) find
+      themselves standing in your shadow, a cloud passes over the sun/moon, or
+      another person/object blocks the nearest light source when you get close.
+    _id: lYQsvNi46JRVdlGC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.lYQsvNi46JRVdlGC'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      Your hair becomes overgrown and filthy quickly, and clumps come out
+      effortlessly, but your hair never thins.
+    _id: u50xDm8syE8Gsnb3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.u50xDm8syE8Gsnb3'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: You regularly regurgitate wads of hair, teeth, and toenail.
+    _id: Ku3zzZFll1UHqAgc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.Ku3zzZFll1UHqAgc'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      When others look at their reflection in your eyes they see the moment of
+      their own death.
+    _id: 9gkBbuFsaSIQZgfk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.9gkBbuFsaSIQZgfk'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      When you speak a second lower voice comes from your throat repeating the
+      same words but in a croaking, droning melody.
+    _id: u3Um9ht4fGVQa2wf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.u3Um9ht4fGVQa2wf'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      You seemingly aren't affected by wind. Your hair and clothes do not move
+      in light winds, but you will still be affected by severe weather.
+      (Alternatively, you and anything you're wearing are always blowing in
+      wind).
+    _id: PXhX60A5eBXnOLpj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.PXhX60A5eBXnOLpj'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      You no longer make noise breathing, coughing, sneezing, from your pulse,
+      yawning, or from objects hitting you. You still make noise walking and
+      verbally.
+    _id: iPCov7ItuIbSzbGT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.iPCov7ItuIbSzbGT'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      You're facial features become more severe. Your jaw becomes more angular
+      and long, you cheekbones become abnormally large, your forehead protrudes
+      like a neanderthal, and your nose grows larger. Additionally, your fingers
+      and toes grow longer.
+    _id: bVf1TltGAP5CbVik
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.bVf1TltGAP5CbVik'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Your skin becomes slightly translucent, so your muscle tissue is visible.
+      Optionally, your muscles are also clear, so you can see your bones.
+    _id: QRURjRC6mW5MftwL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.QRURjRC6mW5MftwL'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: When you wake up from sleeping
+    _id: vhwGhC3duD1XZsU0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.vhwGhC3duD1XZsU0'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      rance etc. Your mouth is sewn shut, and your jaw is unable to open. The
+      wire holding your mouth shut is durable, and takes 2d4 minutes to cut.
+      Whenever you re-awaken, this happens again.
+    _id: fuy0OA83yA5PFvIh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.fuy0OA83yA5PFvIh'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      The skin directly above your veins turns dark purple, perfectly tracing
+      them. Your veins also protrude more. When you bleed, the veins in that
+      area become black.
+    _id: XQgSOCQ12YsGkuPt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.XQgSOCQ12YsGkuPt'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      You no longer need to blink nor close your eyes when you sleep. (You still
+      have the awareness when sleeping that you would if your eyes were closed,
+      though.) Your eyes become incredibly bloodshot and get worse every hour
+      after you awaken.
+    _id: JnePJkWWKYZ6KBIO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.JnePJkWWKYZ6KBIO'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Your skin looks red and irritated, and you are hot to the touch. Any tears
+      or sweat evaporates in a few seconds. When your blood is spilt, it appears
+      to be boiling. The area around wounds that bleed blisters.
+    _id: 9XGuelYn7iluWqNE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.9XGuelYn7iluWqNE'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Your skin becomes shiny, smooth, and is hard to the touch. When you are
+      damaged, your skin cracks like ceramic. It still heals at its normal rate,
+      but the materials needed to heal you without magic change. Your skin has
+      permanent scratches unless healed magically.
+    _id: DEYOKc4o0qIg8vtk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.DEYOKc4o0qIg8vtk'
+  - range:
+      - 101
+      - 101
+    name: ''
+    description: >-
+      Your eye lashes turn into spider legs. They seem to move with a mind of
+      their own. When one is pulled out it grows back in 2d4 hours.
+    _id: g0bXzBNl2JJ8TGRk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792745064813
+      modifiedTime: 1792745064813
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!usQAjFlo3uTnXdE7.g0bXzBNl2JJ8TGRk'
+folder: null
+_id: usQAjFlo3uTnXdE7
+img: modules/game-icons-net/whitetransparent/abstract-002.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792745064813
+  modifiedTime: 1792747029141
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1700000
+_key: '!tables!usQAjFlo3uTnXdE7'

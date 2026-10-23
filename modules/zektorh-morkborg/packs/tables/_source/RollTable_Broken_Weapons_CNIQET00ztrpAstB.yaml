@@ -121,18 +121,18 @@ results:
 replacement: true
 displayRoll: true
 folder: null
-sort: 0
+sort: 300000
 ownership:
   default: 0
   1Njz0vDEn4hXH4fV: 3
 flags: {}
 _stats:
-  coreVersion: '14.367'
+  coreVersion: '14.369'
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789489696019
-  modifiedTime: 1789489929418
-  lastModifiedBy: 1Njz0vDEn4hXH4fV
+  modifiedTime: 1792744624097
+  lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
   exportSource: null

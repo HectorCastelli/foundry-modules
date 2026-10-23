@@ -1,0 +1,2299 @@
+name: Wizarding Treatises And Book Titles
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: '"Making Friends; a History of Necromancy."'
+    _id: 16nIOzZ5uzq5L3jQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.16nIOzZ5uzq5L3jQ'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: '"A Treatise on the Problem of Infinite Demiplanes"'
+    _id: w29pHRlrGBqtIDmW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.w29pHRlrGBqtIDmW'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: '"Ozohr''s Compendium of Glyphs for Crystalline Structures, Fifth Edition"'
+    _id: 8jOD9D2jawR6xDMb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.8jOD9D2jawR6xDMb'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: '"Analysis of Divination Spell Extension into the Astral Plane"'
+    _id: uwPiAgIQTpNsp8qI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.uwPiAgIQTpNsp8qI'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: '"This Spell is Harmless'' and Other Lies To Tell Yourself"'
+    _id: 64MbrNtFgGawsu2I
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.64MbrNtFgGawsu2I'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: '"Dragons, Drakes, and Winged Demons; a Guide to Fire Breathers"'
+    _id: IfXzfR53k49xCmhx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.IfXzfR53k49xCmhx'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: '"Hefty and Heavy; Proper wand shaping for beginners"'
+    _id: Ng9Obb47obBA5fEk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Ng9Obb47obBA5fEk'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: '"Common Rune Mistakes and Their Consequences, a Summary"'
+    _id: v3GrH4legTDXIk6U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.v3GrH4legTDXIk6U'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: '"Fireball Illustrated"'
+    _id: reGCyfNhw90LXiR2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.reGCyfNhw90LXiR2'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: '"Aardvarks to Anvils; Unique uses for Polymorph"'
+    _id: Luz6b0DmFrUG6WbT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Luz6b0DmFrUG6WbT'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: '"The Arcana-Sutra"'
+    _id: az7aB4RejRAargT5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.az7aB4RejRAargT5'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: '"The Illusion of Space; A primer on Conjuration Magic"'
+    _id: nC8Uhb3YNqkCqL9O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.nC8Uhb3YNqkCqL9O'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: '"1,000 Prophecies to Keep Your Eye On"'
+    _id: dH897Bmr9km3kKqQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.dH897Bmr9km3kKqQ'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: '"A Humble Collection of Heresies"'
+    _id: AK1Qn9xe1hQyNP6L
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.AK1Qn9xe1hQyNP6L'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: '"Survival in the Outer Planes and in the Astral Sea"'
+    _id: ikUN1jGiOJ43srDL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ikUN1jGiOJ43srDL'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      "Those That Came Before; An Overview of Extinct Magical Traditions and
+      What We Can Learn from Them"
+    _id: ZVN1f4d3aIvStwKo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ZVN1f4d3aIvStwKo'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: '"Darkness; Creating, Dispelling, and Exploiting It"'
+    _id: EpcSiCTz96EebcfY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.EpcSiCTz96EebcfY'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: '"Advanced Draconic Anatomy"'
+    _id: B7aZOBz5xU5F4cdB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.B7aZOBz5xU5F4cdB'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: '"Angels and How to Avoid Them"'
+    _id: kZDx61017EUFitZl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.kZDx61017EUFitZl'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: '"10,000 Runes Without Meaning"'
+    _id: iBjTbfpow0S6LfaO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.iBjTbfpow0S6LfaO'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: '"Spellbook Minimalism"'
+    _id: KrlQFSk4jXutzYgC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.KrlQFSk4jXutzYgC'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      "Understanding the Alien Minds of Gods, Outsiders, and Yet Stranger
+      Creatures"
+    _id: Oqwguk3NIviJts0a
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Oqwguk3NIviJts0a'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: '"The Magic of Stone and the Souls of Mountains"'
+    _id: mnF6laPEybIoO1Eu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.mnF6laPEybIoO1Eu'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: '"This Ore That; Choosing your first Rock Golem"'
+    _id: xNBLNii9GNL9T9BJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.xNBLNii9GNL9T9BJ'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      "Beyond the Cauldron - Brewing Potions in the Wilderness; a Personal
+      Story"
+    _id: AudRyn9TyugaSL1Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.AudRyn9TyugaSL1Z'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      "Proof of a Positive Relationship Between Leysian Crossings and Levitation
+      Enchantment Potency"
+    _id: AElx6BruqZbf9URm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.AElx6BruqZbf9URm'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      "Gwynssin Revisited: The Transformative School of Enchantment in the
+      Eleventh Century"
+    _id: RDF6xedhWZ4fy9dW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.RDF6xedhWZ4fy9dW'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: '"Introductory Life Extension, Revised Edition - Now 100% dark magic free!"'
+    _id: qzogTDy4OALOOEoM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.qzogTDy4OALOOEoM'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      "Great Spirit Aid: A Study of Unique Varieties of Incorporeal Summoning
+      Among the Northwestern Tribes!"
+    _id: p6p3aXDEd2oVuiqI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.p6p3aXDEd2oVuiqI'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: '"Ten Basic Shields: A Revolutionary New Way to Categorize Abjurations!"'
+    _id: NUic1odftrkv8acI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.NUic1odftrkv8acI'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: '"The Common Genealogical Ancestor of Kobolds &amp; Lizardfolk!"'
+    _id: tPPPfUGG5m9v93Lr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.tPPPfUGG5m9v93Lr'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: '"The Science of Magic, a Treatise"'
+    _id: kTxRgtO9CwkUlDOd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.kTxRgtO9CwkUlDOd'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: '"Rags to Reigns - a Traveler''s Guide to the Nine Hells"'
+    _id: PFTOm8cAZ0pnExx8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.PFTOm8cAZ0pnExx8'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      "Making the Most of Your Allies; Why You Should Focus on Transmutation and
+      Necromancy"
+    _id: ZxFwK4Gdpa48rKv7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ZxFwK4Gdpa48rKv7'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: '"101 Easy Magic Items You Can Make on the Road"'
+    _id: ly1VMDtVjhY9Vnao
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ly1VMDtVjhY9Vnao'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      "Our Darker Sisters; A Cautionary Volume on the Dangers of Dealing with
+      Hags"
+    _id: peSO2tVMv11GQOci
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.peSO2tVMv11GQOci'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      "lasreveR fo kooB s'karalS (also known as An Abjurer's Guide to
+      Counterspelling)"
+    _id: gB1h3dHWSLqvlaUj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.gB1h3dHWSLqvlaUj'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: '"On the Transmutation of Gold to Lead - A primer"'
+    _id: lGWi18WWW4gTSlVJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.lGWi18WWW4gTSlVJ'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: '"A Perditio Tempus; My journey to making True Strike good again"'
+    _id: 2v0C8kX8pINO7h4n
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.2v0C8kX8pINO7h4n'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      "Myths of Malumnak the Mad; a collection of stories about that craziest of
+      wizards"
+    _id: Jb9JTeTC4E0Ihl5z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Jb9JTeTC4E0Ihl5z'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      "Analysis of the Extended Lifetime of Draconic Respiratory-Flame Droplets
+      in a Turbulently Vaporized Floomph Puff"
+    _id: 1VmwgRPvjxwATnOW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.1VmwgRPvjxwATnOW'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: '"Relative Temporo-Thaumic Desynchronization Transitions in Hasted Targets"'
+    _id: gwCeAqHRx8gDJUdr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.gwCeAqHRx8gDJUdr'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      "A Vortex of Annihilation in a Tea-cup - Practical Applications of
+      Collapsing Spheres"
+    _id: JUj40r4xZRzTDiIG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.JUj40r4xZRzTDiIG'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      "Evidence of Omni-Planar Asymmetries Seeded by High-Density Ablator
+      Nonuniformity in Experiments Involving Deific Artifacts and Magically
+      Simulated Dragon-fire"
+    _id: IwVmryNNFQ78dvCj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.IwVmryNNFQ78dvCj'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      "Convergence of Eigen-Tensor Continuations in Infinite Dimensional
+      Kismet-Hazard Prognostications"
+    _id: g4NQmQcGE0PJQUp2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.g4NQmQcGE0PJQUp2'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      "Evidence of Potts-Neme-Tenseric Superfluidity in Non-agonal Optical
+      Levitation"
+    _id: sxbug8BtUq78g3f5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.sxbug8BtUq78g3f5'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      "Direct Observation of Fractal-Dimensional Percolation in Renal Pyramids -
+      In Search of the Philosopher's Kidney-stone, Diary of a Personal Journey"
+    _id: Rg7KDCzORSCmoxEX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Rg7KDCzORSCmoxEX'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      "Fast Friends; An Autobiographical Account Regarding Dangerous and Morally
+      Ambiguous Misuses of Charm Spells"
+    _id: eu6CsmSvwY2BtbtN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.eu6CsmSvwY2BtbtN'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: '"Treatise on Temporal Foresight in Divination"'
+    _id: G4s9X2wvFX8Vqcn4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.G4s9X2wvFX8Vqcn4'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: '"Annals of Grafted Incarnum: Soul Splicing"'
+    _id: 3yuGnZTAO5oGW79b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.3yuGnZTAO5oGW79b'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: '"Practical Applications of the Demiplane Spell"'
+    _id: JNrIyAYWvfBybUlv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.JNrIyAYWvfBybUlv'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: '"Arcane Tearing: An Enchanting Primer"'
+    _id: UMNHNi9LJ34aItVi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.UMNHNi9LJ34aItVi'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: '"The Complete Guide to Bypassing the Crystal Sphere''s Barrier"'
+    _id: rfawOJwNgEVScTpY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.rfawOJwNgEVScTpY'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: '"Complete Compendium of Deific Dogma"'
+    _id: rZZcDlQWqQhZZWqc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.rZZcDlQWqQhZZWqc'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      "The Philandering Philosophy in Respect to the Power Scale of Magic Users:
+      A Deep Observation"
+    _id: eNnkzZ7NH5ukv5pZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.eNnkzZ7NH5ukv5pZ'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: '"Syntax and Semantics in Spell Components"'
+    _id: 5PHqnri4GyTdn8uo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.5PHqnri4GyTdn8uo'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      "A Critical Review of Every Known Spell, The Complete Collection, 5th
+      edition (23 volumes)"
+    _id: qGdq1inNR8YLkK1u
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.qGdq1inNR8YLkK1u'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: '"Selective Topics in the Stylistics of Spellcasting"'
+    _id: ThDMef1okVEsLvuE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ThDMef1okVEsLvuE'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: '"Gendry''s Guide to Non-gullible Golems"'
+    _id: XjDGR09sy2OX2orI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.XjDGR09sy2OX2orI'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: '"The Titillating Truth of Tubular Tome Making"'
+    _id: 6rKcsm2L76lakXy8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.6rKcsm2L76lakXy8'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: '"The Delirious Despot: A Psychoanalytic Approach"'
+    _id: ufN1CZXTM7Ig7iFP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ufN1CZXTM7Ig7iFP'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: '"Elder Evils'' Encyclopedia"'
+    _id: 0a5cGbXMiYMM0xp6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.0a5cGbXMiYMM0xp6'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: '"Unabridged Atlas of Arcane Observations in Astronomy"'
+    _id: fC6z93IFMByOjTU1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.fC6z93IFMByOjTU1'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: '"Vellum of Viscous Vindication: Curse Construction"'
+    _id: 0Q9J1PegQ6lTpsAE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.0Q9J1PegQ6lTpsAE'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: '"Magnum Opus of Mythallar Musing"'
+    _id: siJxacJ15bBPFrkR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.siJxacJ15bBPFrkR'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: '"Contemporary Codex of Celestial Cadavers"'
+    _id: ZrNf2Lk2BYMrVo9B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ZrNf2Lk2BYMrVo9B'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: '"Death''s Ancestors; An Etymological Analysis of the Words of Power"'
+    _id: MSM6b9KvXtpjXEpY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.MSM6b9KvXtpjXEpY'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: '"A Cultural History of Dark Magic"'
+    _id: SfXHoxltoMjla2yS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.SfXHoxltoMjla2yS'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      "The Element of Destruction; An Exploration of Primordial Evocation
+      Magics"
+    _id: jtWHPMisD71Zwyv9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.jtWHPMisD71Zwyv9'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: '"Competing Elemental Theories"'
+    _id: h2l1lQOgrwehHziN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.h2l1lQOgrwehHziN'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: '"Meditations on the Feasibility of Chronomancy"'
+    _id: SyxsSmvud9PLHn1A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.SyxsSmvud9PLHn1A'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: '"Wild Magic and Mesuring Risk"'
+    _id: 1F5ORxMCHiKMkvut
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.1F5ORxMCHiKMkvut'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: '"A Compendium of the Many Moods of the Weave"'
+    _id: RreHlongvfg5NflH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.RreHlongvfg5NflH'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: '"The Life and Death of Gods"'
+    _id: S0W4B9akAGdTpXOY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.S0W4B9akAGdTpXOY'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: '"Martial Skills and Tactics for the Adventuring Wizard"'
+    _id: Cp96ztAflfNeZ38R
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.Cp96ztAflfNeZ38R'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: '"The Lost Wonders of Epic Magic"'
+    _id: T9Q6tdF8OqWUdyN8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.T9Q6tdF8OqWUdyN8'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: '"The Lure of Lichdom; Meditations on Mortality"'
+    _id: whFBASObP5urnx1d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.whFBASObP5urnx1d'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: '"Alnam''s Encyclopedia of Herbal Components"'
+    _id: aDORj0YaoqCMUswC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.aDORj0YaoqCMUswC'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      "Probing Transport and Structure-Property Relationship of Highly Ordered
+      Orgone Superthaums Lattices at the Ethereal-Material Planar Limit -
+      Towards Living in an Immaterial World"
+    _id: KFf1BbCTNdRNOqvN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.KFf1BbCTNdRNOqvN'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      "Unveiling Macroscopic Structures of Neutrally Charged Elemental
+      Interfaces by Surface-Specific Vibrational Spectromagy - My Conversations
+      with Water, and other Treatises."
+    _id: CqaLuTNniguRyY0k
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.CqaLuTNniguRyY0k'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      "Complexified Paths, Integral Saddles; Sovereign Glue and the
+      Super-sandwich Principle - Taming Magical Steeds via Liberal Application
+      of Math-magical and Culinary Threats"
+    _id: kxzBH4so8xJMqkg0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.kxzBH4so8xJMqkg0'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      "Hidden Symmetries, Instabilities, and Currency Speculation Suppression in
+      Brownie Rackets - How to beat Fey Loan Sharks at Their Own Game"
+    _id: pvthAdF96DOxvAR9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.pvthAdF96DOxvAR9'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      "Enhanced Stochastic Resonance and Spatiotemporal Synchronization in a
+      Mass Hasted Party - A Stab in Time, Saves Thee and Thine"
+    _id: TlmQxjIbDamUJCMT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.TlmQxjIbDamUJCMT'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      "The Shape of the First Collapsed Objects - Ancient Architecture of the
+      First Great Mage Empire, Magical Weaponry, and the Application There-of"
+    _id: snw6qg2PRnsB3QMe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.snw6qg2PRnsB3QMe'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      "Emerging Patterns in Oscillatory Absorption of Thaumo-Ultra-Acoustic
+      Waves - Using Suggestion and Modify Memory to Get Ahead"
+    _id: bCYIEfOP9HyOyaoK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.bCYIEfOP9HyOyaoK'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: '"Exponentia Foramina &amp; The Leyline Convergence Matrix, Inter Alia"'
+    _id: eFtSCOELZCAVYtlE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.eFtSCOELZCAVYtlE'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      "Mordenkainen's Toenails and Chrysolite Powder's Usefulness in the
+      Discernment of Arcano-Confounding Proto-Runes"
+    _id: UiX0MjjngkJ2ES8C
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.UiX0MjjngkJ2ES8C'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      "Trans-substantial Passage of Quickened Objects or Entities Without
+      Persistent Liminal Agency of Hyperagonal Media"
+    _id: tnHD1ROTdZUnK5Cl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.tnHD1ROTdZUnK5Cl'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: '"Sustained Transpontine Circumpenetration - Secrets of Sigil Stone"'
+    _id: CkuV3BJG67BZ7lTv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.CkuV3BJG67BZ7lTv'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      "On Post-Morpholiths and Proto-Daedric Sigils in the Pnakotic Testaments -
+      All Signs Point to 'Nope'"
+    _id: YLSlpleCpxTOTKBR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.YLSlpleCpxTOTKBR'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: '"Essential Geomantic Engineering for Those of Average Intelligence"'
+    _id: QIDg19WX3jWteI9B
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.QIDg19WX3jWteI9B'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      "Philosophy of Low-Energy Magery - a Confoundingly Incomplete Treatise,
+      with Editor's Commentary"
+    _id: sh4dw2PEQJMCPHUm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.sh4dw2PEQJMCPHUm'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: '"On the Sending Out of the Soul"'
+    _id: XWCeTpP4FXjlCRHc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.XWCeTpP4FXjlCRHc'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: '"Parchments of Pnom - A Complete and Original Translation"'
+    _id: ip4e8xaNEfDAHIz7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ip4e8xaNEfDAHIz7'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      "Las Reglas de Ruina - translated to the Common Vernacular by Meisters
+      Theodorius and Chevillion, with Commentary and Compleat Appendix"
+    _id: DjDbCk72qTZuAvOn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.DjDbCk72qTZuAvOn'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      "Seven Cryptical Books of Hsan - The Dream-Quest of Unknown Kadath
+      Explained"
+    _id: TAEFVbax3PYMi0Ro
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.TAEFVbax3PYMi0Ro'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: '"Search for Heavy Resonance Decaying in the Phase of the Ethereal Plane"'
+    _id: ZUCP3BrsWOtMI41N
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.ZUCP3BrsWOtMI41N'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      "Pressure Effects on Phlogiston Among Other Parameters in Limbo
+      Environment"
+    _id: 1f3NkWuZCnokpg6e
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.1f3NkWuZCnokpg6e'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: '"Ultrafast Evocation Dynamics and Interactions in Complex Weave Networks"'
+    _id: HW6zuQpnL3xmWBTP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.HW6zuQpnL3xmWBTP'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      "Organic Energy Cells: Degradation Processes and Approaches to Enhance
+      Performance"
+    _id: VFVkDxmFq9vf74hf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792744932899
+      modifiedTime: 1792744932899
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!GzfTLuBze00Ghv0B.VFVkDxmFq9vf74hf'
+folder: null
+_id: GzfTLuBze00Ghv0B
+img: modules/game-icons-net/whitetransparent/book-cover.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792744932899
+  modifiedTime: 1792747029151
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 2200000
+_key: '!tables!GzfTLuBze00Ghv0B'

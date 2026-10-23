@@ -1,0 +1,2787 @@
+name: Goblin Tribes
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      The Bog Creepers: These sneaky goblins tend to live deep in the swamp in
+      great mud huts, where it is difficult for others to reach them. They cover
+      themselves in dark mud, lie in wait near roads that go through the swamp,
+      and ambush unsuspecting victims.
+    _id: ofx9NadDp1ORJk4r
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.ofx9NadDp1ORJk4r'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      The Spiderbite Tribe: The Spiderbite Tribe 'befriends' giant spiders that
+      build their nests in caves. The understanding is that the giant spider
+      will protect the goblins from outside attack, if the goblins continue to
+      bring the spider fresh meals.
+    _id: 3j4SnbGlz9JrllbK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.3j4SnbGlz9JrllbK'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      The One-Eye Tribe: Led by Shar-took the Seer, who was born with one eye,
+      this goblin tribe requires that all of its new members cut out their own
+      eye. Shar-took believes that having only one eye gives you insight into
+      the future. He is frequently wrong, but he IS the strongest of the tribe,
+      so there isn't much they can do about it.
+    _id: wgLVmLLvFlHxXN8v
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.wgLVmLLvFlHxXN8v'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      The Axe-biter Clan: These mischievous goblins terrorize roadways that
+      travel through great forests. They use their crude homemade axes to chop
+      down trees and lay the logs across the road ways. If a caravan stops to
+      clear the log, the goblins move in to strike.
+    _id: dEWLNnVOGu1YdiRL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.dEWLNnVOGu1YdiRL'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      The Red Skull Tribe: These goblins have a unique trait. From the moment
+      they are born, they are covered with red mud that slowly dyes their skin
+      as they grow older, giving them a deep red skin tone. They dwell within
+      abandoned dwarven mines where they have quick access to the red mud
+      needed.
+    _id: lFFyHDibnkKgUUrf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.lFFyHDibnkKgUUrf'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      The Orc Killers: they are a tribe that got fed up with being forced to do
+      the Orcs bidding. They realized that there were way more Goblins than
+      Orcs. So they Rebelled, killing their Orc overlords. Now they travel the
+      realm, freeing their brethren from the Orc yoke. They are feared by Orcs
+      everywhere. They believe the only good Orc is a Dead Orc! and they taste
+      good once roasted.
+    _id: FiQjDzRM2M4S5pR3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.FiQjDzRM2M4S5pR3'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      The Bird Cruncher Tribe: Forest dwelling goblins known for the disturbing
+      habit of biting the heads off of birds and wearing the corpses as
+      decoration. A favored tactic is ambush from above onto unsuspecting
+      travelers below.
+    _id: 1KjJB1NBbJ9Ux71p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.1KjJB1NBbJ9Ux71p'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      The Muckwalkers: Highly shamanistic/druidic goblin tribe, gifted in
+      poisons and the spreading of rot and filth. The tribe chooses one of its
+      warriors each year to be the 'pot'; a living cauldron of disease that
+      willingly accepts the darker, repulsive gifts of nature. The ripened pot
+      is then unleashed on their enemies.
+    _id: lHMyxGj0hSb8Dnil
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.lHMyxGj0hSb8Dnil'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Angry Biter Clan: Mutated, cannibalistic goblins with comically oversized
+      heads and razor sharp teeth. They live painful, short lives (even for
+      goblins), which leads them to be even more radical in their raids and
+      attacks on civilized lands. They are known for fighting without weapons,
+      preferring to bite and locking jaws onto prey en masse, using their
+      collective weight to bear down on larger opponents. The end result is
+      bloody and unpleasant.
+    _id: WaUNkCj0qEJ7Zbos
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.WaUNkCj0qEJ7Zbos'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      The Putrid Biters: These goblins have gone entirely feral due to long
+      years living in a swamp and consuming fruit that has rotted on the vine.
+      These goblins have developed a disease ridden bite and a mighty need for
+      meat. The goblins live in warrens dug into the mud and swarm in a truly
+      terrifying display, literally shoving each other into the mud to plunge
+      their sharpened teeth into anything that dares stray into their swamp.
+    _id: Hx0mztidh6j9oWHL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Hx0mztidh6j9oWHL'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Silkwater Goblins: first beings to discover how to harvest silk from
+      silkworms, using it as string and rope rather than cloth. Other races
+      learned it from them, and the goblins have been forgotten for the most
+      part, but they remain proud of their history.
+    _id: Or1O6iAfBMHEXCmz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Or1O6iAfBMHEXCmz'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      The Seller Tribe: A different sort of tribe that isn't as openly violent
+      to outsiders. Instead they decide to sell themselves as a sort of
+      mercenary clan. From ridding a yard of rats to being used as cheap muscle.
+      You name a good price, from three whole chickens to a smattering of coins,
+      and they're yours to command.
+    _id: xpyrotVD6f1mwFqN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.xpyrotVD6f1mwFqN'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      The Red Weepers: All members of the tribe are Goblins who are infected
+      with a mysterious illness that makes them cry blood, but also gives them
+      regenerative powers. Since the disease is very contagious and can spread
+      also to other races (with lesser effects) they are hunted down by plague
+      doctors and adventurers. To counter this, the Red Weepers often sneak into
+      or attack other Goblin tribes to spread the disease and have more members.
+    _id: ltIB4qoAv3T0WkR2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.ltIB4qoAv3T0WkR2'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      The Bodybuilders: This Goblin tribe lives deep underground, in what was
+      once the lair of a powerful dragon, now dead. They are using the powerful
+      latent magic combined with the dragon bones and some magical items that it
+      had hoarded to build themselves an army of homunculi (which they call
+      'bodies'). Their leader Frikkstain was the first to discover the lair when
+      he fell in an abandoned Kobold mine, and used a powerful magic club
+      (actually a magic staff) to become leader of the tribe. If they succeed in
+      building enough 'bodies', they could become quite a problem for surface
+      dwellers.
+    _id: OaD7L78cXEpmfzPH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.OaD7L78cXEpmfzPH'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Gordoff the Giant: Led by a gifted armorer artificer, this tribe of goblin
+      spellcasters work in unison to pilot an ultra-realistic, magic-mecha hill
+      giant. Upon close inspection, it's easy to tell that the giant is fake,
+      but hill giants are so dumb, they can't tell that Gordoff isn't a real
+      giant, although they believe 'he' is a little bit of a weirdo. Gordoff
+      stumbles through life as a giant, clumsily imitating hill giant speech,
+      mannerisms, and customs. But as an organized unit, the goblin tribe is
+      very competent in combat, sometimes using magic to supplement the mech
+      when nobody's looking. They use Gordoff to join in on giant raids to get
+      big hauls of treasure. The goal is to eventually become a hill giant chief
+      to control a small army of hill giants to get even more treasure. But the
+      plan is so taxing and convoluted that the tribe could have probably used
+      their talents to get rich in a far less complicated manner. Perhaps it's
+      about the thrill?
+    _id: 6OV6XSwy7aKwG6lo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.6OV6XSwy7aKwG6lo'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      The Goblin Collective: A goblin hivemind that lives where you typically
+      see goblins. In swamps, wet forests, moors, and caves. But these goblins,
+      due to the effects of a particular mushroom they cultivate are all linked
+      in consciousness.
+    _id: Fnhxbz7fS8qewnkQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Fnhxbz7fS8qewnkQ'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      The Clan of the Night Shrooms: This tribe of mostly unaggressive goblins
+      who cultivate mushrooms for trade and food. A lot of them are noted to
+      have mushrooms growing on their skins, which freaks out even other goblin
+      tribes, but don't seem to bothered other than unconsciously scratching
+      themselves.
+    _id: KaDmzvIXscAL89wy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.KaDmzvIXscAL89wy'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      The Forest Sirens: For some reason or another, these goblins have
+      beautiful singing voices. Their haunting choir can be heard even from the
+      fringes of the forest, attracting curious adventurers into the dangerous
+      traps and creatures that also make it their home. The tribe makes their
+      living by scavenging on these curious poor souls.
+    _id: NoiEsHIlMJoeQDfc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.NoiEsHIlMJoeQDfc'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Wild Magic Goblins: These Goblins have been making their home on a leyline
+      for decades now, infusing them with wild magic. When killed or knocked
+      out, has a decent chance of casting a random spell on a wild magic table.
+      Higher ranking tribe members can cast wild magic once per day as a spell
+      like ability.
+    _id: vs9atbrHlqDPCaaO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.vs9atbrHlqDPCaaO'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      The Roost Riders: A clan of goblins that have established a fortress keep
+      high in the cliffs &amp; caves of a nearby mountain. A feudal society has
+      developed there due to the ruling goblin family's peculiar talent for
+      taming giant bats to be used as war gliders. These winged leather steeds
+      give the Roost Riders a superior combative edge against all six other
+      neighboring tribes of the mountain. These tribes pay fealty not only in
+      the form of gold, but also in a sacrifice of the first-born of each of the
+      tribe's leaders. The children are taken and raised in the highest level of
+      the keep to be trained as one of the elite bat riding knights that make up
+      the Roost Riders' Winged Warband.
+    _id: SXxS1vVTQtVk75Zm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.SXxS1vVTQtVk75Zm'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      The Ankle Shankers: Take advantage of their small size and hide in low
+      places to ambush people and bring them down first before giving in to
+      their demands or killing them.
+    _id: wwlpAx0RGCqWndIj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.wwlpAx0RGCqWndIj'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      The Wandsnappers: Former minions of an evil mage, have a grudge against
+      all magic users (Based on a PC of mine).
+    _id: kSTRxLYR4GkvLmD5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.kSTRxLYR4GkvLmD5'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      The Corncob Valley Goblin Collective (the CVGC's): Friendly and docile,
+      this social group of goblins has made a niche for themselves in the
+      beautiful Hamlet of Corncob Valley. They help guide people through the
+      fields and into the Hamlet and are easily recognized by their vacant
+      expressions and their clean blonde bowl cut hair styles.
+    _id: Tla04POT86hrBMCO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Tla04POT86hrBMCO'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      The Hogback tribe: these goblins are known for “taming” wild hogs as
+      battle mounts, high ranking members often ride dire boars, and the most
+      elite members of the tribe sometimes become wereboars.
+    _id: SO1CSlwXlbgze49Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.SO1CSlwXlbgze49Z'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      The Blood tribe: Uses blood magic and dark rituals to summon creatures to
+      fight for them, and to cast curses on their foes.
+    _id: uoyXXT7Tk4bKrsei
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.uoyXXT7Tk4bKrsei'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Kendall's Savages; this band of brutes wander the edges of woodlands
+      burning out settlements that encroach on wild spaces. Their calling card
+      is to plant trees in the burned out husks of the buildings they destroy. A
+      favorite tactic of theirs is to set a tree ablaze and then fell it onto
+      buildings. Their leader, Kendall the Beast, is a large female Hob-goblin
+      who runs a tight efficient nomadic tribe through force of personality,
+      cunning, and enormous physical strength.
+    _id: yQtIdO2RoimmIIGN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.yQtIdO2RoimmIIGN'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Fisheye Clan: Live in near darkness deep underground. Their eyes have
+      grown large and milky white and have migrated to opposite sides of their
+      head.
+    _id: SHWbyG7Oke6VSXKb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.SHWbyG7Oke6VSXKb'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      Wormeater Tribe: Subsist on a diet of glowing cave worms. This culinary
+      choice dyes their skin a pale yellow and gives them the worst case of
+      halitosis imaginable.
+    _id: 8DKoQWn0Ic1bS4fo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.8DKoQWn0Ic1bS4fo'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: >-
+      Skin Crow Tribe: Caravans passing through the dry, meandering canyons to
+      the East are warned to watch overhead for these goblin raiders that use
+      tanned hides as paragliders to sail silently down from the cliffs to rob
+      and murder merchants.
+    _id: BCtGNXCY8duW7JZc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.BCtGNXCY8duW7JZc'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Brunch-Brunch Tribe: Having observed the curious habits of the wealthy
+      from afar, this vicious tribe of goblins stalks groups of nobles who eat
+      and drink themselves into pliant victims during those odd hours between
+      breakfast and lunch, while the commoners are busy working. This strategy
+      of grouping valuable and vulnerable targets together has been so
+      successful that the other goblin tribes have grown quite envious.
+    _id: cU9GoInjaPLnYcpG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.cU9GoInjaPLnYcpG'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: >-
+      Mad Sappers Tribe: During raids the Mad Sappers cover themselves from head
+      to toe with the magically-sticky pitch from the ancient trees of their
+      arboreal home. The sap serves as effective camouflage while they approach
+      from the darkness, but when the attack begins, the screaming goblins
+      leading the charge throw themselves on guards and defenders, sticking
+      their arms and legs together, effectively making them unable to fight. The
+      back ranks then light their pitch-covered arrows and unleash a volley of
+      fire to cause further mayhem. If a few of the front liners catch on fire
+      their screams only add to the fun, and while survivors are rare, some have
+      reported hearing the archers cackling madly at the sight of their flaming
+      comrades.
+    _id: 50uBj0H4S7Ag0CSA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.50uBj0H4S7Ag0CSA'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      The Marooned Boyz: A loose confederation of former goblin deckhands that
+      worked on an orcish pirate ship that was caught in a tempestuous storm.
+      All but one of the orc pirates perished in the storm. The survivor was
+      named Poog the Unwashed, the former assistant navigator, who declared
+      himself the new captain and put the surviving goblin deckhands to work
+      building a new ship out of the washed ashore detritus. Upon completion of
+      the ship, they realized they now only had one orc to contend with, and
+      promptly mutinied and strung Poog up by his neck. Unable to decide whom
+      amongst them would lead their new pirate crew, they declared the venture
+      an equal partnership, and launched their new ship 'Bargrivyek's Revenge'
+      out to sea. The ship itself is more a cobbled together raft than a proper
+      ship, with several tied together planks, and many spears pointed in all
+      directions with wooden shields decorating the sides. 'Bargrivyek's
+      Revenge' also has a small forward mounted cannon, two small ballistae (one
+      port and one starboard), and a stern mounted mechanism that functioned
+      like a catapult that would launch multiple grappling hooks and ropes for
+      boarding enemy ships. The Marooned Boyz sail the coasts looking for easy
+      prey, though they have been known to parley with ships that significantly
+      outclass them.
+    _id: JgNtv11b1LSOm1vG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.JgNtv11b1LSOm1vG'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: >-
+      The Mutton Crew: They are known for raiding flocks and killing sheepdogs.
+      Local shepherds have taken to traveling in groups and armoring yearling
+      pups on journey's near this tribe's territory.
+    _id: Z12UvbWmJrQlcrlu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Z12UvbWmJrQlcrlu'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: >-
+      T’Gaboot: A tribe of very primal goblins wielding spears and big rocks.
+      They speak a very broken form of goblin and set up their base in a very
+      large and broken Tugboat in a dried out canal where they’ve dug tunnels
+      underneath.
+    _id: wueo5clYdIcZo49T
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.wueo5clYdIcZo49T'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Three Eye Clan: Ritual Trepanation for All! The third eye now open, the
+      tribe believes their arcane essence is now strengthened, should they
+      survive the madness and fevers.
+    _id: 6FENxFYTbPxXPQCK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.6FENxFYTbPxXPQCK'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Glitterweb Clan: Goblins that breed small phase spiders for food and
+      protection. They harvest the webbing and boil it too for food. Surplus
+      goblins and captured slaves are sacrificed.
+    _id: zUHYIHy00ecbRtky
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.zUHYIHy00ecbRtky'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      The Ka-Boom-Boom Tribe: Years ago the alchemist of an otherwise
+      unremarkable goblin tribe discovered how to infuse an exploding potion
+      into common clay, making the explosive more stable without sacrificing
+      power. With this newfound power the Ka-Boom-Boom Tribe conquered all the
+      other goblin tribes in the area and now is in a state of war with the
+      locals orc warbands. They guard the recipe for their explosive clay
+      zealously, fighting to the death. They're even willing to strap themselves
+      with several 'ka-boom-boom' sticks and blow themselves up if it means
+      ensuring the secret stays secret.
+    _id: gaOlYdwLLgiSniHH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.gaOlYdwLLgiSniHH'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      The Crooked Moon Clan: Uses a grinning crescent moon as their emblem. The
+      entire clan consists entirely of goblin were-bats, and all new recruits
+      must allow themselves to be infected in order to join the clan.
+    _id: gSB8wS1EWhQHxSLq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.gSB8wS1EWhQHxSLq'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      The Crimson Leaf Clan: Uses a blood-stained oak leaf as their emblem.
+      Based out of a large forest in the borderlands. Has a large number of
+      druids and rangers in their ranks. Is engaged in a long running feud with
+      the local wood elf clan for control of the forest.
+    _id: H2Y7R4qufQtdqEyL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.H2Y7R4qufQtdqEyL'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      The Burning Sun Clan: The largest and most well-known goblin clan in the
+      area. Uses a burning sun as their emblem. Fairly advanced as far as goblin
+      clans go, having developed sophisticated techniques for metallurgy,
+      construction, agriculture, and alchemy. Feared for their discipline and
+      use of fire in battle. Have increasingly begun to shift away from their
+      traditional raiding practices and have instead begun selling out their
+      services as mercenaries.
+    _id: MMx5yFlDKHt4TCgq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.MMx5yFlDKHt4TCgq'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      The Pale Skull Tribe. They give their dead to wolfs, that only left the
+      bones. Then, they use the bones of their ancestors as tools, weapons, and
+      jewelry. In that way, they feel that the spirits of their deceased
+      relatives stay with them.
+    _id: mY3ikDWa4EdcCLpQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.mY3ikDWa4EdcCLpQ'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      The Ironbeard Tribe. They captured a dwarf that was exiled from his
+      dwarven kingdom. Quickly, the dwarf went from being a prisoner to being
+      the leader of the clan. He taught them dwarven traditions like having a
+      long, well-groomed beard, how to dig stable tunnels or how to distill
+      beer.
+    _id: 4C6ppZc9sUKrrZKT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.4C6ppZc9sUKrrZKT'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: >-
+      The Orange Beak Tribe - They worship a yellow ducky figurine they believe
+      created the seas and all the birds. They elevate ducks as angelic
+      creatures that are direct descendants of their duck god. Mainly fish and
+      hunt for their food and are deeply religious. Their weapons, armor, and
+      boats are shaped like the physical features of a duck. Their tribal colors
+      are yellow and orange from a local flower.
+    _id: hxiv8cKtHVUiWK6F
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.hxiv8cKtHVUiWK6F'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      The Rotten Trunk Tribe - They live in large dead trees and have gotten
+      proficient at using wood working as a trade for crafting furniture,
+      weapons, and structures made of dead or rotten wood. Their staple meal is
+      one composed of dead leaves, mushrooms, and wood burrowing bug soup. They
+      use dead leaves as camouflage, are good at climbing trees, and surprise
+      intruders with volleys of wood arrows laced with a sticky toxic sap.
+    _id: pDzYMQ6X2rcO7ieD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.pDzYMQ6X2rcO7ieD'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Frozen Grove Tribe - An ice hag has become their revered leader and
+      empowers them with magical ice weapons and ice magic with their most
+      talented and faithful. They have become extremely resilient to cold and
+      wear thick fur coats from the various animals they have hunted in the
+      tundra. They live in small ice igloos and grow winter wheat in the warmer
+      season of the year. A winter storm surrounds the village and protects them
+      from any unwelcome guests.
+    _id: bR4NSbHiGcECKiRp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.bR4NSbHiGcECKiRp'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: >-
+      The Dragon Tooth Clan - They vehemently worship and serve a dragon nearby
+      that passively protects them simply by its presence. However they must
+      present pleasing gifts to the dragon of treasure or of meat, which there
+      have been several times where they had to sacrifice some of their own.
+      They use some of the dragon's fallen teeth as a main component to their
+      weapons and wander the surrounding area to pillage for valuables or animal
+      meat to avoid sacrificing themselves.
+    _id: DP0HZu0hBWeDKexR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.DP0HZu0hBWeDKexR'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      The Feralhorde: A tribe of goblins with powerful, armored bodies and
+      razor-sharp tusks who are skilled at charging and trampling their enemies.
+      They are feared for their ferocity in battle and for their ability to
+      withstand heavy blows.
+    _id: xk4sVv8XttlLKvgn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.xk4sVv8XttlLKvgn'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      The Razorwing Flock: A clan of goblins with razor-sharp wings and the
+      ability to fly who are skilled at using their aerial agility to their
+      advantage in battle. They are feared for their ability to swoop down and
+      attack their enemies from above by hunting foes with their echolocation
+      abilities.
+    _id: 5aQ2UQJlRXIpcs3K
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.5aQ2UQJlRXIpcs3K'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: >-
+      The Dreamweavers: A tribe of goblins with the ability to enter and
+      manipulate the dreams of others. They are skilled at using their powers to
+      extract information and to plant suggestions and are rumored to be able to
+      enter the dreams of even the most powerful beings.
+    _id: RLpwfAugWX7Hryz9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.RLpwfAugWX7Hryz9'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      The Voidstalkers: A clan of goblins who can traverse the void between
+      dimensions and who are skilled at using their powers to travel to other
+      planes of existence. They are feared for their ability to appear and
+      disappear at will and are rumored to have the power to open portals to
+      other worlds.
+    _id: V1HUXOELo2s0x2Dq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.V1HUXOELo2s0x2Dq'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      The Arcane Enclave: A group of goblin mages and scholars who are dedicated
+      to the study of the arcane. They are rumored to possess ancient and
+      powerful magical knowledge and are sought out by other goblin clans for
+      their expertise.
+    _id: WLQ564Qry28VRdBg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.WLQ564Qry28VRdBg'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      The Living Statues: A tribe of goblins who have the ability to transform
+      their bodies into stone, becoming virtually indestructible. They are
+      skilled at using their powers to defend their territory and are feared for
+      their ability to withstand heavy blows and for their near-immortality.
+    _id: X4FD4DrbPjym2Zu2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.X4FD4DrbPjym2Zu2'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      The Frostfang Clan: A tribe of goblins with icy abilities who are skilled
+      at surviving in cold and icy environments. They are rumored to have the
+      ability to freeze their enemies in place and to be immune to the effects
+      of extreme cold.
+    _id: 2hQsj0W3s025sclP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.2hQsj0W3s025sclP'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      The Plaguemakers: A tribe of goblins who are skilled at spreading disease
+      and blight. They are rumored to have the ability to control swarms of
+      insects and vermin and to be able to call forth plagues of locusts and
+      other pests.
+    _id: Sbfm8ijICJbnrw7o
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Sbfm8ijICJbnrw7o'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      The Rotbringers: A clan of goblins with a deadly, contagious disease that
+      causes their flesh to rot and decay. They are feared and reviled by other
+      goblin clans and are able to spread their disease through their bite.
+    _id: tUhxczJSDaphZo5q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.tUhxczJSDaphZo5q'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      The Moonwatchers: A tribe of goblins who are rumored to possess the power
+      to see into the future and to communicate with the spirits of the night.
+      They are highly respected within goblin society and are often sought out
+      for their wisdom and guidance.
+    _id: 0HhJP2OA1NmsmT1h
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.0HhJP2OA1NmsmT1h'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      The Shadowscale Slayers: A tribe of goblins with dark, scaly skin that
+      allows them to blend in with the shadows. They are skilled at stealth and
+      infiltration and are feared for their ability to strike from the shadows
+      without warning.
+    _id: 0fH5W3bcCPsY8BC1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.0fH5W3bcCPsY8BC1'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      The Greenfinger Gang: A tribe of goblins with a deep connection to nature.
+      They are skilled at cultivating and harvesting rare and exotic plants and
+      fungi, they can whisper to plant life to control and manipulate them to
+      their will.
+    _id: YxnLePe6htjbjQOE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.YxnLePe6htjbjQOE'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      The Red Claw Raiders: A clan of goblins who are skilled at sailing and
+      naval warfare. They are known for their bold raids on ships and coastal
+      towns and are feared for their ability to call forth raging storms to aid
+      them in battle.
+    _id: jUQSuLIQgEUbEJZ9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.jUQSuLIQgEUbEJZ9'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      The Inferno Syndicate: A tribe of goblin pyromancers who are rumored to be
+      able to control and manipulate fire with their minds. They are feared for
+      their ability to unleash devastating blazes upon their enemies and are led
+      by a powerful fire breathing goblin firelord.
+    _id: xWg17AZX9uKnFjmS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.xWg17AZX9uKnFjmS'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      The Wereclaw Clan: A tribe of goblin lycanthropes who can transform into
+      powerful wolf-like creatures. They are skilled at hunting and tracking and
+      are feared for their ferocity in battle.
+    _id: Dm3obggNCGWngB0P
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Dm3obggNCGWngB0P'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      The Venomtail Tribe: A tribe of goblin-scorpion hybrids with venomous
+      stings and venomous claws. They are skilled at using their poison attacks
+      to debilitate their enemies and are immune to most poisons.
+    _id: AyTAdswsVuFlwqAa
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.AyTAdswsVuFlwqAa'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      The Wyvernriders: A tribe of goblins who have domesticated wyverns and use
+      them as mounts in battle. They are skilled at riding and training these
+      fearsome beasts and are known for their aerial raids on enemy strongholds.
+    _id: X22T9Giv7pjZMrIg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.X22T9Giv7pjZMrIg'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      The Deepwell Diggers: A clan of goblins who make their home in underground
+      tunnels and caverns. They are skilled at mining and engineering, and are
+      known for their ability to create elaborate underground fortresses.
+    _id: Ly15OFhy2pPCVmyp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.Ly15OFhy2pPCVmyp'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      Team Tentacle: A tribe of goblins with long, writhing tentacles in place
+      of arms and legs. They are skilled at using their tentacles to grab and
+      constrict their enemies and are feared for their ability to swim quickly
+      underwater and strike from unexpected angles.
+    _id: RKlZVKsGRmTxd5nw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.RKlZVKsGRmTxd5nw'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      The Crabclaw Clan: A clan of goblins with large, powerful crab-like claws
+      in place of hands. They are skilled at using their claws to tear through
+      armor and flesh and are feared for their ability to deliver powerful
+      crushing blows.
+    _id: ylHdqXTRodr2iUGy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.ylHdqXTRodr2iUGy'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Jolly Jellys: A tribe of oblivious floating goblins with translucent,
+      jellyfish-like tentacles that trail behind them. They float aimlessly and
+      occasionally ensnare unsuspecting foes with their tentacles laced with
+      deadly poison.
+    _id: YUcizPtZnGneZkg0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.YUcizPtZnGneZkg0'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      The Tribe known Formally as Quests: A Tribe known Formally as Quests are a
+      tribe which makes actually good music but only to distract and deflect
+      attention to marks they want to steal from or to hire adventurers to do
+      the heavy lifting on heists. The Tribe was once just known as Quests but a
+      group of adventurers completed their 135 'quests' and a following out
+      between Raiding Lead, Cue-Tap, and Busking Lead, Fiphe, over looting and
+      divvying rights.
+    _id: 2nNNPajQRIOiNYAj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.2nNNPajQRIOiNYAj'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Boom Buggers: A goblin tribe that specializes in raising all kinds of
+      giant bugs that they use to ride on and bomb their enemies. They use
+      insect alchemical ingredients to make biological explosives and acids.
+      They raise exploding bugs, slimy bugs, glow in the dark bugs, flying bugs,
+      digging bugs... all kinds of bugs! They love bugs! They eat bugs! They
+      smell like bugs! They wear bug armor! Bugs bugs bugs!
+    _id: FVrSW0iBNo011lK7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.FVrSW0iBNo011lK7'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      Night Biters: A small group of goblins that specialize in dark and night
+      time stealth operations in the city. They are extremely skilled at what
+      they do and have eluded all attempts at capture for decades. What they do
+      is annoy, disturb, and ruin people's fun. They seek out parties and events
+      to stealthily steal food and annoy guests. If they ever got motivated,
+      they could be a serious threat to the safety of the city, but that's too
+      much work. They like having fun! Sometimes referred to as Blighters by the
+      city inhabitants.
+    _id: BU7A6AwjU11AIfAl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.BU7A6AwjU11AIfAl'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      Slagfoot Tribe: An extremely large tribe of goblins that inhabit a range
+      of dormant volcanoes and the surrounding lakes of lava. They've grown
+      accustomed to the toxic fumes but they love lounging in the hot springs
+      and selling the nutrient rich mud and dirt to the stupid people that want
+      it. Dwarves covet this land due to the high presence of precious metals,
+      but every attempt at invasion fails due to the treacherous lands and lava
+      traps the goblin have set.
+    _id: nCSRe94v5QRRW4UQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.nCSRe94v5QRRW4UQ'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Li-Sah-Dealas: This tribe learned the psychedelics and psychotropic
+      effects of a multitude of flora, fauna, fungus, and magical spells. From
+      womb to tomb, they are tripping and dipping as they phase in and out of
+      reality and sanity. Most get their food and safety from ingenious yet
+      unorthodox methods which require minimum effort to operate. They are
+      always willing to share their stash for cash.
+    _id: YtJsECWB97MlU7mS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.YtJsECWB97MlU7mS'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      The Ratbiter Tribe: A tribe of wererat goblins who specialize in
+      blackmail, ambushes, and assassins to get what they need to survive they
+      also tame giant rats.
+    _id: gsNp9maiYICBbLKq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.gsNp9maiYICBbLKq'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Clan Dead Ead: A Clan which have very few living members but a large
+      amount of their undead kin and any body they can scavenge from purchasing,
+      finding raiding, grave robbing, plague causing, famine starting, etc.,
+      etc., etc. Legend has it that their clan leader (the Ead) is a lich ,or at
+      least, a clever necromancer with a cult of successors who copy the
+      necromancer as a series of body doubles.
+    _id: 9cQ8kZGmfBPUcIoy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.9cQ8kZGmfBPUcIoy'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      The Sand Confederacy- A loose collection of three Goblin tribes who have
+      set apart their differences to settle an oasis in the desert instead of
+      fighting over it. The 'Shifting Rocks' are a more rough and primitive
+      group made up of bulkier Goblins who are deeply religious in the ancient
+      ways. The 'Glass Blasters' are a set of tinker Goblins who have utilized
+      rough and primitive glass blowing techniques to supplement their
+      inventions and accent their deadly weaponry. The 'Goblinoid Sultanate' is
+      a small collection of Goblins, Hobgoblins, and Ogres who hold the large
+      bronze and iron mines of the desert. Their Sultan, a Goblin Wizard, has
+      eyes on other factions towards the end of the desert, and has ruled that
+      the alliance is a way to secure their victory in conflicts abroad.
+    _id: RTaLwhelCorxmGKB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.RTaLwhelCorxmGKB'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      The Tinka Inca- A tribe of Goblins far north in the mountainous tundra of
+      the wintery wastes. The tribe has uncovered, over time, ancient ruins and
+      temples in the cold wastes, and spends a great deal of their time
+      upkeeping the various traps and puzzles and collecting stone from the
+      mountain to build up and add to these temples and fortresses. Although
+      they don't appear hostile, they have been known to be very dangerous, as
+      they appear to have a variety of divine casters in their midst. It has
+      been observed these curious goblins are sun worshippers of some sort.
+    _id: 2c020UlCNMA6bvrF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.2c020UlCNMA6bvrF'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Chain Biters- This collective of mostly Goblin paladins come together to
+      fight slavery and followers of Maglubiyet or Khurgorbaeyag. They operate
+      throughout the badlands and help disrupt or outright eliminate slavery
+      operations wherever possible. Despite their looks or demeanor, they are
+      lawful good and specialize in coordinated operations. Due to them being
+      Goblins, they are often able to work with neutral entities (Goblinoids or
+      other tribal races) to convince them to assist in disrupting these
+      operations.
+    _id: i25zeciyUl6EVGX9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.i25zeciyUl6EVGX9'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      Luvvie of the Small- In the city of [city] is a small, run down old play
+      house where resides a collective of Goblin street performers, bards, and
+      thespians collectively known as 'Luvvie of the Small'. These performers
+      excel in comedies and parodies, but are not below putting on dramatic
+      performances or renown tragedies. They often are asked to perform in parks
+      or at festivals or celebrations.
+    _id: xjHJjqVPHbsfv6ke
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.xjHJjqVPHbsfv6ke'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      The Family Gobleone- A refined Goblin family working hard to climb out of
+      their humble beginnings, make no mistake that members of the Gobleone
+      family are deadly, tricky, and stealthy. This syndicate runs the 'goings
+      on' of several city slums around the region and can be found at the head
+      of several businesses both legal and illegal. Although their head, Don
+      Cricklefrick Gobleone, outwardly plays the part of the merchant king and
+      desperate man hoping to earn his way into nobility, behind closed doors he
+      is an iron-fisted and vicious crime boss who does not accept failure. His
+      three wives have given to him many sons and daughters to fill his ranks,
+      he is also quick to show kindness and charity and adopt the unwanted
+      Goblins and Bugbears of the city and ensure they have solid jobs working
+      under his watchful eye.
+    _id: RVsdNvAcGJzSR1re
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.RVsdNvAcGJzSR1re'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      The Wolves of Streetwall- In the center of the biggest market district in
+      the capitol is a bank run solely by Goblins. Their magic vaults and
+      downright magical investment strategies have made them not only the best
+      place in the city for non-nobles to keep their savings but a solid place
+      for all types to invest their copper to turn it into gold. The goblins who
+      are to blame, known as the 'wolves', are vicious loan sharks for debtors,
+      but strangely generous investors. it's as if they have some way to harness
+      divination magic and jump at an idea or businesses as if seeing into the
+      very future. Are they thieves and charlatans? Or is it just good business?
+    _id: C8nYzPc6EDTzhVUT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.C8nYzPc6EDTzhVUT'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Chochlik Freedom Fighters- This collection of Goblin tribes has been
+      fighting for their ancestral land for generations. Although divided they
+      have been easily defeated and run out by Humanoids, Goblinoids, Monsters,
+      and dark forces, together they have been waging a successful guerilla war
+      against occupying forces. Different factions are more than happy to smile
+      and provide weapons to direct their attention at an enemy force, but the
+      Chochlik have seen all sorts of fake smiles and broken promises, and will
+      take more than they agree to give. These goblins want their freedom and
+      sovereignty again, and they are willing to fight like hell to get it.
+    _id: WhwmnwUBvoAQgxep
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.WhwmnwUBvoAQgxep'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      The Silk Wyrms- Deep in the underdark a collective of Goblins raise
+      silkworms and make textiles out of fungus fibers, silk of worm and spider,
+      and wool from goblin hair and domesticate underdark beasts. Although they
+      were raided and abused for years from other surrounding underdark
+      factions, they developed blindsight, domesticated Duergar Striders, and
+      harnessed the power of a special mushroom to make alchemist fire, and they
+      set a revenge raid on all who wronged them. The following weeks of fire
+      and fighting were legendary, and although many Goblins were lost, they
+      earned a new respect from their neighbors. Now reclaiming the derogatory
+      name and changing it to 'Silk Wyrms', they now provide textiles to many
+      underdark factions and have a successful trade empire.
+    _id: dqLupZMb2RpWxTh6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.dqLupZMb2RpWxTh6'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      The Crooked Tones: A large tribe of four hundred or so, having as its
+      ruling class fifty goblin bards. The bards use their magic songs to lure
+      people into their cavern homes and sell them into slavery. They also use
+      music to boost their tribe's warriors.
+    _id: PQZyYnjDDIAjtmVD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.PQZyYnjDDIAjtmVD'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      The Splitters - They are known for their fighting style that leaves no
+      victim in one piece. Instead they always try to exactly split their
+      victims in half, to worship a strange deity.
+    _id: M5dUJcOADiXGApTp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.M5dUJcOADiXGApTp'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      The Ten-Killers - They always only kill ten people before they stop their
+      raids. That does not mean they do not come again tomorrow, though. No one
+      knows exactly why they do this, but the common interpretation is that they
+      have some strange codex or a pact with some meticulous being.
+    _id: rzepBcJ4dySFNpkO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.rzepBcJ4dySFNpkO'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      The Blue-Hand Butchers - They have a blue hand painted across their face
+      and they are known for slaughtering all people and livestock without an
+      exception.
+    _id: HJ5Z3elEKOx6q5Qi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.HJ5Z3elEKOx6q5Qi'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      The One-Handed - As an initial ritual to become part of the tribe, every
+      member choses a hand to lose. This hand is then replaced with a weapon
+      that is strapped onto the arm.
+    _id: x6dUzgyzApvOpYLe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.x6dUzgyzApvOpYLe'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      The Clubbers - They are known for their brutality in which they almost
+      exclusively use big clubs as weapons. Most victims do not survive and
+      those who do are in one or the other way injured for the rest of their
+      lives.
+    _id: dgq0ewnDXkutos4G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.dgq0ewnDXkutos4G'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      The Bloody Chickens - Do not be fooled by their name. This tribe is
+      dressed in blood soaked feathered clothes and they sometimes even wear
+      feather headdresses. They do not like their nickname and no one that
+      mentions that name in front of them has survived so far. Some of the
+      arrows they shoot have beaks of dead birds as arrowheads and the feathers
+      of the arrows are always blood red.
+    _id: vYZ8B30fiwZFM7l2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.vYZ8B30fiwZFM7l2'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      The Worm Tribe - These goblins are known to dig tunnels underneath
+      villages and then suddenly attack by digging to the surface all at once.
+      They collapse whole buildings this way and drag people under the earth to
+      fight. It is usually a dirty, bloody and muddy battle and those injured
+      mostly die from sepsis afterwards. The leader of the tribe even gets the
+      title 'Great Worm' and wears it proudly. They also live underground in
+      caves.
+    _id: 1RTYNRE2cqEkP0d0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.1RTYNRE2cqEkP0d0'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      The Krakens - A seafaring tribe of goblins that roam the seas as pirates
+      and that has never been seen on solid ground. It is assumed that they are
+      a nomadic tribe that never leaves the sea. They can dive exceptionally
+      well and hold their breath for a long time as they hunt for sea creatures
+      and fish to survive, if there is no ship in sight that they can attack.
+      Their brutal captain is called the Black Kraken and their fleet consists
+      of several ships.
+    _id: disUMqeqVhMh2bCk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.disUMqeqVhMh2bCk'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      The Blight - This tribe is led by a necromancer that exclusively
+      resurrects fallen goblins. It is still unclear whether one should call
+      them a tribe, as the revived corpses of the goblins do not show any sign
+      of consciousness. Scouts have reported horrible sights as the goblins
+      stand still as statues in ordered rows and lines inside their camp, if
+      they are not attacking.
+    _id: b2ffKlg8vyUNhQMW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.b2ffKlg8vyUNhQMW'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      The Ant Clan - This tribe consists of mutated tiny goblins, not bigger
+      than the hand of a normal man. The tale goes, that a wizard once reduced
+      the size of some of the tribe members and they ... reproduced in that
+      state. They might be small but they are exceptionally brutal. They once
+      killed a tribe of goliaths by crawling into their mouths while they were
+      sleeping, killing them from the inside.
+    _id: 7uhZRRXyIzBUgeAx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.7uhZRRXyIzBUgeAx'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      The Society for Security and Satisfaction of Small Sentient Species (The
+      SSSSSS) - A well meaning outreach worker with a savior complex found
+      themselves unwittingly trapped with this goblin tribe after a major
+      ecological disaster closed off the pass. As the years have gone by this
+      tribe has taken fully to heart the teachings of this lost individual, and
+      they now position themselves as an NGO (Nasty Goblin Outfit) that focuses
+      on banding together with other small races to promote their interests,
+      securing funding from more successful neighboring human civilisation
+      (primarily through means of raiding).
+    _id: mh1i0yhE72nvIpNK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.mh1i0yhE72nvIpNK'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      The Valley Squig Riders - This goblin tribe has maintained a millennia
+      long relationship with their fascinating spherical red mounts that they
+      refer to as Squigs. As society has modernized they have moved away from
+      hunting and raiding as they have realized the hummie love for watching
+      their squig races. The rare lawful leaning Goblin takes work as messengers
+      for urgent deliveries.
+    _id: gHOkajZ2ceiqwEzh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.gHOkajZ2ceiqwEzh'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      The Deep, Dank and Dirty - Sometime in the distant past this tribe's
+      ancestral home began to flood as the roof of their caves gradually
+      collapsed. Stubbornly refusing to move they have gained a swim speed equal
+      to their movement speed, an at-will ability to hold their breath for at
+      least 5 minutes whilst underwater, and effective underwater night vision
+      through a form of sonar. They now regularly raid the towns and villages
+      along the river that run atop their caves, and occasionally trade the
+      various magical items and trinkets that are washed downstream, as well as
+      being very effective fisherfolk.
+    _id: CJGqjYQDo546BpLU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.CJGqjYQDo546BpLU'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      The Leathered Foot Tribe - This tribe has uncovered the secret of shoe
+      craftsmanship and is well known throughout the region even selling to
+      royal families. They meticulously hand craft shoes for customers and their
+      backlog is currently 4 months due to the high amount of orders. Legend
+      says the gods blessed them in how to make a shoe and many believe it to be
+      true. Unfortunately their dark secret is that a demonic contract was
+      involved. The goblins spend half a lifetime starting from childhood to
+      perfect the craft. The leaders pride themselves in their reputation and
+      inspect every pair of shoes before sending to the customer.
+    _id: 308sarudANK3ZVMM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.308sarudANK3ZVMM'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      The Mutt Bite Clan - Their tribe breeds and tends to medium sized dogs,
+      mostly mastiffs who have formed a mutual relationship with the clan. The
+      goblins have learned to mount the creatures and teach the dogs to do
+      simple tasks to aid them in hunting and scavenging. The dogs are
+      especially good at detecting unwelcome guests and a comparable bite any
+      goblin would love. Ambushing parties on the road while mounted on the dogs
+      is their favorite thing to do. The goblins wear the dog-skins of their
+      fallen dog companions who died of old age or in battle and have a special
+      ceremony for deceased dogs or dogs that can now be formally used in
+      battle.
+    _id: DvqsQkpd35748sjI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.DvqsQkpd35748sjI'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      The Arcane Power Tribe - Their past involved capturing a wizard and
+      convincing them to teach the elders in the tribe how to read from spell
+      books and cast spells. They are competent enough to do this with their
+      more mature goblins and have discovered unique low level spells with a
+      goblin twist. They personally love evocation spells, but like the
+      convenience of other schools of magic. Many of them own their own homemade
+      spell book and make it their life mission to gain magical knowledge to
+      protect the tribe and take advantage of its benefits.
+    _id: JiLFuVLX5KIJx3wo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.JiLFuVLX5KIJx3wo'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      The Rock-Eaters - Legend tells of a dwarven community who dug TOO deep
+      into the ground and unearthed a horrifying breed of blind goblins who live
+      deep underground. They are incredibly aggressive to 'surface-dwellers' and
+      feed upon the gems that they uncover deep below the earth.
+    _id: P7HBoOQpbDXGRV0U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792747127744
+      modifiedTime: 1792747127744
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!5J8N4hCXjy6lmsqa.P7HBoOQpbDXGRV0U'
+folder: null
+_id: 5J8N4hCXjy6lmsqa
+img: modules/game-icons-net/whitetransparent/tribal-gear.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792747127744
+  modifiedTime: 1792747127744
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!tables!5J8N4hCXjy6lmsqa'

@@ -1,0 +1,2343 @@
+name: Ways To Recharge A Magic Item
+formula: 1d101
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: Hold it under flowing water for 30 minutes.
+    _id: U3DNU8RUJ4lmOCds
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.U3DNU8RUJ4lmOCds'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Hold it in direct moonlight for 30 minutes.
+    _id: VpE7G8j9rWDqF7Xb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.VpE7G8j9rWDqF7Xb'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: Yell at it in anger. (Charges twice as fast during combat.)
+    _id: i75PTDATJXJPWDgw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.i75PTDATJXJPWDgw'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Whisper 'I love you' into it.
+    _id: d3MKq1GzIg8MaVCV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.d3MKq1GzIg8MaVCV'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: Throw it in the air as high as you possibly can.
+    _id: lXpVRixsU84FttiX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.lXpVRixsU84FttiX'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Treat it like the most begrudgingly accepted, and most hated object you
+      have in your possession.
+    _id: YHjR369CddEA93Gu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.YHjR369CddEA93Gu'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: Pack it in the flesh of an undead creature.
+    _id: 9RVOsWn0xhFkz4zl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.9RVOsWn0xhFkz4zl'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: Touch a demon with it.
+    _id: WjPwEVZrK9X8WDrf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.WjPwEVZrK9X8WDrf'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      Attach item to a string of three or five feet in length and wave in a
+      circle overhead until string breaks.
+    _id: jDUjBgULpshF60U8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.jDUjBgULpshF60U8'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Take a piece of shag carpet and rub the item until your hair stands on end
+      or it sparks.
+    _id: 3RZBWOh8X2TduW2G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.3RZBWOh8X2TduW2G'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: Soak it in Holy Water.
+    _id: QtBWG3qP5TsjCHXR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.QtBWG3qP5TsjCHXR'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Heat in fire until hot to the touch.
+    _id: 4Nj9ixOt6g3cSFG9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.4Nj9ixOt6g3cSFG9'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Hug the item close and whisper to it as if a lvoer to 'please come back'.
+      (Much better if sentient and is 'knockec out' when discharged.)
+    _id: zQ6avcW1HTVS2g77
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.zQ6avcW1HTVS2g77'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      Hold it out away from you until you feel the win take the item away, then
+      chase and catch it back.
+    _id: jNyAWJaRRkOvLpGR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.jNyAWJaRRkOvLpGR'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Change something in the item for a different color. Example, change the
+      handle wrapping for a differently dyed cord. You can't use the same color
+      again for a week. (The item has a sense of fashion!)
+    _id: QQzitOXEg1Zjfv8J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.QQzitOXEg1Zjfv8J'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Play a one sided game of chance (Like craps) with the item siting on a
+      chair across from you. It recharges if you win against it.
+    _id: PCWHsnB0KwWYjCHC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.PCWHsnB0KwWYjCHC'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      The item recharges on its own but only if the users apologizes for harming
+      people with it, or helps bury them if killed. If even one victim is left
+      out, the item won't recharge unless the user begs mercy to it for an hour
+      for each victim left behind.
+    _id: PbfIPfiG5D7beOhp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.PbfIPfiG5D7beOhp'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      The item recharges after it hurts a dozen of people, with its magic or in
+      some other way. Items that works by charges reload a charge for each
+      person hurt.
+    _id: progMWuDQ5UUANIi
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.progMWuDQ5UUANIi'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      Get an mundane item of the same type as the magical one and leave the two
+      touching for 10 minutes. The same mundane item can't be used again.
+    _id: 19CZHawILSJxw7CD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.19CZHawILSJxw7CD'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: Shower or bath with the item at hand, equipped or sheated at your side.
+    _id: 9vR1sfG9TtkZ6X93
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.9vR1sfG9TtkZ6X93'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: Find a way to let the item make a decision for you and stick to it.
+    _id: Gw92KNZJtANfNHLI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Gw92KNZJtANfNHLI'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      Tell the item something you will never do with it, without noting it down,
+      without repeating it and keep your word.
+    _id: u38ic2WwdGUepNUh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.u38ic2WwdGUepNUh'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: >-
+      You dream a name often. If you meet someone with that name, without saying
+      a word, hold the item out to them to take it from you, don't resist if
+      they do it. The item recharges at dawn and if it not with you, it appears
+      on your bed.
+    _id: eOiXXc3BcvzUwGmB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.eOiXXc3BcvzUwGmB'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      At any point in your day, put the item in your view and draw it along with
+      the scenery and show the drawing to it.
+    _id: WQuCRM5TBgIauxQY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.WQuCRM5TBgIauxQY'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      Lay the item for the night with another item that needs to recharge. They
+      both do so normally.
+    _id: iuwwbv5IMJlGgPPP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.iuwwbv5IMJlGgPPP'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Smash a coin with the item until it bends or breaks. Any old copper will
+      do and the item suffers no damage from this, ever.
+    _id: D16S0tB7ZC4y60rC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.D16S0tB7ZC4y60rC'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      When discharged, the item rusts. Let it steep in water and it will form a
+      poisonus tea that causes nausea for an hour to you, and recharges when you
+      drink it.
+    _id: z2D31kWYTIk14Xj9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.z2D31kWYTIk14Xj9'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: Try to seriously bite off a piece of the item.
+    _id: DXwikW2kVPxA6kEC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.DXwikW2kVPxA6kEC'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: Kiss someone while holding the item.
+    _id: knrzIcc3fBJVQGKL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.knrzIcc3fBJVQGKL'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: Trace it along a star constellation.
+    _id: MMIV0VjROOnQ9BYD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.MMIV0VjROOnQ9BYD'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: Whisper your deepest darkest desire into it.
+    _id: t1kZUSjK8SRyBiQM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.t1kZUSjK8SRyBiQM'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: Bury it and leave it undisturbed over night.
+    _id: QbE0sLL0WU1jXvBj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.QbE0sLL0WU1jXvBj'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: Cut of and tie a strand of hair around it.
+    _id: sbvOQcux58QDkViu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.sbvOQcux58QDkViu'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: Wear it close to your heart for a day.
+    _id: EYOek8vBRFNQ4vTQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.EYOek8vBRFNQ4vTQ'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: >-
+      Stab it into a recently killed body and let it drain the blood for 3
+      hours.
+    _id: tmohbRroMPAW1Qol
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.tmohbRroMPAW1Qol'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: Throw it as far as you can. Next time you setup camp, it returns to you.
+    _id: ZScH9eciZCUrLAsf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ZScH9eciZCUrLAsf'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: Hold it without letting it go for 2 hours.
+    _id: X8FZmgFtFFbqO0je
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.X8FZmgFtFFbqO0je'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Carve the symbol of a Demon Lord into a surface. You take 1d4 psychic
+      damage.
+    _id: fiL2TE4mIshZC65q
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.fiL2TE4mIshZC65q'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: Get some one who doesn’t know it’s magical to kiss it.
+    _id: ER0N1M1rn0QbnCHq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ER0N1M1rn0QbnCHq'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: Cook it over a flame.
+    _id: ld6RMv8Vzae83IOu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ld6RMv8Vzae83IOu'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: Boil it in blood.
+    _id: Pp8X7hhhBcPYeloM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Pp8X7hhhBcPYeloM'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      It only actually recharges if people become slightly uncomfortable with
+      the lewd action that you are performing with it.
+    _id: aQx51GxzWAtHwRAw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.aQx51GxzWAtHwRAw'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: Cry upon the item.
+    _id: Iq3VKbLiHWvcrx9Z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Iq3VKbLiHWvcrx9Z'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: Physically spin the item for 5 minutes.
+    _id: 3uxVfhKGAxgTLR4J
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.3uxVfhKGAxgTLR4J'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: Impress the item with a story of personal achievement.
+    _id: P3baLnKIsbuCEGkC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.P3baLnKIsbuCEGkC'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: Bring the item to somewhere it has never been.
+    _id: jvqq9ii58mvMZ4SR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.jvqq9ii58mvMZ4SR'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: >-
+      The item will gain a charge for every 5 seconds it is touching
+      nothing/suspended.
+    _id: L8BaEoZbS8nKeZg1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.L8BaEoZbS8nKeZg1'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: >-
+      The item will disappear to a hard to find location within 50 feet of the
+      owner. Once it has been found, it will have full charges.
+    _id: 32tNNWIsfQOfTIiL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.32tNNWIsfQOfTIiL'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: Bathe it in the blood of a monstrosity type creature.
+    _id: Frf4yEY6m57XESaq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Frf4yEY6m57XESaq'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Repeatedly stroke it and call it your 'precious' throughout the day and
+      night.
+    _id: xesf7gpHXr0ZKXmN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.xesf7gpHXr0ZKXmN'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: >-
+      Hold it lightly between your thumb and index finger, and whisper loving
+      words to it. Loving words must be heartfelt.
+    _id: 5jDE8IG5dIra0DMF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.5jDE8IG5dIra0DMF'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Herbs and spices added to dough, which are then wrapped around the item
+      and baked.
+    _id: pbgz2HfxqrnhSWeW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.pbgz2HfxqrnhSWeW'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: >-
+      The weapon has taken damage from a powerful necromancer. You need to seek
+      a druid grove for a specific plant to coat the weapon in to repair the
+      damage and charge the weapon.
+    _id: LzQ5kCicaL2XvMk3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.LzQ5kCicaL2XvMk3'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: >-
+      Bury it 10 feet underground for a week to let it absorb some of the
+      earth's (or whatever planet's) power.
+    _id: ROiNIF7IuFXYMhvY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ROiNIF7IuFXYMhvY'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: Use it as a cooking implement.
+    _id: oORsGPWWzN55dXHW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.oORsGPWWzN55dXHW'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: Have a gnome sneeze onto/into it.
+    _id: TvUmRrppoV7tPp7p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.TvUmRrppoV7tPp7p'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: Treat it to a nice evening at the theater.
+    _id: lngM15VophP51kDz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.lngM15VophP51kDz'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: Sing to it an ancient song.
+    _id: v2gLaI92qDAH9TNr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.v2gLaI92qDAH9TNr'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: Use it as a musical instrument.
+    _id: iJg3lGsntSKNw0zW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.iJg3lGsntSKNw0zW'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: Make it the punchline of a joke.
+    _id: YphqYYfdSD7yRJrK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.YphqYYfdSD7yRJrK'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: Let the item see you naked.
+    _id: dIWHWKf657wSu4rI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.dIWHWKf657wSu4rI'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: Intimidate it (DC 15).
+    _id: AOhLZmASxGotQhTl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.AOhLZmASxGotQhTl'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: Break a piece of it off.
+    _id: CmFvy6qzvhGnsdnQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.CmFvy6qzvhGnsdnQ'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: Let someone else use it.
+    _id: ljgIrVZTxuvZwNpl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ljgIrVZTxuvZwNpl'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: Climb to the top of a certain mountain.
+    _id: zwzY9qe6sPR6ipcV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.zwzY9qe6sPR6ipcV'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: >-
+      Throw it into a lake, then come back the next day and the lady of the lake
+      will give it back to you.
+    _id: 5OfEA7S15z7dJeQG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.5OfEA7S15z7dJeQG'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: Kill a friendly NPC.
+    _id: X3IHTn6s0VpenLHW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.X3IHTn6s0VpenLHW'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: Kill a worthy opponent alone.
+    _id: pqMMQ17AwsftZ9iZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.pqMMQ17AwsftZ9iZ'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: Sacrifice a proficiency and the memories associated with it.
+    _id: 7oATd7RUTNbT3Zef
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.7oATd7RUTNbT3Zef'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: Get into a brawl with an innocent person.
+    _id: irgeusoRoC5SXFVP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.irgeusoRoC5SXFVP'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: Sacrifice a finger
+    _id: SEo9Q0cyX71ZHbny
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.SEo9Q0cyX71ZHbny'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: oe.
+    _id: icP6nZrwzN3Teiv8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.icP6nZrwzN3Teiv8'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: Dip it in lava.
+    _id: MPmPRHpdCu1qo9e7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.MPmPRHpdCu1qo9e7'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: Eat it, it will reappear in your hand once you've finished.
+    _id: Ym08OOMJg3VYewGn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Ym08OOMJg3VYewGn'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: Sell it and steal it back.
+    _id: 12Vvm9eSG6ENgdJw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.12Vvm9eSG6ENgdJw'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      Feed it. Not blood or souls, just regular food. Set out a plate and
+      goblet. Place weapon or item on the food. Turn away. Food slowly
+      disappears when you aren't looking.
+    _id: ZRKCLOqn1bMidi5c
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ZRKCLOqn1bMidi5c'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Slightly bend it until you hear a pop and bend no further. Wait for the
+      glow to dissipate before reuse.
+    _id: mpwue4u9mf8jvCoy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.mpwue4u9mf8jvCoy'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: Polish with the juice of a rare fruit.
+    _id: 6qQkerdo4okjsNi0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.6qQkerdo4okjsNi0'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: Give it as a gift (permanently).
+    _id: MKkk6QX531T4VooO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.MKkk6QX531T4VooO'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      Rub one side with animal fur, then the other side with silk. (If that
+      sounds like nonsense, google 'friction rod').
+    _id: B59Cymx8oMZiCDK9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.B59Cymx8oMZiCDK9'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: Use this instrument to play a song it's never played before.
+    _id: M1vMw5WOA6dNxIVF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.M1vMw5WOA6dNxIVF'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Let rest the item in a comfy place for 2 hours (or other duration said by
+      your DM).
+    _id: YlrPPIbu0LhpDyQB
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.YlrPPIbu0LhpDyQB'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Using the item in a different way than it's using purpose (like cutting
+      apples with an fiend-killing sword).
+    _id: aoaqv6ck7oyT8wxj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.aoaqv6ck7oyT8wxj'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Make a tear from a sentient being (or the attuned owner) run from one end
+      of the item to the other (pommel to tip of blade, for example).
+    _id: YgP9hN4VrWuHUKSr
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.YgP9hN4VrWuHUKSr'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      It can be left out and naturally covered in dawn's dew to regain one
+      charge.
+    _id: lIbFrqk3K4iSmnc8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.lIbFrqk3K4iSmnc8'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      It needs twenty four consecutive hours of (near) silence to regain one
+      charge.
+    _id: 1fEUbAfy0V3mKd1z
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.1fEUbAfy0V3mKd1z'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: >-
+      It can be gifted the user's voice for twelve hours to regain one charge.
+      (This could be like the little mermaid or the item could control your
+      voice, or just the user loses their voice for that time.)
+    _id: qOj7xbcnMaAIPzOC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.qOj7xbcnMaAIPzOC'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Smells more fragrant the more charges it has. Once a day, if left
+      unwatched in contact with flowers, it will consume them and regain a
+      charge.
+    _id: IB66lCqvvF1CrsLz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.IB66lCqvvF1CrsLz'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      As above, but smells more foul the more charges it has, and eats goblin
+      feces.
+    _id: lE0SGZ2Gft8FbAfM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.lE0SGZ2Gft8FbAfM'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      A silver bird that flies away if released, regaining one charge when it
+      seems to have fully escaped.
+    _id: yUmi1OlkxnSF5qQI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.yUmi1OlkxnSF5qQI'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: Keep it in your mouth for twenty four consecutive hours.
+    _id: Zz4EP2AHr37J6qcL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.Zz4EP2AHr37J6qcL'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: Scar your own body with it.
+    _id: vgWVkRUlbzrQrGLu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.vgWVkRUlbzrQrGLu'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: Give 10% of your party's (non-equipment) wealth to the poor/charity.
+    _id: 8lVAcML1ex8EZ8xO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.8lVAcML1ex8EZ8xO'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: Don't eat any food for 48 hours. (First fast attunes the item).
+    _id: 9Zox8uDhxECSIxGQ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.9Zox8uDhxECSIxGQ'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: Feed it memories.
+    _id: utdEHJi189UrOE7p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.utdEHJi189UrOE7p'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: Cut a dwarf's beard off with it.
+    _id: ZNziRLpXNr8Nthhj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ZNziRLpXNr8Nthhj'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      It charges on fear - if someone is feeling scared nearby for one week, it
+      will regain one charge. This time can be split up. (Variant - Focused fear
+      of the item itself has a much greater range, and is worth 7x the charge
+      power, meaning one person focusing on their fear of the item for 24h will
+      give you one charge.)
+    _id: 5W6bjG1XLJdIh4lT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.5W6bjG1XLJdIh4lT'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: Polish it to a mirror finish.
+    _id: ydiyYWbhd6F8QzSC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.ydiyYWbhd6F8QzSC'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: Screaming at the top of your lungs at the weapon for 6d10 seconds a day.
+    _id: SjioSvnC2tDUNeCU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.SjioSvnC2tDUNeCU'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Have a long drawn out conversation with the weapon explaining why it
+      should recharge.
+    _id: 51QpNkGpltecIftA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.51QpNkGpltecIftA'
+  - range:
+      - 101
+      - 101
+    name: ''
+    description: Tuck it in to bed.
+    _id: 5nI0Avjn1xYcY6Ac
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746543301
+      modifiedTime: 1792746543301
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DEJ641lEtlfywOVa.5nI0Avjn1xYcY6Ac'
+folder: null
+_id: DEJ641lEtlfywOVa
+img: modules/game-icons-net/whitetransparent/rune-sword.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746543301
+  modifiedTime: 1792747029137
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1300000
+_key: '!tables!DEJ641lEtlfywOVa'

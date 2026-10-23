@@ -1,0 +1,2443 @@
+name: Magic Items A Scam Artist Would Sell
+formula: 1d100
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: 'Invisible Ring: When activated, the ring turns invisible.'
+    _id: 6I1wh77UbhVLNmQb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.6I1wh77UbhVLNmQb'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: 'Wand of Night Vision: It''s just a basic torch.'
+    _id: 4OISRFmeHbkdbLNc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.4OISRFmeHbkdbLNc'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: 'Rope of Entanglement: A rope that cannot be untangled.'
+    _id: 1TtTgkqT8Xpz5Ojy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.1TtTgkqT8Xpz5Ojy'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: 'Elixir of Confusion: Just a vial of very cheap booze.'
+    _id: JFPgutuBPR34TFxh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.JFPgutuBPR34TFxh'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Wish Scroll: When activated, this scroll summons the closest wishing well
+      to the player's location.
+    _id: 8yjhEvjjoLEnZJ7y
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.8yjhEvjjoLEnZJ7y'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      Amulet of Spell Storing: Stores one spell cast into it. Never let's it
+      out.
+    _id: 19SYuF41cvePL3Kd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.19SYuF41cvePL3Kd'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: 'Alchemist''s Jar: A glass bottle once owned by an alchemist.'
+    _id: rVBg46XbSycnU88G
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.rVBg46XbSycnU88G'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      Skeleton Key: A key made from a skeleton's femur bone. It doesn't unlock
+      anything.
+    _id: FNKdvP3ZbxXEXMVX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.FNKdvP3ZbxXEXMVX'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: 'Hearth Potion: Deals 1d4 fire damage when consumed.'
+    _id: nFIcjlsmM1BeSZU3
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.nFIcjlsmM1BeSZU3'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Ring Of Attunement: While worn, this ring grants the user an extra
+      attunement slot. Requires attunement.
+    _id: G5btU75yPwof1kX8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.G5btU75yPwof1kX8'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: 'Wand of Disintegration: The wand turns into dust when used.'
+    _id: QaKvLxTZyrzet8nV
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.QaKvLxTZyrzet8nV'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: 'Glasses of Perception: A normal pair of reading glasses.'
+    _id: dWyOxxMq18EYWnDE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.dWyOxxMq18EYWnDE'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Sword of Sunlight: A sword that shines as bright as the sun when
+      unsheathed, blinding all creatures within line of sight, including the
+      wielder.
+    _id: kyclAh78pmdQjHIg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.kyclAh78pmdQjHIg'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      Boots of Teleportation: Clicking the heels together teleports the boots,
+      but not the wearer, to the destination.
+    _id: lHgfMqqHA12h59rt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.lHgfMqqHA12h59rt'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: 'Sword of Judgment: Allows wielder to locate the nearest certified judge.'
+    _id: EQ8PkFBXKvSNwQ62
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.EQ8PkFBXKvSNwQ62'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      Ring of Regeneration: This steel ring will slowly repair itself over the
+      course of 1d4-1 days if broken. It provides no other magical benefits.
+    _id: sZt9RNFfSOrwj4Nb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.sZt9RNFfSOrwj4Nb'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      The Infinite Gold Pouch: A gold pouch that produces an additional illusory
+      gold for every gold pulled from it. A DC 15 perception check dispels the
+      illusory gold pieces.
+    _id: 45Iaa6wXpkuYtqRd
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.45Iaa6wXpkuYtqRd'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      Ring of Detect Fire: A ring that helps you detect if something is one
+      fire. Range: touch.
+    _id: xk5YZFMZlPwNXMtk
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.xk5YZFMZlPwNXMtk'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: 'Wand of Amazing Pigmentation: An ordinary paint brush.'
+    _id: 8pZPPtvapq09IrWR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.8pZPPtvapq09IrWR'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: 'Potion of Hydration: A glass vial filled with water.'
+    _id: ZDYhgvJ6AXwzFfhg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.ZDYhgvJ6AXwzFfhg'
+  - range:
+      - 21
+      - 21
+    name: ''
+    description: >-
+      Wand of Secrets: The purpose and how to use this wand is a secret. No one
+      knows what it does.
+    _id: f7T3JMkh12JlbZ0V
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.f7T3JMkh12JlbZ0V'
+  - range:
+      - 22
+      - 22
+    name: ''
+    description: >-
+      Scroll of Fire Detection: If the area around the scroll is on fire, then
+      the scroll will warn you. By burning. Because it's paper.
+    _id: aSzGj8Vd5bS5nfYC
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.aSzGj8Vd5bS5nfYC'
+  - range:
+      - 23
+      - 23
+    name: ''
+    description: 'Fingerless Gloves: The gloves make your fingers invisible.'
+    _id: UtcURFFcg5qGdvbA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.UtcURFFcg5qGdvbA'
+  - range:
+      - 24
+      - 24
+    name: ''
+    description: >-
+      The Orb of Slope Detection: It rolls down any slope present. Magically, of
+      course.
+    _id: XnNiTpzGK4IiAD8D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.XnNiTpzGK4IiAD8D'
+  - range:
+      - 25
+      - 25
+    name: ''
+    description: >-
+      The Weather Globe: This snow globe features a snowman holding an umbrella.
+      The little sparkles in the globe dance around on their own whenever
+      precipitation of any kind is going on.
+    _id: Q2MzStFIVMT7FlSE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.Q2MzStFIVMT7FlSE'
+  - range:
+      - 26
+      - 26
+    name: ''
+    description: >-
+      Little Steve: This tiny doll has a small hole in its mouth. When you press
+      your finger into its back it makes an over exaggerated "Bleh' sound and
+      spits a tiny handful of confetti about three inches.
+    _id: ezt3WoYFbbRu8EoL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.ezt3WoYFbbRu8EoL'
+  - range:
+      - 27
+      - 27
+    name: ''
+    description: >-
+      Decanter of Endless Water: Decanter included, endless water sold
+      separately.
+    _id: 77Sr8AV8L13PjEHo
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.77Sr8AV8L13PjEHo'
+  - range:
+      - 28
+      - 28
+    name: ''
+    description: >-
+      Wand of Wonder: Everyone who sees the wand for the first time must say
+      'wow, neat!' or something to that effect.
+    _id: IJw5Z8BRdjAqfkNm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.IJw5Z8BRdjAqfkNm'
+  - range:
+      - 29
+      - 29
+    name: ''
+    description: 'Shield +1: A regular shield with "+1" as the emblem.'
+    _id: NOfD0bVITjbsO6EJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.NOfD0bVITjbsO6EJ'
+  - range:
+      - 30
+      - 30
+    name: ''
+    description: >-
+      Wand of Create Wand: When used, creates a new Wand of Create Wand,
+      previous wand disintegrates.
+    _id: xw2kucHIt3cUfOl9
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.xw2kucHIt3cUfOl9'
+  - range:
+      - 31
+      - 31
+    name: ''
+    description: 'Invisibility Cloak: The cloak is invisible.'
+    _id: 1qjBmr2MMRxjLMow
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.1qjBmr2MMRxjLMow'
+  - range:
+      - 32
+      - 32
+    name: ''
+    description: >-
+      Movable Rod: This small rod, that fits in a satchel, is easily moved from
+      place to place.
+    _id: 0ge1fbHpY3Zi9xCK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.0ge1fbHpY3Zi9xCK'
+  - range:
+      - 33
+      - 33
+    name: ''
+    description: 'Cloak of Disease Immunity: The cloak cannot be infected by any diseases.'
+    _id: Q7mchSzUGbH3HOjG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.Q7mchSzUGbH3HOjG'
+  - range:
+      - 34
+      - 34
+    name: ''
+    description: 'Flame Resistant Shirt: When you put it on, it becomes soaking wet.'
+    _id: LUmrCNPmV58TVmhK
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.LUmrCNPmV58TVmhK'
+  - range:
+      - 35
+      - 35
+    name: ''
+    description: 'Heavy Flail: A normal flail that makes the wielder 50lbs heavier.'
+    _id: ni3bWuEHnSJegFFn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.ni3bWuEHnSJegFFn'
+  - range:
+      - 36
+      - 36
+    name: ''
+    description: >-
+      Fire Arrow: Any creature hit is immediately and inextricably fired from
+      any employment they have.
+    _id: EyU90OUra4xx3GiS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.EyU90OUra4xx3GiS'
+  - range:
+      - 37
+      - 37
+    name: ''
+    description: >-
+      Boots of Extra Action: You gain an Action by tapping the heels together...
+      but it takes an Action to do so.
+    _id: v4PuHbXWhQRN1PR7
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.v4PuHbXWhQRN1PR7'
+  - range:
+      - 38
+      - 38
+    name: ''
+    description: >-
+      Tome of Uselessness: Whenever this plain brown tome is opened, it closes
+      (as the open/close spell).
+    _id: nNcl1HKgkf2M5MU4
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.nNcl1HKgkf2M5MU4'
+  - range:
+      - 39
+      - 39
+    name: ''
+    description: >-
+      Pet Rock: At first look, this seems to be a completely normal pebble. And
+      it is. That merchant just put an aura on it to make you think it was
+      magical.
+    _id: BJMLx6ybphrNo1Kf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.BJMLx6ybphrNo1Kf'
+  - range:
+      - 40
+      - 40
+    name: ''
+    description: >-
+      Belt of Self-Disguise: This belt can be used 3 times per day to use
+      Disguise Self as the spell. However, you may only disguise yourself as
+      yourself and the spell gives no bonus to Disguise checks.
+    _id: z6FtRnJRee5fCQRx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.z6FtRnJRee5fCQRx'
+  - range:
+      - 41
+      - 41
+    name: ''
+    description: >-
+      The Lucky Charm: This charm is very lucky. Unfortunately, none of its luck
+      seems to brush off on its owner.
+    _id: NefAa89igRUC2VZP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.NefAa89igRUC2VZP'
+  - range:
+      - 42
+      - 42
+    name: ''
+    description: >-
+      Solar Torch: This magical torch is devoid of heat but will stay lit as
+      long as it's in bright sunlight.
+    _id: hTkOc6M9FeICaE2M
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.hTkOc6M9FeICaE2M'
+  - range:
+      - 43
+      - 43
+    name: ''
+    description: 'Bead of Usability: When activated, the Bead of Usability is used. One use.'
+    _id: NTLRgAw9ye4STbqc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.NTLRgAw9ye4STbqc'
+  - range:
+      - 44
+      - 44
+    name: ''
+    description: >-
+      Ring of Non-visibility: You become invisible, as long as no one is looking
+      at you.
+    _id: FketeeJod3Mkf7jR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.FketeeJod3Mkf7jR'
+  - range:
+      - 45
+      - 45
+    name: ''
+    description: >-
+      Hat of Disguise Self: Once per day, on command, this hat will cast
+      Disguise Self. On itself.
+    _id: FepWCKZB92cptkg2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.FepWCKZB92cptkg2'
+  - range:
+      - 46
+      - 46
+    name: ''
+    description: 'Two-Handed Sword: Has two nonfunctional hands built into the hilt.'
+    _id: mVMcymqEo71s5sxg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.mVMcymqEo71s5sxg'
+  - range:
+      - 47
+      - 47
+    name: ''
+    description: 'Ring of Invulnerability: The ring can never be destroyed.'
+    _id: gOa9kcrUPwWtA9ad
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.gOa9kcrUPwWtA9ad'
+  - range:
+      - 48
+      - 48
+    name: ''
+    description: 'Rod of Wonder: When activated, makes a random ''I wonder'' statement.'
+    _id: oNQXzwYW2dazmQuF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.oNQXzwYW2dazmQuF'
+  - range:
+      - 49
+      - 49
+    name: ''
+    description: 'Wand of Cold: Ranged touch attack, gives the target a cold.'
+    _id: exeNAWrOwFYttnKP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.exeNAWrOwFYttnKP'
+  - range:
+      - 50
+      - 50
+    name: ''
+    description: >-
+      Feather of Ring Falling: Anyone holding this feather has their rings fall
+      off.
+    _id: 9pBx7vzpG1HqDIJZ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.9pBx7vzpG1HqDIJZ'
+  - range:
+      - 51
+      - 51
+    name: ''
+    description: 'Rod of Wander: A rod that causes the owner to have no sense of direction.'
+    _id: NEdWgpM89TPAWxAT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.NEdWgpM89TPAWxAT'
+  - range:
+      - 52
+      - 52
+    name: ''
+    description: >-
+      Potable Hole: A hole that is not portable, but is full of water that is
+      safe to drink.
+    _id: bz81zlrJdcycB05d
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.bz81zlrJdcycB05d'
+  - range:
+      - 53
+      - 53
+    name: ''
+    description: 'Spell Scroll: When used, a voice calls out "S-C-R-O-L-L".'
+    _id: qO3Yx2it8hGxUzpX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.qO3Yx2it8hGxUzpX'
+  - range:
+      - 54
+      - 54
+    name: ''
+    description: 'Potion of Fire Breath: Just an extremely spicy hot sauce.'
+    _id: hisuvNbknjTXuTjU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.hisuvNbknjTXuTjU'
+  - range:
+      - 55
+      - 55
+    name: ''
+    description: >-
+      Boots of Levitation: The boots float 1 foot off the ground... but only
+      when not worn by the player.
+    _id: FiGRrU911yGhte5m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.FiGRrU911yGhte5m'
+  - range:
+      - 56
+      - 56
+    name: ''
+    description: >-
+      Amulet of Detect Magic: When the wearer concentrates on this amulet, it
+      will magically detect the closest magical item: itself...
+    _id: LdXGzaf8lGdOkEOu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.LdXGzaf8lGdOkEOu'
+  - range:
+      - 57
+      - 57
+    name: ''
+    description: >-
+      Crystal Ball: This is just a ball of glass that looks kind of cool, if
+      detect magic is cast it is seen to not contain any arcane properties.
+    _id: 8lapYq4fNussyjZA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.8lapYq4fNussyjZA'
+  - range:
+      - 58
+      - 58
+    name: ''
+    description: >-
+      Boots of Evasion: These arcane boots will use whatever means necessary to
+      evade the user's attempts to put them on. If equipped, the boots of
+      evasion will run to the nearest large fall, and attempt to kill the user.
+    _id: 9B4XOxq25xUlpZim
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.9B4XOxq25xUlpZim'
+  - range:
+      - 59
+      - 59
+    name: ''
+    description: >-
+      Ring of Vampirism: This ring will curse the user with the insatiable
+      desire to drink blood. This blood does not benefit them at all and the
+      user will most likely develop hemochromatosis and their health will
+      suffer.
+    _id: jtgjSIaaDoDTcs9D
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.jtgjSIaaDoDTcs9D'
+  - range:
+      - 60
+      - 60
+    name: ''
+    description: >-
+      Ring of Water Breathing: This ring allows the user to breathe underwater
+      by altering their body to have gills. Unbeknownst to the user, this comes
+      at a savage price. Upon the third use of the item, the user is cursed to
+      have gills permanently, and loses their ability to breathe air, making
+      water an essential for oxygen intake.
+    _id: KoGoR4xvYtIpcBEM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.KoGoR4xvYtIpcBEM'
+  - range:
+      - 61
+      - 61
+    name: ''
+    description: >-
+      Vial Of Holy Water: This water is said to be blessed by the gods. It's not
+      however, it's just water, slightly muddy at that.
+    _id: hGxoxRQdYT6ihvCu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.hGxoxRQdYT6ihvCu'
+  - range:
+      - 62
+      - 62
+    name: ''
+    description: >-
+      Mage's Hand: This is quite literally the hand of a deceased Mage. Upon
+      inspection, it is unclear how it was unobtained or if it was willingly.
+    _id: D68d08xFaJGh7fhy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.D68d08xFaJGh7fhy'
+  - range:
+      - 63
+      - 63
+    name: ''
+    description: >-
+      Miniature Piggy "Bank" Companion: This miniature pig is the perfect
+      companion for an adventurer with a need for a place to store their gold.
+      Upon being fed gold coins, the miniature pig swallows them for "storage."
+      In actuality, the coins are quickly broken down and digested by the pig,
+      unbeknownst to the owner. When the owner does finally go to remove gold
+      from the pig, they discover there is no gold to be found.
+    _id: DRrPeqDHkZN9OzdY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.DRrPeqDHkZN9OzdY'
+  - range:
+      - 64
+      - 64
+    name: ''
+    description: >-
+      Boots of Fleeing: These Boots have tiny little wings. When an attempt is
+      made to wear them, they flee.
+    _id: ZPSQqATtomjTj2Ys
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.ZPSQqATtomjTj2Ys'
+  - range:
+      - 65
+      - 65
+    name: ''
+    description: >-
+      The Bag of Bags: a bag of holding that may only hold purses, rucksacks and
+      the like.
+    _id: kxLfzDmFjQgotYD1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.kxLfzDmFjQgotYD1'
+  - range:
+      - 66
+      - 66
+    name: ''
+    description: 'Potion of Bravery: It''s just a regular vial filled with ale.'
+    _id: LKN2u0ZcWrklnoMF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.LKN2u0ZcWrklnoMF'
+  - range:
+      - 67
+      - 67
+    name: ''
+    description: >-
+      Disc of Bemusement: An apple-sized brass plate studded with buttons,
+      gears, levers, switches, and other doodads, sold as a time-killer. The
+      user believes they've been playing with the item much longer than they
+      really did - a minute of fiddling could feel like hours.
+    _id: QT0jUAMr1GatXJeb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.QT0jUAMr1GatXJeb'
+  - range:
+      - 68
+      - 68
+    name: ''
+    description: >-
+      Ring of Primal Rage: Upon donning the ring, the user and everything on
+      their person, including the item itself, transforms into a dire predatory
+      creature. Over a period of hours, they lose their sentience and begin
+      devolving - a dire wolf could turn into a regular wolf, then a
+      saber-toothed rat, then a primitive amphibian, then a tadpole. Upon
+      devolving into a single-celled organism, the user instantly reverts to
+      normal in the nearest open space, extremely tired, thirsty, and with 2D6
+      hit points remaining.
+    _id: w6Xtd3kUIa8UkCPp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.w6Xtd3kUIa8UkCPp'
+  - range:
+      - 69
+      - 69
+    name: ''
+    description: >-
+      Oil of the Ghost Thief: When the entire jar of greasy ointment is rubbed
+      into the skin, this pungent concoction renders the user's naked body, and
+      anything in their hands, imperceptible to all natural senses. The oil
+      gradually rubs off over 1D4 hours, and the instant the effect ends, all
+      witnesses immediately recall the stinky, naked, presumably larcenous user
+      as if the oil was never applied.
+    _id: VXK7YsyRIpZcJlGW
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.VXK7YsyRIpZcJlGW'
+  - range:
+      - 70
+      - 70
+    name: ''
+    description: >-
+      Hardwick's Handy Hairbrush: This handsome grooming tool is sculpted from
+      aromatic wood, inlaid with glistening fire opals, and studded with supple
+      boar bristles. With a thought, the brush instantly appears in the user's
+      hand. The merchant has sold the same brush to dozens of chumps, using its
+      ability to remotely swipe it from the previous buyer.
+    _id: cZXlHaYyAqfPegI1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.cZXlHaYyAqfPegI1'
+  - range:
+      - 71
+      - 71
+    name: ''
+    description: >-
+      The Vaporblade: This scabbard holds a handle, but no blade. The seller
+      claims its immaterial edge manifests upon throwing a slash, and
+      demonstrates by effortlessly cutting a sheet of parchment, a bundle of
+      sticks, etc. In reality, there is no blade - the handle bears a curse that
+      rends nearby wooden objects.
+    _id: P0kbwjgEwmYFGDsJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.P0kbwjgEwmYFGDsJ'
+  - range:
+      - 72
+      - 72
+    name: ''
+    description: >-
+      Holy Vault of the Crusaders: Precious metals and gemstones locked in this
+      cold-iron strongbox vanish from the material plane. If the box's owner
+      unlocks it while reciting a brief prayer, all of the stored objects will
+      reappear, spilling out if necessary. The items aren't held in a holy plane
+      like the seller claimed - they're actually sent to a gigantic Bag of
+      Holding in his basement. After 1D4 weeks, or once the total exceeds 1D10 *
+      1000 GP, the seller will steal everything stored in the boxes and skip
+      town.
+    _id: QMU7SOhQpC6tm72U
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.QMU7SOhQpC6tm72U'
+  - range:
+      - 73
+      - 73
+    name: ''
+    description: >-
+      The Lute of Destiny - Notes strummed on this black-enameled instrument,
+      strung with muscle fibers from a demon's right arm, are uncannily loud and
+      mildly distorted. When held, musical inspiration floods the user's mind,
+      and when played, a crowd inevitably forms. In reality, the "inspired"
+      songs are incoherent and obnoxious, and the crowd is an illusion visible
+      only to the player.
+    _id: lc9yyOsRX9X6NsUl
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.lc9yyOsRX9X6NsUl'
+  - range:
+      - 74
+      - 74
+    name: ''
+    description: >-
+      Pulsipher's Pocket Privy: A porcelain model of an outhouse, about the size
+      of one's palm. When the door is opened, a simple wooden outhouse pops into
+      existence in a nearby clearing. "Waste" dumped into the cistern vanishes
+      from the material plane. After 2D6 days, or when the model is shattered,
+      the magic fades and the outhouse permanently reappears... along with the
+      accumulated "waste."
+    _id: AnC3UF2bM9ftA49p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.AnC3UF2bM9ftA49p'
+  - range:
+      - 75
+      - 75
+    name: ''
+    description: >-
+      Miska's Tonic: When dabbed between the eyes, this glowing fluid provides a
+      small buff to Intelligence, the ability to read and memorize information
+      twice as fast, and a sense of mental clarity that lasts for about two
+      hours. Unfortunately, it's also a powerful pheromone to Mind Flayers, who
+      can psychically sense it from hundreds of miles away... and repeat
+      application strengthens and prolongs the effect.
+    _id: z4eIiTwllDk3bQYH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.z4eIiTwllDk3bQYH'
+  - range:
+      - 76
+      - 76
+    name: ''
+    description: >-
+      The Money Machine: Insert a coin into this clattering, steaming
+      contraption, and a minute or so later, two pop out. To the party's
+      surprise, it's the real deal; the seller claims they need a lot of money
+      ASAP to make good on a bet. What they don't tell you is that they stole it
+      from the local mob, and their toughest kneecappers are hot on your tail.
+    _id: AqXFOUD6JEuhQByO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.AqXFOUD6JEuhQByO'
+  - range:
+      - 77
+      - 77
+    name: ''
+    description: >-
+      Potion of Love: It makes you fall in love... With the potion. It just
+      tastes REALLY good.
+    _id: z2vlB15oJjSJhrdm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.z2vlB15oJjSJhrdm'
+  - range:
+      - 78
+      - 78
+    name: ''
+    description: >-
+      A Flying Broom: The broom can only fly when no-one is holding it making it
+      impossible for someone to ride it.
+    _id: QTjXbdr0FntGEjUj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.QTjXbdr0FntGEjUj'
+  - range:
+      - 79
+      - 79
+    name: ''
+    description: >-
+      A Magic Spoon: Anything eaten from this spoon has the effect of remove
+      poison. However, any food eaten with this spoon always tastes awful.
+    _id: 9cUUjoUYjyuMc6sm
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.9cUUjoUYjyuMc6sm'
+  - range:
+      - 80
+      - 80
+    name: ''
+    description: >-
+      A Pearl of Spell Storing: This pearl can store a 1st level spell only.
+      Once the spell is casted from the pearl, it targets a creature at random
+      (PC included).
+    _id: N5IrTludR6ASVtVb
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.N5IrTludR6ASVtVb'
+  - range:
+      - 81
+      - 81
+    name: ''
+    description: >-
+      Book for Dummies: A book designed to learn the basics of a subject. Upon
+      finishing it, the target can add +5 to the next roll made with
+      disadvantage. However, all other rolls made within the next minute will
+      also have disadvantage. Once read, it cannot be used again for this
+      purpose.
+    _id: ufJr1DB9JsogPIwt
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.ufJr1DB9JsogPIwt'
+  - range:
+      - 82
+      - 82
+    name: ''
+    description: >-
+      Wand of Wonder: When used, everyone in a 10ft radius may let out a Wow in
+      perfect unison. The individual inflections may still be able to be
+      interpreted as genuine or sarcastic and are not forced by the wand.
+    _id: fDJ2990qw65axeKN
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.fDJ2990qw65axeKN'
+  - range:
+      - 83
+      - 83
+    name: ''
+    description: >-
+      Marble of Emotion: Pitched as a marble that changes color depending on the
+      interlocutor's mood, but in fact it just changes color in a random
+      pattern.
+    _id: zGAGDpLus2OeXfuf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.zGAGDpLus2OeXfuf'
+  - range:
+      - 84
+      - 84
+    name: ''
+    description: >-
+      Stair of Extending: A magical stair that can be comfortably carried on
+      someone's back and can extend up to 50ft. The only snag is that it's
+      really a mimic that each night ( quiet time ) tries to go back to its
+      owner and feeder - the vendor.
+    _id: 63zuMNmTujhPUro8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.63zuMNmTujhPUro8'
+  - range:
+      - 85
+      - 85
+    name: ''
+    description: >-
+      Wand of Snowballs: Creates a snowball in thin air and launches it at a
+      foe. Unusable in good weather. The worse the snowfall at time of casting,
+      the bigger the snowball.
+    _id: UR1DmxmFl9O606bq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.UR1DmxmFl9O606bq'
+  - range:
+      - 86
+      - 86
+    name: ''
+    description: >-
+      Disappearing Ink Vial: In 1d6 days, the bottle or vial disappears, leaving
+      the ink to make a mess.
+    _id: SFtTTngpuEsWy8fR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.SFtTTngpuEsWy8fR'
+  - range:
+      - 87
+      - 87
+    name: ''
+    description: 'Rope of Untying: A rope whose knots always come loose at a slight tug.'
+    _id: YtCWEZ0cjFlMmy9p
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.YtCWEZ0cjFlMmy9p'
+  - range:
+      - 88
+      - 88
+    name: ''
+    description: >-
+      Goggles of Mind Reading: When you wear these goggles, the world around you
+      can hear your thoughts.
+    _id: YljTXJc511eLRE0V
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.YljTXJc511eLRE0V'
+  - range:
+      - 89
+      - 89
+    name: ''
+    description: >-
+      Boots of Feline Agility: Wearing these boots gives the wearer advantage on
+      stealth checks. However, whenever the wearer is surprised, they
+      immediately jump their full movement in a random direction (roll 1d4/1d8
+      to choose direction).
+    _id: TCt1RiIOzNaR0x2r
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.TCt1RiIOzNaR0x2r'
+  - range:
+      - 90
+      - 90
+    name: ''
+    description: >-
+      Staff of Sleep: Any creature can be put to sleep with this piece of wood
+      if you hit them hard enough with it.
+    _id: J332l6HZQDb3ynO0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.J332l6HZQDb3ynO0'
+  - range:
+      - 91
+      - 91
+    name: ''
+    description: >-
+      Silent But Deadly Alarm: This small marble will send a silent message to
+      the owner every time a creature gets within 10' of the marble. The message
+      is in the form of an invisible cloud of stench. Others can smell it but
+      don't know what it means.
+    _id: csHnJaWjmZV41ACT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.csHnJaWjmZV41ACT'
+  - range:
+      - 92
+      - 92
+    name: ''
+    description: >-
+      Scammer's Coin: Any change given to the players from the scam artist has
+      at least one tracking coin in it. If the players have been quite
+      profitable and seem easy to dupe then all the change also returns to the
+      scammer after 1d4 days.
+    _id: V3jP6Y8K2wUTxL0m
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.V3jP6Y8K2wUTxL0m'
+  - range:
+      - 93
+      - 93
+    name: ''
+    description: >-
+      Ring of Drowning Immunity: A full sized orange life ring. You cannot
+      submerge whilst wearing it.
+    _id: yT6bPa66emGPEWL5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.yT6bPa66emGPEWL5'
+  - range:
+      - 94
+      - 94
+    name: ''
+    description: >-
+      Lesser Scroll of Summoning, Rabbit of Caerbannog: Summons a normal white
+      rabbit.
+    _id: lcgh8yv9tiizHrvw
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.lcgh8yv9tiizHrvw'
+  - range:
+      - 95
+      - 95
+    name: ''
+    description: >-
+      The Orb of Slope Detection: This orb rolls down any slope present.
+      Magically, of course.
+    _id: nmk6wrj4WwxZhE5b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.nmk6wrj4WwxZhE5b'
+  - range:
+      - 96
+      - 96
+    name: ''
+    description: >-
+      The Weather Globe: This snow globe features a snowman holding an umbrella.
+      The little sparkles in the globe dance around on their own whenever
+      precipitation of any kind is going on.
+    _id: mb8oLZrJwfauA9y8
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.mb8oLZrJwfauA9y8'
+  - range:
+      - 97
+      - 97
+    name: ''
+    description: >-
+      Wand of Create Wand: When used, this wand creates a new Wand of Create
+      Wand, and the previous wand disintegrates.
+    _id: dHZ0n6R77hU32nAx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.dHZ0n6R77hU32nAx'
+  - range:
+      - 98
+      - 98
+    name: ''
+    description: >-
+      The Mightiest Sword: An elvish looking blade with intricate feathery
+      looking designs on it. When its command word is spoken it is said to
+      become mightier than any sword. (It turns into a giant quill/pen.)
+    _id: uBuJQUoeNKZa1qYI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.uBuJQUoeNKZa1qYI'
+  - range:
+      - 99
+      - 99
+    name: ''
+    description: >-
+      Movable Rod: This small rod, that fits in a satchel, is easily moved from
+      place to place.
+    _id: OsRvoPM0QPLf8oIp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.OsRvoPM0QPLf8oIp'
+  - range:
+      - 100
+      - 100
+    name: ''
+    description: >-
+      Amulet of Luck: An extremely lucky amulet that never comes to any harm.
+      This effect doesn’t affect the user at all.
+    _id: HTJVIMirFwinrc3c
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1792746118219
+      modifiedTime: 1792746118219
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!SzDnXV9LkGWVemaC.HTJVIMirFwinrc3c'
+folder: null
+_id: SzDnXV9LkGWVemaC
+img: modules/game-icons-net/whitetransparent/magic-hat.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1792746118219
+  modifiedTime: 1792747029139
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 1500000
+_key: '!tables!SzDnXV9LkGWVemaC'

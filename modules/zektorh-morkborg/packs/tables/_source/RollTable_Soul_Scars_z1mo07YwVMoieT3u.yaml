@@ -314,11 +314,11 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671347368
-  modifiedTime: 1792671383630
+  modifiedTime: 1792744624099
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
   exportSource: null
 formula: 1d13
-sort: 0
+sort: 800000
 _key: '!tables!z1mo07YwVMoieT3u'
