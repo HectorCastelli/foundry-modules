@@ -101,5 +101,69 @@
 		"trackMorkBorgAbilities": false,
 		"trackMorkBorgOmens": true,
 		"trackMorkBorgPowers": true
+	},
+	"mini-stats": {
+		"actor-directory-rows": {
+			"rows": [],
+			"actorTypes": {
+				"character": {
+					"enabled": true,
+					"useCustomRows": true,
+					"rows": [
+						{
+							"title": "HP",
+							"flag": "system.hp.value"
+						},
+						{
+							"title": "PWR",
+							"flag": "system.powerUses.value"
+						},
+						{
+							"title": "OMN",
+							"flag": "system.omens.value"
+						}
+					]
+				},
+				"container": {
+					"enabled": true,
+					"useCustomRows": true,
+					"rows": [
+						{
+							"title": "Cur",
+							"flag": "system.capacity.value"
+						},
+						{
+							"title": "Max",
+							"flag": "system.capacity.max"
+						}
+					]
+				},
+				"creature": {
+					"enabled": true,
+					"useCustomRows": true,
+					"rows": [
+						{
+							"title": "HP",
+							"flag": "system.hp.value"
+						}
+					]
+				},
+				"follower": {
+					"enabled": true,
+					"useCustomRows": true,
+					"rows": [
+						{
+							"title": "HP",
+							"flag": "system.hp.value"
+						}
+					]
+				},
+				"misery-tracker": {
+					"enabled": true,
+					"useCustomRows": false,
+					"rows": []
+				}
+			}
+		}
 	}
 }

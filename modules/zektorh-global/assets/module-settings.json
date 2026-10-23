@@ -214,5 +214,19 @@
 		"simpleOutput": false,
 		"messageVisibility": "gm-player",
 		"npcAudience": "gm-owners"
+	},
+	"macro-grid": {
+		"onStartup": false,
+		"gridSize": 32,
+		"gridColor": "rgba(0,0,0,0.5)",
+		"barMode": false,
+		"bottomOffset": 5
+	},
+	"wgtngm-mini-edit": {
+		"runonlyonce": true
+	},
+	"mini-stats": {
+		"hide-from-players": true,
+		"runonlyonce": true
 	}
 }

@@ -289,6 +289,11 @@
 				"id": "macro-grid",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "mini-stats",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
