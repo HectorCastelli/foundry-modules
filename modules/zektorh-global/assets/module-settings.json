@@ -1,83 +1,72 @@
 {
-	"lib-wrapper": {
-		"notify-issues-gm": true,
-		"notify-issues-player": false,
-		"high-performance-mode": false,
-		"log-verbosity": 400,
-		"module-priorities": {}
-	},
-	"3ds-atlas": {
-		"loggingLevel": "2",
-		"updateNotices": false,
-		"changelogger": false
-	},
 	"_chatcommands": {
 		"autocomplete": true,
-		"maxEntries": 15,
-		"includeCoreCommands": true
+		"includeCoreCommands": true,
+		"maxEntries": 15
 	},
-	"gm-vision": {
-		"active": true
+	"3ds-atlas": {
+		"changelogger": false,
+		"loggingLevel": "2",
+		"updateNotices": false
 	},
-	"default-detach": {
-		"autoDetach": [
-			{
-				"id": "fa-nexus-app",
-				"displayName": "fa-nexus-app"
-			}
-		],
-		"autoDetachTypes": []
+	"breaktime": {
+		"auto-pause": true,
+		"auto-start-time": false,
+		"away-text": "I'm stepping away for a second.",
+		"back-text": "I'm back.",
+		"break-time": 5,
+		"chat-bubble": false,
+		"notify-option": "chat",
+		"show-button": true,
+		"twenty-four-hour": true,
+		"volume": 60
 	},
-	"dice-so-nice": {
-		"hideSidebarTab": false,
-		"resetWelcomeMessage": false
-	},
-	"keep-windows-open": {
-		"protect_detached_windows": true,
-		"close_one_at_a_time": true
-	},
-	"preload-tracker": {
-		"showToPlayers": false,
-		"skipAudioOnPreload": false,
-		"enableRaceMode": false,
-		"raceResultsScope": "players",
-		"debugLevel": "none"
-	},
-	"quick-insert": {
-		"gmOnly": false,
-		"filtersSheetsEnabled": true,
-		"automaticIndexing": -1,
-		"searchButton": true,
-		"enableGlobalContext": true,
-		"defaultActionScene": "show",
-		"defaultActionRollTable": "show",
-		"defaultActionMacro": "show",
-		"searchTooltips": "full",
-		"enhancedTooltips": true,
-		"searchEngine": "fuzzysort",
-		"quickFilterEdit": false,
-		"rememberBrowseInput": true,
-		"showFoldersInIndexingtab": false,
-		"includeLabelInJournalLinks": true,
-		"embeddedIndexing": true,
-		"tocIndexing": true
-	},
-	"snoot": {
-		"showCoreFlags": false,
-		"showSystemFlags": false
-	},
-	"hide-npc-names": {
-		"tokenHiddenSuffix": "(Anonymized)"
+	"CautiousGamemastersPack": {
+		"allowPlayersToSeeTypingNotification": true,
+		"allowPlayersToUseDesc": false,
+		"blindHiddenTokens": true,
+		"disableGMAsPC": false,
+		"gmSpeakerMode": 0,
+		"notifyTyping": true,
+		"playerSpeakerMode": 0,
+		"speakerMode": 0
 	},
 	"core": {
+		"favoritePaths": {
+			"data-/": {
+				"label": "root",
+				"path": "/",
+				"source": "data"
+			},
+			"data-assets/": {
+				"label": "assets",
+				"path": "assets/",
+				"source": "data"
+			},
+			"data-modules/game-icons-net/blackbackground/": {
+				"label": "blackbackground",
+				"path": "modules/game-icons-net/blackbackground/",
+				"source": "data"
+			},
+			"data-modules/game-icons-net/whitetransparent/": {
+				"label": "whitetransparent",
+				"path": "modules/game-icons-net/whitetransparent/",
+				"source": "data"
+			},
+			"data-modules/zektorh-global/": {
+				"label": "zektorh-global",
+				"path": "modules/zektorh-global/",
+				"source": "data"
+			}
+		},
 		"fonts": {
 			"Isabella": {
 				"editor": true,
 				"fonts": [
 					{
+						"style": "normal",
 						"urls": ["modules/zektorh-global/assets/fonts/Isabella.ttf"],
-						"weight": 400,
-						"style": "normal"
+						"weight": 400
 					}
 				]
 			},
@@ -85,9 +74,9 @@
 				"editor": true,
 				"fonts": [
 					{
+						"style": "normal",
 						"urls": ["modules/zektorh-global/assets/fonts/MisterBrush.ttf"],
-						"weight": 400,
-						"style": "normal"
+						"weight": 400
 					}
 				]
 			},
@@ -95,138 +84,181 @@
 				"editor": true,
 				"fonts": [
 					{
+						"style": "normal",
 						"urls": [
 							"modules/zektorh-global/assets/fonts/MoonlitFlow-Regular.ttf"
 						],
-						"weight": 400,
-						"style": "normal"
+						"weight": 400
 					}
 				]
 			}
 		},
-		"favoritePaths": {
-			"data-/": {
-				"source": "data",
-				"path": "/",
-				"label": "root"
-			},
-			"data-assets/": {
-				"source": "data",
-				"path": "assets/",
-				"label": "assets"
-			},
-			"data-modules/game-icons-net/blackbackground/": {
-				"source": "data",
-				"path": "modules/game-icons-net/blackbackground/",
-				"label": "blackbackground"
-			},
-			"data-modules/game-icons-net/whitetransparent/": {
-				"source": "data",
-				"path": "modules/game-icons-net/whitetransparent/",
-				"label": "whitetransparent"
-			},
-			"data-modules/zektorh-global/": {
-				"source": "data",
-				"path": "modules/zektorh-global/",
-				"label": "zektorh-global"
+		"animateRollTable": true,
+		"chatBubbles": true,
+		"chatBubblesPan": true,
+		"combatTrackerConfig": {
+			"skipDefeated": true,
+			"turnMarker": {
+				"animation": "spin",
+				"enabled": true
 			}
 		}
 	},
+	"default-detach": {
+		"autoDetach": [
+			{
+				"displayName": "fa-nexus-app",
+				"id": "fa-nexus-app"
+			}
+		],
+		"autoDetachTypes": []
+	},
 	"dice-calculator": {
+		"autoOpenPopout": false,
+		"compactMode": true,
 		"enableDiceTray": true,
 		"hideAdv": true,
-		"compactMode": true,
-		"hideNumberInput": true,
 		"hideNumberButtons": false,
+		"hideNumberInput": true,
 		"hideRollButton": false,
 		"popout": "none",
-		"autoOpenPopout": false,
 		"popoutPosition": {},
 		"rightClickCommand": "decrease"
 	},
-	"CautiousGamemastersPack": {
-		"disableGMAsPC": false,
-		"speakerMode": 0,
-		"gmSpeakerMode": 0,
-		"playerSpeakerMode": 0,
-		"allowPlayersToUseDesc": false,
-		"blindHiddenTokens": true,
-		"notifyTyping": true,
-		"allowPlayersToSeeTypingNotification": true
-	},
-	"yendors-user-passwords": {
-		"requestPasswordForNewUsers": true,
-		"allowEmptyPasswords": false
-	},
-	"statuscounter": {
-		"rebindMouseButtons": true,
-		"rebindNumberKeys": true,
-		"multiSelect": true,
-		"defaultDurationUnit": "rounds",
-		"defaultModifyDuration": false,
-		"displayOne": "countdown"
-	},
-	"visual-active-effects": {
-		"iconSize": 30,
-		"fontSize": 16,
-		"topOffset": 16,
-		"rightOffset": 50,
-		"hideDisabled": false,
-		"hidePassive": true,
-		"playerClicks": false
-	},
-	"sephrals-player-notes": {
-		"actorDirectoryButton": true,
-		"actorDirectoryIndicators": true,
-		"tokenIndicators": true,
-		"actorSheetButtons": true,
-		"defaultNoteStatus": "open",
-		"hideArchivedByDefault": true,
-		"debugMode": false,
-		"defaultDashboardView": "grouped",
-		"language": "follow-foundry",
-		"sessionReminderPopup": true
-	},
-	"visage": {
-		"gmOnlyMode": false,
-		"allowSystemOverrides": true,
-		"disableWelcome": false
-	},
-	"monks-player-settings": {
-		"sync-settings": true,
-		"ignore-modules": "fuzzy-foundry"
+	"dice-so-nice": {
+		"hideSidebarTab": false,
+		"resetWelcomeMessage": false
 	},
 	"global-progress-clocks": {
-		"location": "topRight",
-		"offset": 0,
-		"minimumEditorRole": 4,
-		"defaultColor": "#2f2928",
-		"defaultBackgroundColor": "#ffffff",
 		"clockColors": [],
+		"defaultBackgroundColor": "#ffffff",
+		"defaultColor": "#2f2928",
 		"enabledTypes": {
 			"clocks": true,
 			"points": true,
 			"trackers": false
-		}
+		},
+		"location": "topRight",
+		"minimumEditorRole": 4,
+		"offset": 0
 	},
-	"niks-tiny-changelogs": {
-		"compactMessages": true,
-		"simpleOutput": false,
-		"messageVisibility": "gm-player",
-		"npcAudience": "gm-owners"
+	"gm-vision": {
+		"active": true
+	},
+	"hide-npc-names": {
+		"tokenHiddenSuffix": "(Anonymized)"
+	},
+	"keep-windows-open": {
+		"close_one_at_a_time": true,
+		"protect_detached_windows": true
+	},
+	"lib-wrapper": {
+		"high-performance-mode": false,
+		"log-verbosity": 400,
+		"module-priorities": {},
+		"notify-issues-gm": true,
+		"notify-issues-player": false
 	},
 	"macro-grid": {
-		"onStartup": false,
-		"gridSize": 32,
-		"gridColor": "rgba(0,0,0,0.5)",
 		"barMode": false,
-		"bottomOffset": 5
-	},
-	"wgtngm-mini-edit": {
-		"runonlyonce": true
+		"bottomOffset": 5,
+		"gridColor": "rgba(0,0,0,0.5)",
+		"gridSize": 32,
+		"onStartup": false
 	},
 	"mini-stats": {
 		"hide-from-players": true,
 		"runonlyonce": true
+	},
+	"monks-player-settings": {
+		"ignore-modules": "fuzzy-foundry",
+		"sync-settings": true
+	},
+	"niks-tiny-changelogs": {
+		"compactMessages": true,
+		"messageVisibility": "gm-player",
+		"npcAudience": "gm-owners",
+		"simpleOutput": false
+	},
+	"preload-tracker": {
+		"debugLevel": "none",
+		"enableRaceMode": true,
+		"raceResultsScope": "players",
+		"showToPlayers": false,
+		"skipAudioOnPreload": true
+	},
+	"quick-insert": {
+		"automaticIndexing": -1,
+		"defaultActionMacro": "show",
+		"defaultActionRollTable": "show",
+		"defaultActionScene": "show",
+		"embeddedIndexing": true,
+		"enableGlobalContext": true,
+		"enhancedTooltips": true,
+		"filtersSheetsEnabled": true,
+		"gmOnly": false,
+		"includeLabelInJournalLinks": true,
+		"quickFilterEdit": false,
+		"rememberBrowseInput": true,
+		"searchButton": true,
+		"searchEngine": "fuzzysort",
+		"searchTooltips": "full",
+		"showFoldersInIndexingtab": false,
+		"tocIndexing": true
+	},
+	"sephrals-player-notes": {
+		"actorDirectoryButton": true,
+		"actorDirectoryIndicators": true,
+		"actorSheetButtons": true,
+		"debugMode": false,
+		"defaultDashboardView": "grouped",
+		"defaultNoteStatus": "open",
+		"hideArchivedByDefault": true,
+		"language": "follow-foundry",
+		"sessionReminderPopup": true,
+		"tokenIndicators": true
+	},
+	"snoot": {
+		"showCoreFlags": false,
+		"showSystemFlags": false
+	},
+	"statuscounter": {
+		"defaultDurationUnit": "rounds",
+		"defaultModifyDuration": false,
+		"displayOne": "countdown",
+		"multiSelect": true,
+		"rebindMouseButtons": true,
+		"rebindNumberKeys": true
+	},
+	"tokenizer-2": {
+		"animation-bitrate": 2000000,
+		"animation-export-size": 512,
+		"animation-fps": 12,
+		"animation-max-duration": 3,
+		"export-format": "webp",
+		"export-size": 4096,
+		"proxy-url": "",
+		"use-dynamic-ring-default": true
+	},
+	"visage": {
+		"allowSystemOverrides": true,
+		"disableWelcome": false,
+		"gmOnlyMode": false
+	},
+	"visual-active-effects": {
+		"fontSize": 16,
+		"hideDisabled": false,
+		"hidePassive": true,
+		"iconSize": 30,
+		"playerClicks": false,
+		"rightOffset": 50,
+		"topOffset": 16
+	},
+	"wgtngm-mini-edit": {
+		"runonlyonce": true
+	},
+	"yendors-user-passwords": {
+		"allowEmptyPasswords": false,
+		"requestPasswordForNewUsers": true
 	}
 }

@@ -1,13 +1,19 @@
 {
 	"core": {
-		"universalKeybindings": false,
 		"combatTrackerConfig": {
 			"skipDefeated": true,
 			"turnMarker": {
-				"enabled": true,
 				"animation": "spin",
-				"src": "modules/zektorh-morkborg/assets/ui/token.webp",
-				"disposition": true
+				"disposition": true,
+				"enabled": true,
+				"src": "modules/zektorh-morkborg/assets/ui/token.webp"
+			}
+		},
+		"favoritePaths": {
+			"data-modules/zektorh-morkborg/": {
+				"label": "zektorh-morkborg",
+				"path": "modules/zektorh-morkborg/",
+				"source": "data"
 			}
 		},
 		"fonts": {
@@ -15,9 +21,9 @@
 				"editor": true,
 				"fonts": [
 					{
+						"style": "normal",
 						"urls": ["modules/zektorh-morkborg/assets/fonts/blackletter.TTF"],
-						"weight": 400,
-						"style": "normal"
+						"weight": 400
 					}
 				]
 			},
@@ -25,145 +31,414 @@
 				"editor": true,
 				"fonts": [
 					{
+						"style": "normal",
 						"urls": [
 							"modules/zektorh-morkborg/assets/fonts/OldEnglishedBoots.ttf"
 						],
-						"weight": 400,
-						"style": "normal"
+						"weight": 400
 					}
 				]
 			}
 		},
-		"favoritePaths": {
-			"data-modules/zektorh-morkborg/": {
-				"source": "data",
-				"path": "modules/zektorh-morkborg/",
-				"label": "zektorh-morkborg"
-			}
-		}
-	},
-	"morkborg": {
-		"additionalAbilities": "",
-		"systemMigrationVersion": "",
-		"trackCarryingCapacity": true,
-		"colorScheme": "foundryDefault",
-		"deleteZeroQuantity": true,
-		"fontScheme": "blackletter",
-		"hitAutomation": true,
-		"miseryTrackerAnimations": true,
-		"trackAmmo": true
-	},
-	"statuscounter": {
-		"counterColor": "4245FF",
-		"countdownColor": "FFEE90"
-	},
-	"hide-npc-names": {
-		"hideHostileNames": true,
-		"hideNeutralNames": true,
-		"hideFriendlyNames": true,
-		"hideSecretNames": true,
-		"hideParts": true,
-		"showOnActorDirectory": true,
-		"showOnTokenHUD": true,
-		"hostileNameReplacement": "Unknown",
-		"neutralNameReplacement": "Unknown",
-		"friendlyNameReplacement": "Unknown",
-		"secretNameReplacement": "Unknown",
-		"tokenHiddenSuffix": "(Hidden)"
-	},
-	"XCard": {
-		"imageToggle": true,
-		"imageSize": {
-			"width": 325,
-			"height": 532
-		},
-		"imagePath": "modules/zektorh-morkborg/assets/ui/x-card-small.webp"
+		"universalKeybindings": false
 	},
 	"global-progress-clocks": {
-		"defaultColor": "#ffee90",
-		"defaultBackgroundColor": "#ffffff",
 		"clockColors": [],
+		"defaultBackgroundColor": "#ffffff",
+		"defaultColor": "#ffee90",
 		"enabledTypes": {
 			"clocks": true,
 			"points": true,
 			"trackers": false
 		}
 	},
+	"healthEstimate": {
+		"core.addTemp": false,
+		"core.breakOnZeroMaxHP": "none",
+		"core.combatOnly": true,
+		"core.custom.FractionHP": "",
+		"core.custom.FractionMath": 0,
+		"core.deathMarker": "icons/svg/skull.svg",
+		"core.deathState": true,
+		"core.deathStateName": "Defeated",
+		"core.estimations": [
+			{
+				"actorTypes": {},
+				"estimates": [
+					{
+						"label": "Unconscious",
+						"value": 0
+					},
+					{
+						"label": "Near Death",
+						"value": 20
+					},
+					{
+						"label": "Badly Injured",
+						"value": 50
+					},
+					{
+						"label": "Injured",
+						"value": 90
+					},
+					{
+						"label": "Scratched",
+						"value": 99
+					},
+					{
+						"label": "Unharmed",
+						"value": 100
+					}
+				],
+				"ignoreColor": false,
+				"name": "",
+				"statusEffects": {}
+			}
+		],
+		"core.hideVehicleHP": false,
+		"core.menuSettings.deadColor": "#241f31",
+		"core.menuSettings.fontFamily": "OldEnglishedBoots",
+		"core.menuSettings.fontSize": 22,
+		"core.menuSettings.gradient": {
+			"colors": ["rgb(110, 0, 0)", "rgb(10, 110, 0)"],
+			"positions": [0, 1]
+		},
+		"core.menuSettings.gridSize": 100,
+		"core.menuSettings.mode": "hsl",
+		"core.menuSettings.outline": "darken",
+		"core.menuSettings.outlineIntensity": 2,
+		"core.menuSettings.position": 0,
+		"core.menuSettings.position2": "a",
+		"core.menuSettings.scaleToGridSize": true,
+		"core.menuSettings.scaleToTokenSize": true,
+		"core.menuSettings.scaleToZoom": true,
+		"core.menuSettings.smoothGradient": true,
+		"core.menuSettings.useColor": true,
+		"core.NPCsJustDie": true,
+		"core.showDescription": 0,
+		"core.showDescriptionTokenType": 0,
+		"core.stateNames": "",
+		"core.tooltipPosition": "default",
+		"core.variables.colors": [
+			"#6e0000",
+			"#6e0200",
+			"#6e0400",
+			"#6e0600",
+			"#6e0800",
+			"#6e0b00",
+			"#6e0d00",
+			"#6e0f00",
+			"#6e1100",
+			"#6e1300",
+			"#6e1500",
+			"#6e1700",
+			"#6e1900",
+			"#6e1c00",
+			"#6e1e00",
+			"#6e2000",
+			"#6e2200",
+			"#6e2400",
+			"#6e2600",
+			"#6e2800",
+			"#6e2a00",
+			"#6e2d00",
+			"#6e2f00",
+			"#6e3100",
+			"#6e3300",
+			"#6e3500",
+			"#6e3700",
+			"#6e3900",
+			"#6e3b00",
+			"#6e3e00",
+			"#6e4000",
+			"#6e4200",
+			"#6e4400",
+			"#6e4600",
+			"#6e4800",
+			"#6e4a00",
+			"#6e4c00",
+			"#6e4e00",
+			"#6e5100",
+			"#6e5300",
+			"#6e5500",
+			"#6e5700",
+			"#6e5900",
+			"#6e5b00",
+			"#6e5d00",
+			"#6e5f00",
+			"#6e6200",
+			"#6e6400",
+			"#6e6600",
+			"#6e6800",
+			"#6e6a00",
+			"#6e6c00",
+			"#6e6e00",
+			"#6c6e00",
+			"#696e00",
+			"#676e00",
+			"#656e00",
+			"#636e00",
+			"#616e00",
+			"#5f6e00",
+			"#5d6e00",
+			"#5b6e00",
+			"#586e00",
+			"#566e00",
+			"#546e00",
+			"#526e00",
+			"#506e00",
+			"#4e6e00",
+			"#4c6e00",
+			"#4a6e00",
+			"#486e00",
+			"#456e00",
+			"#436e00",
+			"#416e00",
+			"#3f6e00",
+			"#3d6e00",
+			"#3b6e00",
+			"#396e00",
+			"#376e00",
+			"#346e00",
+			"#326e00",
+			"#306e00",
+			"#2e6e00",
+			"#2c6e00",
+			"#2a6e00",
+			"#286e00",
+			"#266e00",
+			"#236e00",
+			"#216e00",
+			"#1f6e00",
+			"#1d6e00",
+			"#1b6e00",
+			"#196e00",
+			"#176e00",
+			"#156e00",
+			"#126e00",
+			"#106e00",
+			"#0e6e00",
+			"#0c6e00",
+			"#0a6e00"
+		],
+		"core.variables.deadColor": "#241f31",
+		"core.variables.deadOutline": "#000000",
+		"core.variables.outline": [
+			"#300000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2f0000",
+			"#2e0000",
+			"#2e0000",
+			"#2e0000",
+			"#2e0000",
+			"#2e0000",
+			"#2d0000",
+			"#2d0000",
+			"#2d0000",
+			"#2d0000",
+			"#2c0000",
+			"#2c0000",
+			"#2c0000",
+			"#2c0000",
+			"#2b0000",
+			"#2b0000",
+			"#2b0000",
+			"#2b0000",
+			"#2a0000",
+			"#2a0000",
+			"#2a0000",
+			"#290000",
+			"#290000",
+			"#290000",
+			"#280000",
+			"#280000",
+			"#280000",
+			"#280000",
+			"#270000",
+			"#270000",
+			"#270000",
+			"#270000",
+			"#260000",
+			"#260200",
+			"#260500",
+			"#260800",
+			"#260b00",
+			"#260e00",
+			"#251100",
+			"#251300",
+			"#251500",
+			"#251700",
+			"#251800",
+			"#251a00",
+			"#251b00",
+			"#241b00",
+			"#221b00",
+			"#201b00",
+			"#1f1c00",
+			"#1e1c00",
+			"#1c1c00",
+			"#1b1c00",
+			"#191c00",
+			"#181c00",
+			"#151c00",
+			"#131c00",
+			"#111c00",
+			"#0f1c00",
+			"#0d1c00",
+			"#0a1c00",
+			"#071d00",
+			"#041d00",
+			"#011d00",
+			"#001d00",
+			"#001d00",
+			"#001d00",
+			"#001d00",
+			"#001d00",
+			"#001d00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001e00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00",
+			"#001f00"
+		],
+		"display": "default"
+	},
+	"hide-npc-names": {
+		"friendlyNameReplacement": "Unknown",
+		"hideFriendlyNames": true,
+		"hideHostileNames": true,
+		"hideNeutralNames": true,
+		"hideParts": true,
+		"hideSecretNames": true,
+		"hostileNameReplacement": "Unknown",
+		"neutralNameReplacement": "Unknown",
+		"secretNameReplacement": "Unknown",
+		"showOnActorDirectory": true,
+		"showOnTokenHUD": true,
+		"tokenHiddenSuffix": "(Hidden)"
+	},
+	"mini-stats": {
+		"actor-directory-rows": {
+			"actorTypes": {
+				"character": {
+					"enabled": true,
+					"rows": [
+						{
+							"flag": "system.hp.value",
+							"title": "HP"
+						},
+						{
+							"flag": "system.powerUses.value",
+							"title": "PWR"
+						},
+						{
+							"flag": "system.omens.value",
+							"title": "OMN"
+						}
+					],
+					"useCustomRows": true
+				},
+				"container": {
+					"enabled": true,
+					"rows": [
+						{
+							"flag": "system.capacity.value",
+							"title": "Cur"
+						},
+						{
+							"flag": "system.capacity.max",
+							"title": "Max"
+						}
+					],
+					"useCustomRows": true
+				},
+				"creature": {
+					"enabled": true,
+					"rows": [
+						{
+							"flag": "system.hp.value",
+							"title": "HP"
+						}
+					],
+					"useCustomRows": true
+				},
+				"follower": {
+					"enabled": true,
+					"rows": [
+						{
+							"flag": "system.hp.value",
+							"title": "HP"
+						}
+					],
+					"useCustomRows": true
+				},
+				"misery-tracker": {
+					"enabled": true,
+					"rows": [],
+					"useCustomRows": false
+				}
+			},
+			"rows": []
+		}
+	},
+	"morkborg": {
+		"additionalAbilities": "",
+		"colorScheme": "foundryDefault",
+		"deleteZeroQuantity": true,
+		"fontScheme": "blackletter",
+		"hitAutomation": true,
+		"miseryTrackerAnimations": true,
+		"systemMigrationVersion": "",
+		"trackAmmo": true,
+		"trackCarryingCapacity": true
+	},
 	"niks-tiny-changelogs": {
 		"compactMessages": true,
-		"simpleOutput": true,
-		"trackCurrency": true,
-		"trackItemChanges": true,
-		"trackDeletedMessages": true,
 		"protectChangelogMessages": true,
-		"trackEquipUnequip": true,
+		"simpleOutput": true,
 		"trackActiveEffects": true,
+		"trackCurrency": true,
+		"trackDeletedMessages": true,
+		"trackEquipUnequip": true,
+		"trackItemChanges": true,
 		"trackMorkBorgAbilities": false,
 		"trackMorkBorgOmens": true,
 		"trackMorkBorgPowers": true
 	},
-	"mini-stats": {
-		"actor-directory-rows": {
-			"rows": [],
-			"actorTypes": {
-				"character": {
-					"enabled": true,
-					"useCustomRows": true,
-					"rows": [
-						{
-							"title": "HP",
-							"flag": "system.hp.value"
-						},
-						{
-							"title": "PWR",
-							"flag": "system.powerUses.value"
-						},
-						{
-							"title": "OMN",
-							"flag": "system.omens.value"
-						}
-					]
-				},
-				"container": {
-					"enabled": true,
-					"useCustomRows": true,
-					"rows": [
-						{
-							"title": "Cur",
-							"flag": "system.capacity.value"
-						},
-						{
-							"title": "Max",
-							"flag": "system.capacity.max"
-						}
-					]
-				},
-				"creature": {
-					"enabled": true,
-					"useCustomRows": true,
-					"rows": [
-						{
-							"title": "HP",
-							"flag": "system.hp.value"
-						}
-					]
-				},
-				"follower": {
-					"enabled": true,
-					"useCustomRows": true,
-					"rows": [
-						{
-							"title": "HP",
-							"flag": "system.hp.value"
-						}
-					]
-				},
-				"misery-tracker": {
-					"enabled": true,
-					"useCustomRows": false,
-					"rows": []
-				}
-			}
-		}
+	"statuscounter": {
+		"countdownColor": "FFEE90",
+		"counterColor": "4245FF"
+	},
+	"XCard": {
+		"imagePath": "modules/zektorh-morkborg/assets/ui/x-card-small.webp",
+		"imageSize": {
+			"height": 532,
+			"width": 325
+		},
+		"imageToggle": true
 	}
 }
