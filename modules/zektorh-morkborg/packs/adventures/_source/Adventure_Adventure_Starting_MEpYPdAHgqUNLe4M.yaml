@@ -95,7 +95,9 @@ actors:
       capacity:
         max: 100
         value: 0
-      description: <p>Things you've found along the way.</p>
+      description: >-
+        <p>Things you've found along the way and managed to keep safe long
+        enough to stash somewhere safe.</p>
       price: 0
     items: []
     effects: []
@@ -132,7 +134,9 @@ journal:
         text:
           format: 1
           content: >-
-            <h2>Primary Objectives</h2><ul><li><p>…</p></li></ul><h2>Secondary
+            <h2>Campaign Objectives</h2><ul><li><p>Stop the Basilisks from
+            ending the world</p></li><li><p>…</p></li></ul><h2>Primary
+            Objectives</h2><ul><li><p>…</p></li></ul><h2>Secondary
             Objectives</h2><ul><li><p>…</p></li></ul>
         video:
           controls: true
@@ -164,14 +168,7 @@ journal:
         image: {}
         text:
           format: 1
-          content: >-
-            <h2>NPC Template</h2><p>Copy and use this as a
-            template.</p><hr><h2>Sagsobuth</h2><p>Goddess of fortune. Happy to
-            make deals.</p><h2>Goroloth</h2><p>God of deals. Takes fingers in
-            exchange for tasks.</p><h2>Guinevere</h2><p>Goddess of might. Once
-            the undying queen of Galgenbeck.</p><h2>Soultorn</h2><p>God of life.
-            Experiments with souls and bodies.</p><h2>Pobelo</h2><p>God of time.
-            Consumes souls to rewind time.</p>
+          content: ''
         video:
           controls: true
           volume: 0.5
@@ -236,8 +233,8 @@ journal:
         text:
           format: 1
           content: >-
-            <h2>Location Template</h2><p>Copy and use this as a
-            template.</p><hr>
+            <p>These are important or interesting locations that the group took
+            note of.</p>
         video:
           controls: true
           volume: 0.5
@@ -257,6 +254,229 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
+      - sort: 150000
+        name: Location Template
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: <p>Duplicate this from the sidebar and use this as a template.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: OFuOPBVAiSgVLMG3
+      - sort: 200000
+        name: NPC Template
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: <p>Duplicate this from the sidebar and use this as a template.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: mtKKf7xm5JSHpU72
+      - sort: 200000
+        name: Sagsobuth
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Goddess of fortune.</p><p>Happy to make deals and trade
+            items.</p><p>Seems to have an interdimensional shop.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: sN34AmXWC3Feppi2
+      - sort: 200000
+        name: Goroloth
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>God of deals.</p><p>Takes fingers in exchange for
+            tasks.</p><p>Might accept a new payment to undo a previous deal.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 78LONSRXlBsFGvql
+      - sort: 200000
+        name: Guinevere
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Goddess of might.</p><p>Likes a difficult fight.</p><p>Once the
+            undying queen of Galgenbeck.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: yeyhHV67LXybNDqr
+      - sort: 200000
+        name: Soultorn
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: <p>God of life.</p><p>Experiments with souls and bodies.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: gRNSSKTWKmmWMm8C
+      - sort: 200000
+        name: Pobelo
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: <p>God of time.</p><p>Consumes souls to rewind time.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: QckhtlVC1tsYxIIN
     categories: []
     sort: 0
     ownership:
@@ -325,45 +545,17 @@ journal:
           format: 1
           content: >-
             <p>These are incomplete ideas for new rules I have in
-            mind:</p><ul><li><p><s>Rot: every in-world day, roll 1d6. On a 2 or
-            below, the rations spoil/rot/get
-            infested.</s></p><ul><li><p>Resource management
-            suxxxx</p></li></ul></li><li><p>Desperate strike: Reduces DR by 2
-            when attacking, but all defense rolls until the next turn have their
-            DR increased by 2.</p></li><li><p>Last breath: when a character
-            dies, they get one final attack roll on whoever deal the final
-            strike; or, they frail wildly and everyone nearby must pass a DR12
-            AGILITY test or get hit with a d4.</p></li><li><p>Share nightmare:
-            While resting, a player may decide to share a nightmare or
-            disturbing vision with another (or all the party). The player
-            sharing gains 1 SANITY. The ones listening must pass a DR12 test, or
-            lose 1 sanity.</p></li><li><p><s>Meat shield: Players can use a
-            nearby friendly NPC as a meat shield. This transfers all attack
-            damge onto them, ignoring armor. This makes the friendly NPC very
-            annoyed. The friendly NPC may still finish the combat before turning
-            on the offending player.</s></p><ul><li><p>No more incentives. We
-            will do this anyways</p></li></ul></li><li><p>Salvage: When items
-            break, they can still be useful. Combining two broken items during
-            rest can make a new fragile tool. Fragile tools can be used once,
-            then they break forever.</p><ul><li><p>Probably okay, no need to
-            write down.</p></li></ul></li><li><p>Cowardice: When running from a
-            combat, roll 1d6. On a 3 or below, drop one random item. Roll
-            PRESENCE DR12 to notice it.</p><ul><li><p>Doesn't feel
-            good</p></li></ul></li><li><p><s>Memorize: Scrolls become
-            burn-on-use items. You can choose to spend a long rest memorizing it
-            instead. This allows you to cast it multiple times, until you fail
-            to cast it. When you memorize a scroll, you dont get the benefits of
-            the long rest.</s></p><ul><li><p>Keep RAW. Must hold + read the
-            scroll to use it. It doesnt burn
-            out.</p></li></ul></li><li><p><s>Permanent initiative: At the start
-            of the session, roll initiative. Keep this number until a change
-            makes sense (ambush, etc). Ending a combat doesn't change
-            initiative</s></p><ul><li><p>RAW Initiative: reroll every round(?),
-            use group initiative</p></li></ul></li><li><p>Slower "get better":
-            You can only cash-in a get better when you long
-            rest.</p></li><li><p>Potion mixing: Consuming two different
-            potions/elixirs within the same hour may cause a nasty reaction.
-            Roll a table to find out what happens.</p><p></p></li></ul>
+            mind:</p><ul><li><p>Desperate strike: Reduces DR by 2 when
+            attacking, but all defense rolls until the next turn have their DR
+            increased by 2.</p></li><li><p>Share nightmare: While resting, a
+            player may decide to share a nightmare or disturbing vision with
+            another (or all the party). The player sharing gains 1 SANITY. The
+            ones listening must pass a DR12 test, or lose 1
+            sanity.</p></li><li><p>Slower "get better": You can only cash-in a
+            get better when you long rest.</p></li><li><p>Potion mixing:
+            Consuming two different potions/elixirs within the same hour may
+            cause a nasty reaction. Roll a table to find out what
+            happens.</p><p></p></li></ul>
         video:
           controls: true
           volume: 0.5
@@ -395,11 +587,12 @@ journal:
         text:
           format: 1
           content: >-
-            <h2>Hesitation</h2><p>Players have 10 seconds to start describing
-            what they want to do. If they fail to do so, their character will
-            take a defensive stance (+2 DR on DEFEND rolls), and stay
-            put.</p><h2>Crowds</h2><p>When multiple players or monsters gather
-            in melee combat, the crowded field makes combat more
+            <h2>Chaos</h2><p>Every time a combat round is completed, initiative
+            is rolled again. Good luck.</p><h2>Hesitation</h2><p>Players have 10
+            seconds to start describing what they want to do. If they fail to do
+            so, their character will take a defensive stance (+2 DR on DEFEND
+            rolls), and stay put.</p><h2>Crowds</h2><p>When multiple players or
+            monsters gather in melee combat, the crowded field makes combat more
             deadly.</p><p>If two or more combatants engage a target in melee,
             all attacks against that target gain +2 to hit. ATTACK lowers the DR
             by 2, while DEFEND increases it by 2.</p><h2>Surge</h2><p>When a die
@@ -9009,6 +9202,576 @@ journal:
     _id: mBEquYA5LpgcVN5f
     categories: []
     sort: 150000
+  - folder: qRPqWynK1d8wAWWh
+    name: GM Notes
+    _id: gZRszS08EFNaRp1G
+    pages:
+      - sort: 100000
+        name: Lore
+        type: text
+        _id: ZqOpOMK9gFLMSBoA
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: ''
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 200000
+        name: Sessions
+        type: text
+        _id: CslFGO0aDERbS0zD
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: <p></p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 300000
+        name: First Act
+        type: text
+        _id: CTYtXnSrx7kTmBHD
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <h2>1 &amp; 2</h2><p>The group was sent into the Accursed Den to
+            recover the 7th prince for the Shadow King.</p><p>After a close call
+            with a guard, they found a black sarcophagus, which sent them to
+            where the witch Lesdy was. This meeting was not graceful, and it
+            ended with one of Lesdy's children, a Host, carrying the witches'
+            corpse away thru the forests in the north.</p><p>Making their way
+            back to the den, the group met with Sagsobuth shortly, before facing
+            the Gutworm in the black pit.</p><p>Thankfully, they found the
+            prince and led them to safety, outside. Once they delivered the
+            royal to the guards, they were rewarded for their work, and let
+            go.</p><p>This is when they decide to head south, to Galgenbeck,
+            looking for clues to where Niduk's mother might be, where Vresi's
+            goddess is, or some cheap food for Bral.</p><h2>3 &amp; 4</h2><p>The
+            group runs into a tavern at the edge of Sarkash. There they befriend
+            Mol, and help them rescue Harmung from the clutches of some
+            cultists.</p><p>They use a ritual teleporter and are send
+            underground, where a guardian toad chases the group and the
+            remaining cultists.</p><p>After choking some poor cultist, and
+            finally figuring out how the teleporter works, they leave the
+            underground and break the teleportation circle.</p><p>Harmung offers
+            a stable job in Kergus, under their old group "Duchess Irwin's
+            Traveling Gladiators". The group is not very keen in approaching the
+            realm of Anthelia.</p><p>Before leaving, they take some rest and
+            prepare for the journey. Just as they go to crucify a cultist, a
+            Psalm manifests, and the dead rise.</p><p>Fleeing the waking army of
+            undeath, they take Mol and Harmung in an improvised carriage towards
+            the city proper. Galgenbeck awaits.</p><h2>5</h2><p>The group enters
+            Galgenbeck, the three ringed city of marble, and the two companions
+            head to the Heavy Tiger, while the party chases after a familiar
+            smell in the sewers: Maust's lair.</p><p>There, Maust tells them of
+            a curse, an asylum where a doctor manufactures it, and a plan to
+            find Niduk's shadowy assasin, Goroloth.</p><h2>6</h2><p>The group
+            heads to the Heavy Tiger to regroup, but proceeds to cause chaos.
+            They threaten the receptionist, insult the staff, and when things
+            couldn't get worse, Vresi curses themselves into becoming a
+            skeleton.</p><p>The ensuing fight is difficult, but a friend of
+            their allies puts a stop to it. Bartrem, tries to recruit the group
+            to help protect the city, in order to gain favor with the townsfolk
+            and avoid a grim persecution for the heretical skeleton they harbor.
+            This is not well received, and the group proceeds to assassinate
+            Bertram before making a run for the inner circles of the
+            city.</p><h2>7 &amp; 8</h2><p>The group leaves the Heavy Tiger in a
+            hurry, without bothering explaining anything for Mol and Harmung.
+            They are intercepted by inquisitors but make quick work of them. In
+            a hurry, they pick up the essentials from their carriage and head
+            out.</p><p>With the chaos of the undead army on the outside, the
+            group is able to fool the guard and make it into the inner city,
+            where Vresi proceeds to cause another magical disaster and summons
+            translucent hellish crustaceans.</p><p>The group then enters the
+            asylum Maust told them about, and are promptly fooled by an escaping
+            Soultorn.</p><p>Meanwhile, zombies decimate the outskirts. A small
+            number made it into the first ring, proliferating inside the city.
+            The second ring held, but the higher echelon of the inquisition is
+            staying put.</p><p>The group ventures deeper into the records room,
+            so they can lock themselves and sleep. After some rest, they head to
+            the trapped corridor, where Kvetin loses their leg for the first
+            time. Vresi sacrifices his chances at recovering his flesh to put
+            out an enchanting flame, igniting the room.</p><p>The group then
+            heads to the research hall, where Kvetin's leg is attached, then
+            promptly removed again. After a difficult fight, they rest some more
+            before continuing into the containment room, but not before Bral
+            releases the Black Salt into the world, losing a piece of shoulder
+            in the process.</p><p>The next day, they head in and crack the
+            puzzle. They realize what was being researched and that they let
+            Soultorn escape. In the meantime, Galgenbeck has completely fallen
+            to the zombie horde. Only the center of power, the Temple of the
+            Basilisks stands. The zombie army, now enlarged by the city's
+            population, marches southwards, to Schleiswig.</p><p>In the temple,
+            the monarch awaits. Maust is nowhere to be seen. The scholarium is
+            in ruins, and the mines have been broken into.</p><h2>9 &amp;
+            10</h2><p>The group goes into the temple and can convince the others
+            they are Bertram. They get some rest and head to the barracks to
+            requisition some equipment. They bargain for food and gear, in
+            exchange to clean the store room.</p><p>They try to enter it thru a
+            trapdoor, but fall in and get hurt. They manage to win the fight,
+            and instead of sharing the food stores with the rest, they just rest
+            for the night.</p><p>Outside, the world falls into deeper despair.
+            Schleiswig loses it's king, and Anthelia dies crushed under a
+            falling rock. Those loyal to kings and queens everywhere turn to
+            wolves. Only the disloyal and indifferent stand.</p><p>Back at the
+            Gaol, the group proceeds to slay the wolves, and ransack the
+            quarters. They find a drop into the Pale Quarry, but it is too deep
+            to make it, so they turn upwards, back to the court rooms of
+            Galgenbeck.</p><p>In the way, they get some clues from some
+            mercenaries, then proceed to fight in the courtroom with some
+            remaining nobles. Seeing as the violence doesn't pay off, they
+            relent and climb back down. Time to check the clergy
+            room.</p><p>Inside the church, they spot Niduk's mom. Niduk grabs
+            her, runs into the nearby relic room, and explodes in glory. His
+            shield protects him form death, but Vresi's recuperative Water of
+            Life brings him back, at the cost of his sight.</p><p>Bral loots the
+            remains of the treasure room and finds the original scriptures,
+            while Kvetin finds a list of names (theirs). Niduk's name is crossed
+            out.</p><p>As things settle down, Goroloth appears from the shadows
+            and says that wait is over. Time to move.</p><h2>11</h2><p>The group
+            follows Goroloth into the copper throne, where the five gods wait
+            them impatiently.</p><p>The gods, surprised at their lack of memory,
+            try to explain their position, but not before Niduk tries, and loses
+            a duel to Goroloth, that claims their life.</p><p>Vresi, trying to
+            turn things around, desperately uses the potions from Soultorn to
+            regain their humanity, but is just serves to entice Soultorn into
+            gaining interest, a dangerous proposition.</p><p>Pobelo takes Niduks
+            and Vresi's souls, enough to complete their spell. But Guinevere is
+            far too bored, so they attack and crush Bral.</p><p>Kvetin, the last
+            one standing, tries to offer gold or a bargain, and Sagsobuth
+            appreciates it, but denies it. Maybe on the next life.</p><p>As the
+            curtains close on this existence, Sagsobuth shares the curse placed
+            on the basilisks and promises that their souls will receive a boon
+            on their next attempt. A small reward, but better than nothing.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+    categories: []
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+  - folder: qRPqWynK1d8wAWWh
+    name: Campaign Lore
+    _id: iwLY5RzDv9klIMDQ
+    pages:
+      - sort: 100000
+        name: Original Gods
+        type: text
+        _id: C9tbx18tPk5rdMME
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>The world as it exists today is the result of the influences and
+            whims of five original gods.</p><p></p><p>They have been lost to
+            history, by their own design, but are still very much present,
+            lurking in the shadows and meddling with the world. They leave the
+            adoration reach their children, minor gods of their own making, and
+            meddle with the world unseen.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 200000
+        name: The New Gods
+        type: text
+        _id: HYUZqL878jgC8RRd
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>As life was brought forth by the Five (but mostly Soultorn), some
+            creatures showed more promise than others.</p><p>Those ambitious
+            enough, sought out and accomplished feats that made the Original
+            Five recognize them as a cut above the rest. Those were then given
+            powers, gifts, boons, and sometimes banes from the jealous Five.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 300000
+        name: The Basilisks
+        type: text
+        _id: ARrXKCJ6vkcZ7JMO
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>What started as an experiment from Soultorn to combine bits of
+            the Five into an ultimate life form, ended as a
+            disaster.</p><p>Intuition from Sagsobuth created a cunning predator.
+            The might of Guinevere emboldened it to grow enormous. Goroloth's
+            all consuming shadow made it insatiable. Soultorn's trickery
+            developed into a deadly venom. And to drain all hope, Pobelo's
+            blessing made it live longer than any would have liked.</p><p>The
+            toil of this creation was such, that after creating the first
+            basilisk, the Original Five retreated from this world, leaving
+            creation to fend for itself for ages. The basilisks appreciated
+            it.</p><h2>Disastrous Fallout</h2><p>What caused the Basilisks to
+            lash out against the Original Five is a mystery for which the
+            solution is not willingly shared.</p><p>However, the basilisks were
+            too powerful, unstable, and far too dangerous, and when they
+            rebelled, reality itself was in danger.</p><p>Using the souls of
+            their offspring, they wove miseries into the fabric of time to
+            weaken their creators and start the slow march of the end of the
+            world.</p><p>Miseries hallucinated by their diseased minds, designed
+            to make all of creation pay for the next step in the plan. Slowly
+            they would end it all: No gods, no life, no space, nor time. Only
+            nothingness.</p><h3>Desperate Response</h3><p>As their powers
+            drained and the world sickened, the Five gathered to address the
+            issue.</p><p>With their remaining energy, undoing the curse was not
+            possible, so they decided to turn back time, bit by bit, repairing
+            reality and gaining more power until a time where the basilisks can
+            be vanquished comes.</p><p>As they prepared for this endeavor,
+            disasters accelerated. It was necessary for Pobelo to have enough.
+            However, the other 4 didn't remain idle, they added a curse of their
+            own making into the fabric of reality, slowing the basilisk's
+            plans:</p><blockquote><p>They will always come in pairs to bring
+            about their own ruin. The first, able to save them, will be lost in
+            blood.</p></blockquote><section id="secret-XsF9sGGatveX7BFS"
+            class="secret"><p>This curse basically means: Every basilisk can
+            only have two offspring, and once they do, they die.</p><p>This is
+            meant to make the basilisks reproduce slowly, and leave their young
+            to fend for themselves.</p><p>The basilisks are still very sturdy,
+            but when they are young it <em>is</em> possible to hunt and end
+            them.</p></section>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 150000
+        name: Sagsobuth - The tear of fortune
+        type: text
+        _id: LW92kAGHKIV1gkay
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>They are a shapeless and ethereal tear in reality. A feminine
+            face appears behind it, clouded by a vortex of light.</p><p>They
+            appear in impossible situations, often when most needed, and meddle
+            with fate for her own entertainment. She rewards those that have
+            shown themselves useful, with a boom, usually in the form of a well
+            placed item or piece of information.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 150000
+        name: Guinevere - The hammer of Might
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>She is a tall and slim tanned woman with long white curls down to
+            their waist. Her pale teeth shine in contrast with her skin, and her
+            eyes are a burning orange, glowing softly in the dark.</p><p>She
+            always welcomes a fight, and will honor duels. Her patience,
+            however, is less present. When out of patience, she uses her full
+            strength to crush their opponents swiftly.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: eRLfHhZFcSsv4QDh
+      - sort: 150000
+        name: Goroloth - The Consuming-Shadow
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>A shapeless collection of flesh, muscle, and coin, acquired
+            through the numerous deals done over the ages. It's form shifts and
+            wanes constantly, making it's silhouette an uncomfortable sight to
+            behold.</p><p>They can be hired by sacrificing something of true
+            value, which is then absorbed. Once the price is paid, deals are
+            always honored, eventually… unless someone pays a bigger price to
+            prevent that.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: MBzbbPHrxaVSYfaU
+      - sort: 150000
+        name: Soultorn - Alchemist of Life
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>It's believed their original form is that of a small entity,
+            however, they usually are found taking the appearance of one of it's
+            creations.</p><p>They are always looking to research, tweak, change,
+            and mess with their creations. Imperfections are not only tolerated,
+            but welcome. They take pride in their ability to twist flesh and
+            cause mutations, and even more pride when those mutations become
+            useful somehow.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 05duQ6ZClN0ILrZu
+      - sort: 150000
+        name: Pobelo - Decrepit Timekeeper
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>They are a fail old man, walking around places where life is
+            usually running out. Their thin limbs makes them look like they
+            would break at the slightest touch, but they are unfathomably
+            powerful in their own way.</p><p>They are in charge of moving time,
+            eroding existence at the corners to prolong it where it needs most.
+            They are able to control the flow of time at will, revert and speed
+            it up, and they use souls to replenish their energies.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: BCwzaCHKB6yUgNdc
+    categories: []
+    sort: 0
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
 scenes:
   - folder: Gx9STrzRFtiFnBFf
     name: Party Dashboard
@@ -9022,9 +9785,9 @@ scenes:
     shiftX: 0
     shiftY: 0
     initial:
-      x: 980
+      x: 860
       'y': 850
-      scale: 0.7
+      scale: 1
     initialLevel: defaultLevel0000
     grid:
       type: 0
@@ -11209,7 +11972,137 @@ scenes:
     navName: Graveyard
     active: false
 tables: []
-macros: []
+macros:
+  - name: Display Core Rules
+    type: script
+    img: modules/game-icons-net/whitetransparent/injustice.svg
+    command: >-
+      await
+      foundry.applications.ui.Hotbar.toggleDocumentSheet("JournalEntry.jsscYpN1RHbv5ENc");
+    _id: 4Kxa3UqQPgmkGgdb
+    scope: global
+    folder: null
+    sort: 100000
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - name: Display Feretory
+    type: script
+    img: modules/game-icons-net/whitetransparent/mountain-road.svg
+    command: >-
+      await
+      foundry.applications.ui.Hotbar.toggleDocumentSheet("JournalEntry.mBEquYA5LpgcVN5f");
+    _id: r9BpHeaYFQ1RXoCw
+    scope: global
+    folder: null
+    sort: 200000
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - name: Display House Rules
+    type: script
+    img: modules/game-icons-net/whitetransparent/barbed-sun.svg
+    command: >-
+      await
+      foundry.applications.ui.Hotbar.toggleDocumentSheet("JournalEntry.CXU5T3GCmsbXrXco");
+    _id: fepWlh1AvepNMEey
+    scope: global
+    folder: null
+    sort: 150000
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - name: Display Party Notes
+    type: script
+    img: modules/game-icons-net/whitetransparent/temptation.svg
+    command: >-
+      await
+      foundry.applications.ui.Hotbar.toggleDocumentSheet("JournalEntry.n0jC4NXXNZajrWyb");
+    _id: QfDg7nZdltN8MtnI
+    scope: global
+    folder: null
+    sort: 175000
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    author: fxKESTgEBpcOTrSl
+  - name: Show my sheet
+    type: script
+    _id: bSTosWAdyqAKt4ZX
+    img: modules/game-icons-net/whitetransparent/cement-shoes.svg
+    scope: global
+    command: |-
+      const myCharacter = game.user.character;
+
+      if (myCharacter) {
+          // Toggle the sheet: close if open, open if closed
+          if (myCharacter.sheet.rendered) {
+              myCharacter.sheet.close();
+          } else {
+              myCharacter.sheet.render(true);
+          }
+      } else {
+          ui.notifications.warn("You do not have a character assigned to your user!");
+      }
+    folder: null
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Compendium.zektorh-global.macros.Macro.bSTosWAdyqAKt4ZX
+      duplicateSource: null
+      exportSource: null
+    sort: 187500
+    author: fxKESTgEBpcOTrSl
 cards: []
 playlists: []
 folders:
@@ -11316,7 +12209,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671807096
-  modifiedTime: 1792698972635
+  modifiedTime: 1792771411841
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
