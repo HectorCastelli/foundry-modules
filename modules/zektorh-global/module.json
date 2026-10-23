@@ -294,6 +294,11 @@
 				"id": "mini-stats",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "precise-drawing-tools",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
