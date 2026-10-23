@@ -25,7 +25,7 @@
 		"link": "node ./scripts/link.js",
 		"unpack": "node ./scripts/unpack.js",
 		"build": "node ./scripts/build.js",
-		"version": "node ./scripts/version.js && git add **/module.json && git commit -m \"chore: bump version\"",
+		"version": "node ./scripts/version.js && npm run lint && git add **/module.json && git commit -m \"chore: bump version\"",
 		"publish": "node ./scripts/publish.js"
 	},
 	"devDependencies": {
