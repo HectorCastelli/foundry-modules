@@ -1,0 +1,140 @@
+name: Names
+_id: Twct5lvu3abSfyHt
+img: modules/game-icons-net/whitetransparent/checklist.svg
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    name: Character Names
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg.mork-borg-tables.RollTable.tBHfdSGFvfmrLreR
+    _id: 3Zheil99b2agYNin
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793100855138
+      modifiedTime: 1793100855138
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!Twct5lvu3abSfyHt.3Zheil99b2agYNin'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    name: Name your god... (1)
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg.mork-borg-tables.RollTable.4imNv3hq6Z0OTVJp
+    _id: JUPGiNQhcTQ5PLQ0
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793100868138
+      modifiedTime: 1793100868138
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!Twct5lvu3abSfyHt.JUPGiNQhcTQ5PLQ0'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    name: Name list
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg-core.core-tables.RollTable.lJxEZrbxtgdEJfbZ
+    _id: rCzdvoKT8Qv51nwh
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793100974446
+      modifiedTime: 1793100974446
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!Twct5lvu3abSfyHt.rCzdvoKT8Qv51nwh'
+  - type: document
+    weight: 1
+    range:
+      - 4
+      - 4
+    name: NPC Name 1
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg-core.core-tables.RollTable.N6fN3YJ9EKj66KEc
+    _id: zyxzHkh5StbBXWid
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793100989169
+      modifiedTime: 1793100989169
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!Twct5lvu3abSfyHt.zyxzHkh5StbBXWid'
+  - type: document
+    weight: 1
+    range:
+      - 5
+      - 5
+    name: NPC Name 2
+    img: icons/svg/d20-grey.svg
+    documentUuid: Compendium.morkborg-core.core-tables.RollTable.ZIkz1LhQzH0mDjvQ
+    _id: 6cwA5bCJUgtlF6WC
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793100990726
+      modifiedTime: 1793100990726
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!Twct5lvu3abSfyHt.6cwA5bCJUgtlF6WC'
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793100832111
+  modifiedTime: 1793101189464
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d5
+_key: '!tables!Twct5lvu3abSfyHt'
