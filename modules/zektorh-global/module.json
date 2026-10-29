@@ -197,6 +197,11 @@
 				"id": "roll-table-importer",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "remote-highlight-ui",
+				"type": "module",
+				"compatibility": {}
 			}
 		],
 		"recommends": [
