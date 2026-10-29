@@ -304,6 +304,11 @@
 				"id": "precise-drawing-tools",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "sephrals-campaign-album",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
