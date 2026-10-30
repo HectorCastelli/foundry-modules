@@ -1,0 +1,433 @@
+name: Paperflesh Conditions
+formula: 1d18
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      Your saliva, mucus, and tears sweeten. A congregation of bees swarms
+      presumptuously around your face, seeking satisfaction.
+    _id: y3OJe2aGgtSRwiUU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.y3OJe2aGgtSRwiUU'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Sounds grow dull and distorted, as if smothered under heavy water.
+    _id: gzh9n2QtjDJOGsmF
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.gzh9n2QtjDJOGsmF'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: The skin of your left hand begins to droop like an ill-fitting glove.
+    _id: LsLq6JjXMByORsoe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.LsLq6JjXMByORsoe'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: You feel a barbed and cankerous thing maturing under your navel.
+    _id: YMoRVUymuCTGMIfh
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.YMoRVUymuCTGMIfh'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: Your blood thickens and sharpens and stings in your veins.
+    _id: qAdnt0woWR6Bieoj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.qAdnt0woWR6Bieoj'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: The cartilage of your nose melts and drips away. The skin follows.
+    _id: F6gXONaWQexJJaZ6
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.F6gXONaWQexJJaZ6'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: Your mouth waters, stomach tightens, when you see anything gold.
+    _id: vUW4bNKahkPKCyco
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.vUW4bNKahkPKCyco'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: You hear beautiful singing at all times, but can't place the words.
+    _id: KEBoTF2fXcKRWVY1
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.KEBoTF2fXcKRWVY1'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      You can't help but scan the horizon in anticipation. Your vision doubles
+      up anything closer than your own outstretched hand.
+    _id: fSeteRaoAifql4YU
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.fSeteRaoAifql4YU'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      Your skin breaks out in burning hives the colour of the flowers you
+      touched.
+    _id: VOdhPVqYH4BbOgHS
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.VOdhPVqYH4BbOgHS'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: You can feel words being written on your skin with sharp quills.
+    _id: i8ijmyeQdK6t9Teg
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.i8ijmyeQdK6t9Teg'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Your balance warps. You scuttle over the earth. It feels safer there.
+    _id: 76bvmmSDqq2xVC1A
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.76bvmmSDqq2xVC1A'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: You hear implicit, alluring promises in everything said to you.
+    _id: OxuZRq7u6r3wqZNH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.OxuZRq7u6r3wqZNH'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      You instinctively take others at their word now. It takes a strong effort
+      to dislodge your certainty and reconsider.
+    _id: R5yw09H39ag9Hiap
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.R5yw09H39ag9Hiap'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      You have a deep conviction that a talent that you abandoned long ago has
+      nevertheless matured within you.
+    _id: sjI1AqTurqOcLRyf
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.sjI1AqTurqOcLRyf'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: >-
+      You refuse to make or keep promises here. A promise is a trap, and you
+      feel you must be ready to do anything.
+    _id: p9kmCTdfF5jQvQWI
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.p9kmCTdfF5jQvQWI'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: Things feel unreal unless you write them down.
+    _id: Xi65OmMJSWIzeMXJ
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.Xi65OmMJSWIzeMXJ'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: You feel that you are becoming what you were always meant to be.
+    _id: 7alKQeTlXY9ktrEy
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352266166
+      modifiedTime: 1793352266166
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!dY7ypoDV4yp1wVBj.7alKQeTlXY9ktrEy'
+folder: null
+_id: dY7ypoDV4yp1wVBj
+img: modules/game-icons-net/whitetransparent/fleshy-mass.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352266166
+  modifiedTime: 1793352448887
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 400000
+_key: '!tables!dY7ypoDV4yp1wVBj'
