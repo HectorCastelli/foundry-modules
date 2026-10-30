@@ -10,13 +10,13 @@ actors:
     prototypeToken:
       actorLink: true
       disposition: 1
-      name: Party Stash
+      name: Party
       displayName: 30
       width: 1
       height: 1
       depth: 1
       texture:
-        src: modules/game-icons-net/blacktransparent/open-treasure-chest.svg
+        src: modules/game-icons-net/whitetransparent/black-flag.svg
         anchorX: 0.5
         anchorY: 0.5
         fit: contain
@@ -37,30 +37,30 @@ actors:
         priority: 0
         alpha: 0.5
         angle: 360
-        bright: 0
-        color: null
-        coloration: 1
-        dim: 0
-        attenuation: 0.5
+        bright: 15
+        color: '#ffffff'
+        coloration: 100
+        dim: 40
+        attenuation: 0.8
         luminosity: 0.5
         saturation: 0
         contrast: 0
         shadows: 0
         animation:
-          type: null
-          speed: 5
-          intensity: 5
+          type: pulse
+          speed: 3
+          intensity: 3
           reverse: false
         darkness:
           min: 0
           max: 1
       sight:
-        enabled: false
-        range: 0
+        enabled: true
+        range: 30
         angle: 360
         visionMode: basic
         color: null
-        attenuation: 0.1
+        attenuation: 0.6
         brightness: 0
         saturation: 0
         contrast: 0
@@ -104,7 +104,23 @@ actors:
     sort: 0
     ownership:
       default: 3
-    flags: {}
+    flags:
+      sephrals-player-notes:
+        notes:
+          - id: sgHtdVtsv1ANR3DG
+            actorUuid: Actor.p6VwHlqZHQDAqKN7
+            title: Show campaign photos
+            body: >-
+              Tell the players how they can take snapshots and how the album
+              works
+            tags: []
+            status: next-session
+            priority: urgent
+            visibility: gm-only
+            createdAt: '2026-10-29T11:20:08.694Z'
+            updatedAt: '2026-10-29T11:20:31.805Z'
+            createdBy: fxKESTgEBpcOTrSl
+            updatedBy: fxKESTgEBpcOTrSl
     _stats:
       coreVersion: '14.369'
       systemId: morkborg
@@ -136,7 +152,8 @@ journal:
           content: >-
             <h2>Campaign Objectives</h2><ul><li><p>Stop the Basilisks from
             ending the world</p></li><li><p>…</p></li></ul><h2>Primary
-            Objectives</h2><ul><li><p>…</p></li></ul><h2>Secondary
+            Objectives</h2><ul><li><p>Meet with the mayor and take on the
+            job</p></li><li><p>…</p></li></ul><h2>Secondary
             Objectives</h2><ul><li><p>…</p></li></ul>
         video:
           controls: true
@@ -233,8 +250,9 @@ journal:
         text:
           format: 1
           content: >-
-            <p>These are important or interesting locations that the group took
-            note of.</p>
+            <p>The @UUID[Scene.Z665hjskdavZE58L]{World Map} is available
+            here.</p><p>These are important or interesting locations that the
+            group took note of.</p><p></p><p></p>
         video:
           controls: true
           volume: 0.5
@@ -687,7 +705,7 @@ journal:
             half.</p><h2>Descent into Madness</h2><p>Whenever your SANITY falls
             below 0, you add a new feat representing a
             @UUID[Compendium.zektorh-morkborg.items.Item.KjVBlWfchNkwcbH2]{Fear}
-            associated with the situation.</p><p>If your SANITY falls below 4,
+            associated with the situation.</p><p>If your SANITY falls below -4,
             you also gain a new
             @UUID[Compendium.zektorh-morkborg.tables.xAdS3jgI5K2mAYgu]{Bad
             Habit}.</p><h2>Recovery</h2><p>SANITY is only recovered when
@@ -9408,6 +9426,100 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
+      - sort: 150000
+        name: The World
+        type: text
+        _id: hcihqIrLUK0l7e8q
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>The known world is split in three sections, delineated by two
+            sharp and unwieldy chains of mountains. The Merkari Plains, to the
+            west; The Accursed Scar, in the center; and Tveland, to the
+            east.</p><p></p><h2>The Merkari Plains</h2><p>This region is mostly
+            flat terrain, plagued by strong winds and painted with Merkari
+            trees.</p><p>The winds and the sun baked the soil and cover it with
+            salt from the south. The harsh soil makes agriculture a difficult
+            and often unrewarding endeavor. Despite this, giant Merkari trees
+            grow, drinking from the impossibly deep underground canals or from
+            the sea to sustain themselves. Their large twisting branches serve
+            as a steady source of wood.</p><p>The mostly sandy terrain offers
+            little to no access to metals, so the people of the Merkari have
+            become expert stonemasons and gemsmiths, using stones and crystals
+            to make their basic utensils.</p><h2>The Accursed Scar</h2><p>Cut in
+            middle by a large rift in the earth, this region houses a variety of
+            smaller settlements, all with a history of conflict with each other,
+            and total disrespect for treaties.</p><p>Their access to the deep
+            layers of the earth allows them to craft the most complex atrocities
+            with metals, which are often combined with magic or
+            witchcraft.</p><p>The rift, beyond just revealing ore veins, also
+            shows a glimpse of life that roamed the land eras ago. Not everyone
+            is contempt letting the dead lie.</p><p>Villages are not uncommon,
+            but ruins of conquered tribes, dead peoples and pillaged villages
+            mark the terrain.</p><h2>Tveland</h2><p>Isolated from the rest of
+            the land by a sharp mountain chain, this is a land of relative
+            prosperity.</p><p>Crops still grow, and there are no shortages that
+            one could not resolve.</p><p>Trading between the regions used to be
+            handled by boat, but since the ressurgence of dangerous sea
+            monsters, only the most unwise between man try</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 400000
+        name: New Beginnings
+        type: text
+        _id: h7YuQAFialJC9ahH
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <h2>1</h2><p>The group starts anew. They will determine how they
+            come together, but they must align to get hired by the town mayor in
+            a quest to find their missing son.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
     categories: []
     sort: 0
     ownership:
@@ -9440,11 +9552,15 @@ journal:
           format: 1
           content: >-
             <p>The world as it exists today is the result of the influences and
-            whims of five original gods.</p><p></p><p>They have been lost to
-            history, by their own design, but are still very much present,
-            lurking in the shadows and meddling with the world. They leave the
-            adoration reach their children, minor gods of their own making, and
-            meddle with the world unseen.</p>
+            whims of five original gods.</p><p></p><figure><img
+            src="modules/zektorh-morkborg/assets/tokens/original-five.webp"
+            alt="A depiction of the original five gods together."><figcaption>A
+            depiction of the Original Five
+            gods</figcaption></figure><p></p><p>They have been lost to history,
+            by their own design, but are still very much present, lurking in the
+            shadows and meddling with the world. They leave the adoration reach
+            their children, minor gods of their own making, and meddle with the
+            world unseen.</p>
         video:
           controls: true
           volume: 0.5
@@ -9464,7 +9580,7 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-      - sort: 200000
+      - sort: 700000
         name: The New Gods
         type: text
         _id: HYUZqL878jgC8RRd
@@ -9500,7 +9616,7 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-      - sort: 300000
+      - sort: 800000
         name: The Basilisks
         type: text
         _id: ARrXKCJ6vkcZ7JMO
@@ -9569,7 +9685,7 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-      - sort: 150000
+      - sort: 200000
         name: Sagsobuth - The tear of fortune
         type: text
         _id: LW92kAGHKIV1gkay
@@ -9606,7 +9722,7 @@ journal:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-      - sort: 150000
+      - sort: 300000
         name: Guinevere - The hammer of Might
         type: text
         system: {}
@@ -9643,7 +9759,7 @@ journal:
           duplicateSource: null
           exportSource: null
         _id: eRLfHhZFcSsv4QDh
-      - sort: 150000
+      - sort: 400000
         name: Goroloth - The Consuming-Shadow
         type: text
         system: {}
@@ -9681,7 +9797,7 @@ journal:
           duplicateSource: null
           exportSource: null
         _id: MBzbbPHrxaVSYfaU
-      - sort: 150000
+      - sort: 500000
         name: Soultorn - Alchemist of Life
         type: text
         system: {}
@@ -9719,7 +9835,7 @@ journal:
           duplicateSource: null
           exportSource: null
         _id: 05duQ6ZClN0ILrZu
-      - sort: 150000
+      - sort: 600000
         name: Pobelo - Decrepit Timekeeper
         type: text
         system: {}
@@ -9757,6 +9873,732 @@ journal:
           duplicateSource: null
           exportSource: null
         _id: BCwzaCHKB6yUgNdc
+      - sort: 900000
+        name: The World
+        type: text
+        _id: mxPt6nWt0ci0gqbN
+        system: {}
+        title:
+          show: true
+          level: 1
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>The known world is split by two sharp and unwieldy chains of
+            mountains, the areas between them house a diversity of peoples, all
+            with their own problems.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 1000000
+        name: The Merkari Garden
+        type: text
+        _id: DT3H3dK8hy3FmGli
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>In the northwestern edge, where ruins and discard of
+            civilizations long dead wash up on the shores, you find the walled
+            mangrove garden of Merkari.</p><p>This group of sea scavengers live
+            among the giant Merkari trees, mangroves with deep and strong roots.
+            They are experts at dealing with spoils from the sea, but centuries
+            of exposure to the harsh waters and toxic trash have transformed
+            them into something not quite human.</p><p>Protective of their
+            territory and unwilling to compromise, their territory is surrounded
+            by watchtowers and closed by large wooden gates of knitted tree
+            roots.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 1100000
+        name: Iuslera Plains
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>In the west, a mostly flat plains occupies a large portion.
+            Covered in caves and underground tunnels, this region houses two
+            very distinct people: those that live above ground, the Tower Horde;
+            those that live underground, the Creed of Byphen.</p><p>The Tower
+            Horde is a decrepit empire that stretches out from their capital
+            city, Iuslera, meaning "Fort" in their olden tongue. The enormous
+            granite tower of Isulera is as much a symbol of power as a means of
+            survival. To protect from the cruel winds and the occasional
+            salt-storms, the Horde learned to live inside the granite walls, and
+            they have perpetuous work of restoring and expanding the walls that
+            protect and constrain them.</p><p>The Creed, however, believes that
+            the sands will eventually win, and chose to migrate to the caves and
+            tunnels. They live a nomadic lifestyle and travel underground
+            frequently. They are led by a council of priests that read the flows
+            of waters and know how to navigate the natural labyrinth under the
+            plains.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 5jhqYPg2SXnCRaOq
+      - sort: 1200000
+        name: The White Sands
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>In the southwestern corner, the barren White Sands stretch out.
+            Covered in a thin film of salt and baked dry by the harsh sun, lives
+            a group of believers. Led by their God-King, Ras, this group of
+            people deals with the dead.</p><p>Their envoys are often found
+            traveling the distant roads, acquiring fresh corpses to bring back
+            home. It is not uncommon to be visited by one of them shortly after
+            a family member passes.</p><p>Once a corpse arrives, it is taken to
+            an island nearby, to the Rabeso Catacombs, a large tomb-city where
+            the bodies are prepared for their eternal purpose.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: EzGFS5bzRFjje190
+      - sort: 1300000
+        name: The Lost Hope Bay
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Bordering the White Sands, a small community resists the
+            harshness of the winds and the fury of the seas. Still hoping, they
+            try to live off the barren lands. Some take to the seas, as traders,
+            or trying to recover sunken treasure.</p><p>Since the Madness, a
+            tragic episode in their collective history, all forms of magic and
+            powers are hated by them, and users are disposed off on sight.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 4q1Q635YNOdBNJns
+      - sort: 1400000
+        name: The Accursed Scar
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>At the center of the lands, a large chains of mountains rises,
+            then breaks in two, separated by a deep rift.</p><p>The product of a
+            large earthquake, or maybe something else, these mountains were torn
+            apart, and on the exposed depths a myriad of bones and structures,
+            charged with something odd, can be found. Some fools travel the
+            exposed depths in search of long-forgotten truths, but very few make
+            it back.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: yfpxkbJOHTTKTAeu
+      - sort: 1500000
+        name: The Ceilings
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>On the western side of the Accursed Scar, a group of rock carving
+            creatures creates majestic, but deadly, structures.</p><p>Living off
+            the walls, they use gliders, stairs, and pulleys to climb and glide
+            around these carved rock ceilings while they hunt those
+            below.</p><p>The ceilings are one of the few areas where the scar
+            can be traversed, and it's inhabitants are happy to take their toll
+            of whoever tries to pass.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 1wUXRSlR8IPhbEUt
+      - sort: 1600000
+        name: The Dragon Roost
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>At the north of the Accursed Scar, a brood of dragons plague the
+            skies and terrorize the region. Pillaging nearby communities,
+            kidnapping residents and destroying entires villages, these flying
+            terrors come back to their nests in the depths of the Scar to
+            rest.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: gapPE7BvLUq5oHDo
+      - sort: 1700000
+        name: The Burning Bridge
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>To the northeast of the Roost, there is a peninsula inhabited by
+            an ancient sleeping evil.</p><p>To prevent the evil from spreading,
+            or it's minions from reaching the rest of the world, a faction of
+            zealots stands watch in the large fortifications of the Bridge.
+            Allied with the dragons, in exchange for protection and cooperation,
+            they believe themselves to be the last bastion against complete
+            evil.</p><p>Most of the ravaged nearby lands disagree, and call them
+            cowards instead. Perhaps a fitting title, considering how quickly
+            they turn and run when things go wrong.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 7ItvLeN02QJkLEiV
+      - sort: 1800000
+        name: The Weeping Mire
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>At the south corner, bordering the Bergen Chrypt, a large swamp
+            stretches to the horizon. Home to a highly organized and
+            hierarchical coven of witches, specialists at curses and
+            damnation.</p><p>Most of the population are servants, or slaves, of
+            the witches, and society operates begrudgingly out of fear. Most
+            agree that it is better to be at the mercy of the witches than it is
+            to be left alone in the cursed swamps.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: b0IMmLIqiotKSbSe
+      - sort: 1900000
+        name: The Bleeding Timber
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Perhaps the product of a failed hex, to the north of the Weeping
+            Mire, a large forest of red stretches out westwards, still growing
+            and gaining ground.</p><p>Formed of wet, sticky, red lumber, these
+            trees look as if they are bleeding. Disturbingly so, these plants
+            are more than happy to hunt the wildlife and local populations.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: NzlnZy4WYSwjWnaB
+      - sort: 1750000
+        name: The Pox-Hold of Magial
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>This decaying empire on the center of the land has been fighting
+            an unending plague for generations. Villages open, infection
+            spreads, walls are erected, then they die, only to be unsealed after
+            some years for the cycle to start again.</p><p>Kings have come and
+            went, and the only working strategy to deal with this has been
+            isolation and acceptance. Most live their unstable life preparing
+            for the ending, but are otherwise surprisingly normal.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: DLRVYdm2WIOC5Xtx
+      - sort: 2100000
+        name: Bergen Chrypt
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Choking the land in the center, this large chain of mountains
+            rises. Carved labyrinthine catacombs bend and twist all across the
+            ice-caked peaks.</p><p>A cold wind blows from it, chilling the
+            spiness of those unfortunate to travel near it.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: MEkjx24fpRmQ69to
+      - sort: 2150000
+        name: Valley of the Unfortunate Undead
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Squeezing between the peaks of the Bergen Chrypt and Wastland,
+            this valley, or more fittingly, depression, houses a band of
+            stumbling half-dead people.</p><p>The poisoned air, diseased land,
+            and overbearing fog make traveling thru these parts extremely
+            dangerous. Still, something grows from these lands.</p><p>The lucky
+            travelers that make it thru seem to come out changed, with something
+            missing.</p><section id="secret-J6VlqdcUAtitJYhH"
+            class="secret"><p>The Seers of Xuophy, a nomadic tribe of cultists
+            roams these lands. They offer hospitality to travelers, but use
+            dreams and memories to fuel prophetic visions.</p></section>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: pYRg6esqMoNmNTCo
+      - sort: 2200000
+        name: Wastland
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Beyond the Chrypt, to the south, a once peaceful and wealthy
+            kingdom, specialized in river trades burns down in disgrace, taxed
+            into terror by the despot, King Fathmu IX and his gaudy throne in
+            Schleswig.</p><p>Paranoia, gluttony, greed and psychosis drive the
+            politics of this land, causing the people to fend for themselves,
+            lie, steal and plunder what little there is to go around.</p><p>No
+            one, not even death, is hated more than the taxman.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: pNo9yvjoMiPWswRq
+      - sort: 2400000
+        name: Kergus
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>A frostbarren expanse reaches northwards, culminating in the icy
+            peaks of Allians. The winds here whistle a constant cold song, which
+            melody is filled by the howls of wolves and the cries of
+            gulls.</p><p>The ice storms can freeze a hunting wolf at their peak,
+            and the people have learned to hide from them expertly.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: 2KOvDXVj8grqLRFV
+      - sort: 2600000
+        name: Sarkash
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>In the northeast, a growing forest sprouts, putting a stop to the
+            cold winds of Kergus. Paths disappear and the gloomy shadows cover
+            tracks and trails with greenery, leading those that wonder astray.
+            Something in the trees is usually watching, trying to catch
+            intruders unaware.</p><p>Deep within, a truly ancient cemetery,
+            Graven-Tosk, is framed by dying trees. The many mausoleums,
+            fountains, pits and graves all seem to be forgotten by time, still
+            they remain.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: eXEuQK1KrLOZRnI5
+      - sort: 2800000
+        name: Tveland
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>At the center of the easternmost lands, the vast plains of
+            Tveland stretch out. At it's center, Galgenbeck, the greatest city
+            there ever was rises from a marble mountain.</p><p>Well connected
+            and properly fed, the nobility of Galgenbeck watches the lands below
+            from the highest rings in the walled city. Leaving the hard work of
+            quarrying the marble mines to the rabble below.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: giadVPv5pcyVzXYj
+      - sort: 3000000
+        name: Grift
+        type: text
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <p>Splitting from the rest of the world, at the eastern corner, the
+            Grift peninsula thrives. Connected, or perhaps held together, by
+            three gigantic bridges, this is a bastion of knowledge.</p><p>The
+            long lineage of scholar-kings perpetuates knowledge and drive the
+            people to strive for better. Ingenuity, and defiance, are common
+            flavors of Griftian culture.</p>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _id: jKQYRrB4U9RA6Ap0
     categories: []
     sort: 0
     ownership:
@@ -9880,7 +10722,7 @@ scenes:
         'y': 546
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 100
         texture:
           tint: '#ffffff'
@@ -9910,7 +10752,7 @@ scenes:
         'y': 1062
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 50
         texture:
           tint: '#ffffff'
@@ -9940,7 +10782,7 @@ scenes:
         'y': 1154
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 100
         texture:
           tint: '#ffffff'
@@ -9970,7 +10812,7 @@ scenes:
         'y': 628
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 70
         texture:
           tint: '#ffffff'
@@ -10000,7 +10842,7 @@ scenes:
         'y': 776
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 80
         texture:
           tint: '#ffffff'
@@ -10030,7 +10872,7 @@ scenes:
         'y': 1181
         elevation: 0
         sort: 0
-        locked: false
+        locked: true
         iconSize: 60
         texture:
           tint: '#ffffff'
@@ -10680,10 +11522,763 @@ scenes:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-    navName: Dashboard
+    navName: Party Dashboard
     active: false
-  - name: Those that came before you
-    _id: HYJIYMu5iB4JjTcU
+  - folder: Gx9STrzRFtiFnBFf
+    name: World Map
+    _id: C4M0pY3tEOelsnSe
+    navigation: true
+    navOrder: 0
+    thumb: worlds/mb-blood-dawn/assets/scenes/thumb-tYg7WhcdNjV2QUfIVvnXjA.webp
+    width: 7744
+    height: 5184
+    padding: 0.25
+    shiftX: 0
+    shiftY: 0
+    initial:
+      x: null
+      'y': null
+      scale: null
+    initialLevel: defaultLevel0000
+    grid:
+      type: 2
+      size: 100
+      style: dottedLines
+      thickness: 3
+      color: '#ffffff'
+      alpha: 0.1
+      distance: 10
+      units: ft
+    tokenVision: true
+    fog:
+      mode: 2
+      colors:
+        explored: null
+        unexplored: null
+    environment:
+      darknessLevel: 0
+      darknessLock: false
+      globalLight:
+        enabled: false
+        alpha: 0.5
+        bright: false
+        color: null
+        coloration: 1
+        luminosity: 0
+        saturation: 0
+        contrast: 0
+        shadows: 0
+        darkness:
+          min: 0
+          max: 1
+      cycle: true
+      base:
+        hue: 0
+        intensity: 0
+        luminosity: 0
+        saturation: 0
+        shadows: 0.6
+      dark:
+        hue: 0.7138888888888889
+        intensity: 0
+        luminosity: -0.25
+        saturation: 0
+        shadows: 0
+    transition:
+      type: fade
+      duration: 1500
+      activeOnly: false
+    drawings: []
+    tokens:
+      - actorLink: true
+        disposition: 1
+        name: Party
+        displayName: 30
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: modules/game-icons-net/whitetransparent/black-flag.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: true
+        rotation: 209.88652694042403
+        alpha: 1
+        displayBars: 0
+        bar1:
+          attribute: null
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 15
+          color: '#ffffff'
+          coloration: 100
+          dim: 40
+          attenuation: 0.8
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: pulse
+            speed: 3
+            intensity: 3
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: true
+          range: 30
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.6
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 0
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags:
+          healthEstimate:
+            dontMarkDead: true
+            hideHealthEstimate: true
+        actorId: p6VwHlqZHQDAqKN7
+        hidden: false
+        sort: 0
+        shape: 0
+        level: defaultLevel0000
+        _id: pERGWXRnSmpytMMc
+        delta: null
+        x: 5200
+        'y': 3897
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions: []
+    levels:
+      - _id: defaultLevel0000
+        name: Level
+        elevation:
+          top: 40
+          bottom: 0
+        background:
+          color: '#999999'
+          src: modules/zektorh-morkborg/assets/maps/World.webp
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        foreground:
+          src: null
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        fog:
+          src: modules/zektorh-morkborg/assets/maps/World-Revealed-Background.webp
+        textures:
+          anchorX: 0.5
+          anchorY: 0.5
+          offsetX: 0
+          offsetY: 0
+          fit: fill
+          scaleX: 1
+          scaleY: 1
+          rotation: 0
+        visibility:
+          levels: []
+        sort: 0
+        flags: {}
+    lights: []
+    notes:
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: DT3H3dK8hy3FmGli
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 3200
+        'y': 4041
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: usHo9d8BUcpzA9WB
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: 5jhqYPg2SXnCRaOq
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 3550
+        'y': 4648
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: 0V9tTQaRIV2oC6Im
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: EzGFS5bzRFjje190
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 3450
+        'y': 5312
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: VeqqKahsU5pZ5rla
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: 4q1Q635YNOdBNJns
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 4150
+        'y': 5196
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: aW1R6oEfAtPxjX7r
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: yfpxkbJOHTTKTAeu
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 4650
+        'y': 4359
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: dGfRU6kwLcWnVNX0
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: 1wUXRSlR8IPhbEUt
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 4300
+        'y': 4041
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: FcKM2ef1xMsbbIdm
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: gapPE7BvLUq5oHDo
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 4450
+        'y': 3753
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: 5TQi8OXeY96UC8AR
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: 7ItvLeN02QJkLEiV
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 5450
+        'y': 3204
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: 0oG0WhRDh1TKmDgB
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: DLRVYdm2WIOC5Xtx
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 5600
+        'y': 3868
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: z3HwJ2W0mmZwiNZU
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: b0IMmLIqiotKSbSe
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 5900
+        'y': 4417
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: unhu86YSqGJe6O2z
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: NzlnZy4WYSwjWnaB
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 6200
+        'y': 3868
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: prdZtInzdozLlhDV
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: MEkjx24fpRmQ69to
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 6800
+        'y': 3782
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: QSTMN9M6tZEEKCRP
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: pYRg6esqMoNmNTCo
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 7250
+        'y': 3724
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: h41yP8dx3XKTYSRR
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: pNo9yvjoMiPWswRq
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 8000
+        'y': 3926
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: UETdilaHpec7fuTt
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: 2KOvDXVj8grqLRFV
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 7750
+        'y': 2569
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: kwxdq6tkPgfvQjWw
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: eXEuQK1KrLOZRnI5
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 8350
+        'y': 2396
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: opRH4PAXBtw3rVUa
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: giadVPv5pcyVzXYj
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 8350
+        'y': 3089
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: xP7IgiageVdOZk0m
+        author: fxKESTgEBpcOTrSl
+      - entryId: iwLY5RzDv9klIMDQ
+        pageId: jKQYRrB4U9RA6Ap0
+        global: false
+        levels:
+          - defaultLevel0000
+        x: 9050
+        'y': 3118
+        elevation: 0
+        sort: 0
+        locked: false
+        iconSize: 64
+        texture:
+          tint: '#ffffff'
+          src: modules/game-icons-net/whitetransparent/position-marker.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          alphaThreshold: 0
+        flags:
+          backgroundless-pins:
+            hasBackground: false
+        text: ''
+        fontFamily: blackletter
+        fontSize: 48
+        textColor: '#ffffff'
+        textAnchor: 1
+        _id: o8Z0jDjqosNc03qw
+        author: fxKESTgEBpcOTrSl
+    sounds: []
+    regions: []
+    tiles: []
+    walls: []
+    playlist: uLOnngotZCdufTF0
+    playlistSound: null
+    journal: iwLY5RzDv9klIMDQ
+    journalEntryPage: mxPt6nWt0ci0gqbN
+    weather: fog
+    sort: 0
+    ownership:
+      default: 2
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    navName: Where we die
+    active: false
+  - name: Graveyard
     navigation: true
     navOrder: 0
     thumb: worlds/mb-blood-dawn/assets/scenes/thumb-PuDZxL6RgAfaSYeiJ-HOFQ.webp
@@ -10746,7 +12341,461 @@ scenes:
       duration: 1500
       activeOnly: true
     drawings: []
-    tokens: []
+    tokens:
+      - name: Bral
+        displayName: 0
+        actorLink: false
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: systems/morkborg/tokens/players/cursed_skinwalker.png
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: false
+        rotation: 315
+        alpha: 1
+        disposition: -1
+        displayBars: 0
+        bar1:
+          attribute: hp
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 0
+          color: null
+          coloration: 1
+          dim: 0
+          attenuation: 0.5
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: null
+            speed: 5
+            intensity: 5
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: false
+          range: 0
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.1
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 1
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags: {}
+        actorId: tJw5Mve1qpRM82kL
+        hidden: false
+        sort: 0
+        shape: 4
+        level: defaultLevel0000
+        _id: CuTgzH32yiHDAEqK
+        delta: null
+        x: 600
+        'y': 1100
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions:
+          - p5ZOW9aS2kXZ4B3G
+      - name: Kvetin
+        displayName: 0
+        actorLink: false
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: systems/morkborg/tokens/players/player_1.png
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: false
+        rotation: 0
+        alpha: 1
+        disposition: -1
+        displayBars: 0
+        bar1:
+          attribute: hp
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 0
+          color: null
+          coloration: 1
+          dim: 0
+          attenuation: 0.5
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: null
+            speed: 5
+            intensity: 5
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: false
+          range: 0
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.1
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 1
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags: {}
+        actorId: mG6IWTvvVbYabGEb
+        hidden: false
+        sort: 1
+        shape: 4
+        level: defaultLevel0000
+        _id: zTAo4ymKasIRUkfg
+        delta: null
+        x: 800
+        'y': 1200
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions:
+          - p5ZOW9aS2kXZ4B3G
+      - name: Niduk
+        displayName: 0
+        actorLink: false
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: systems/morkborg/tokens/players/forlorn_philosopher.png
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: false
+        rotation: 0
+        alpha: 1
+        disposition: -1
+        displayBars: 0
+        bar1:
+          attribute: hp
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 0
+          color: null
+          coloration: 1
+          dim: 0
+          attenuation: 0.5
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: null
+            speed: 5
+            intensity: 5
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: false
+          range: 0
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.1
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 1
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags: {}
+        actorId: 0hJCiH3dIyXBECtX
+        hidden: false
+        sort: 2
+        shape: 4
+        level: defaultLevel0000
+        _id: j3Eavw1mf4uVpcgs
+        delta: null
+        x: 500
+        'y': 800
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions:
+          - p5ZOW9aS2kXZ4B3G
+      - name: Vresi
+        displayName: 0
+        actorLink: false
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: modules/zektorh-morkborg/assets/tokens/Faces%20for%20a%20Dying%20Land/Creep/creep1.png
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: false
+        rotation: 339.01079906389964
+        alpha: 1
+        disposition: -1
+        displayBars: 0
+        bar1:
+          attribute: hp
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 0
+          color: null
+          coloration: 1
+          dim: 0
+          attenuation: 0.5
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: null
+            speed: 5
+            intensity: 5
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: false
+          range: 0
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.1
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 1
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags: {}
+        actorId: phVPs72Jgh15Npn5
+        hidden: false
+        sort: 3
+        shape: 4
+        level: defaultLevel0000
+        _id: ohGz5gW1GGVNUBwf
+        delta: null
+        x: 700
+        'y': 900
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions:
+          - p5ZOW9aS2kXZ4B3G
+      - actorLink: false
+        disposition: -1
+        name: Actor
+        displayName: 0
+        width: 1
+        height: 1
+        depth: 1
+        texture:
+          src: modules/game-icons-net/whitetransparent/trilobite.svg
+          anchorX: 0.5
+          anchorY: 0.5
+          fit: contain
+          scaleX: 1
+          scaleY: 1
+          tint: '#ffffff'
+          alphaThreshold: 0.75
+        lockRotation: false
+        rotation: 0
+        alpha: 1
+        displayBars: 0
+        bar1:
+          attribute: hp
+        bar2:
+          attribute: null
+        light:
+          negative: false
+          priority: 0
+          alpha: 0.5
+          angle: 360
+          bright: 0
+          color: null
+          coloration: 1
+          dim: 0
+          attenuation: 0.5
+          luminosity: 0.5
+          saturation: 0
+          contrast: 0
+          shadows: 0
+          animation:
+            type: null
+            speed: 5
+            intensity: 5
+            reverse: false
+          darkness:
+            min: 0
+            max: 1
+        sight:
+          enabled: false
+          range: 0
+          angle: 360
+          visionMode: basic
+          color: null
+          attenuation: 0.1
+          brightness: 0
+          saturation: 0
+          contrast: 0
+        detectionModes: {}
+        occludable:
+          radius: 0
+        ring:
+          enabled: false
+          colors:
+            ring: null
+            background: null
+          effects: 1
+          subject:
+            scale: 1
+            texture: null
+        turnMarker:
+          mode: 1
+          animation: null
+          src: null
+          disposition: false
+        movementAction: null
+        flags: {}
+        actorId: ttIoTWXRkEJcIhy5
+        hidden: false
+        sort: 4
+        shape: 4
+        level: defaultLevel0000
+        _id: 312vUITkL9jFfcnY
+        delta:
+          _id: 312vUITkL9jFfcnY
+          name: Actor
+          system: {}
+          items: []
+          effects: []
+          flags: {}
+          type: null
+          img: null
+          ownership: null
+        x: 800
+        'y': 900
+        elevation: 0
+        locked: false
+        _movementHistory: []
+        _regions:
+          - p5ZOW9aS2kXZ4B3G
     levels:
       - _id: defaultLevel0000
         name: Level
@@ -11969,7 +14018,8 @@ scenes:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-    navName: Graveyard
+    navName: Those that came before you
+    _id: HntyTZQXQPORSxaV
     active: false
 tables: []
 macros:
@@ -12209,7 +14259,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671807096
-  modifiedTime: 1792771411841
+  modifiedTime: 1793276710086
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null

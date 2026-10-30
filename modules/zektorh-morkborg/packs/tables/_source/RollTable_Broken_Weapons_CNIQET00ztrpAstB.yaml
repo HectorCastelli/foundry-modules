@@ -121,7 +121,7 @@ results:
 replacement: true
 displayRoll: true
 folder: null
-sort: 300000
+sort: 700000
 ownership:
   default: 0
   1Njz0vDEn4hXH4fV: 3
@@ -131,7 +131,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789489696019
-  modifiedTime: 1792744624097
+  modifiedTime: 1793352448887
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null

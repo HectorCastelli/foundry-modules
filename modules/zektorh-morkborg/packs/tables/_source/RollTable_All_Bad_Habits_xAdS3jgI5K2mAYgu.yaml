@@ -49,6 +49,29 @@ results:
       duplicateSource: null
       exportSource: null
     _key: '!tables.results!xAdS3jgI5K2mAYgu.Oqk10Hj0l8FNtoHT'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    name: Paperflesh Conditions
+    img: modules/game-icons-net/whitetransparent/fleshy-mass.svg
+    documentUuid: Compendium.zektorh-morkborg.tables.RollTable.dY7ypoDV4yp1wVBj
+    _id: 7m5jV1qOoXduDPK7
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352282054
+      modifiedTime: 1793352282054
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!xAdS3jgI5K2mAYgu.7m5jV1qOoXduDPK7'
 replacement: true
 displayRoll: true
 folder: null
@@ -61,11 +84,11 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792396397996
-  modifiedTime: 1792744624099
+  modifiedTime: 1793352448888
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
   exportSource: null
 formula: ''
-sort: 700000
+sort: 1100000
 _key: '!tables!xAdS3jgI5K2mAYgu'
