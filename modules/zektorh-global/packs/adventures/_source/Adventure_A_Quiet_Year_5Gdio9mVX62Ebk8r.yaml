@@ -837,7 +837,7 @@ scenes:
           bottom: 0
         background:
           color: '#999999'
-          src: modules/zektorh-global/assets/textures/blank/Album_de_photographies_-_Roma_-_btv1b531929117_(136_of_157).jpg
+          src: modules/zektorh-content/assets/textures/paper/Album_de_photographies_-_Roma_-_btv1b531929117_(136_of_157).jpg
           tint: '#ffffff'
           alphaThreshold: 0.75
         foreground:
