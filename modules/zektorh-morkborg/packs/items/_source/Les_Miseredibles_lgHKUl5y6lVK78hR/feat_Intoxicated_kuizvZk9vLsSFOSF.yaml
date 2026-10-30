@@ -1,0 +1,33 @@
+name: Intoxicated
+type: feat
+_id: kuizvZk9vLsSFOSF
+img: modules/game-icons-net/whitetransparent/drinking.svg
+system:
+  description: >-
+    <p>Everyone reacts to intoxication in their own way. Some become chatty;
+    others aggressive, sluggish, or even dumber than before.</p><p></p><p>When
+    imbibing alcohol or hallucinogens, test Toughness or become intoxicated.
+    DR+2 for each subsequent test. The first time this happens, randomly pick
+    two Abilities and have them swap values for d6 hours. In future, swap the
+    same two.</p>
+  rollFormula: ''
+  rollMacro: ''
+  rollLabel: ''
+effects: []
+folder: lgHKUl5y6lVK78hR
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793353050339
+  modifiedTime: 1793353059274
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 100000
+_key: '!items!kuizvZk9vLsSFOSF'

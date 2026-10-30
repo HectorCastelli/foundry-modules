@@ -1,0 +1,438 @@
+name: What Was Won?
+formula: 1d20
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      You actually lost it all, and more. Then you were offered a loan. A loan
+      you have yet to pay back. The interest rate? Probably fine.
+    _id: 9PQZUgi6ELqAzsx9
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.9PQZUgi6ELqAzsx9'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      In a moment of inebriated brilliance you managed to sell your most
+      treasured possessions. To whom, you can’t recall.
+    _id: krcSzCsXMnuhZ52U
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.krcSzCsXMnuhZ52U'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Using tongues steeped in ale and lies you managed to get a job, paid
+      upfront. It was something about a murder. You think.
+    _id: YBUQHuEJ6oCERed7
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.YBUQHuEJ6oCERed7'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      You made some good coin breaking into the local temple and fencing what
+      you could. Too bad someone saw you.
+    _id: rPDPrOirQuExrLTM
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.rPDPrOirQuExrLTM'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      You made some new acquaintances while winning all their silver. For some
+      reason they’re convinced you cheated.
+    _id: aihPePopEFYFZX8S
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.aihPePopEFYFZX8S'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      You bet favorably in a fight between a patron and a random PC. That PC
+      tests Strength or takes d6 damage.
+    _id: bCWYRHOKxg1tFQzd
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.bCWYRHOKxg1tFQzd'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: >-
+      The innkeep forgot to lock their safebox one night. A mistake they shan’t
+      make twice.
+    _id: Q9q81vVF5WWgXguR
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.Q9q81vVF5WWgXguR'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: >-
+      Why get robbed by others when you can be the robbers? It makes money and
+      nobody that matters gets hurt. Most of the time.
+    _id: TzsUebDE3pilz2Dw
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.TzsUebDE3pilz2Dw'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: >-
+      You were paid by the innkeep to rid their cellar of plague rats. Easy
+      money. Test Toughness or become infected.
+    _id: ChZ60XRZNJypnRVh
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.ChZ60XRZNJypnRVh'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: >-
+      Stealing guard uniforms (medium armor) and extorting passerby for road
+      tolls? Easy money, provided you get out of town before the guards notice.
+    _id: 5IkNMEazb9jgqbRX
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.5IkNMEazb9jgqbRX'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      You honestly can’t remember where the money came from. Honestly.16. A
+      noble stopped by the inn, with more silver than sense. You made a profit,
+      and an enemy.
+    _id: eKa0Z8Yg4WnyiKM6
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.eKa0Z8Yg4WnyiKM6'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      Finding a mutilated body in the outhouse? Unlikely. Taking their purse?
+      Unavoidable.17. Another party took your gear instead of their own. Reroll
+      your equipment, weapons, and armor using the tables in the book.
+    _id: zZ3hiMDzc80MF7aT
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.zZ3hiMDzc80MF7aT'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      Waking up mid-drunken stupor, you came across some valuable treasure, just
+      sitting there. You sold it quickly, and spent most of the profit quicker
+      still. Surely it wasn’t cursed?18. A passing charlatan paid you to play
+      won-over cynics in their dubious sales pitch. Now the rabble wants
+      revenge.
+    _id: 7I4nEOOEBhkOHo7u
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.7I4nEOOEBhkOHo7u'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      You accidentally outed a disguised heretic to a group of inquisitors. They
+      paid you for your service.
+    _id: QpxrsOXpER8wgLbv
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.QpxrsOXpER8wgLbv'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      You signed up for and won a talent show, earning you prize money and a
+      nickname that grates on your ears. Worth it?
+    _id: oWogikzJUQCGmVD6
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.oWogikzJUQCGmVD6'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      You met a new friend, who made a real impression on you. When you woke
+      there was but a map and a pile of silver.
+    _id: Wlnq35E2vJBLhRnG
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.Wlnq35E2vJBLhRnG'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      You awaken in a horseless carriage, d12 days’ journey from where you
+      started. There’s some money on the dead driver.
+    _id: vZifNzt7vmYHXos9
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900431
+      modifiedTime: 1793352900431
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H9sqx0zwXsQGGUjf.vZifNzt7vmYHXos9'
+folder: RvRlccYUM6wyRXZs
+_id: H9sqx0zwXsQGGUjf
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+sort: 100000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352900431
+  modifiedTime: 1793352900431
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!tables!H9sqx0zwXsQGGUjf'

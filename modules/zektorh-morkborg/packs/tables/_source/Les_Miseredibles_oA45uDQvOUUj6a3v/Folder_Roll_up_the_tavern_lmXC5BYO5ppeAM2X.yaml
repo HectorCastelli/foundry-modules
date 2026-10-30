@@ -1,0 +1,20 @@
+type: RollTable
+folder: oA45uDQvOUUj6a3v
+name: Roll up the tavern
+color: null
+sorting: a
+_id: lmXC5BYO5ppeAM2X
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352900413
+  modifiedTime: 1793352900413
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!lmXC5BYO5ppeAM2X'

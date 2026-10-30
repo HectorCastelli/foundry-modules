@@ -1,0 +1,20 @@
+type: RollTable
+folder: null
+name: Les Miseredibles
+color: null
+sorting: a
+_id: oA45uDQvOUUj6a3v
+description: ''
+sort: 200000
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352900413
+  modifiedTime: 1793352900464
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!oA45uDQvOUUj6a3v'

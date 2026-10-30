@@ -1,0 +1,396 @@
+name: What Was Lost?
+formula: 1d20
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: >-
+      What silver you thought you had left is owed to a local landowner. Better
+      get out of here before their henchmen find you.12. You decided to invest
+      in a local artisan’s workshop. Turns out the townsfolk have never heard of
+      them.
+    _id: Si4EU6hegJ0eU9TL
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.Si4EU6hegJ0eU9TL'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: >-
+      You had the bender of a lifetime. Test Toughness each morning or maintain
+      the gnarliest hangover (Presence is -3).13. You signed up for and lost a
+      talent show, forfeiting the registration fee but gaining nicknames that
+      will haunt you forever. Definitely not worth it.
+    _id: 8GeDqyjWhzUD8DN2
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.8GeDqyjWhzUD8DN2'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: >-
+      Whoever thought getting matching tattoos was a good idea should have found
+      a sober artist. The scars will never fade; test Toughness or be
+      infected.14. A wandering merchant sold you a shipment of a hundred bent
+      swords. You proceeded to lose them almost immediately.
+    _id: lbzYpYuZqJGwG07f
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.lbzYpYuZqJGwG07f'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: >-
+      One of you headed out into the night only to return with a nervous twitch.
+      That PC rolls for an additional bad habit.15. When a hireling offered
+      their services, you were arguably too eager to hire them. Roll up an
+      Outcast from the book.
+    _id: Lqims8E1y40VfGCz
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.Lqims8E1y40VfGCz'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: >-
+      Trust was put in the wrong people. A lesson learned? Roll Morale for each
+      companion. The ones that fail are gone, along with your silver.16. You
+      purchased a supposedly magical artifact from a hooded stranger. Roll for
+      an occult treasure.
+    _id: wMcVI1oiF77IFZxY
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.wMcVI1oiF77IFZxY'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: >-
+      You ended up betting poorly when a PC picked a fight with a belligerent
+      drunk. That PC tests Strength or loses d6 HP.
+    _id: a7s2lREz1Q5XBdYi
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.a7s2lREz1Q5XBdYi'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: >-
+      People were dancing on the tables when a drunk priest read a scroll wrong,
+      killing several and injuring more. Each PC takes d6 damage. Then, roll for
+      an ARCANE CATASTROPHE.
+    _id: Q7r7we5nLDCMreOv
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.Q7r7we5nLDCMreOv'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: >-
+      You pooled your money to buy a horse together. Glitterhoof is the worst
+      horse. Just the worst.
+    _id: 30vf66seIhjlRWKZ
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.30vf66seIhjlRWKZ'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: >-
+      You were robbed while passed out on the tavern floor. Vengeance has been
+      sworn.
+    _id: stjr1uxv0KRCYju5
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.stjr1uxv0KRCYju5'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: >-
+      You befriended a wanted fugitive and ended up having to escape the
+      inquisition by assuming new identities. Bribes were paid.
+    _id: FKtovrGcxlkYjTAb
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.FKtovrGcxlkYjTAb'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      Taunting a hag has to be among the worst decisions you’ve taken as a
+      group. Each PC rolls for another body feature.
+    _id: 3SKoao6qF8T0GQpW
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.3SKoao6qF8T0GQpW'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: >-
+      Someone took your gear instead of their own. Reroll your equipment,
+      weapons, and armor using the tables in the book.
+    _id: 4v2I5uZPa53BMTiF
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.4v2I5uZPa53BMTiF'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: >-
+      You lost most of your money playing dice, but ended up winning a rat egg.
+      In d6 days it hatches. It’s not a rat egg.
+    _id: dzPKaBGxSFkj0OO4
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.dzPKaBGxSFkj0OO4'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: >-
+      In your escapades you managed to marry a set of local farmers. The silver
+      was spent on a mass-ceremony and a semblance of formalwear.
+    _id: SjPAnxoNd9vVSF6o
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.SjPAnxoNd9vVSF6o'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: >-
+      You wake up in the wilderness, cold and surrounded by approaching animals.
+      You’ve had better mornings (not really).
+    _id: ikdYMMIzTEr5rJOO
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900433
+      modifiedTime: 1793352900433
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!o8E3SuaBzebkV3rv.ikdYMMIzTEr5rJOO'
+folder: RvRlccYUM6wyRXZs
+_id: o8E3SuaBzebkV3rv
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+sort: 200000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352900433
+  modifiedTime: 1793352900433
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!tables!o8E3SuaBzebkV3rv'

@@ -1,0 +1,465 @@
+name: With A Peculiar Patron
+formula: 1d20
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: Mysterious figure in the corner.
+    _id: 2bpjxYzQXrq0gv86
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.2bpjxYzQXrq0gv86'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Sailor talking of sunken treasures.
+    _id: Et9PlSHRS0hrOqJ8
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.Et9PlSHRS0hrOqJ8'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: Südglans ex-noble seeking revenge.
+    _id: liMjFsqxjtnU8di4
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.liMjFsqxjtnU8di4'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: Priest with an unhealthy appetite.
+    _id: yvPrOn06hhAPQGWd
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.yvPrOn06hhAPQGWd'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: Party of adventurers wanting a quest.
+    _id: k7iB9xjHXtGXrlP0
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.k7iB9xjHXtGXrlP0'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: One-armed soldier reminiscing.
+    _id: RBYnL5ImPVOlA7UR
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.RBYnL5ImPVOlA7UR'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: Three Earthbound begging for scraps.
+    _id: AxWvJnbverPOUXgG
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.AxWvJnbverPOUXgG'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: A bard who SHOUTS rather than sings.
+    _id: nLERYUyc8tm4paOC
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.nLERYUyc8tm4paOC'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: Inquisitors and a captured heretic.
+    _id: 23gt0YvHlnA8zra7
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.23gt0YvHlnA8zra7'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: Farmers looking for help.
+    _id: 0py84wEd94cxgZtN
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.0py84wEd94cxgZtN'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: Drunkard aching for a fight.
+    _id: gdRdGJ7RSz8jcRx0
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.gdRdGJ7RSz8jcRx0'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: Pickpocket moving between tables.
+    _id: 1wYK4oHTbUliAoxk
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.1wYK4oHTbUliAoxk'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: Herbmaster hawking their wares.
+    _id: 3B8ENu7Zwhs5oiLj
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.3B8ENu7Zwhs5oiLj'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: Hunter and a fresh carcass.
+    _id: Qnuw5hK97dXjP7Fl
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.Qnuw5hK97dXjP7Fl'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: Horse eating from a table.
+    _id: pH3vbJT1FWulqBMh
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.pH3vbJT1FWulqBMh'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: Wickhead looking for company.
+    _id: ain2MmDx4SNFsDzC
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.ain2MmDx4SNFsDzC'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: Faraway visitors trying the food.
+    _id: g7JG1fLDkzVz3pYf
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.g7JG1fLDkzVz3pYf'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: Sleeping scholar with a worn scroll.
+    _id: bC9V0Ni9kWGKQGP3
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.bC9V0Ni9kWGKQGP3'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: Pale One smelling of mushrooms.
+    _id: WTF56aKur04CpSV0
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.WTF56aKur04CpSV0'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: A disguised skeleton.
+    _id: kNCTgrzRhZvoPtDE
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793352900445
+      modifiedTime: 1793352900445
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u1VQvhM93uLZztwu.kNCTgrzRhZvoPtDE'
+folder: lmXC5BYO5ppeAM2X
+_id: u1VQvhM93uLZztwu
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+sort: 350000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352900445
+  modifiedTime: 1793352900445
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!tables!u1VQvhM93uLZztwu'

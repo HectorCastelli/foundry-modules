@@ -1,0 +1,110 @@
+name: Les Miseredibles
+_id: owoLzNxnYNTbHHLv
+pages:
+  - sort: 100000
+    name: Generating a Tavern
+    type: text
+    _id: grH9DFqVSC1LPWvB
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>To create a tavern:</p><ol><li><p>Roll for the
+        name</p><ol><li><p>Roll once on
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.9Uv713vBjhPecaIj]{Tavern
+        Names (1)} and once on
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.KBN3eIJRA0A9AnSh]{Tavern
+        Names (2)}; or</p></li><li><p>Roll twice on
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.KBN3eIJRA0A9AnSh]{Tavern
+        Names (2)}</p></li></ol></li><li><p>Roll
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.G1x86zwrdHxGUdoQ]{The
+        Place Is... (1)} and
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.8vui8PSW5okvzfZd]{The
+        Place Is... (2)}</p></li><li><p>Roll
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.u1VQvhM93uLZztwu]{With
+        A Peculiar Patron}</p></li></ol><p>Good luck!</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793353320069
+      modifiedTime: 1793353320069
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!owoLzNxnYNTbHHLv.grH9DFqVSC1LPWvB'
+  - sort: 200000
+    name: Carousing
+    type: text
+    _id: Nq63P3EhjCA1bFyu
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Why not let the PCs take a load off with a bit of carousing at their
+        newfound tavern? This gives them the opportunity to spend their
+        ill-gotten gains and get very little in return. Who knows, it might even
+        lead right into a new adventure!</p><p></p><p>To start carousing, each
+        player rolls Presence. Add the results together and multiply the sum by
+        10 to get the amount of silver the group has left between them after
+        carousing. If this is more than the group had to begin with, roll on
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.H9sqx0zwXsQGGUjf]{What
+        Was Won?}. If it is less, roll on
+        @UUID[Compendium.zektorh-morkborg.tables.RollTable.o8E3SuaBzebkV3rv]{What
+        Was Lost?}.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      fxKESTgEBpcOTrSl: 3
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793353320069
+      modifiedTime: 1793353320069
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!journal.pages!owoLzNxnYNTbHHLv.Nq63P3EhjCA1bFyu'
+folder: null
+categories: []
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793353320069
+  modifiedTime: 1793353320069
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!journal!owoLzNxnYNTbHHLv'

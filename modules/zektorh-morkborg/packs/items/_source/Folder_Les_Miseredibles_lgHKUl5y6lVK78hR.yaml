@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Les Miseredibles
+color: null
+sorting: a
+_id: lgHKUl5y6lVK78hR
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793353057495
+  modifiedTime: 1793353057495
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!lgHKUl5y6lVK78hR'
