@@ -144,7 +144,7 @@ results:
 replacement: true
 displayRoll: true
 folder: null
-sort: 100000
+sort: 400000
 ownership:
   default: 0
   fxKESTgEBpcOTrSl: 3
@@ -154,7 +154,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1793100832111
-  modifiedTime: 1793352448887
+  modifiedTime: 1793366934639
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null

@@ -1,0 +1,443 @@
+name: Yet Another Loot Table
+formula: 1d01.
+description: ''
+results:
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: a golden necklace
+    _id: DYYQERRvSFLLgc9b
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.DYYQERRvSFLLgc9b'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: a small notebook with records of debts -settled and unsettled-
+    _id: S7YDzCUWRnj9xjIR
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.S7YDzCUWRnj9xjIR'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: 2d6 iron nails
+    _id: Z4uCtJLpaY2FI6RX
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.Z4uCtJLpaY2FI6RX'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: a stone with a greenish sheen
+    _id: rPl47VAbz17X1FFv
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.rPl47VAbz17X1FFv'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: a one-hand crossbow with 1d4 bolts (1d6 damage)
+    _id: fRYrjKdwLH37ipyx
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.fRYrjKdwLH37ipyx'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: a prayer book, well worn
+    _id: X3PWUajtIoZ4a8MT
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.X3PWUajtIoZ4a8MT'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: a black candle, blood-scented
+    _id: YFbjWgdmuaQOkXqO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.YFbjWgdmuaQOkXqO'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: a broken lantern, easily fixed
+    _id: 8hWRmewhJvioq5lP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.8hWRmewhJvioq5lP'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: 2d4 lockpicks
+    _id: WT8GhAPAmJpZ5xNP
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.WT8GhAPAmJpZ5xNP'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: 3d4 meters of rope
+    _id: fxT4lJauGPXTzriH
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.fxT4lJauGPXTzriH'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: a copper, hand-held bell
+    _id: NT5RPPpWOBXTx0Ck
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.NT5RPPpWOBXTx0Ck'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: an iron knuckle-duster (1d4 damage)
+    _id: 60AhBraXqYNck8V0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.60AhBraXqYNck8V0'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: an empty waterskin
+    _id: yO7j0hjOfPkNsyxq
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.yO7j0hjOfPkNsyxq'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: a necklace ending on a dark stone
+    _id: iTwJlfVNv05SN9Ww
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.iTwJlfVNv05SN9Ww'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: 1d3 bandages
+    _id: XXtHAN3MfDqZgghc
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.XXtHAN3MfDqZgghc'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: a vial of greek fire (1d8 damage when thrown)
+    _id: 1KMTsqRVpfa5vxnO
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.1KMTsqRVpfa5vxnO'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: a bone sewing needle and a bundle of linen thread
+    _id: NOkNP0ZqRVXXLLOE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.NOkNP0ZqRVXXLLOE'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: a mouse skull (can reroll an omen again, once)
+    _id: K7H8B7w72qNmnLFD
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.K7H8B7w72qNmnLFD'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: a vial of poion ( 1d6 damage when applied on a cutting weapon)
+    _id: MnxHc2n9204QIKVe
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367908814
+      modifiedTime: 1793367908814
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!iiM37qyWEN3yToQz.MnxHc2n9204QIKVe'
+folder: null
+_id: iiM37qyWEN3yToQz
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793367908814
+  modifiedTime: 1793367908814
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 0
+_key: '!tables!iiM37qyWEN3yToQz'

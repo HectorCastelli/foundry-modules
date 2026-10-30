@@ -1,0 +1,465 @@
+name: Another Loot Table
+formula: 1d20
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: a fistful of knucklebones
+    _id: 4D3NAtFDH5eA4jZe
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.4D3NAtFDH5eA4jZe'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: a hastly scribble note, smudged
+    _id: lGDJ9ek5T81Ik9Og
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.lGDJ9ek5T81Ik9Og'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: a vial of poison (1d4 damages)
+    _id: HYCcnCuLmmRMhqPF
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.HYCcnCuLmmRMhqPF'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: a pocketbook full of esoterical drawings
+    _id: QrizOv3WiV0Dv1p2
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.QrizOv3WiV0Dv1p2'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: half a candle
+    _id: YqmKjM5ySGqk2HjG
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.YqmKjM5ySGqk2HjG'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: a small bottle of transparent alcohol
+    _id: 3V0XgvKmcReP4hmC
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.3V0XgvKmcReP4hmC'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: three matches
+    _id: 1yIl0EZYFVZD4Faa
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.1yIl0EZYFVZD4Faa'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: a pair of fine leather gloves
+    _id: VXNveO1eJtXyzRZG
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.VXNveO1eJtXyzRZG'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: an adorned, fancy-looking smoking pipe
+    _id: RNkNy1WZekayDNDB
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.RNkNy1WZekayDNDB'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: a foldable knife, still dangeous (1d4 damages)
+    _id: 1plEWNdZn8JTCRw1
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.1plEWNdZn8JTCRw1'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: a comb made of white bone
+    _id: 4Omfix9K5qU565V7
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.4Omfix9K5qU565V7'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: a bundle of mouse skulls
+    _id: E4BVwjr5wDYVl8IY
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.E4BVwjr5wDYVl8IY'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: a pendant made of jade
+    _id: M5kot1UwbwpGqUxu
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.M5kot1UwbwpGqUxu'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: a bent key
+    _id: 2h1iDSpfiWxKi1bn
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.2h1iDSpfiWxKi1bn'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: a fur hat
+    _id: tyADAdc8R3ZOPAnY
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.tyADAdc8R3ZOPAnY'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: a bottle of fortifiying liquor (heals 1d3 HP)
+    _id: xAurNIcbJamm7dln
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.xAurNIcbJamm7dln'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: a pouch filled with dry tobacco leaves
+    _id: V0uEwsPCxrQ93yws
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.V0uEwsPCxrQ93yws'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: a pair of loaded dice
+    _id: 8CHxIR4JUZTK7lYq
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.8CHxIR4JUZTK7lYq'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: a bludgeon (1d4 damages)
+    _id: 8JzAK03gP8oqdqLW
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.8JzAK03gP8oqdqLW'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: 1d8 steel marbles
+    _id: 6K5szs1mDXtHDbYN
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366932782
+      modifiedTime: 1793366932782
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!H63tHX0XGCK5Vb9T.6K5szs1mDXtHDbYN'
+folder: null
+_id: H63tHX0XGCK5Vb9T
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793366932782
+  modifiedTime: 1793366934639
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 100000
+_key: '!tables!H63tHX0XGCK5Vb9T'

@@ -1,0 +1,200 @@
+name: Potions With Various And Surprising Effects
+formula: 1d1.
+description: ''
+results:
+  - range:
+      - 2
+      - 2
+    name: Grey sludge of forgetful abandon
+    description: >-
+      A deep, fog-colored sap, that if ingested, utterly destroys all care for
+      the world in its user. Nothing matters to them anymore, and they do not
+      react in any way but bored grunts and tired sighs. This lasts one hour.
+    _id: 5YLUb7wvIz36krdL
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.5YLUb7wvIz36krdL'
+  - range:
+      - 3
+      - 3
+    name: Ba-Nur's philter of flesh-crafting
+    description: >-
+      This colorless liquid, contained in a small glass vial allow flesh and bne
+      to be remodeled as if it was soft clay. The consumer is taken by pain as
+      the potion takes effect, indicating it is active in their body. For 4d6
+      minutes, the skin can be modeled by hand, and the result is permanent.
+    _id: PshuPLz2sqvUr8Ek
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.PshuPLz2sqvUr8Ek'
+  - range:
+      - 4
+      - 4
+    name: Potion of sand transformation
+    description: >-
+      This potion is of a deep buttery yellow color and smells like salted fish.
+      Consuming it turns the user into a mass of sand, able to crawl on the
+      ground, extend as thin as a few grains, or fly in the wind. This lasts one
+      hour and the user is immune to damage that is not acid or fire.
+    _id: jbwrlg1ObHDsontC
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.jbwrlg1ObHDsontC'
+  - range:
+      - 5
+      - 5
+    name: Pervulian mixture of speech
+    description: >-
+      A potion of a clear blue composition. Taking it allows the user to have
+      their speech understood by any living creature. This lasts 3d10 minutes.
+    _id: B7SzHrV3yzclVH29
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.B7SzHrV3yzclVH29'
+  - range:
+      - 6
+      - 6
+    name: Vorgs' potion of heat sight
+    description: >-
+      A clear liquid in a clay vial. Its consumption gives the user heat-based
+      vision for an hour. This allows to detect living organisms or very extreme
+      temperaturre spots in even the darkest settings.
+    _id: 1c1f2AmWEUxS3imy
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.1c1f2AmWEUxS3imy'
+  - range:
+      - 7
+      - 7
+    name: Basil's elixir of reduced gravity
+    description: >-
+      For 15 minutes, the consumer of this dark green liquid will float like a
+      half empty helium baloon. it extends jump distance twice vertically and
+      five times horizontally.
+    _id: WPqfxZfFQio3vb1G
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.WPqfxZfFQio3vb1G'
+  - range:
+      - 8
+      - 8
+    name: Garb's miraculous substance
+    description: >-
+      The wounds of the user instantaneously vanish, leving behind a simple
+      layer of dried skin. This heals 1d8 points of damage.
+    _id: b0gL6bFOjnQO5uIl
+    type: text
+    img: null
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366933827
+      modifiedTime: 1793366933827
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!u0vNJ9mdLGeYC6xf.b0gL6bFOjnQO5uIl'
+folder: null
+_id: u0vNJ9mdLGeYC6xf
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793366933827
+  modifiedTime: 1793366934639
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 300000
+_key: '!tables!u0vNJ9mdLGeYC6xf'

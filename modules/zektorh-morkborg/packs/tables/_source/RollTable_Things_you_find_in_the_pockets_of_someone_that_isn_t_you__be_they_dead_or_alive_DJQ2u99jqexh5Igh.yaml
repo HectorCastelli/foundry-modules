@@ -1,0 +1,469 @@
+name: >-
+  Things you find in the pockets of someone that isn't you, be they dead or
+  alive
+formula: 1d20
+description: ''
+results:
+  - range:
+      - 1
+      - 1
+    name: ''
+    description: A scribbled note of esoteric nature, undecypherable
+    _id: wAhJmQMtxxFToSgE
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.wAhJmQMtxxFToSgE'
+  - range:
+      - 2
+      - 2
+    name: ''
+    description: Three stone coin, polished beyond recognition
+    _id: FLKIGYSiEPQZmAoA
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.FLKIGYSiEPQZmAoA'
+  - range:
+      - 3
+      - 3
+    name: ''
+    description: A blacksmith hammer and a pair of pliers
+    _id: Jva7ZDmM1iBA0aRG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.Jva7ZDmM1iBA0aRG'
+  - range:
+      - 4
+      - 4
+    name: ''
+    description: A golden ring
+    _id: bqN2XjL2LEi79Zly
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.bqN2XjL2LEi79Zly'
+  - range:
+      - 5
+      - 5
+    name: ''
+    description: 2d6 tooth, rotten
+    _id: n409oQc5wlRgjdB2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.n409oQc5wlRgjdB2'
+  - range:
+      - 6
+      - 6
+    name: ''
+    description: A curved dagger (1d4 damages)
+    _id: etiJ9e5mTUHtNo1O
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.etiJ9e5mTUHtNo1O'
+  - range:
+      - 7
+      - 7
+    name: ''
+    description: A wooden statuette of a cloaked figure
+    _id: EakAKdWaQfZbNeDM
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.EakAKdWaQfZbNeDM'
+  - range:
+      - 8
+      - 8
+    name: ''
+    description: A pouch filled with 4d4 silver coins
+    _id: kV3aUIzAEFzcQjz2
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.kV3aUIzAEFzcQjz2'
+  - range:
+      - 9
+      - 9
+    name: ''
+    description: A pair of dice made of bone
+    _id: 1GWl2r1Zyt0qyk3e
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.1GWl2r1Zyt0qyk3e'
+  - range:
+      - 10
+      - 10
+    name: ''
+    description: A wanted poster for a witch (45 silver, dead or alive)
+    _id: GmFPlVOcSSp5HWvn
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.GmFPlVOcSSp5HWvn'
+  - range:
+      - 11
+      - 11
+    name: ''
+    description: >-
+      A bottle of grey liquid (1d6 damage if touched, smells of rotten fish and
+      bleach)
+    _id: cVpAxbnxftyzLZqu
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.cVpAxbnxftyzLZqu'
+  - range:
+      - 12
+      - 12
+    name: ''
+    description: A handful of dusty roots
+    _id: 5qmPqS5WRLWFZNip
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.5qmPqS5WRLWFZNip'
+  - range:
+      - 13
+      - 13
+    name: ''
+    description: The skull of a tiny bird
+    _id: 2DZAzThqnxZFH5I5
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.2DZAzThqnxZFH5I5'
+  - range:
+      - 14
+      - 14
+    name: ''
+    description: he mummified corpse of a very tiny humanoïd, the size of an open hand
+    _id: 6KfTCga0FQfOE9dj
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.6KfTCga0FQfOE9dj'
+  - range:
+      - 15
+      - 15
+    name: ''
+    description: A mandragore root (heals 1d4 HP if boiled right)
+    _id: D1eClKXmf67C4RrG
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.D1eClKXmf67C4RrG'
+  - range:
+      - 16
+      - 16
+    name: ''
+    description: A fistful of rusty caltraps (2d4)
+    _id: 1MkLMPz0GRQR6bC0
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.1MkLMPz0GRQR6bC0'
+  - range:
+      - 17
+      - 17
+    name: ''
+    description: A bone flute (its music attracts the undead)
+    _id: cZ2Iiv0RDEyVrRhz
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.cZ2Iiv0RDEyVrRhz'
+  - range:
+      - 18
+      - 18
+    name: ''
+    description: A flask of dark wine, very strong
+    _id: LHvYZcxMdWUc3uKL
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.LHvYZcxMdWUc3uKL'
+  - range:
+      - 19
+      - 19
+    name: ''
+    description: A pair of gloves (+2 when rolling to steal something)
+    _id: T9eGjTquF1LxruaY
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.T9eGjTquF1LxruaY'
+  - range:
+      - 20
+      - 20
+    name: ''
+    description: A small silver crucifix
+    _id: M8v0DeCfvUIPO0Dp
+    type: text
+    img: icons/svg/d20-black.svg
+    weight: 1
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793366934581
+      modifiedTime: 1793366934581
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!DJQ2u99jqexh5Igh.M8v0DeCfvUIPO0Dp'
+folder: null
+_id: DJQ2u99jqexh5Igh
+img: icons/svg/d20-grey.svg
+replacement: true
+displayRoll: true
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793366934581
+  modifiedTime: 1793366934639
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 200000
+_key: '!tables!DJQ2u99jqexh5Igh'

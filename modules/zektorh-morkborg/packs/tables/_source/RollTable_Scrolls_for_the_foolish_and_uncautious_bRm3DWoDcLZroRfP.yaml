@@ -1,0 +1,163 @@
+name: Scrolls for the foolish and uncautious
+_id: bRm3DWoDcLZroRfP
+img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    name: Anti-life hex
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.MyXYgMEva2WBv0Uq
+    _id: VpY1SwSpslocTKu5
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367153979
+      modifiedTime: 1793367153979
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.VpY1SwSpslocTKu5'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    name: Ceiling Walker
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.pGG03qIf4JkElZ0J
+    _id: xNsf4tbeEE9c6JsZ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367154660
+      modifiedTime: 1793367154660
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.xNsf4tbeEE9c6JsZ'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    name: Disintegration
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.0waWLkopTwiNaJcE
+    _id: Jgw4TDbeyM5e4GsQ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367155562
+      modifiedTime: 1793367155562
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.Jgw4TDbeyM5e4GsQ'
+  - type: document
+    weight: 1
+    range:
+      - 4
+      - 4
+    name: Last Chance
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.28LSrVfBDsHpeA0h
+    _id: cz7acy2T83z6t7F2
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367156346
+      modifiedTime: 1793367156346
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.cz7acy2T83z6t7F2'
+  - type: document
+    weight: 1
+    range:
+      - 5
+      - 5
+    name: Mesmerism
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.7onyWvDzuGDmQI7Z
+    _id: LSALQsNm0sQGVrLO
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367157062
+      modifiedTime: 1793367157062
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.LSALQsNm0sQGVrLO'
+  - type: document
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Unholy burn
+    img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+    documentUuid: Compendium.zektorh-morkborg.items.Item.Ylnls4JMN6fX6NJV
+    _id: w5hmbttMzaFjovrz
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793367157812
+      modifiedTime: 1793367157812
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!bRm3DWoDcLZroRfP.w5hmbttMzaFjovrz'
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793367127764
+  modifiedTime: 1793367163764
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+_key: '!tables!bRm3DWoDcLZroRfP'
