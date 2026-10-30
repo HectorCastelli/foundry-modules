@@ -1,0 +1,31 @@
+name: Anti-life hex
+type: scroll
+_id: MyXYgMEva2WBv0Uq
+img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+system:
+  containerSpace: 1
+  description: <p>All undead gain 1d6 HP, all livings take 1d6 damage.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 20
+  quantity: 1
+  scrollType: unclean
+effects: []
+folder: OLdpkdOFw3vK4bxk
+sort: 100000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793367118339
+  modifiedTime: 1793367118339
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!MyXYgMEva2WBv0Uq'

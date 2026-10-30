@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Scrolls for the foolish and uncautious
+color: null
+sorting: a
+_id: OLdpkdOFw3vK4bxk
+description: ''
+sort: 600000
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793367118329
+  modifiedTime: 1793367118349
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!OLdpkdOFw3vK4bxk'

@@ -1,0 +1,33 @@
+name: Last Chance
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-unfurled.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>One recently deceased creature can be brought back with 1HP, but they'll
+    never be the same. Only works once.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 20
+  quantity: 1
+  scrollType: unclean
+effects: []
+folder: OLdpkdOFw3vK4bxk
+sort: 100000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793367118340
+  modifiedTime: 1793367118340
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: Item.MyXYgMEva2WBv0Uq
+  exportSource: null
+_id: 28LSrVfBDsHpeA0h
+_key: '!items!28LSrVfBDsHpeA0h'
