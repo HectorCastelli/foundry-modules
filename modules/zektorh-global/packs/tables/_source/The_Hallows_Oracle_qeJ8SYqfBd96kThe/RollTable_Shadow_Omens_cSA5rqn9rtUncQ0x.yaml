@@ -1,0 +1,140 @@
+folder: qeJ8SYqfBd96kThe
+name: Shadow Omens
+_id: cSA5rqn9rtUncQ0x
+img: modules/game-icons-net/whitetransparent/shadow-grasp.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: VcRzdc9Kt46GTo9b
+    name: A mask on the step, sill warm.
+    img: icons/svg/d20-black.svg
+    description: <p>No, but something has been left behind that you can use.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349290004
+      modifiedTime: 1793349316448
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!cSA5rqn9rtUncQ0x.VcRzdc9Kt46GTo9b'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: 653DGlU4weNRTh2L
+    name: The door is chained from the inside.
+    img: icons/svg/d20-black.svg
+    description: <p>No.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349290278
+      modifiedTime: 1793349329176
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!cSA5rqn9rtUncQ0x.653DGlU4weNRTh2L'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: WWJQ6upztgkTwyU8
+    name: A carved face, gone soft and caved in.
+    img: icons/svg/d20-black.svg
+    description: <p>No, and it has been no for a long time.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349290554
+      modifiedTime: 1793349346440
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!cSA5rqn9rtUncQ0x.WWJQ6upztgkTwyU8'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: KSGdNpykIwV4mMWq
+    name: Every window on the street goes dark together.
+    img: icons/svg/d20-black.svg
+    description: <p>No, and something noticed that you asked.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349290886
+      modifiedTime: 1793349364080
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!cSA5rqn9rtUncQ0x.KSGdNpykIwV4mMWq'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: cmWbG9WmZjX41cgG
+    name: Your own footsteps, one beat behind you.
+    img: icons/svg/d20-black.svg
+    description: <p>No, and things get worse right now.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349291479
+      modifiedTime: 1793349381088
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!cSA5rqn9rtUncQ0x.cmWbG9WmZjX41cgG'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793348985802
+  modifiedTime: 1793349299555
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+_key: '!tables!cSA5rqn9rtUncQ0x'

@@ -1,0 +1,94 @@
+folder: qeJ8SYqfBd96kThe
+name: Pose your Query
+_id: EJ488pfmTdFzbsre
+img: modules/game-icons-net/whitetransparent/magnifying-glass.svg
+description: ''
+results:
+  - type: document
+    weight: 2
+    range:
+      - 1
+      - 2
+    name: Veil Omens
+    img: modules/game-icons-net/whitetransparent/cloaked-figure-on-horseback.svg
+    documentUuid: Compendium.zektorh-global.tables.RollTable.IZX6nweodAjgujyt
+    _id: PZZfrQzpqrQvUaJV
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349119766
+      modifiedTime: 1793349176602
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!EJ488pfmTdFzbsre.PZZfrQzpqrQvUaJV'
+  - type: document
+    weight: 5
+    range:
+      - 3
+      - 7
+    name: Candle Omens
+    img: modules/game-icons-net/whitetransparent/candle-holder.svg
+    documentUuid: Compendium.zektorh-global.tables.RollTable.5rMAitqFBI5BWca8
+    _id: wmPjTDjIjQO14pLB
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349163799
+      modifiedTime: 1793349176602
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!EJ488pfmTdFzbsre.wmPjTDjIjQO14pLB'
+  - type: document
+    weight: 5
+    range:
+      - 8
+      - 12
+    name: Shadow Omens
+    img: modules/game-icons-net/whitetransparent/shadow-grasp.svg
+    documentUuid: Compendium.zektorh-global.tables.RollTable.cSA5rqn9rtUncQ0x
+    _id: b8G1iL0cYIWtq2wU
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349169772
+      modifiedTime: 1793349176602
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!tables.results!EJ488pfmTdFzbsre.b8G1iL0cYIWtq2wU'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793349010163
+  modifiedTime: 1793349176601
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: 1d12
+_key: '!tables!EJ488pfmTdFzbsre'

@@ -1,0 +1,140 @@
+folder: qeJ8SYqfBd96kThe
+name: Candle Omens
+_id: 5rMAitqFBI5BWca8
+img: modules/game-icons-net/whitetransparent/candle-holder.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: awIIm1wQctJV7npf
+    name: A candle gutters and does not got out.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes, but only barely, or it will cost you.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349186753
+      modifiedTime: 1793349212350
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!5rMAitqFBI5BWca8.awIIm1wQctJV7npf'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: Y4I7H7XrPEGkDz6n
+    name: A porch light has been left on.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349187018
+      modifiedTime: 1793349223883
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!5rMAitqFBI5BWca8.Y4I7H7XrPEGkDz6n'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: HlpVrVkEmb1myFBZ
+    name: A full bowl sits with no one watching it.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes, and nobody ask for anything in return.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349187278
+      modifiedTime: 1793349242470
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!5rMAitqFBI5BWca8.HlpVrVkEmb1myFBZ'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: LADKJUG8eSOLzuRW
+    name: A child is laughing on the next street.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes, and it comes more easily than you feared.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349187600
+      modifiedTime: 1793349260002
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!5rMAitqFBI5BWca8.LADKJUG8eSOLzuRW'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: dX5awHEhplVzw9gY
+    name: The bell rings before you knock.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes, and you are offered more besides.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349187938
+      modifiedTime: 1793349285376
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!5rMAitqFBI5BWca8.dX5awHEhplVzw9gY'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793348977586
+  modifiedTime: 1793349191451
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+_key: '!tables!5rMAitqFBI5BWca8'

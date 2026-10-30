@@ -1,0 +1,165 @@
+folder: qeJ8SYqfBd96kThe
+name: Veil Omens
+_id: IZX6nweodAjgujyt
+img: modules/game-icons-net/whitetransparent/cloaked-figure-on-horseback.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: WgjrC3jP0sNH41CW
+    name: Crows along the wire.
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>You asked the wrong question. Something true comes out that you didn’t
+      ask about.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349292512
+      modifiedTime: 1793349408282
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.WgjrC3jP0sNH41CW'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: OVMdXrlt0KqQm4DQ
+    name: You don't recognize the costume, but it's yours.
+    img: icons/svg/d20-black.svg
+    description: <p>Yes for someone else and no for you.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349292793
+      modifiedTime: 1793349427902
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.OVMdXrlt0KqQm4DQ'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: PTZICWUD80S5Hkhe
+    name: A stranger opens the door.
+    img: icons/svg/d20-black.svg
+    description: <p>Somebody new comes into the scene, and they bring their own answer.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349293060
+      modifiedTime: 1793349449303
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.PTZICWUD80S5Hkhe'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: LMfl0wsVHR2yoigj
+    name: The smell of burning leaves.
+    img: icons/svg/d20-black.svg
+    description: <p>The past answers. Something from earlier comes back.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349293328
+      modifiedTime: 1793349465666
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.LMfl0wsVHR2yoigj'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: vnSONU9a1EDGujvq
+    name: A busy street falls silent.
+    img: icons/svg/d20-black.svg
+    description: <p>No answers. Ask again later, and the answer will be different.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349297045
+      modifiedTime: 1793349482628
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.vnSONU9a1EDGujvq'
+  - type: text
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: L88oqXl0CnR4g0ju
+    name: The bell strikes midnight.
+    img: icons/svg/d20-black.svg
+    description: <p>Both yes and no. The scene splits in two.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349297793
+      modifiedTime: 1793349497347
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!IZX6nweodAjgujyt.L88oqXl0CnR4g0ju'
+replacement: true
+displayRoll: true
+sort: 0
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793349106005
+  modifiedTime: 1793349386160
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+_key: '!tables!IZX6nweodAjgujyt'
