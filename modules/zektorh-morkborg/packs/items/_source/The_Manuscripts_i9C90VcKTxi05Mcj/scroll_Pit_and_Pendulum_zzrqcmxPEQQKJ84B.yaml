@@ -1,0 +1,31 @@
+folder: i9C90VcKTxi05Mcj
+name: Pit and Pendulum
+type: scroll
+img: modules/game-icons-net/whitetransparent/tied-scroll.svg
+system:
+  containerSpace: 1
+  description: <p>Target takes [[/r 1d4]] damage, ignoring Armor.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: sacred
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964106
+  modifiedTime: 1793351964106
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+_id: zzrqcmxPEQQKJ84B
+sort: 500000
+_key: '!items!zzrqcmxPEQQKJ84B'

@@ -1,0 +1,33 @@
+folder: i9C90VcKTxi05Mcj
+name: Alone
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>Target no longer trusts anyone and will not move close to any other
+    character for the rest of the day.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: unclean
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793352033723
+  modifiedTime: 1793352033723
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+_id: drYe0c9a5nQcfr8L
+sort: 0
+_key: '!items!drYe0c9a5nQcfr8L'

@@ -1,0 +1,34 @@
+folder: i9C90VcKTxi05Mcj
+name: Ulalume
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>Target a nearby creature. A @UUID[Actor.q97KqIO1Xm7VMYN8]{Feral Vampire},
+    someone the target once loves, comes to embrace them. On a failure, the
+    spell activates against the caster instead.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: unclean
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964107
+  modifiedTime: 1793351964107
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: Item.MzbNNlyxAlo26PiP
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 100000
+_id: dNSgvHFtKCnA8KJ6
+_key: '!items!dNSgvHFtKCnA8KJ6'

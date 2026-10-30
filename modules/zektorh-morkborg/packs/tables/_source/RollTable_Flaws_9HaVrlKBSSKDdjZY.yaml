@@ -1,0 +1,487 @@
+name: Flaws
+_id: 9HaVrlKBSSKDdjZY
+img: modules/game-icons-net/whitetransparent/tarot-12-the-hanged-man.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: YV9i4F7oXZ1PEHbB
+    name: When it rains
+    img: icons/svg/d20-black.svg
+    description: <p>Roll two more times and apply all results.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349817836
+      modifiedTime: 1793349851798
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.YV9i4F7oXZ1PEHbB'
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: 7eAhloyjJ6t5GYtm
+    name: Consumption
+    img: icons/svg/d20-black.svg
+    description: <p>TOUGHNESS and AGILITY are reduced by 1.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349818019
+      modifiedTime: 1793349869057
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.7eAhloyjJ6t5GYtm'
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: 2e0Tl5bcFaMTbbjN
+    name: Unlucky
+    img: icons/svg/d20-black.svg
+    description: <p>Must reroll all natural 20s. Never Crits.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349818198
+      modifiedTime: 1793349891316
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.2e0Tl5bcFaMTbbjN'
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: 94RuGlVwHqHisP7v
+    name: Horrors
+    img: icons/svg/d20-black.svg
+    description: <p>-3 to all ranged attacks.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349818381
+      modifiedTime: 1793349909368
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.94RuGlVwHqHisP7v'
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: d4WEmxVl3CJtYBuW
+    name: Anaphylaxis
+    img: icons/svg/d20-black.svg
+    description: <p>Can never carry Food.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349818568
+      modifiedTime: 1793349925986
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.d4WEmxVl3CJtYBuW'
+  - type: text
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: zHjnawtJgyyLKMIy
+    name: Afraid
+    img: icons/svg/d20-black.svg
+    description: <p>-3 to all MORALE tests.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349821686
+      modifiedTime: 1793349942322
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.zHjnawtJgyyLKMIy'
+  - type: text
+    weight: 1
+    range:
+      - 7
+      - 7
+    _id: 0Mn5U2JDXx0o46ru
+    name: Selenophobia
+    img: icons/svg/d20-black.svg
+    description: <p>-3 to all rolls under a full moon.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349822148
+      modifiedTime: 1793349957503
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.0Mn5U2JDXx0o46ru'
+  - type: text
+    weight: 1
+    range:
+      - 8
+      - 8
+    _id: sy6pt2N8EWjlnPk9
+    name: Weak willed
+    img: icons/svg/d20-black.svg
+    description: <p>Automatically fails all tests for diseases and infections.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349822670
+      modifiedTime: 1793349973888
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.sy6pt2N8EWjlnPk9'
+  - type: text
+    weight: 1
+    range:
+      - 9
+      - 9
+    _id: 7ahNuU15wRCm2G8U
+    name: Fear of the undead
+    img: icons/svg/d20-black.svg
+    description: <p>-3 when attacking undead.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349823115
+      modifiedTime: 1793350022256
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.7ahNuU15wRCm2G8U'
+  - type: text
+    weight: 1
+    range:
+      - 10
+      - 10
+    _id: GxMBgJjvIZQMjJLG
+    name: Sickly
+    img: icons/svg/d20-black.svg
+    description: <p>-1 to AGILITY and TOUGHNESS</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349823647
+      modifiedTime: 1793350037868
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.GxMBgJjvIZQMjJLG'
+  - type: text
+    weight: 1
+    range:
+      - 11
+      - 11
+    _id: f1cxC97bJzoKRXau
+    name: Thief
+    img: icons/svg/d20-black.svg
+    description: <p>Every day, steal 5 Silver from your companions.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349824087
+      modifiedTime: 1793350061691
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.f1cxC97bJzoKRXau'
+  - type: text
+    weight: 1
+    range:
+      - 12
+      - 12
+    _id: d9zMFXyN0q5I6HU7
+    name: Fear of the Dark
+    img: icons/svg/d20-black.svg
+    description: <p>You must always carry a light source.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349826765
+      modifiedTime: 1793350075332
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.d9zMFXyN0q5I6HU7'
+  - type: text
+    weight: 1
+    range:
+      - 13
+      - 13
+    _id: vNcTLjOAZG0Zr7c6
+    name: Flawed
+    img: icons/svg/d20-black.svg
+    description: <p>Cannot "Get Better" for any reason.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349827387
+      modifiedTime: 1793350090668
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.vNcTLjOAZG0Zr7c6'
+  - type: text
+    weight: 1
+    range:
+      - 14
+      - 14
+    _id: jBicXdOny6mDJ2q1
+    name: Sleepy
+    img: icons/svg/d20-black.svg
+    description: <p>-2 to PRESENCE tests.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349827923
+      modifiedTime: 1793350100936
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.jBicXdOny6mDJ2q1'
+  - type: text
+    weight: 1
+    range:
+      - 15
+      - 15
+    _id: oEGXcyS2mP9TPUhR
+    name: Pox
+    img: icons/svg/d20-black.svg
+    description: >-
+      <p>At the start of every day, roll [[/r 1d4]]. On a 3 or a 4, you are
+      diseased.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349828548
+      modifiedTime: 1793350125812
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.oEGXcyS2mP9TPUhR'
+  - type: text
+    weight: 1
+    range:
+      - 16
+      - 16
+    _id: AkSk6Z3reiJoZOip
+    name: Sanguivoriphobia
+    img: icons/svg/d20-black.svg
+    description: <p>If there is a Vampire nearby, they must test Morale.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349829359
+      modifiedTime: 1793350226515
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.AkSk6Z3reiJoZOip'
+  - type: text
+    weight: 1
+    range:
+      - 17
+      - 17
+    _id: PvJwwu8ZYV7F9QtX
+    name: Allergic
+    img: icons/svg/d20-black.svg
+    description: <p>Suffers -3 to attacks by beats or any fur-covered creature.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349829925
+      modifiedTime: 1793350247894
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.PvJwwu8ZYV7F9QtX'
+  - type: text
+    weight: 1
+    range:
+      - 18
+      - 18
+    _id: AMmSAvwY1jBTMEMX
+    name: Quinsy
+    img: icons/svg/d20-black.svg
+    description: <p>Cannot use Powers.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349830403
+      modifiedTime: 1793350320115
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.AMmSAvwY1jBTMEMX'
+  - type: text
+    weight: 1
+    range:
+      - 19
+      - 19
+    _id: dtKxJQMs6Iqn9IAs
+    name: Overworked
+    img: icons/svg/d20-black.svg
+    description: <p>-1 to STRENGTH.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349830946
+      modifiedTime: 1793350321984
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.dtKxJQMs6Iqn9IAs'
+  - type: text
+    weight: 1
+    range:
+      - 20
+      - 20
+    _id: 5PdQSTbEH3pY2UTz
+    name: Lucky
+    img: icons/svg/d20-black.svg
+    description: <p>No flaws.</p>
+    drawn: false
+    flags: {}
+    _stats:
+      coreVersion: '14.369'
+      systemId: morkborg
+      systemVersion: 6.0.1
+      createdTime: 1793349831416
+      modifiedTime: 1793350311957
+      lastModifiedBy: fxKESTgEBpcOTrSl
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    documentUuid: null
+    _key: '!tables.results!9HaVrlKBSSKDdjZY.5PdQSTbEH3pY2UTz'
+replacement: true
+displayRoll: true
+folder: null
+sort: 300000
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793349762575
+  modifiedTime: 1793352448887
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+formula: ''
+_key: '!tables!9HaVrlKBSSKDdjZY'

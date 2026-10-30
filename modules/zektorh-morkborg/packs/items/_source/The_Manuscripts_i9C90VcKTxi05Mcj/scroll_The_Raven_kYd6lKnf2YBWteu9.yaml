@@ -1,0 +1,34 @@
+folder: i9C90VcKTxi05Mcj
+name: The Raven
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>A
+    @UUID[Compendium.morkborg-cult-feretory.feretory-actors.V7y9h4CmIDX6XNSm]{Liar-Bird}
+    attacks the target.</p><p>They flee once the target dies.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: unclean
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964107
+  modifiedTime: 1793351964107
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: Item.MzbNNlyxAlo26PiP
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 100000
+_id: kYd6lKnf2YBWteu9
+_key: '!items!kYd6lKnf2YBWteu9'

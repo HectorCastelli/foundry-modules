@@ -1,0 +1,33 @@
+folder: i9C90VcKTxi05Mcj
+name: Enigma
+type: scroll
+img: modules/game-icons-net/whitetransparent/tied-scroll.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>Undead monsters ignore the target and the user of this Manuscript unless
+    any of them attack them.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: sacred
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964106
+  modifiedTime: 1793351964106
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+_id: IUyc52fPa8Zb4LiS
+sort: 600000
+_key: '!items!IUyc52fPa8Zb4LiS'

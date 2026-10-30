@@ -1,0 +1,33 @@
+folder: i9C90VcKTxi05Mcj
+name: The Conqueror Worm
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>All characters and creatures in sight must succeed on a DR4 test. On
+    failure, they die. <strong>Do not invoke The Conqueror Worm</strong>.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: unclean
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964107
+  modifiedTime: 1793351964107
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: Item.MzbNNlyxAlo26PiP
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 100000
+_id: WfwT4fO4BFnJ9BEU
+_key: '!items!WfwT4fO4BFnJ9BEU'

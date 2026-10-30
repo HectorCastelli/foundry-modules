@@ -1,0 +1,38 @@
+folder: i9C90VcKTxi05Mcj
+name: Imitation
+type: scroll
+img: modules/game-icons-net/whitetransparent/scroll-quill.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>Target someone nearby. Next to them an imitation appears. The imitation
+    has the same equipment and attributes as the target, and does everything in
+    it's power to kill the original.</p><p>Imitations should be considered
+    hostile for all purposes, but rolls as if player controlled.</p><p>If the
+    spell fails to be cast, an imitation of the caster appears instead. If the
+    caster is killed by the imitation, it takes it's place in the
+    group.</p><p>Can only be cast once per day.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: unclean
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964107
+  modifiedTime: 1793351964107
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: Item.MzbNNlyxAlo26PiP
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+sort: 100000
+_id: 7TqgmfCU5l4ZfZ2K
+_key: '!items!7TqgmfCU5l4ZfZ2K'

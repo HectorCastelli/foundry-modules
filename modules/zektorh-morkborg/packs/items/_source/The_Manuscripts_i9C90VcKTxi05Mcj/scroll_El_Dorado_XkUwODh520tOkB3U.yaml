@@ -1,0 +1,35 @@
+folder: i9C90VcKTxi05Mcj
+name: El Dorado
+type: scroll
+img: modules/game-icons-net/whitetransparent/tied-scroll.svg
+system:
+  containerSpace: 1
+  description: >-
+    <p>Target a location you can see. Every character nearby must make an
+    AGILITY test. On a failure they take 2 damage as coins fall from the
+    sky.</p><p>[[/r d10]] Silver ends up in a neat pile that can be picked up
+    later.</p>
+  carryWeight: 1
+  equipped: false
+  carried: true
+  price: 60
+  quantity: 1
+  scrollType: sacred
+effects: []
+flags: {}
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793351964106
+  modifiedTime: 1793351964106
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+_id: XkUwODh520tOkB3U
+sort: 200000
+_key: '!items!XkUwODh520tOkB3U'
