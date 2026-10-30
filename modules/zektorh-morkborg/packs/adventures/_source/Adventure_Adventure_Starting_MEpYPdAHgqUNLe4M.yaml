@@ -9438,35 +9438,11 @@ journal:
         text:
           format: 1
           content: >-
-            <p>The known world is split in three sections, delineated by two
-            sharp and unwieldy chains of mountains. The Merkari Plains, to the
-            west; The Accursed Scar, in the center; and Tveland, to the
-            east.</p><p></p><h2>The Merkari Plains</h2><p>This region is mostly
-            flat terrain, plagued by strong winds and painted with Merkari
-            trees.</p><p>The winds and the sun baked the soil and cover it with
-            salt from the south. The harsh soil makes agriculture a difficult
-            and often unrewarding endeavor. Despite this, giant Merkari trees
-            grow, drinking from the impossibly deep underground canals or from
-            the sea to sustain themselves. Their large twisting branches serve
-            as a steady source of wood.</p><p>The mostly sandy terrain offers
-            little to no access to metals, so the people of the Merkari have
-            become expert stonemasons and gemsmiths, using stones and crystals
-            to make their basic utensils.</p><h2>The Accursed Scar</h2><p>Cut in
-            middle by a large rift in the earth, this region houses a variety of
-            smaller settlements, all with a history of conflict with each other,
-            and total disrespect for treaties.</p><p>Their access to the deep
-            layers of the earth allows them to craft the most complex atrocities
-            with metals, which are often combined with magic or
-            witchcraft.</p><p>The rift, beyond just revealing ore veins, also
-            shows a glimpse of life that roamed the land eras ago. Not everyone
-            is contempt letting the dead lie.</p><p>Villages are not uncommon,
-            but ruins of conquered tribes, dead peoples and pillaged villages
-            mark the terrain.</p><h2>Tveland</h2><p>Isolated from the rest of
-            the land by a sharp mountain chain, this is a land of relative
-            prosperity.</p><p>Crops still grow, and there are no shortages that
-            one could not resolve.</p><p>Trading between the regions used to be
-            handled by boat, but since the ressurgence of dangerous sea
-            monsters, only the most unwise between man try</p>
+            <h2>Encounter Ideas</h2><ul><li><p>Standalone structure in the
+            middle of nowhere. Approaching it is easy, but once you cross a
+            certain threshold (hidden), you are trapped. Reaching the structure
+            allows you to find something that tells the player that, to leave,
+            they must enter it and deal with what's inside.</p></li></ul>
         video:
           controls: true
           volume: 0.5
@@ -9498,9 +9474,70 @@ journal:
         text:
           format: 1
           content: >-
-            <h2>1</h2><p>The group starts anew. They will determine how they
-            come together, but they must align to get hired by the town mayor in
-            a quest to find their missing son.</p>
+            <h2>1</h2><section id="secret-b7vHz19w4CQYtcWU"
+            class="secret"><p>Preparation:</p><p>The group is starting
+            again.</p><p>They are starting in the
+            @UUID[JournalEntry.iwLY5RzDv9klIMDQ.JournalEntryPage.DLRVYdm2WIOC5Xtx]{The
+            Pox-Hold of Magial}, in a small village.</p><p><strong>Ask players
+            to invent it, add "New" to the start and explain this is a reopened
+            village.</strong></p><p><br>The quest hook is:</p><ul><li><p>The
+            @UUID[Actor.BVS7tKwOB6gBEV4w]{mayor} is offering a handsome sum to
+            whoever can find out where their
+            @UUID[Actor.rJ4pyVXAEVaSEN4Z]{missing child} is.</p><ul><li><p>They
+            are running thru the village on horseback and announcing it to
+            whoever may hear. No personal reason for "why the
+            party?".</p><ul><li><p>If the party doesn't engage, the mayor
+            dismounts and takes one of them by the collar to
+            interrogate.</p></li></ul></li></ul></li><li><p>The child was last
+            seen fleeing in the dead of night by a villager.</p><ul><li><p>The
+            direction they fled is towards the coast. Encounter with a wild
+            animal on the way.</p></li><li><p>The reason the villager was
+            outside in the dead of night is
+            suspicious.</p></li></ul></li><li><p>The child planned to flee and
+            die alone. They think they are sick and are afraid of spreading
+            it.</p><ul><li><p>Leave it up to the players to see if its something
+            serious, or even contagious.</p></li><li><p>It's possible the child
+            has made a raft or boat to sail out. They have no
+            rations.</p></li></ul></li><li><p>They are convinced that the
+            arrival of an @UUID[Actor.t8874EbriepGlSth]{Envoy of Ras} from the
+            @UUID[JournalEntry.iwLY5RzDv9klIMDQ.JournalEntryPage.EzGFS5bzRFjje190]{The
+            White Sands} is a sign that their symptoms are
+            deadly.</p><ul><li><p>The envoy might be here for that. Something
+            told it to arrive here. Or maybe it set off the sickness
+            itself.</p></li></ul></li></ul><p></p></section>
+        video:
+          controls: true
+          volume: 0.5
+        src: null
+        category: null
+        ownership:
+          default: -1
+          fxKESTgEBpcOTrSl: 3
+        flags: {}
+        _stats:
+          coreVersion: '14.369'
+          systemId: morkborg
+          systemVersion: 6.0.1
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+      - sort: 250000
+        name: Template
+        type: text
+        _id: k4VWOrWYrQ2UENeC
+        system: {}
+        title:
+          show: true
+          level: 2
+        image: {}
+        text:
+          format: 1
+          content: >-
+            <h2>x</h2><section id="secret-vTeueGTBcGP5Qoez"
+            class="secret"><p>Preparation:</p></section><p>…</p>
         video:
           controls: true
           volume: 0.5
@@ -10051,7 +10088,11 @@ journal:
             try to live off the barren lands. Some take to the seas, as traders,
             or trying to recover sunken treasure.</p><p>Since the Madness, a
             tragic episode in their collective history, all forms of magic and
-            powers are hated by them, and users are disposed off on sight.</p>
+            powers are hated by them, and users are disposed off on
+            sight.</p><section id="secret-XJW7aoI9hIa5s09m"
+            class="secret"><p>Future idea: The large island off the coast is, in
+            fact, a leviathan sleeping. It will wake up and tear apart at the
+            coast, heading towards the Scar, after something.</p></section>
         video:
           controls: true
           volume: 0.5
@@ -14198,7 +14239,7 @@ folders:
     folder: null
     name: The Game
     color: '#241f31'
-    sorting: a
+    sorting: m
     _id: Gx9STrzRFtiFnBFf
     description: ''
     sort: 0
@@ -14259,7 +14300,7 @@ _stats:
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1792671807096
-  modifiedTime: 1793276710086
+  modifiedTime: 1793367932871
   lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
