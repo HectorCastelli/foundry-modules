@@ -112,14 +112,14 @@ ownership:
   cxNGgyZizuE0wwOp: 3
 flags: {}
 _stats:
-  coreVersion: '14.368'
+  coreVersion: '14.369'
   systemId: morkborg
   systemVersion: 6.0.1
   createdTime: 1789980904298
-  modifiedTime: 1789980905942
-  lastModifiedBy: cxNGgyZizuE0wwOp
+  modifiedTime: 1793400525333
+  lastModifiedBy: fxKESTgEBpcOTrSl
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-sort: 300000
+sort: 600000
 _key: '!actors!LY2nRWmPYLjXlpYh'

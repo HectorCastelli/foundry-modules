@@ -1,0 +1,133 @@
+folder: null
+name: Envoy of Ras
+type: creature
+prototypeToken:
+  actorLink: false
+  disposition: -2
+  name: Envoy of Ras
+  displayName: 0
+  width: 1
+  height: 1
+  depth: 1
+  texture:
+    src: modules/zektorh-morkborg/assets/tokens/Faces%20for%20a%20Dying%20Land/Scvm/scvm56.png
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  displayBars: 0
+  bar1:
+    attribute: hp
+  bar2:
+    attribute: null
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: {}
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags:
+    healthEstimate:
+      dontMarkDead: false
+      hideHealthEstimate: false
+  randomImg: false
+  appendNumber: true
+  prependAdjective: false
+_id: t8874EbriepGlSth
+img: modules/zektorh-morkborg/assets/tokens/Faces%20for%20a%20Dying%20Land/Scvm/scvm56.png
+system:
+  abilities:
+    agility:
+      value: 0
+    presence:
+      value: 0
+    strength:
+      value: 0
+    toughness:
+      value: 0
+  description: >-
+    <p>An envoy of Ras, from the
+    @UUID[JournalEntry.iwLY5RzDv9klIMDQ.JournalEntryPage.EzGFS5bzRFjje190]{The
+    White Sands}.</p>
+  hp:
+    max: 5
+    value: 5
+  alternateName: ''
+  armor:
+    name: Travel Rags, 1d2
+  attack:
+    name: Embalming Tool 1d6
+  morale: 8
+  special: >-
+    If a character dies, they use their turn to put *something* in that
+    character's mouth.
+items: []
+effects: []
+ownership:
+  default: 0
+  fxKESTgEBpcOTrSl: 3
+flags:
+  hide-npc-names:
+    nameHiddenOverride: true
+_stats:
+  coreVersion: '14.369'
+  systemId: morkborg
+  systemVersion: 6.0.1
+  createdTime: 1793400525319
+  modifiedTime: 1793400525332
+  lastModifiedBy: fxKESTgEBpcOTrSl
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+sort: 200000
+_key: '!actors!t8874EbriepGlSth'
