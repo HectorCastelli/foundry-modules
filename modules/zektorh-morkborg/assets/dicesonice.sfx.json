@@ -1,0 +1,51 @@
+{
+	"sfxList": [
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlayAnimationBright",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlayAnimationOutline",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == min",
+			"specialEffect": "PlayAnimationDark",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == min",
+			"specialEffect": "PlayAnimationImpact",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlaySoundCustom",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false,
+				"path": "modules/zektorh-content/assets/sfx/Lo-Fi%20Lo-Fantasy%20SFX%20Pack/UI%20%26%20Interaction/DSGNStngr-USABLE_Checkpoint%20Stinger%2001_GNOMO_WLDP.ogg",
+				"playlistId": ""
+			}
+		}
+	]
+}

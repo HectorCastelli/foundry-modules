@@ -1,0 +1,100 @@
+{
+	"appearance": {
+		"global": {
+			"labelColor": "#f5c211",
+			"diceColor": "#241f31",
+			"outlineColor": "#e5a50a",
+			"edgeColor": "#e5a50a",
+			"texture": "ice-cold-2-color",
+			"material": "stone",
+			"font": "MisterBrush",
+			"colorset": "custom",
+			"system": "standard"
+		}
+	},
+	"roleAppearance": {},
+	"sfxList": [
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlayAnimationBright",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlayAnimationOutline",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == min",
+			"specialEffect": "PlayAnimationDark",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == min",
+			"specialEffect": "PlayAnimationImpact",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false
+			}
+		},
+		{
+			"mode": "advanced",
+			"formula": "d* == max",
+			"specialEffect": "PlaySoundCustom",
+			"options": {
+				"isGlobal": false,
+				"muteSound": false,
+				"path": "modules/zektorh-content/assets/sfx/Lo-Fi%20Lo-Fantasy%20SFX%20Pack/UI%20%26%20Interaction/DSGNStngr-USABLE_Checkpoint%20Stinger%2001_GNOMO_WLDP.ogg",
+				"playlistId": ""
+			}
+		}
+	],
+	"settings": {
+		"visibility": "all",
+		"protectPersistent": false,
+		"showExtraDice": false,
+		"hideAfterRoll": true,
+		"timeBeforeHide": "2000",
+		"hideFX": "fadeOut",
+		"autoscale": true,
+		"scale": 75,
+		"speed": "1",
+		"imageQuality": "custom",
+		"shadowQuality": "medium",
+		"bumpMapping": true,
+		"sounds": true,
+		"soundsSurface": "felt",
+		"soundsVolume": 0.5,
+		"canvasZIndex": "auto",
+		"throwingForce": "medium",
+		"useHighDPI": true,
+		"antialiasing": "none",
+		"glow": true,
+		"persistentDiceOutlines": true,
+		"advancedGlass": true,
+		"ambiance": "foyer_1k",
+		"showOthersSFX": true,
+		"immersiveDarkness": false,
+		"muteSoundSecretRolls": false,
+		"enableFlavorColorset": true,
+		"skipAnimationOnInactiveTab": true,
+		"rollingArea": false,
+		"persistentDiceSpawnLocation": "center",
+		"interactiveThrowsUser": "default",
+		"interactiveThrowsAutoSpawn": false
+	},
+	"saves": {}
+}
