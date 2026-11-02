@@ -49,6 +49,11 @@
 				"id": "nice-more-dice",
 				"type": "module",
 				"compatibility": {}
+			},
+			{
+				"id": "fa-battlemaps",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	}
